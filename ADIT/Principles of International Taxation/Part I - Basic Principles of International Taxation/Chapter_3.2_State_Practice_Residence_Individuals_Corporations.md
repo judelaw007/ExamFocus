@@ -295,28 +295,29 @@ Result: Dual residence requiring treaty resolution
 When an individual is resident in both states under domestic law, Article 4(2) provides a **sequential hierarchy**:
 
 ```
-INDIVIDUAL TIE-BREAKER HIERARCHY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Step 1: PERMANENT HOME AVAILABLE
-  → Resident of state where permanent home available
-  → If home in both states, go to Step 2
+INDIVIDUAL TIE-BREAKER HIERARCHY (ARTICLE 4(2) OECD MTC)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Step 2: CENTRE OF VITAL INTERESTS
-  → Resident of state with closer personal and economic relations
-  → Consider: family, business, social activities, investments
-  → If CVI indeterminate, go to Step 3
+Step 1: PERMANENT HOME TEST
+  (a) Home in ONE state only → Resident of that state (STOP)
+  (b) Home in BOTH states → Apply Centre of Vital Interests (sub-test)
+      → CVI = state with closer personal AND economic relations
+      → Consider: family, social ties, business, investments
+      → If CVI resolves → Resident of that state (STOP)
+      → If CVI cannot be determined → Go to Step 2
+  (c) Home in NEITHER state → Go to Step 2
 
-Step 3: HABITUAL ABODE
+Step 2: HABITUAL ABODE
   → Resident of state where individual habitually lives
-  → Based on frequency, duration, regularity of stays
-  → If habitual abode in both/neither, go to Step 4
+  → Based on frequency, duration, regularity of stays over time
+  → If habitual abode in both/neither, go to Step 3
 
-Step 4: NATIONALITY
+Step 3: NATIONALITY
   → Resident of state of which individual is national
-  → If national of both/neither, go to Step 5
+  → If national of both/neither, go to Step 4
 
-Step 5: MUTUAL AGREEMENT PROCEDURE
-  → Competent authorities must resolve
+Step 4: MUTUAL AGREEMENT PROCEDURE
+  → Competent authorities must resolve by agreement
   → Individual not entitled to treaty benefits until resolved
 ```
 
@@ -335,19 +336,20 @@ Facts:
 
 ANALYSIS:
 
-Step 1: Permanent Home Available
-→ Home available in UK (rented apartment)
-→ Home available in Portugal (family house)
-→ BOTH have permanent homes → Go to Step 2
+Step 1: Permanent Home Test
+→ Home available in UK (rented apartment) ✓
+→ Home available in Portugal (family house) ✓
+→ BOTH have permanent homes → Apply CVI sub-test
 
-Step 2: Centre of Vital Interests
+Step 1 (CVI sub-test): Centre of Vital Interests
 Personal relations:
   → Spouse and children in Portugal (+Portugal)
   → Social life primarily in Portugal (+Portugal)
 Economic relations:
   → Employment in UK (+UK)
   → Investments primarily in Portugal (+Portugal)
-→ CLOSER TIES TO PORTUGAL
+→ On balance, CLOSER TIES TO PORTUGAL
+→ CVI resolves the issue → STOP (no need for Step 2)
 
 RESULT: Maria is treated as resident ONLY of Portugal
 for treaty purposes, despite spending more time in UK.
@@ -505,12 +507,12 @@ Under Country X domestic law, Mykola becomes resident if present for more than 1
 
 If Mykola is resident in both countries (Country U not yet treating as non-resident while Country X treats as resident), Article 4(2) tie-breaker applies:
 
-*Step 1: Permanent Home*
-- Country U: Owned home remains available
-- Country X: Rented apartment available
-- Both have permanent homes → go to Step 2
+*Step 1: Permanent Home Test*
+- Country U: Owned home remains available ✓
+- Country X: Rented apartment available ✓
+- Both have permanent homes → Apply CVI sub-test
 
-*Step 2: Centre of Vital Interests*
+*Step 1 (CVI sub-test): Centre of Vital Interests*
 - Personal: Family in Country U (+U)
 - Economic: Employment in Country X (+X)
 - Need to weigh factors...
@@ -525,7 +527,7 @@ If Mykola is resident in both countries (Country U not yet treating as non-resid
 |-------|--------|------------|
 | Not stating domestic law determines residence | 3-4 marks | Always cite Article 4(1) first |
 | Applying tie-breaker without dual residence | 4-5 marks | Check BOTH countries' domestic law first |
-| Wrong order of tie-breaker steps | 3-4 marks | Permanent home → CVI → Habitual abode → Nationality |
+| Wrong order of tie-breaker steps | 3-4 marks | Permanent home (with CVI sub-test) → Habitual abode → Nationality → MAP |
 | Confusing POEM with board meeting location | 3-4 marks | POEM = where decisions made in substance |
 | Not addressing 2017 changes for companies | 2-3 marks | Note MAP replaced POEM for corporate tie-breaker |
 | Forgetting treaty benefits denied if MAP fails | 2-3 marks | State consequence of no agreement |
