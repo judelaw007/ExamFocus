@@ -174,7 +174,60 @@ Every significant concept is demonstrated through:
 5. **Common errors** (from examiner reports)
 6. **Variation patterns** (how this question type changes year to year)
 
-### 6. **Progressive Skill Building**
+### 6. **The 15% Discussion Enhancement Principle**
+
+While Exam Focus courses prioritize exam alignment and concise delivery, each chapter should include approximately **15% additional discussion content** that enriches understanding without compromising exam focus.
+
+**Why 15% Discussion Matters**:
+- Provides **theoretical depth** that supports long-term retention
+- Offers **contextual understanding** of why rules exist, not just what they are
+- Includes **policy debates and comparative perspectives** that demonstrate mastery
+- Enables candidates to handle **novel question variations** by understanding underlying principles
+- Creates **professional foundation** for post-exam application of knowledge
+
+**What 15% Discussion Includes**:
+
+| Discussion Type | Purpose | Example |
+|----------------|---------|---------|
+| **Theoretical foundations** | Historical/conceptual basis for rules | Westphalian sovereignty underpinning tax jurisdiction |
+| **Policy rationale** | Why legislators created these rules | Race to the bottom debate in tax competition |
+| **Comparative analysis** | How different jurisdictions approach same issue | Revenue rule across common law vs civil law systems |
+| **Economic implications** | Real-world impact of tax rules | Double taxation effects on cross-border investment |
+| **Emerging challenges** | Modern issues testing traditional concepts | Digital economy classification challenges |
+| **Professional context** | How practitioners apply these concepts | Transfer pricing documentation strategies |
+
+**Implementation Rule**: The 15% enhancement must:
+1. **Never replace** exam-focused content—it supplements existing material
+2. **Appear after** core exam content in each section
+3. **Connect explicitly** to exam application ("This understanding helps when...")
+4. **Use clear headers** distinguishing discussion from core exam material
+5. **Remain proportional**—15% means if a section is 1,000 words, add ~150 words of discussion
+
+**Example Structure**:
+```
+TOPIC: Article 27 - Assistance in Collection
+
+[CORE EXAM CONTENT - 85%]
+• Exam Intelligence Box
+• Key provisions and mechanism
+• How examiners test this
+• Worked example
+• Common errors
+
+[15% DISCUSSION ENHANCEMENT]
+#### Comparative Analysis: The Revenue Rule Across Jurisdictions
+The revenue rule, while originating in English common law...
+[Provides depth without removing any exam-focused material]
+```
+
+**Quality Check**: After adding 15% discussion, verify:
+- [ ] All original exam-focused content remains intact
+- [ ] Discussion enhances rather than distracts from exam preparation
+- [ ] Discussion is clearly demarcated from core content
+- [ ] Total chapter length increased by approximately 15%
+- [ ] Discussion could help candidate answer unexpected question variations
+
+### 7. **Progressive Skill Building**
 
 Content follows a learning arc optimized for exam readiness:
 
@@ -454,6 +507,14 @@ Strategic Priority: ★★★★☆ [Rating explanation]
 - Immediately link concepts to exam application
 - Use simple examples (not exam questions yet)
 
+**B+. Discussion Enhancement** (15% of chapter - THE 15% PRINCIPLE)
+- Theoretical foundations and historical context
+- Policy rationale and debates
+- Comparative analysis across jurisdictions
+- Economic implications and emerging challenges
+- Clearly demarcated from core content with distinct headers
+- Enriches understanding without replacing exam-focused material
+
 **C. Exam Application Framework** (25% of chapter)
 - Question pattern taxonomy for this topic
 - Recognition triggers ("When you see X, this is a Y question...")
@@ -556,6 +617,12 @@ After each chapter:
 ### 10. **Measurable Improvement Path**
 ✅ **Perfect**: Progressive skill building with self-assessment checkpoints
 ❌ **Imperfect**: Linear content delivery without skill development tracking
+
+### 11. **15% Discussion Enhancement**
+✅ **Perfect**: Each chapter includes ~15% additional discussion (theory, policy, comparative analysis) that enriches understanding while preserving all exam-focused content
+❌ **Imperfect**: Dry, purely mechanical content that covers exam patterns without any contextual depth, OR excessive academic content that dilutes exam focus
+
+**The Balance**: Discussion content should help candidates understand WHY rules exist, enabling them to handle unexpected question variations. It should never replace exam-focused material—it supplements it.
 
 ---
 
@@ -824,6 +891,9 @@ Before declaring an Exam Focus course complete, verify:
 - [ ] Common errors cataloged from examiner reports
 - [ ] Jargon systematically eliminated or justified
 - [ ] Pattern recognition triggers identified for all question types
+- [ ] 15% discussion enhancement included in each chapter
+- [ ] Discussion content clearly demarcated from core exam material
+- [ ] Discussion enhances without replacing exam-focused content
 
 ### Completeness
 - [ ] Course is self-sufficient (no required supplements)
