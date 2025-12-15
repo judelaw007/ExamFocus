@@ -10,24 +10,30 @@ EXAM INTELLIGENCE: Relief by Credit
 Syllabus Reference: E.1 - Relief by credit
 Syllabus Level: 3 (Advanced knowledge, interpretive analysis)
 
-Frequency: Tested in 75%+ of exams; credit mechanics appear in most
-           international tax calculation questions
+Past Exam Occurrences (2022-2025):
+  • December 2022 Q2 (25 marks): "Outline systems of relief from
+    juridical double taxation and policy considerations"
+  • June 2025 Q5 (25 marks): Foreign tax credit policy under
+    Article 23B - whether FTC applies to new types of taxes
+  • Credit method appears as context in multiple Part B scenarios
 
-Mark Range: 10-20 marks when specifically examined
+Frequency: 2 direct questions in 8 exams (25%); contextually
+           relevant in ~50% of exams
 
 Key Question Patterns:
-  • "Explain direct and indirect credit and when each applies"
-  • "Calculate the foreign tax credit available to [Company]"
-  • "Discuss the policy rationale for tax sparing credits"
-  • Part B scenarios requiring credit calculations with limitations
+  • "Outline/compare systems of relief from double taxation"
+  • "Discuss policy considerations for credit vs exemption"
+  • "Advise on whether a tax qualifies for foreign tax credit"
+  • Part B scenarios where credit method is specified
 
 Examiner Focus:
-  • Direct credit calculations with credit limitation
-  • Underlying/indirect credit for subsidiary dividends
-  • Tax sparing concept, rationale, and declining use
-  • Credit limitation mechanics (ordinary vs full credit)
+  • Policy rationale: WHY credit method exists
+  • Conceptual differences: credit vs exemption
+  • Indirect credit: WHEN and WHY it applies
+  • Tax sparing: rationale, decline, Pillar Two impact
+  • Qualifying taxes for FTC (Article 2 interaction)
 
-Strategic Priority: ★★★★★ CRITICAL
+Strategic Priority: ★★★★☆ HIGH
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -45,89 +51,77 @@ The credit method embodies a fundamentally different philosophy from the exempti
 
 The historical development of the credit method traces to the United States, which adopted foreign tax credits as early as 1918. American policymakers were concerned that exempting foreign income would create powerful incentives for capital to flow abroad to lower-tax jurisdictions, eroding the domestic tax base and potentially distorting investment decisions. The credit method solved this by ensuring that American taxpayers would never face a lower effective rate on foreign income than on domestic income—the source country could tax first, but the US would "top up" to its own rate.
 
-This approach has profound implications. Under the credit method, the residence state effectively asserts primacy over its residents' tax burden. It acknowledges that source states have legitimate claims to tax income arising within their borders, but refuses to allow these claims to reduce its residents' effective rate below the domestic level. For high-tax residence countries, this preserves revenue that would otherwise be lost to lower-tax jurisdictions.
+### 2. How the Credit Method Works: Conceptual Framework
 
-### 2. How the Credit Method Works
-
-The credit method operates through a systematic process that candidates must be able to apply in calculations:
+The credit method operates through a systematic process that ensures the taxpayer pays the **higher** of the source or residence state tax rate:
 
 ```
-CREDIT METHOD OPERATION
+CREDIT METHOD: CONCEPTUAL OPERATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SCENARIO: Taxpayer resident in Country R earns:
-  • Domestic income: €200,000
-  • Foreign income from Country S: €100,000
-  • Country R tax rate: 40%
-  • Country S tax rate: 25%
+STEP 1: Include worldwide income in residence state tax base
+        → Foreign income is NOT excluded
 
-STEP-BY-STEP CALCULATION:
+STEP 2: Calculate residence state tax on worldwide income
+        → Apply domestic rate to total income
 
-Step 1: Calculate tax on WORLDWIDE income
-        Total income: €300,000
-        Country R tax (40%): €120,000
+STEP 3: Determine foreign tax actually paid
+        → Tax paid to source state on foreign income
 
-Step 2: Determine foreign tax paid
-        Country S tax: €100,000 × 25% = €25,000
+STEP 4: Apply credit limitation (ordinary credit)
+        → Credit cannot exceed residence state's own tax
+          on that foreign income
 
-Step 3: Apply credit limitation
-        Maximum credit = R's tax on foreign income
-        = €100,000 × 40% = €40,000
-        Actual foreign tax: €25,000
-        Credit allowed: €25,000 (lower amount)
+STEP 5: Deduct allowable credit from residence state tax
+        → Results in "top-up" if foreign rate lower
+        → Results in excess credit if foreign rate higher
 
-Step 4: Calculate final liability
-        Country R tax: €120,000 - €25,000 = €95,000
-        Country S tax: €25,000
-        TOTAL TAX: €120,000
-
-RESULT: Effective rate = 40% (residence state rate)
+KEY OUTCOME: Effective rate = HIGHER of source or residence rate
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-The key insight from this calculation is that when the source state rate is lower than the residence state rate, the taxpayer ends up paying the residence state rate through the "top-up" mechanism. The credit eliminates double taxation but ensures the residence state collects the difference between foreign tax and its own rate. This is precisely what credit-method countries intend—they view this as protecting their tax base while providing relief.
+**Conceptual Example**: A UK resident company earns profits in a country with a 15% tax rate. The UK rate is 25%. Under the credit method:
+- The company pays 15% to the source country
+- The UK taxes the worldwide income at 25%
+- Credit is given for the 15% foreign tax
+- The UK collects the remaining 10% ("top-up")
+- **Total effective rate: 25%** (the residence state rate)
+
+The key insight is that when the source state rate is lower than the residence state rate, the taxpayer ends up paying the residence state rate through this "top-up" mechanism. The credit eliminates double taxation but ensures the residence state collects the difference.
 
 ### 3. The Credit Limitation: Ordinary vs Full Credit
 
-The distinction between ordinary (limited) credit and full (unlimited) credit is fundamental to understanding the credit method:
+The distinction between ordinary (limited) credit and full (unlimited) credit is fundamental:
 
-**Ordinary Credit (Standard)**:
-Under the ordinary credit, the credit is capped at the residence state's own tax on the foreign income. This prevents the residence state from effectively subsidizing high-tax foreign countries.
+| Feature | Ordinary Credit (Standard) | Full Credit (Rare) |
+|---------|---------------------------|-------------------|
+| **Limitation** | Capped at residence state's tax on foreign income | No cap—full foreign tax creditable |
+| **Policy rationale** | Prevents residence state subsidizing high-tax countries | Maximum relief for taxpayer |
+| **When foreign rate > domestic** | Excess credit lost or carried forward | Residence state effectively refunds difference |
+| **Adoption** | OECD Model, most countries | Almost never used |
 
-**Full Credit (Rare)**:
-Under full credit, the entire foreign tax would be creditable regardless of the residence state rate. This is rarely used because it could result in the residence state bearing a net cost when foreign rates exceed domestic rates.
+**Why the limitation exists**: Without it, a residence state could find itself effectively subsidizing high-tax foreign countries. If a taxpayer earns income in a 50% tax jurisdiction and the residence state rate is 30%, unlimited credit would require the residence state to refund the 20% difference—transferring its own revenue to compensate for another country's tax choices.
 
 ```
-ORDINARY VS FULL CREDIT
+EXAM KEY POINT: Credit Limitation Outcomes
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SCENARIO: Higher foreign tax rate
-  • Foreign income: €100,000
-  • Country R rate: 25%
-  • Country S rate: 40%
+If foreign rate < domestic rate:
+  → Credit fully utilized
+  → Taxpayer "tops up" to domestic rate
+  → Effective rate = DOMESTIC rate
 
-ORDINARY CREDIT (Limited):
-  R's tax on foreign income: €100,000 × 25% = €25,000
-  S tax paid: €100,000 × 40% = €40,000
-  Credit allowed: €25,000 (limited to R's tax)
-  Excess credit: €15,000 (lost or carried forward)
-  Total tax: €40,000
-  Effective rate: 40% (source state rate)
+If foreign rate > domestic rate:
+  → Excess credit (foreign tax minus domestic tax on that income)
+  → Excess lost OR carried forward (if permitted)
+  → Effective rate = FOREIGN rate (source state rate)
 
-FULL CREDIT (Unlimited):
-  Credit allowed: €40,000 (full foreign tax)
-  R tax: €25,000 - €40,000 = -€15,000 (refund?)
-  This would effectively subsidize Country S
-  → Almost never used in practice
+If foreign rate = domestic rate:
+  → Credit equals residence tax
+  → No top-up, no excess
+  → Perfect elimination of double taxation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-The credit limitation exists for a compelling policy reason: without it, a residence state could find itself effectively subsidizing high-tax foreign countries. If a taxpayer earns income in a 50% tax jurisdiction and the residence state rate is 30%, unlimited credit would mean the residence state refunds the 20% difference—transferring its own revenue to compensate for another country's tax choices. No country willingly accepts this position.
-
-**Exam Key Point**: Under the ordinary credit method:
-- If foreign rate < domestic rate: credit fully utilized, taxpayer "tops up" to domestic rate
-- If foreign rate > domestic rate: excess credit lost (or carried forward if permitted)
-- If foreign rate = domestic rate: credit equals tax, no top-up needed
 
 ---
 
@@ -135,53 +129,36 @@ The credit limitation exists for a compelling policy reason: without it, a resid
 
 ### 1. When Direct Credit Applies
 
-The direct credit is the simplest form of foreign tax credit and applies when a taxpayer directly pays tax to a foreign jurisdiction on their own income. The elegance of the direct credit lies in its straightforward logic: you paid tax abroad, so you receive credit at home.
+The direct credit is the simplest form of foreign tax credit and applies when a taxpayer **directly pays** tax to a foreign jurisdiction on their own income. The elegance of the direct credit lies in its straightforward logic: you paid tax abroad, so you receive credit at home.
 
-Direct credit applies across various income types:
-
-| Income Type | Source State Tax | Credit Available |
+| Income Type | Source State Tax | Credit Treatment |
 |-------------|------------------|------------------|
-| **Employment income** | Tax withheld or assessed in work country | Credit for employment tax |
-| **Branch profits** | Tax on branch operations | Credit for branch profits tax |
-| **Rental income** | Tax on property income in situs state | Credit for property income tax |
-| **Dividends received** | Withholding tax on gross dividend | Credit for WHT |
-| **Interest/Royalties** | Withholding tax | Credit for WHT |
+| **Employment income** | Tax withheld or assessed in work country | Direct credit for employment tax |
+| **Branch profits** | Tax on branch operations | Direct credit for branch profits tax |
+| **Rental income** | Tax on property income in situs state | Direct credit for property income tax |
+| **Dividends received** | Withholding tax on gross dividend | Direct credit for WHT only |
+| **Interest/Royalties** | Withholding tax | Direct credit for WHT |
 
-The critical requirement is that the taxpayer must have **directly borne** the foreign tax liability. This distinguishes direct credit from indirect credit, where the tax was paid by a separate legal entity such as a subsidiary. When a UK company operates a branch in Australia and pays Australian tax on branch profits, that is direct credit territory. When the same UK company receives a dividend from an Australian subsidiary, the Australian corporate tax was paid by the subsidiary—a different legal person—requiring different analysis.
+The critical requirement is that the taxpayer must have **directly borne** the foreign tax liability. This distinguishes direct credit from indirect credit, where the tax was paid by a separate legal entity such as a subsidiary.
 
-### 2. Direct Credit Calculation Example
+**Conceptual distinction**: When a UK company operates a branch in Australia and pays Australian tax on branch profits, that is direct credit territory—the UK company itself paid the tax. When the same UK company receives a dividend from an Australian subsidiary, the Australian corporate tax was paid by the subsidiary—a different legal person—requiring indirect credit analysis.
 
-**Scenario**: Maria, a UK resident individual, earns £50,000 employment income in Australia during a temporary assignment. Australian tax of £12,500 (25%) was withheld. Maria's UK marginal rate is 40%.
+### 2. Taxes Qualifying for Credit
 
-```
-DIRECT CREDIT CALCULATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Not all foreign charges qualify for foreign tax credit. The tax must generally be an **income tax** or tax **in lieu of** income tax. This connects to Article 2 of the OECD Model (Taxes Covered).
 
-Step 1: UK tax on foreign income
-        £50,000 × 40% = £20,000
+**Qualifying characteristics**:
+- Imposed on net income (after deductions)
+- Compulsory levy, not payment for specific benefit
+- Substantially similar to residence state's income tax
 
-Step 2: Foreign tax paid (directly by Maria)
-        Australian tax = £12,500
+**Non-qualifying charges** (generally):
+- Gross receipts taxes without deductions
+- Social security contributions (may vary)
+- Transaction taxes, stamp duties
+- Digital services taxes (contentious—see June 2025 exam)
 
-Step 3: Credit limitation
-        Maximum credit = UK tax on foreign income = £20,000
-        Actual foreign tax = £12,500
-        Credit allowed = £12,500 (lower amount)
-
-Step 4: UK tax liability
-        UK tax before credit: £20,000
-        Less: Foreign tax credit: (£12,500)
-        UK tax payable: £7,500
-
-Step 5: Total tax burden
-        Australia: £12,500
-        UK (top-up): £7,500
-        Total: £20,000 (effective rate 40%)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-This calculation illustrates how the credit method operates to preserve the residence state's tax rate as the effective minimum. Maria pays 25% to Australia and "tops up" another 15% to the UK, resulting in the UK's 40% rate applying overall. Australia's lower rate provides no net benefit under the credit method—the UK captures the difference.
+This distinction becomes critical when new types of levies emerge. The June 2025 ADIT exam tested whether a "Market Presence Adjustment" (calculated on gross receipts, no deductions) would qualify for FTC—highlighting the ongoing relevance of determining what constitutes a creditable tax.
 
 ---
 
@@ -189,130 +166,92 @@ This calculation illustrates how the credit method operates to preserve the resi
 
 ### 1. The Problem Indirect Credit Solves
 
-The development of indirect credit represents one of the more sophisticated solutions in international tax policy. When a parent company receives dividends from a foreign subsidiary, two layers of tax have typically been paid:
-
-| Layer | Tax Paid By | Nature |
-|-------|------------|--------|
-| **Layer 1** | Subsidiary | Corporate tax on profits |
-| **Layer 2** | Parent | WHT on dividend + residence state tax |
-
-The direct credit only relieves Layer 2—the withholding tax actually suffered by the parent. It does not address Layer 1—the underlying corporate tax paid by the subsidiary on the profits from which dividends are distributed.
-
-Why does this matter? Consider a multinational that operates abroad through either a branch or a subsidiary. If it uses a branch, the parent pays tax directly on branch profits and receives full credit. If it uses a subsidiary, the subsidiary pays corporate tax, and when dividends flow to the parent, direct credit only covers the WHT. The underlying corporate tax receives no relief, creating what economists call "economic double taxation"—the same economic income taxed twice.
-
-This asymmetry would distort organizational choices if left unaddressed. Companies would structure inefficiently, perhaps using branches where subsidiaries would be commercially preferable, purely to minimize taxes. The economic substance of earning profits abroad is identical whether done through a branch or subsidiary; the tax system should not penalize one form arbitrarily.
+When a parent company receives dividends from a foreign subsidiary, two layers of tax have typically been paid:
 
 ```
 THE UNDERLYING TAX PROBLEM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    SUBSIDIARY (Country S)
-    ────────────────────────
-    Pre-tax profits:        €1,000,000
-    Corporate tax (25%):    (€250,000)  ← Layer 1: Underlying tax
-    ────────────────────────
-    After-tax profits:      €750,000
+    SUBSIDIARY (Source Country)
+    ────────────────────────────
+    Earns profits
+    Pays corporate tax          ← LAYER 1: Underlying tax
+    Distributes dividend              (paid by SUBSIDIARY)
+    WHT deducted on dividend    ← LAYER 2: Withholding tax
+                                      (suffered by PARENT)
 
-    Dividend declared:      €750,000
-    WHT (15%):             (€112,500)   ← Layer 2: Direct tax
-    ────────────────────────
-    Net dividend received:  €637,500
-
-    PARENT (Country R - 30% rate)
-    ────────────────────────
-    Dividend income:        €750,000 (gross)
-    R tax (30%):            €225,000
+    PARENT (Residence Country)
+    ────────────────────────────
+    Receives net dividend
+    Subject to residence tax
 
     WITHOUT INDIRECT CREDIT:
-    Direct credit (WHT only): (€112,500)
-    Tax payable in R:          €112,500
-
-    TOTAL TAX: €250,000 + €112,500 + €112,500 = €475,000
-    Effective rate: 47.5%  ← EXCESSIVE
-
+    • Direct credit covers WHT only (Layer 2)
+    • Underlying corporate tax (Layer 1) gets NO relief
+    • Same economic income taxed TWICE
+    • Creates "economic double taxation"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 2. How Indirect Credit Works
+**Why this matters**: Consider a multinational that can operate abroad through either a branch or a subsidiary:
+- **Branch**: Parent pays tax directly on branch profits → full credit available
+- **Subsidiary**: Subsidiary pays corporate tax; parent only gets credit for WHT → underlying tax unreleved
 
-The indirect credit allows the parent company to claim credit not just for WHT, but also for a proportion of the subsidiary's corporate tax attributable to the dividend received:
+This asymmetry would distort organizational choices if left unaddressed. Companies would structure inefficiently, using branches where subsidiaries would be commercially preferable, purely to minimize taxes.
+
+### 2. How Indirect Credit Works: The Concept
+
+Indirect credit allows the parent company to claim credit not just for WHT, but also for a **proportion** of the subsidiary's corporate tax attributable to the dividend received:
 
 ```
-INDIRECT CREDIT FORMULA
+INDIRECT CREDIT: CONCEPTUAL FORMULA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
                               Dividend Received
 Underlying Tax Credit = ─────────────────────────── × Corporate Tax
                         Profits After Corporate Tax
 
-Using the example above:
-                         €750,000
-Underlying Tax Credit = ────────── × €250,000 = €250,000
-                         €750,000
+KEY CONCEPTS:
 
-TOTAL CREDIT AVAILABLE:
-Direct credit (WHT):        €112,500
-Indirect credit (Corp tax): €250,000
-                           ─────────
-Total potential credit:    €362,500
+1. PROPORTIONALITY: Credit reflects the portion of profits
+   actually distributed, not total subsidiary tax
 
-BUT: Credit limited to R's tax on grossed-up dividend
-Grossed-up dividend: €750,000 + €250,000 = €1,000,000
-R's tax: €1,000,000 × 30% = €300,000
-Credit allowed: €300,000 (limited)
-Excess credit: €62,500 (carried forward)
+2. GROSS-UP: Parent treated as receiving pre-tax profits,
+   not just net dividend (for limitation calculation)
 
-Tax payable in R: €0 (after credit)
-Total tax: €250,000 + €112,500 = €362,500
-Effective rate: 36.25%
+3. TOTAL CREDIT: Direct (WHT) + Indirect (underlying) combined
+
+4. LIMITATION STILL APPLIES: Total credit capped at residence
+   state's tax on the grossed-up dividend
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-The "grossing up" of the dividend is essential to the indirect credit calculation. The parent is treated as if it received not the net dividend but the full pre-tax profits attributable to its shareholding. This ensures that the credit limitation is calculated on a comparable basis—otherwise the credit could exceed the residence state tax on the actual dividend received, which would be inappropriate.
 
 ### 3. Conditions for Indirect Credit
 
-Indirect credit is typically subject to qualifying conditions:
+Indirect credit is typically subject to qualifying conditions reflecting policy judgments about when parent-subsidiary relationships justify this treatment:
 
-| Condition | Typical Threshold | Rationale |
-|-----------|------------------|-----------|
-| **Minimum shareholding** | 10-25% of voting shares | Ensure substantial economic connection |
-| **Direct holding** | Parent must directly own subsidiary | Administrative clarity |
-| **Dividend actually paid** | Not available for retained profits | Timing principle |
-| **Tax actually paid** | By subsidiary (not tax spared) | Reality principle |
-| **Treaty provision** | Must be in treaty or domestic law | Legal basis |
+| Condition | Typical Threshold | Policy Rationale |
+|-----------|------------------|------------------|
+| **Minimum shareholding** | 10-25% of voting shares | Ensures substantial economic connection; portfolio investors excluded |
+| **Direct holding** | Parent must directly own subsidiary | Administrative clarity and verification |
+| **Dividend actually paid** | Not available for retained profits | Timing principle—relief when income realized |
+| **Tax actually paid** | By subsidiary (not tax spared) | Reality principle—credit for real taxes |
+| **Treaty or domestic law provision** | Must be expressly provided | Legal basis required |
 
-The minimum shareholding requirement deserves particular attention. A portfolio investor holding 2% of a foreign company does not receive indirect credit—only direct credit for any WHT. This reflects a policy judgment that small shareholders lack the economic integration with the company that justifies treating them and the company as a single unit for credit purposes. The 10-25% threshold roughly corresponds to what tax systems consider a "substantial" or "controlling" interest.
+The minimum shareholding requirement deserves attention. A portfolio investor holding 2% of a foreign company does not receive indirect credit—only direct credit for any WHT. This reflects a policy judgment that small shareholders lack the economic integration with the company that justifies treating them and the company as a single unit for credit purposes.
 
-### 4. Multi-Tier Indirect Credit
+### 4. The US Shift: TCJA 2017 and Participation Exemption
 
-Some countries extend indirect credit through multiple tiers of subsidiaries:
+A significant development in indirect credit came with the US Tax Cuts and Jobs Act 2017, which largely **replaced** indirect credit with participation exemption for US corporate shareholders:
 
-```
-MULTI-TIER STRUCTURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Pre-TCJA (before 2018) | Post-TCJA (2018 onwards) |
+|------------------------|--------------------------|
+| US taxed worldwide dividends from foreign subsidiaries | 100% dividends received deduction for qualifying dividends |
+| Indirect credit for underlying foreign taxes | No credit needed—income not taxed |
+| Complex multi-tier credit calculations (up to 6 tiers) | Territorial approach for most dividends |
+| Credit limitations, baskets, carryovers | Simplified (but GILTI introduced new complexity) |
 
-    PARENT (Country R)
-         │
-         │ 100%
-         ▼
-    SUB 1 (Country A)
-         │
-         │ 100%
-         ▼
-    SUB 2 (Country B)
-         │
-         │ 100%
-         ▼
-    SUB 3 (Country C) ← Operating company earning profits
-
-US (pre-2017): Indirect credit through 6 tiers
-UK: Generally direct subsidiaries only
-Many countries: Limited to 2-3 tiers
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-The US historically allowed six tiers of look-through, reflecting complex multinational structures. However, the 2017 Tax Cuts and Jobs Act's move to participation exemption for most foreign dividends largely eliminated indirect credit for US shareholders, replacing credit complexity with territorial simplicity.
+This shift illustrates the global trend toward **participation exemption** (discussed in Chapter 5.2) as an alternative to indirect credit. Many countries now exempt qualifying dividends from foreign subsidiaries entirely, eliminating the need for complex indirect credit calculations.
 
 ---
 
@@ -320,36 +259,33 @@ The US historically allowed six tiers of look-through, reflecting complex multin
 
 ### 1. The Concept and Its Historical Context
 
-Tax sparing represents perhaps the most controversial credit mechanism in international taxation. It emerged from development economics debates of the 1960s and 1970s, when newly independent nations sought to attract foreign investment through tax incentives, only to discover that the credit method in investors' home countries neutralized these incentives entirely.
-
-The problem is elegant in its cruelty. Country S, a developing nation, offers a ten-year tax holiday to attract manufacturing investment. Under normal credit rules, Country R (the investor's residence) taxes worldwide income and allows credit only for taxes actually paid. When the investor pays zero tax in Country S due to the holiday, no credit is available. Country R collects its full tax, and the investor receives no benefit from Country S's sacrifice.
+Tax sparing represents perhaps the most controversial credit mechanism in international taxation. It emerged from development economics debates of the 1960s and 1970s, when newly independent nations sought to attract foreign investment through tax incentives, only to discover that the credit method in investors' home countries **neutralized these incentives entirely**.
 
 ```
-TAX INCENTIVE "CLAW-BACK" PROBLEM
+THE TAX INCENTIVE "CLAW-BACK" PROBLEM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Developing Country S offers 10-year tax holiday
-  Normal S rate: 30%
-  Country R (investor residence) rate: 35%
+SCENARIO: Developing Country S offers 10-year tax holiday
+          Normal S rate: 30%
+          Country R (investor residence) rate: 35%
 
 WITHOUT TAX SPARING:
-─────────────────────
-Income in S:            $1,000,000
-S tax (holiday):        $0
-R tax on worldwide:     $350,000
-Credit for S tax:       $0 (none paid)
-─────────────────────────────────
-Final tax in R:         $350,000
+────────────────────
+• Investor pays 0% to Country S (holiday)
+• Country R taxes worldwide income at 35%
+• Credit available: $0 (no tax actually paid)
+• Investor pays full 35% to Country R
 
 RESULT:
-  • Country S loses revenue (holiday)
-  • Investor gets NO benefit
-  • Country R captures the entire benefit
-  • Investment incentive completely negated
+• Country S LOSES revenue (sacrificed for investment)
+• Investor gets NO benefit from the holiday
+• Country R CAPTURES the entire tax saving
+• Investment incentive COMPLETELY NEGATED
+
+THE INJUSTICE: Developing country bears all cost;
+              developed country reaps all reward
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-This outcome troubled development economists. Country S was sacrificing revenue to attract investment, but the fiscal benefit simply transferred to Country R's treasury rather than to the investor. The developing country bore all the cost; the developed country reaped all the reward. For newly independent nations, this seemed like yet another instance of the international economic system favoring wealthy nations.
 
 ### 2. How Tax Sparing Works
 
@@ -360,55 +296,52 @@ TAX SPARING SOLUTION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 WITH TAX SPARING:
-─────────────────────
-Income in S:                $1,000,000
-S tax (holiday):            $0
-S tax that WOULD have been paid: $300,000 (30% normal rate)
-
-R tax on worldwide:         $350,000
-Tax sparing credit:         $300,000 (deemed tax)
-─────────────────────────────────────
-Final tax in R:             $50,000
+─────────────────
+• Investor pays 0% to Country S (holiday)
+• Country S's normal rate: 30%
+• Country R allows credit for "deemed" 30% tax
+• Country R taxes at 35%, credits 30%
+• Investor pays only 5% to Country R
 
 RESULT:
-  • Investor benefits: $250,000 tax saving
-  • Country S achieves investment attraction goal
-  • Country R bears cost of preserving incentive
+• Investor BENEFITS from the tax holiday
+• Country S achieves its investment attraction goal
+• Country R bears the cost of preserving incentive
+
+MECHANISM: Credit given for taxes NOT PAID but that
+           WOULD have been paid under normal rules
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-What has happened here is remarkable: Country R has agreed to sacrifice its own revenue to support Country S's development policy. This is international cooperation in action—or, depending on perspective, an inappropriate subsidy to investors in low-tax jurisdictions.
-
 ### 3. Arguments For and Against Tax Sparing
 
-Tax sparing has always been contentious, reflecting deeper disagreements about the relationship between developed and developing countries in the international tax system:
+Tax sparing has always been contentious, reflecting deeper disagreements about the international tax system:
 
 | Arguments FOR | Arguments AGAINST |
 |--------------|-------------------|
-| Preserves developing country incentives | Creates revenue loss for residence states |
-| Promotes international investment | May subsidize inefficient investment |
-| Supports development goals | Encourages tax holidays (often poor policy) |
-| Recognized by UN Model | Can be abused through aggressive planning |
-| Historical use by major economies | Difficult to administer and verify |
-
-Supporters argue that developing countries have the sovereign right to use tax policy as a development tool, and residence states should not undermine these choices. Without tax sparing, developing countries face a harsh dilemma: either set rates high enough that investors get no benefit from incentives, or set rates at zero so investors keep all benefits—neither option may be optimal.
-
-Critics counter that tax sparing distorts investment decisions, encouraging projects that make sense only because of the tax benefit rather than genuine economic merit. The OECD and IMF have documented how tax holidays can create distortions, encourage rent-seeking, and erode the tax base without delivering promised investment benefits.
+| Preserves developing country's sovereign tax policy choices | Creates revenue loss for residence states |
+| Promotes investment in developing economies | May subsidize inefficient investment decisions |
+| Recognizes development needs (UN Model supports it) | Encourages tax holidays (often poor policy) |
+| Prevents residence state from "free-riding" on source country sacrifice | Can be abused through aggressive planning |
+| Historical use by Japan, UK with former colonies | Difficult to administer and verify |
 
 ### 4. The Decline of Tax Sparing
 
-Tax sparing has become less common in modern treaty practice:
+Tax sparing has become **less common** in modern treaty practice for several interconnected reasons:
 
-| Factor | Impact |
-|--------|--------|
-| **OECD skepticism** | 1998 OECD Report questioned effectiveness |
-| **BEPS concerns** | Tax sparing can facilitate BEPS structures |
-| **Territorial systems** | Many countries now exempt foreign income |
-| **Harmful tax practices** | Incentives subject to FHTP review |
-| **US policy** | US has never granted tax sparing |
-| **Pillar Two** | 15% minimum tax undermines incentive rationale |
+| Factor | Impact on Tax Sparing |
+|--------|----------------------|
+| **1998 OECD Report** | Questioned effectiveness; documented limited evidence that tax sparing influenced investment; identified abuse cases |
+| **BEPS concerns** | Tax sparing can facilitate base erosion structures; intellectually inconsistent with anti-avoidance focus |
+| **Territorial systems** | Many residence countries now exempt foreign income entirely, making tax sparing irrelevant |
+| **Harmful tax practices** | Investment incentives subject to FHTP review; tax sparing preserves incentives FHTP may condemn |
+| **US policy** | US has **never** granted tax sparing in any treaty |
+| **Pillar Two (2024+)** | 15% global minimum tax fundamentally undermines the rationale for tax incentives |
 
-The 1998 OECD Report on Tax Sparing marked a turning point, finding limited evidence that tax sparing influenced investment decisions and documenting abuse cases. The BEPS project accelerated the decline—it became intellectually untenable to advocate against harmful tax competition while supporting tax sparing for similar regimes.
+**Pillar Two Impact**: The OECD/G20 Pillar Two rules impose a 15% minimum effective tax rate on large MNEs. If a developing country offers a tax holiday (0% rate), the MNE's home country can impose a "top-up tax" to reach 15%. This:
+- Negates the benefit of the holiday (similar to the original problem)
+- Makes tax sparing provisions largely pointless
+- Forces developing countries to reconsider incentive strategies
 
 **Current Status**: Tax sparing survives in older treaties, some Asian treaties with developing partners, and UK treaties with certain Commonwealth nations. New treaties rarely include it, and existing provisions are often removed during renegotiation.
 
@@ -420,184 +353,167 @@ The 1998 OECD Report on Tax Sparing marked a turning point, finding limited evid
 
 Countries using the credit method must choose how to calculate the limitation when taxpayers have income from multiple foreign sources:
 
-```
-LIMITATION APPROACHES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Approach | How It Works | Effect |
+|----------|--------------|--------|
+| **Overall limitation** | Single limit based on total foreign income | Allows "cross-crediting"—excess from high-tax countries offsets capacity from low-tax countries |
+| **Per-country limitation** | Separate limit for each source country | Prevents cross-crediting; each country's investment faces at least residence rate |
 
-SCENARIO: Taxpayer earns income in two foreign countries
-          Home rate: 30%
-
-          Country A: €100,000 income, 40% tax = €40,000
-          Country B: €100,000 income, 10% tax = €10,000
-
-OVERALL LIMITATION:
-───────────────────
-Total foreign income: €200,000
-Home tax on foreign income: €200,000 × 30% = €60,000
-Total foreign tax: €50,000
-Credit allowed: €50,000 (within overall limit)
-→ High and low tax countries averaged ("cross-crediting")
-
-PER-COUNTRY LIMITATION:
-───────────────────────
-Country A: Limit €30,000, tax €40,000 → Credit €30,000, excess €10,000
-Country B: Limit €30,000, tax €10,000 → Credit €10,000
-Total credit: €40,000
-→ Excess credits cannot offset low-tax income capacity
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Overall limitation allows "cross-crediting"—excess credits from high-tax countries offset surplus capacity from low-tax countries. Per-country limitation prevents this, ensuring each country's investment faces at least the residence rate.
+**Cross-crediting concept**: Under overall limitation, a taxpayer with €10,000 income from a 40% country (€4,000 tax) and €10,000 from a 10% country (€1,000 tax) can use the €1,500 excess credit from the high-tax country against the spare €1,500 capacity from the low-tax country (assuming 25% home rate). Per-country limitation prevents this averaging.
 
 ### 2. The US Basket System
 
 The US uses a sophisticated basket system to prevent cross-crediting within income categories:
 
-| Basket | Income Types | Purpose |
-|--------|--------------|---------|
-| **Passive** | Dividends, interest, royalties, rents | Prevent sheltering passive with active |
-| **General** | Active business income | Prevent mixing |
-| **GILTI** | Global Intangible Low-Taxed Income | 80% credit only |
+| Basket | Income Types | Policy Rationale |
+|--------|--------------|------------------|
+| **Passive** | Dividends, interest, royalties, rents | Prevent sheltering passive income with active business credits |
+| **General** | Active business income | Core operating income |
+| **GILTI** | Global Intangible Low-Taxed Income | Special regime—only 80% credit allowed |
 | **Branch** | Branch profits | Separate treatment |
 
-### 3. Excess Credit Carryover
+### 3. Excess Credit Treatment
 
 When foreign tax exceeds the limitation:
 
-| Treatment | Countries |
-|-----------|-----------|
-| **Carry forward** | UK (unlimited), US (10 years), most OECD |
-| **Carry back** | US (1 year), some others |
-| **Lost** | Some developing countries |
+| Treatment | Jurisdictions | Implications |
+|-----------|--------------|--------------|
+| **Carry forward** | UK (unlimited), US (10 years), most OECD | Relief in future years when capacity exists |
+| **Carry back** | US (1 year), some others | Amend prior returns |
+| **Lost** | Some developing countries | Permanent double taxation on excess |
 
 ---
 
-## F. WORKED EXAM EXAMPLE
+## F. POLICY COMPARISON: CREDIT VS EXEMPTION
 
-### Direct and Indirect Credit Calculation (15 marks)
-
-**Scenario**:
-
-UKCo holds 100% of GermanCo. GermanCo earns €4,000,000 pre-tax profits, pays €1,200,000 corporate tax (30%), and distributes €2,100,000 as dividend. Germany levies 5% WHT (€105,000). UK corporate rate is 25%.
-
-**Required**:
-(a) Calculate UKCo's UK tax position with direct credit only (5 marks)
-(b) Calculate UKCo's position with indirect (underlying) credit (5 marks)
-(c) Explain the policy rationale for indirect credit (5 marks)
-
-**Model Answer**:
-
-**(a) Direct Credit Only (5 marks)**
+Understanding when examiners ask about relief systems requires grasping the fundamental policy trade-offs:
 
 ```
-Step 1: GermanCo's position
-Pre-tax profits:                 €4,000,000
-German corporate tax (30%):      (€1,200,000)
-After-tax profits:               €2,800,000
-Dividend declared:               €2,100,000
+CREDIT VS EXEMPTION: POLICY FRAMEWORK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Step 2: WHT on dividend
-Gross dividend:                  €2,100,000
-WHT (5%):                       (€105,000)
-Net dividend received:           €1,995,000
+CREDIT METHOD (Article 23B)
+───────────────────────────
+Philosophy: Residence state primacy
+Neutrality: Capital EXPORT neutrality (CEN)
+Goal: Same effective rate regardless of where invested
+Effect: Taxpayer faces home country rate minimum
+Favors: High-tax residence countries
 
-Step 3: UKCo's tax liability
-Taxable dividend income:         €2,100,000
-UK tax (25%):                    €525,000
-Direct credit (WHT only):       (€105,000)
-Tax payable in UK:               €420,000
+EXEMPTION METHOD (Article 23A)
+──────────────────────────────
+Philosophy: Source state primacy
+Neutrality: Capital IMPORT neutrality (CIN)
+Goal: Same rate for all investors in a country
+Effect: Taxpayer faces source country rate only
+Favors: Low-tax source countries, competitiveness
 
-Total tax burden:
-GermanCo tax (attributable): €1,200,000 × (2,100/2,800) = €900,000
-WHT:                         €105,000
-UKCo tax:                    €420,000
-Total:                       €1,425,000
-
-Effective rate: 47.5% ← Economic double taxation
+EXAM TIP: December 2022 Q2 asked for "systems available
+and policy considerations"—this comparison is essential
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**(b) With Indirect Credit (5 marks)**
-
-```
-Step 1: Calculate underlying tax
-Underlying tax = (Dividend / After-tax profits) × Corporate tax
-               = (€2,100,000 / €2,800,000) × €1,200,000
-               = €900,000
-
-Step 2: Total credit available
-Direct credit (WHT):             €105,000
-Indirect credit (underlying):    €900,000
-Total potential credit:          €1,005,000
-
-Step 3: Credit limitation
-Grossed-up dividend: €2,100,000 + €900,000 = €3,000,000
-UK tax on gross-up: €3,000,000 × 25% = €750,000
-Credit allowed: €750,000 (limited)
-Excess credit: €255,000 (carried forward)
-
-Step 4: Tax payable
-UK tax:                          €750,000
-Less credit:                    (€750,000)
-Tax payable in UK:               €0
-
-Total tax: €900,000 + €105,000 = €1,005,000
-Effective rate: 33.5%
-```
-
-**(c) Policy Rationale (5 marks)**
-
-Indirect credit addresses **economic double taxation** arising when corporate profits are taxed at both subsidiary level and again when distributed as dividends.
-
-**Key justifications**:
-
-1. **Economic integration**: Parent and subsidiary form an economic unit; taxing the same profits twice creates excessive burden that discourages cross-border investment.
-
-2. **Organizational neutrality**: Without indirect credit, branch structures would be tax-favored over subsidiaries, distorting business organization decisions.
-
-3. **Capital export neutrality**: The credit method aims to ensure same effective rate regardless of investment location; without indirect credit, this neutrality is compromised for subsidiary structures.
-
-**Limitations**: Indirect credit is administratively complex, requiring verification of foreign accounts and minimum shareholding requirements to define qualifying relationships.
+| Consideration | Credit Method | Exemption Method |
+|--------------|---------------|------------------|
+| **Administrative burden** | HIGH—tracking foreign taxes, limitations, carryovers | LOW—simply exclude foreign income |
+| **Revenue impact** | Preserves residence state revenue (collects top-up) | Sacrifices residence state revenue |
+| **Investment incentive** | Neutral—no tax advantage to investing abroad | May encourage outbound investment |
+| **Competitiveness** | Disadvantages MNEs vs competitors from exemption countries | Levels playing field |
+| **Trend** | Declining in popularity | Increasing adoption |
 
 ---
 
-## G. KEY TAKEAWAYS
+## G. WORKED EXAM EXAMPLE
+
+### Policy Analysis Question (December 2022 Style)
+
+**Question**: "The Manualian Revenue Authority is considering whether, and how, to amend its system of relief from juridical double taxation. Outline the various systems available and the main policy considerations involved in adopting each option." (25 marks)
+
+**Answer Framework**:
+
+**(1) Relief by Credit (Article 23B)** [8 marks]
+
+The credit method includes worldwide income in the tax base but allows a deduction from tax liability for foreign taxes paid. This preserves **capital export neutrality**—Manualian investors face the same effective tax rate whether investing domestically or abroad.
+
+**Policy considerations**:
+- **Revenue preservation**: Manualia collects the difference between its rate and lower foreign rates
+- **Administrative complexity**: Requires tracking foreign taxes, applying limitations, managing carryovers
+- **Competitiveness concern**: Manualian MNEs may be disadvantaged versus competitors from exemption countries
+- **Direct vs indirect credit**: Must decide whether to extend relief for underlying taxes on dividends from subsidiaries
+
+**(2) Relief by Exemption (Article 23A)** [8 marks]
+
+The exemption method excludes qualifying foreign income from the tax base entirely. This achieves **capital import neutrality**—all investors in a foreign country face the same tax burden regardless of residence.
+
+**Policy considerations**:
+- **Simplicity**: No foreign tax verification or limitation calculations needed
+- **Competitiveness**: Manualian MNEs compete equally with local companies and other MNEs
+- **Revenue cost**: Manualia foregoes tax on foreign profits
+- **Participation exemption**: May be limited to substantial shareholdings (e.g., 10%+) in active businesses
+
+**(3) Hybrid Approaches** [5 marks]
+
+Many countries combine methods:
+- Credit for active business income, exemption for dividends from subsidiaries
+- Subject-to-tax clauses in exemption systems
+- Switch-over clauses allowing credit where exemption would create double non-taxation
+
+**(4) Other Methods** [4 marks]
+
+- **Relief by deduction**: Foreign tax deductible as expense (less beneficial than credit)
+- **Relief by deferral**: Tax postponed until repatriation (US pre-TCJA approach)
+
+---
+
+## H. KEY TAKEAWAYS
 
 ```
-ESSENTIAL POINTS TO REMEMBER
+ESSENTIAL CONCEPTS FOR EXAM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 1. CREDIT METHOD PRINCIPLE (Article 23B):
-   • Worldwide income included in tax base
-   • Credit allowed for foreign taxes paid
+   • Worldwide income included; credit for foreign tax
    • Effective rate = HIGHER of source/residence rates
+   • Supports capital export neutrality
 
 2. DIRECT CREDIT:
-   • Credit for tax paid directly by taxpayer
+   • Tax paid DIRECTLY by taxpayer
    • Applies to: employment, branch profits, WHT
-   • Limited to residence state's tax on foreign income
+   • Must be qualifying income tax (Article 2 link)
 
 3. INDIRECT CREDIT:
-   • Credit for underlying corporate tax on dividends
-   • Formula: (Dividend/After-tax profits) × Corp tax
+   • Relieves underlying corporate tax on dividends
    • Requires minimum shareholding (10-25%)
    • Prevents economic double taxation
+   • Declining: US moved to participation exemption (2017)
 
 4. TAX SPARING:
    • Credit for "deemed" tax not actually paid
    • Preserves developing country incentives
-   • Declining—BEPS concerns, Pillar Two impact
+   • DECLINING: BEPS concerns, Pillar Two undermines rationale
+   • US has NEVER granted tax sparing
 
 5. CREDIT LIMITATION:
-   • Ordinary credit limited to residence state tax
-   • Overall vs per-country approaches
-   • Basket systems prevent cross-crediting
+   • Ordinary credit: limited to residence state's own tax
+   • Prevents subsidizing high-tax countries
+   • Excess credits: carried forward (usually) or lost
 
-6. EXAM CALCULATIONS:
-   • Always check credit limitation
-   • Remember to gross up for indirect credit
-   • Show all steps clearly
+6. POLICY COMPARISON (likely exam topic):
+   • Credit → capital export neutrality, revenue preservation
+   • Exemption → capital import neutrality, simplicity, competitiveness
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## Common Exam Errors to Avoid
+
+| Error | Why It Loses Marks | Correct Approach |
+|-------|-------------------|------------------|
+| Confusing credit with exemption | Fundamental misunderstanding | Credit = include income, offset tax; Exemption = exclude income |
+| Forgetting credit limitation | Incomplete analysis | Always note that credit is capped at residence state's tax on foreign income |
+| Ignoring indirect credit conditions | Missing qualifying requirements | State minimum shareholding, direct holding, dividend paid requirements |
+| Treating tax sparing as current practice | Outdated analysis | Note its decline and Pillar Two impact |
+| Pure calculation focus | Misses policy marks | Emphasize WHY rules exist, not just HOW they calculate |
 
 ---
 
@@ -607,12 +523,12 @@ ESSENTIAL POINTS TO REMEMBER
 - OECD Model Tax Convention (2017), Article 23B and Commentary
 - OECD Report on Tax Sparing (1998)
 - UN Model Tax Convention (2021), Article 23
+- US Tax Cuts and Jobs Act 2017 (participation exemption shift)
 
-**Key Concepts**:
-- Direct credit mechanics and limitation
-- Indirect/underlying credit calculation
-- Tax sparing rationale and decline
-- Credit basket systems
+**Key Current Developments**:
+- Pillar Two GloBE Rules impact on tax incentives and tax sparing
+- June 2025 ADIT exam: FTC for non-income taxes (Market Presence Adjustment)
+- Trend toward participation exemption over indirect credit
 
 ---
 
