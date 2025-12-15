@@ -36,6 +36,8 @@ Strategic Priority: ★★★★☆ HIGH
 
 Under **full exemption**, foreign income that may be taxed in the source state under the treaty's distributive rules is **completely excluded** from the residence state's tax base, with **no effect** on the rate applied to remaining income.
 
+Full exemption represents the most taxpayer-favorable version of territorial taxation, and understanding why it has largely been abandoned reveals much about the evolution of international tax policy. In theory, full exemption embodies a pure territorial principle: if income arises abroad, the residence state has no claim to it whatsoever. But this theoretical purity comes at a significant cost—it creates systematic advantages for internationally mobile taxpayers that most societies have deemed unacceptable.
+
 ```
 FULL EXEMPTION OPERATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -169,6 +171,12 @@ This express permission ensures states can preserve rate progressivity while sti
 
 The **participation exemption** is a specific application of the exemption method to **dividends received from qualifying subsidiaries**. It provides that dividends received by a parent company from a subsidiary are fully or partially exempt from taxation in the parent's residence state.
 
+The participation exemption has become one of the most significant features of modern corporate tax systems, fundamentally shaping where multinational groups locate their holding companies. Countries offering generous participation exemptions—the Netherlands, Luxembourg, Belgium, and increasingly others—have attracted substantial holding company activity precisely because they allow profits to be repatriated without additional tax layers. This has created what economists call "conduit country" effects, where investment is routed through jurisdictions not because of genuine economic activity but because of favorable tax treatment.
+
+The policy justification for participation exemption rests on preventing economic double taxation of corporate profits. When a subsidiary earns income, that income is taxed at the subsidiary level. When those profits are distributed as dividends, taxing them again at the parent level imposes a second layer of tax on the same economic income. The participation exemption eliminates this second layer, treating the parent and subsidiary as a single economic unit for purposes of dividend taxation.
+
+Critics argue that participation exemptions can facilitate aggressive tax planning, allowing profits to be shifted to low-tax subsidiaries and then repatriated tax-free. This concern has driven the development of anti-avoidance conditions attached to most modern participation exemptions—substance requirements, subject-to-tax tests, and exclusions for passive income. The ongoing tension between tax competitiveness and base protection shapes how countries design their participation exemption rules.
+
 ```
 PARTICIPATION EXEMPTION CONCEPT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -289,6 +297,12 @@ RATIONALE:
 ### 1. The Problem of "Nowhere Taxation"
 
 A potential issue with the exemption method is **double non-taxation**: income that the residence state exempts may not actually be taxed in the source state (due to local incentives, classification differences, or planning structures).
+
+The problem of double non-taxation represents one of the most challenging issues in modern international tax policy. The OECD Model and most treaties were designed primarily to prevent double taxation—the problem of income being taxed twice. But clever structuring can exploit the interaction between different countries' rules to achieve the opposite result: income that is taxed nowhere.
+
+Consider how this might arise: Country A exempts foreign business income under the treaty, assuming Country B will tax it. Country B, however, classifies the arrangement differently—perhaps treating what Country A considers a PE as a separate company, or classifying business profits as a different type of income entirely. The result is that neither country taxes the income. Neither country has done anything wrong individually; both have applied their rules correctly. But the combination produces an outcome that most policymakers consider unacceptable.
+
+This realization drove much of the BEPS project's focus on "hybrid mismatches" and led to the development of sophisticated anti-avoidance rules. Subject-to-tax clauses and switch-over provisions represent the treaty-based response to these concerns, conditioning exemption on the income actually being taxed somewhere.
 
 ```
 DOUBLE NON-TAXATION RISK
