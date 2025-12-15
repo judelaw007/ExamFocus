@@ -1,4 +1,4 @@
-# Chapter 2.2: Federal Systems and Local-Level Taxes
+# Chapter 3: Federal Systems and Local-Level Taxes
 
 ## Understanding Multi-Level Taxation in International Context
 
@@ -82,6 +82,34 @@ Countries organize their tax systems based on their constitutional structure:
 | Taxes on mobile bases (capital, corporate income) | Central | Prevent tax competition, base flight |
 | Taxes on less mobile bases (property, sales) | State/Local | Geographic connection to services |
 | Personal income tax | Shared | Can work at multiple levels |
+
+#### The Race to the Bottom Debate
+
+A central concern in fiscal federalism is whether decentralised taxation leads to destructive tax competition:
+
+**The Race to the Bottom Thesis**:
+Subnational governments competing for mobile capital may engage in successive tax cuts, ultimately:
+- Eroding tax revenues across all jurisdictions
+- Underfunding public services
+- Shifting tax burden to immobile factors (labour, property)
+
+**Counter-Arguments**:
+Critics argue the "race to the bottom" is overstated:
+1. **Tiebout sorting**: Competition allows citizens to choose jurisdictions matching their service/tax preferences
+2. **Efficiency gains**: Competition disciplines governments from excessive taxation
+3. **Empirical evidence**: Many high-tax jurisdictions maintain competitive economies (Nordic countries, California, New York)
+
+**The International Dimension**:
+This debate directly parallels international discussions on corporate tax competition that led to Pillar Two. The 15% global minimum tax represents a floor preventing the race from continuing indefinitely. Similar arguments apply to subnational taxation - many federal systems have mechanisms to prevent internal tax wars.
+
+**Coordination Mechanisms**:
+
+| Country | Mechanism | Effect |
+|---------|-----------|--------|
+| Germany | Revenue sharing formulas | Equalisation between states |
+| Canada | Tax Collection Agreements | Harmonised provincial bases |
+| USA | None (limited coordination) | Significant state variation |
+| Australia | GST distribution | Federal collection, state allocation |
 
 ---
 
@@ -215,6 +243,26 @@ The U.S. Model Tax Convention takes a unique position:
 - Non-discrimination protection still applies at state level
 - Creates complexity for international taxpayers
 
+#### The Policy Debate: Should Subnational Taxes Be Treaty-Covered?
+
+The divergence between the OECD approach (include subnational taxes) and U.S. approach (exclude state taxes) reflects genuine policy tensions:
+
+**Arguments for Including Subnational Taxes**:
+1. **Comprehensive relief**: International taxpayers face combined burden; partial relief is inadequate
+2. **Constitutional basis**: Federal government typically has treaty-making power
+3. **Administrative simplicity**: Single point of coordination for foreign taxpayers
+4. **Fairness**: Domestic taxpayers don't face layered taxation in the same way
+
+**Arguments for Excluding Subnational Taxes (U.S. Position)**:
+1. **Federalism**: States are sovereign within their sphere; federal government shouldn't bind them in treaties
+2. **Revenue protection**: States need their tax bases; cannot be overridden by federal action
+3. **Complexity**: Different states have different taxes; hard to address comprehensively
+4. **Practical enforceability**: Federal government cannot compel state compliance
+
+**International Pressure**: The U.S. exclusion of state taxes has been criticised by treaty partners. Some countries have negotiated specific provisions addressing state taxes in U.S. treaties, though with limited success.
+
+**Practical Workaround**: Many U.S. states allow credits for foreign taxes paid, providing unilateral relief even absent treaty coverage. Additionally, the non-discrimination provisions (applicable to state taxes) prevent the most egregious forms of discrimination against foreigners.
+
 ---
 
 ## C. INTERNATIONAL TAX IMPLICATIONS
@@ -264,6 +312,37 @@ Subnational transfer pricing issues arise when:
 - States have their own transfer pricing rules
 - Arm's length requirement applies at state level
 - State may not follow federal adjustments
+
+#### Case Study: Transfer Pricing in Federal Systems
+
+The interaction between federal and subnational transfer pricing rules creates unique challenges:
+
+**U.S. State Transfer Pricing**:
+- Most states follow federal transfer pricing rules by reference (IRC §482)
+- HOWEVER, states may not accept IRS adjustments automatically
+- Some states have separate administrative processes
+- APAs (Advance Pricing Agreements) with IRS may not bind states
+
+**Germany's Approach**:
+- Trade tax (Gewerbesteuer) is municipal but uses federal profit calculation
+- Federal transfer pricing adjustments automatically affect trade tax
+- Creates coherence but can amplify adjustment effects
+
+**Canada's Provincial Coordination**:
+- Federal transfer pricing rules in ITA §247 apply consistently
+- Provinces generally follow federal income allocation
+- Transfer pricing adjustments flow through to provincial tax
+
+**Practical Implications for MNEs**:
+
+| Issue | Challenge | Mitigation Strategy |
+|-------|-----------|---------------------|
+| Multiple audits | Different jurisdictions may audit same transaction | Document comprehensively from outset |
+| Inconsistent outcomes | State may reach different conclusion than federal | Seek coordinated review where possible |
+| Compliance burden | Multiple reporting requirements | Centralise documentation |
+| Dispute resolution | MAP at federal level may not bind states | Consider state-specific resolution |
+
+**Link to Pillar Two**: The GloBE rules introduce additional complexity - the top-up tax calculation requires determining "covered taxes" which may include certain subnational taxes. Understanding which subnational taxes qualify as "covered" becomes crucial for effective tax rate calculations.
 
 ---
 
@@ -405,4 +484,4 @@ FEDERAL SYSTEMS AND LOCAL-LEVEL TAXES - ESSENTIALS
 
 ---
 
-*Chapter 2.2 | Exam Focus: Principles of International Taxation*
+*Chapter 3 | Exam Focus: Principles of International Taxation*

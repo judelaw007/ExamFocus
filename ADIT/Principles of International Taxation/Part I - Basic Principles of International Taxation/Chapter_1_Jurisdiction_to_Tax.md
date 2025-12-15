@@ -1,4 +1,4 @@
-# Chapter 3.1: Jurisdiction to Tax
+# Chapter 1: Jurisdiction to Tax
 
 ## Including Limits Arising from Public International Law and Cross-Border Enforcement
 
@@ -32,6 +32,22 @@ source, PE, or treaty benefit questions.
 **Tax jurisdiction** is a state's legal authority to impose and collect taxes. This authority derives from **fiscal sovereignty** - the inherent power of every sovereign state to determine its own tax system.
 
 **Key Principle**: States have broad autonomy to design tax systems, but this power is not unlimited. Both domestic law and international law impose constraints.
+
+#### Theoretical Foundations of Tax Jurisdiction
+
+The concept of tax jurisdiction is rooted in fundamental principles of state sovereignty that emerged from the Peace of Westphalia (1648). Under Westphalian sovereignty, each state exercises supreme authority within its territorial boundaries, free from external interference. This sovereignty extends to the power to tax - a core attribute of statehood.
+
+**Three Perspectives on Tax Jurisdiction**:
+
+| Perspective | Key Argument | Implications |
+|------------|--------------|--------------|
+| **Territorialist** | States should only tax activities within their borders | Favours pure source-based taxation |
+| **Universalist** | States may tax based on any genuine connection | Supports residence and citizenship taxation |
+| **Functionalist** | Tax jurisdiction should align with economic substance | Underpins BEPS reforms and Pillar One |
+
+The tension between these perspectives explains many international tax disputes. A territorialist view would limit taxation to physical presence, while universalist views permit worldwide taxation of residents. Modern international tax law has evolved towards a compromise - residence states tax worldwide income but provide relief for source-state taxation.
+
+**The Foundational Paradox**: While states are sovereign and equal under international law, their tax claims often overlap, creating double taxation. No supranational authority exists to resolve these conflicts definitively. Instead, states must cooperate through bilateral treaties and multilateral conventions - a voluntary limitation of sovereignty in pursuit of mutual benefit.
 
 ### 2. The Two Primary Bases of Tax Jurisdiction
 
@@ -80,6 +96,18 @@ Double taxation arises when **two or more states claim tax jurisdiction over the
    - *Example*: Service performed partly in both countries
 
 **This is why tax treaties exist** - to allocate taxing rights and prevent/relieve double taxation.
+
+#### The Economic Burden of Double Taxation
+
+The consequences of unrelieved double taxation extend beyond mere inconvenience:
+
+**Impact on Cross-Border Investment**: Studies consistently show that double taxation increases the effective cost of capital for international investments. The OECD estimates that double taxation can add 5-15 percentage points to effective tax rates, discouraging foreign direct investment and distorting capital allocation.
+
+**Competitive Distortions**: Businesses from countries with extensive treaty networks gain competitive advantages over those from countries with limited treaty coverage. This creates pressure for treaty proliferation but also for treaty shopping and aggressive tax planning.
+
+**Impact on Labour Mobility**: Individual workers face double taxation on employment income when working across borders. Without treaty relief, skilled professionals may avoid international assignments, hindering knowledge transfer and economic development.
+
+**The Policy Response**: Recognising these harms, the international community has developed a sophisticated network of over 3,000 bilateral tax treaties, supplemented by multilateral instruments like the MLI. This network, while imperfect, has substantially reduced (though not eliminated) international double taxation.
 
 ---
 
@@ -149,6 +177,30 @@ Each sovereign state has:
 - India's claim was rejected
 
 **The Rule Today**: *Government of India v. Taylor* remains good law and forms the basis of the revenue rule worldwide.
+
+#### Comparative Analysis: The Revenue Rule Across Jurisdictions
+
+The revenue rule, while originating in English common law, has been adopted with variations across legal systems:
+
+**Common Law Jurisdictions**:
+- **United States**: Consistently applied since *Moore v. Mitchell* (1929). U.S. courts refuse to enforce foreign tax judgments as a matter of judicial policy.
+- **Canada**: Follows the revenue rule but has modified it through treaty-based cooperation (extensive Article 27 network).
+- **Australia**: Applied in *Peter Buchanan Ltd v. McVey* - foreign revenue claims are unenforceable absent treaty obligation.
+
+**Civil Law Jurisdictions**:
+- **Germany**: Historically applied a similar principle, but EU harmonisation has created exceptions for intra-EU claims.
+- **France**: Courts distinguish between enforcement of tax judgments (refused) and recognition of tax debts as facts (permitted in some contexts).
+
+**Emerging Challenges to the Rule**:
+
+The traditional revenue rule is increasingly viewed as anachronistic in a globalised economy. Several factors are eroding its strict application:
+
+1. **Treaty networks**: Bilateral treaties with Article 27 provisions create binding obligations to assist in collection.
+2. **Multilateral instruments**: The MCMAATM (151 signatories) creates a comprehensive framework for mutual assistance.
+3. **EU harmonisation**: The EU Recovery Directive (2010/24/EU) mandates mutual assistance between member states.
+4. **Automatic exchange regimes**: CRS and FATCA create information flows that facilitate voluntary compliance.
+
+Despite these developments, the core principle remains: absent a specific legal obligation (treaty or directive), courts will not enforce foreign tax claims. This creates ongoing tension between the principle of fiscal sovereignty and the practical need for cross-border tax cooperation.
 
 ### 2. Why the Revenue Rule Exists
 
@@ -280,6 +332,35 @@ Article 1(3) lists exceptions where the saving clause does NOT apply:
 - MAP and arbitration procedures
 
 **Exam Application**: When analyzing treaty benefits for residents, check whether the saving clause overrides the benefit.
+
+### 4. The Saving Clause in Different Treaty Models
+
+Different model conventions and bilateral treaties take varying approaches to the saving clause:
+
+| Model/Treaty | Saving Clause Approach | Notable Features |
+|--------------|----------------------|------------------|
+| **OECD MTC** | Article 1(3) - added 2017 | Standard formulation with listed exceptions |
+| **UN Model** | Similar to OECD | More limited exceptions |
+| **US Model** | More extensive | Explicitly covers citizens AND residents |
+| **UK Treaties** | Varies | Some older treaties lack saving clause |
+
+**The US Approach - A Case Study**:
+
+The United States applies citizenship-based taxation - one of only two countries (alongside Eritrea) to tax citizens on worldwide income regardless of residence. This makes the saving clause particularly important in US treaties.
+
+*Example*: Under the US-UK DTA:
+- A US citizen residing in the UK earns UK employment income
+- Article 14 allocates primary taxing right to UK (source/residence)
+- The saving clause preserves US right to tax its citizen
+- Result: US citizen still liable to US tax, but receives foreign tax credit
+
+This approach means US citizens abroad face permanent double filing obligations, though the foreign tax credit and foreign earned income exclusion provide relief in most cases.
+
+**Policy Debate**: The saving clause represents a fundamental choice between:
+1. **Treaty primacy**: Treaties should fully resolve double taxation by limiting both states' claims
+2. **Fiscal sovereignty**: States should retain the right to tax their own residents/citizens
+
+The prevailing approach (saving clause included) favours fiscal sovereignty, ensuring treaties allocate taxing rights between states without compromising either state's ability to tax persons with the closest connection to it.
 
 ---
 
@@ -632,7 +713,50 @@ Test your understanding before the exam:
 
 ---
 
-## J. KEY TAKEAWAYS
+## J. BILATERAL VS. MULTILATERAL APPROACHES TO JURISDICTION
+
+### The Evolution from Bilateral to Multilateral Solutions
+
+Historically, international tax cooperation has relied on bilateral treaties. This approach has both strengths and limitations:
+
+**Advantages of Bilateral Approach**:
+- Tailored to specific country relationships and circumstances
+- Easier to negotiate between two parties
+- Allows for differentiated treatment based on economic ties
+- Flexibility to address unique situations
+
+**Limitations of Bilateral Approach**:
+- Creates inconsistent network with over 3,000 different treaties
+- Difficult to update - each treaty requires separate renegotiation
+- Gaps in coverage where no treaty exists
+- Susceptible to treaty shopping through third countries
+
+**The Rise of Multilateral Instruments**:
+
+The limitations of bilateralism have driven the development of multilateral solutions:
+
+| Instrument | Purpose | Coverage |
+|------------|---------|----------|
+| **MCMAATM (1988/2010)** | Administrative assistance including collection | 151 jurisdictions |
+| **MLI (2017)** | BEPS implementation across treaty network | 100+ jurisdictions |
+| **CRS (2014)** | Automatic exchange of financial account information | 100+ jurisdictions |
+| **STTR (2024)** | Subject to Tax Rule under Pillar Two | Developing countries |
+
+**Implications for Jurisdiction Analysis**:
+
+The shift towards multilateralism affects how jurisdiction questions should be analyzed:
+
+1. **Check multilateral coverage**: Before concluding no cooperation mechanism exists, verify whether states are party to MCMAATM or other multilateral instruments.
+
+2. **Treaty modification via MLI**: Many bilateral treaties have been modified by the MLI - check whether specific provisions have been affected.
+
+3. **Automatic exchange impact**: Even without formal assistance provisions, automatic exchange may provide tax authorities with information enabling domestic enforcement.
+
+**Exam Relevance**: Questions testing jurisdiction and enforcement should consider both bilateral treaty provisions AND multilateral instruments. A comprehensive answer demonstrates awareness of the evolving multilateral framework alongside traditional bilateral analysis.
+
+---
+
+## K. KEY TAKEAWAYS
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -686,4 +810,4 @@ JURISDICTION TO TAX - EXAM ESSENTIALS
 
 ---
 
-*Chapter 3.1 | Exam Focus: Principles of International Taxation*
+*Chapter 1 | Exam Focus: Principles of International Taxation*
