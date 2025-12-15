@@ -237,11 +237,9 @@ When analyzing any international tax scenario, systematically identify:
 
 ---
 
-## E. 15% DISCUSSION ENHANCEMENT
+## E. THEORETICAL FRAMEWORK: THE POLICY RATIONALE FOR DIFFERENT CONNECTING FACTORS
 
-### Theoretical Framework: The Policy Rationale for Different Connecting Factors
-
-#### The Benefits Principle and Residence
+### The Benefits Principle and Residence
 
 The use of residence as a connecting factor reflects the **benefits principle** of taxation—the idea that persons should contribute to the costs of government services they benefit from.
 
@@ -257,7 +255,7 @@ The use of residence as a connecting factor reflects the **benefits principle** 
 - Corporate residence (POEM) becomes uncertain with virtual board meetings
 - High-net-worth individuals can manipulate residence through careful travel planning
 
-#### The Sovereignty Principle and Source
+### The Sovereignty Principle and Source
 
 Source-based taxation reflects **territorial sovereignty**—a state's right to tax economic activity within its borders.
 
@@ -276,7 +274,7 @@ Source-based taxation reflects **territorial sovereignty**—a state's right to 
 
 This explains why UN Model provisions often grant broader source-state taxing rights (e.g., Article 12A on fees for technical services).
 
-#### The Evolution of "Nexus" Concepts
+### The Evolution of "Nexus" Concepts
 
 The concept of what constitutes sufficient nexus for taxation has evolved significantly:
 

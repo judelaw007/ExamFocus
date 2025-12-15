@@ -255,11 +255,9 @@ Some treaties explicitly **re-source** income for treaty purposes:
 
 ---
 
-## E. 15% DISCUSSION ENHANCEMENT
+## E. POLICY PERSPECTIVES: RESIDENCE VS SOURCE TAXATION
 
-### The Policy Debate: Residence vs. Source Taxation
-
-#### The Historical Compromise
+### The Historical Compromise
 
 The current international tax framework, developed in the 1920s under the League of Nations, represents a **compromise** between capital-exporting countries (favouring residence taxation) and capital-importing countries (favouring source taxation):
 
@@ -272,7 +270,7 @@ The current international tax framework, developed in the 1920s under the League
 
 This compromise has persisted for nearly a century but faces increasing challenges.
 
-#### Challenges to Traditional Source Rules
+### Challenges to Traditional Source Rules
 
 **Digital Economy**: Traditional source rules assume physical presence creates economic nexus. Digital businesses can generate substantial revenue without physical presence:
 
@@ -284,7 +282,7 @@ This compromise has persisted for nearly a century but faces increasing challeng
 
 **Pillar One's Market-Based Approach**: Represents a partial shift from traditional source to market/destination taxation for largest MNEs.
 
-#### Developing Country Perspectives
+### Developing Country Perspectives
 
 The UN Model Convention provides broader source-state taxation rights, reflecting developing country interests:
 

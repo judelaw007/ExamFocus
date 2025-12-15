@@ -355,11 +355,9 @@ for treaty purposes, despite spending more time in UK.
 
 ---
 
-## E. 15% DISCUSSION ENHANCEMENT
+## E. THE EVOLUTION OF RESIDENCE TESTS AND POLICY DEBATES
 
-### The Evolution of Residence Tests: From Simple to Complex
-
-#### Historical Development
+### Historical Development
 
 The concept of tax residence has evolved significantly over time:
 
@@ -373,7 +371,7 @@ The concept of tax residence has evolved significantly over time:
 - International families
 - Mobile entrepreneurs
 
-#### The Policy Tension: Certainty vs. Substance
+### The Policy Tension: Certainty vs. Substance
 
 Residence tests face an inherent trade-off:
 
@@ -385,7 +383,7 @@ Residence tests face an inherent trade-off:
 
 The UK's 2013 shift to SRT reflects recognition that purely day-count rules were insufficient—but the complexity created new planning opportunities.
 
-#### Corporate Residence in the Digital Age
+### Corporate Residence in the Digital Age
 
 Traditional POEM concepts assume physical board meetings and identifiable management locations. Modern business reality challenges these assumptions:
 

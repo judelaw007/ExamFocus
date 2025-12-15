@@ -174,58 +174,46 @@ Every significant concept is demonstrated through:
 5. **Common errors** (from examiner reports)
 6. **Variation patterns** (how this question type changes year to year)
 
-### 6. **The 15% Discussion Enhancement Principle**
+### 6. **The Discussion Enhancement Principle (Avoiding "Bullet Point Syndrome")**
 
-While Exam Focus courses prioritize exam alignment and concise delivery, each chapter should include approximately **15% additional discussion content** that enriches understanding without compromising exam focus.
+While Exam Focus courses prioritize exam alignment and concise delivery, chapters must **not** become sterile collections of tables, bullet points, and visual flows. Approximately **15% of each chapter's content** should be substantive prose discussion that enriches understanding—but this is a **writing principle, not a literal section header**.
 
-**Why 15% Discussion Matters**:
-- Provides **theoretical depth** that supports long-term retention
-- Offers **contextual understanding** of why rules exist, not just what they are
-- Includes **policy debates and comparative perspectives** that demonstrate mastery
-- Enables candidates to handle **novel question variations** by understanding underlying principles
-- Creates **professional foundation** for post-exam application of knowledge
+**The Problem We're Solving**:
+Exam-focused materials often become so stripped-down that they lose pedagogical value. Students see:
+- Table after table
+- Bullet point after bullet point
+- Flowcharts without context
+- Rules without rationale
 
-**What 15% Discussion Includes**:
+This creates **pattern memorization without understanding**, which fails candidates when examiners ask questions in unexpected ways.
 
-| Discussion Type | Purpose | Example |
-|----------------|---------|---------|
-| **Theoretical foundations** | Historical/conceptual basis for rules | Westphalian sovereignty underpinning tax jurisdiction |
-| **Policy rationale** | Why legislators created these rules | Race to the bottom debate in tax competition |
-| **Comparative analysis** | How different jurisdictions approach same issue | Revenue rule across common law vs civil law systems |
-| **Economic implications** | Real-world impact of tax rules | Double taxation effects on cross-border investment |
-| **Emerging challenges** | Modern issues testing traditional concepts | Digital economy classification challenges |
-| **Professional context** | How practitioners apply these concepts | Transfer pricing documentation strategies |
+**The Solution - Integrated Discussion**:
+Weave substantive discussion **naturally throughout** the chapter. Don't create a separate "Discussion" section—instead, ensure that explanatory prose connects concepts, provides context, and builds understanding alongside the exam-focused elements.
 
-**Implementation Rule**: The 15% enhancement must:
-1. **Never replace** exam-focused content—it supplements existing material
-2. **Appear after** core exam content in each section
-3. **Connect explicitly** to exam application ("This understanding helps when...")
-4. **Use clear headers** distinguishing discussion from core exam material
-5. **Remain proportional**—15% means if a section is 1,000 words, add ~150 words of discussion
+**What Integrated Discussion Looks Like**:
 
-**Example Structure**:
-```
-TOPIC: Article 27 - Assistance in Collection
+| Discussion Type | How to Integrate | Example |
+|----------------|------------------|---------|
+| **Theoretical foundations** | Introduce concepts with 2-3 sentences of context before the table/framework | "The distinction between source and residence taxation reflects a fundamental tension in international tax policy, rooted in competing theories of fiscal jurisdiction..." |
+| **Policy rationale** | Explain *why* after presenting *what* | After listing CFC rules: "These rules emerged because countries feared losing tax revenue as MNCs parked profits in low-tax subsidiaries..." |
+| **Comparative perspectives** | Note differences when presenting rules | "While most OECD countries use POEM for corporate residence, the UK traditionally relied on central management and control..." |
+| **Practical implications** | Connect rules to real-world impact | "This distinction matters because treaty benefits may be denied if residence cannot be clearly established..." |
+| **Emerging challenges** | Acknowledge modern complexities | "Digital businesses complicate traditional source rules because value creation occurs across multiple jurisdictions simultaneously..." |
 
-[CORE EXAM CONTENT - 85%]
-• Exam Intelligence Box
-• Key provisions and mechanism
-• How examiners test this
-• Worked example
-• Common errors
+**Implementation Principle**:
+- **DO**: Integrate discussion naturally—explain context, rationale, and implications as you present material
+- **DO**: Write flowing prose that connects concepts, not just lists of facts
+- **DO**: Help readers understand *why* rules exist, not just *what* they are
+- **DON'T**: Create a separate section labeled "Discussion Enhancement" or "15% Discussion"
+- **DON'T**: Add discussion as an afterthought appendage to otherwise mechanical content
+- **DON'T**: Let any chapter become purely tables, bullets, and frameworks without explanatory prose
 
-[15% DISCUSSION ENHANCEMENT]
-#### Comparative Analysis: The Revenue Rule Across Jurisdictions
-The revenue rule, while originating in English common law...
-[Provides depth without removing any exam-focused material]
-```
-
-**Quality Check**: After adding 15% discussion, verify:
-- [ ] All original exam-focused content remains intact
-- [ ] Discussion enhances rather than distracts from exam preparation
-- [ ] Discussion is clearly demarcated from core content
-- [ ] Total chapter length increased by approximately 15%
-- [ ] Discussion could help candidate answer unexpected question variations
+**Quality Check**: When reviewing a chapter, ask:
+- [ ] Does the chapter read as coherent prose with supporting visuals, or as a collection of visuals with minimal prose?
+- [ ] Would a reader understand *why* these rules exist, or only *what* they are?
+- [ ] Is there explanatory context woven throughout, or just at the beginning/end?
+- [ ] Could a reader explain these concepts to someone else, or only recognize patterns?
+- [ ] Does the chapter feel like it was written by an expert teacher, or assembled from a database?
 
 ### 7. **Progressive Skill Building**
 
@@ -501,19 +489,14 @@ Strategic Priority: ★★★★☆ [Rating explanation]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-**B. Concept Foundation** (15% of chapter)
+**B. Concept Foundation** (30% of chapter)
 - Minimum viable theory for exam competence
 - Direct language, zero jargon unless exam-critical
 - Immediately link concepts to exam application
 - Use simple examples (not exam questions yet)
-
-**B+. Discussion Enhancement** (15% of chapter - THE 15% PRINCIPLE)
-- Theoretical foundations and historical context
-- Policy rationale and debates
-- Comparative analysis across jurisdictions
-- Economic implications and emerging challenges
-- Clearly demarcated from core content with distinct headers
-- Enriches understanding without replacing exam-focused material
+- **Integrate discussion naturally**: Include context, rationale, and implications woven throughout—not as a separate section
+- Explain *why* rules exist alongside *what* they are
+- Connect concepts with flowing prose, not just tables and bullet points
 
 **C. Exam Application Framework** (25% of chapter)
 - Question pattern taxonomy for this topic
@@ -618,11 +601,11 @@ After each chapter:
 ✅ **Perfect**: Progressive skill building with self-assessment checkpoints
 ❌ **Imperfect**: Linear content delivery without skill development tracking
 
-### 11. **15% Discussion Enhancement**
-✅ **Perfect**: Each chapter includes ~15% additional discussion (theory, policy, comparative analysis) that enriches understanding while preserving all exam-focused content
-❌ **Imperfect**: Dry, purely mechanical content that covers exam patterns without any contextual depth, OR excessive academic content that dilutes exam focus
+### 11. **Substantive Prose Throughout (No "Bullet Point Syndrome")**
+✅ **Perfect**: Each chapter weaves explanatory discussion naturally throughout—context, rationale, and implications integrated with exam-focused material, creating coherent prose that teaches understanding
+❌ **Imperfect**: Dry, purely mechanical content consisting mainly of tables, bullet points, and flowcharts without explanatory prose, OR a tacked-on "Discussion" section that feels separate from the main content
 
-**The Balance**: Discussion content should help candidates understand WHY rules exist, enabling them to handle unexpected question variations. It should never replace exam-focused material—it supplements it.
+**The Balance**: Discussion should be integrated, not segregated. Readers should understand *why* rules exist as they learn *what* they are. Never create a literal "15% Discussion Enhancement" section—the discussion principle is about writing style, not document structure.
 
 ---
 
@@ -891,9 +874,9 @@ Before declaring an Exam Focus course complete, verify:
 - [ ] Common errors cataloged from examiner reports
 - [ ] Jargon systematically eliminated or justified
 - [ ] Pattern recognition triggers identified for all question types
-- [ ] 15% discussion enhancement included in each chapter
-- [ ] Discussion content clearly demarcated from core exam material
-- [ ] Discussion enhances without replacing exam-focused content
+- [ ] Substantive prose discussion integrated naturally throughout each chapter
+- [ ] Chapters explain *why* rules exist, not just *what* they are
+- [ ] Content reads as coherent teaching material, not just tables and bullet points
 
 ### Completeness
 - [ ] Course is self-sufficient (no required supplements)

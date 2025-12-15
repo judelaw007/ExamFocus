@@ -215,7 +215,7 @@ US citizens considering renunciation face:
 
 ---
 
-## E. 15% DISCUSSION ENHANCEMENT
+## E. HISTORICAL AND POLICY CONTEXT
 
 ### Historical Origins of US Citizenship-Based Taxation
 

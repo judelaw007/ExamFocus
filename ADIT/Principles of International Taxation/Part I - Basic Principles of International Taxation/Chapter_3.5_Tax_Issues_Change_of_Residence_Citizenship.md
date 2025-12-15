@@ -393,7 +393,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 ---
 
-## F. 15% DISCUSSION ENHANCEMENT
+## F. GLOBAL TRENDS AND POLICY DEVELOPMENTS
 
 ### The Global Trend Toward Exit Taxation
 
