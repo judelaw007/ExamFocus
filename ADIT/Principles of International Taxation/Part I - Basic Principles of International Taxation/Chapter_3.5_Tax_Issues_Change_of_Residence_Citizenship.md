@@ -221,17 +221,22 @@ Dual residence occurs when an individual is **simultaneously resident** in two s
 **The Sequential Tests** (Article 4(2)):
 
 ```
-TREATY TIE-BREAKER SEQUENCE - INDIVIDUALS
+TREATY TIE-BREAKER SEQUENCE - INDIVIDUALS (ARTICLE 4(2))
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1: PERMANENT HOME
+STEP 1: PERMANENT HOME TEST
+         → If home in ONE state only: Resident there (STOP)
+         → If home in BOTH states: Apply CVI sub-test
+              └─ CENTRE OF VITAL INTERESTS (sub-test)
+                 → Closer personal AND economic relations
+                 → If CVI resolves: Resident there (STOP)
+                 → If CVI indeterminate: Go to Step 2
+         → If home in NEITHER state: Go to Step 2
+
+STEP 2: HABITUAL ABODE
          ↓ If in both states or neither...
-STEP 2: CENTRE OF VITAL INTERESTS
-         ↓ If cannot be determined...
-STEP 3: HABITUAL ABODE
-         ↓ If in both states or neither...
-STEP 4: NATIONALITY
+STEP 3: NATIONALITY
          ↓ If national of both or neither...
-STEP 5: MUTUAL AGREEMENT PROCEDURE
+STEP 4: MUTUAL AGREEMENT PROCEDURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -643,14 +648,16 @@ CHANGE OF RESIDENCE - EXAM ESSENTIALS
 3. DUAL RESIDENCE: Apply domestic rules of EACH state first;
    only use treaty tie-breakers if resident in BOTH
 
-4. TIE-BREAKER SEQUENCE: Permanent home → Centre of vital
-   interests → Habitual abode → Nationality → MAP
+4. TIE-BREAKER SEQUENCE: Permanent home test (with CVI as
+   sub-test if home in both states) → Habitual abode →
+   Nationality → MAP
 
 5. PERMANENT HOME: Requires dwelling available continuously,
    maintained and used regularly - not temporary accommodation
 
-6. CENTRE OF VITAL INTERESTS: Balance personal relations
-   (family, social) and economic relations (work, assets)
+6. CENTRE OF VITAL INTERESTS: Sub-test within permanent home
+   test; balance personal and economic relations; only
+   applied when permanent home exists in BOTH states
 
 7. UK TNR RULES: Anti-avoidance catches gains realised during
    non-residence <5 years; taxed in year of return
