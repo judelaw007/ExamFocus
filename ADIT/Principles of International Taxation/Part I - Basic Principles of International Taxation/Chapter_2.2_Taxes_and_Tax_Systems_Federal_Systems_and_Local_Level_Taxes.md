@@ -1,4 +1,4 @@
-# Chapter 3: Federal Systems and Local-Level Taxes
+# Chapter 2.2: Taxes and Tax Systems - Federal Systems and Local-Level Taxes
 
 ## Understanding Multi-Level Taxation in International Context
 
@@ -484,4 +484,4 @@ FEDERAL SYSTEMS AND LOCAL-LEVEL TAXES - ESSENTIALS
 
 ---
 
-*Chapter 3 | Exam Focus: Principles of International Taxation*
+*Chapter 2.2 | Exam Focus: Principles of International Taxation*

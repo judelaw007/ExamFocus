@@ -1,4 +1,4 @@
-# Chapter 2: Definition and Classification of Taxes
+# Chapter 2.1: Taxes and Tax Systems - Definition and Classification of Taxes
 
 ## Understanding the Building Blocks of Taxation
 
@@ -357,4 +357,4 @@ DEFINITION AND CLASSIFICATION OF TAXES - ESSENTIALS
 
 ---
 
-*Chapter 2 | Exam Focus: Principles of International Taxation*
+*Chapter 2.1 | Exam Focus: Principles of International Taxation*
