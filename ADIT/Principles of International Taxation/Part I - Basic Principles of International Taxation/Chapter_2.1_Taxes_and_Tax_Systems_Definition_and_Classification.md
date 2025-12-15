@@ -1,4 +1,4 @@
-# Chapter 2.1: Definition and Classification of Taxes
+# Chapter 2.1: Taxes and Tax Systems - Definition and Classification of Taxes
 
 ## Understanding the Building Blocks of Taxation
 
@@ -54,6 +54,30 @@ INDIRECT RELEVANCE:
 | **Levy** | Generic term that can include taxes |
 
 **Why This Matters for International Tax**: Article 2 of the OECD MTC defines which taxes are "covered" by the treaty. Understanding what constitutes a "tax" helps determine whether a particular charge falls within treaty scope.
+
+#### The Boundary Problem: When Is a Charge a "Tax"?
+
+In practice, determining whether a government charge constitutes a "tax" can be surprisingly complex. This matters significantly for treaty coverage and relief eligibility.
+
+**Illustrative Cases**:
+
+| Charge Type | Tax or Not? | Reasoning |
+|-------------|-------------|-----------|
+| Social Security Contributions | Depends | Tax if general revenue; not if earmarked fund with direct benefit link |
+| Digital Services Tax | Yes | Levied on revenue, compulsory, unrequited |
+| Airport Departure Fee | No | Direct service nexus (use of airport facilities) |
+| Windfall Profits Levy | Yes | Compulsory, based on income/profits |
+| Carbon Emission Permits (auction) | Borderline | Could be price for pollution right or regulatory tax |
+
+**The Economic vs. Legal Distinction**:
+
+Economists and lawyers may view the same charge differently:
+- **Economic perspective**: Focus on who bears the burden (incidence) - VAT is economically borne by consumers even though legally imposed on businesses
+- **Legal perspective**: Focus on statutory designation and formal characteristics - essential for treaty application
+
+For ADIT purposes, the legal/formal approach prevails when analyzing treaty coverage, but understanding economic incidence helps explain policy rationale and practical effects.
+
+**Modern Challenges**: New revenue-raising mechanisms (carbon pricing, digital levies, excess profit taxes) create classification uncertainty. The OECD has issued guidance confirming that novel charges on income or profit generally qualify as "taxes" for treaty purposes, even if not labelled as such.
 
 ---
 
@@ -135,6 +159,26 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 
 **Treaty Relevance**: Article 22 OECD MTC covers "Capital" taxes. Real property is addressed in Article 6 and Article 13(1).
 
+#### The Shifting Balance: Income vs. Consumption Taxation
+
+Global tax systems have evolved significantly over recent decades, with important implications for international taxation:
+
+**Historical Trend**: Governments have increasingly shifted tax burden from income to consumption:
+
+| Period | Dominant Revenue Source | Key Characteristics |
+|--------|------------------------|---------------------|
+| Pre-1960s | Customs and excise | Border-focused, easy collection |
+| 1960s-1990s | Personal/corporate income tax | Progressive, ability-to-pay |
+| 1990s-present | VAT/GST expansion | Broad-based, revenue stability |
+| 2020s onwards | Digital levies emerging | New challenges for classification |
+
+**Why This Matters**:
+1. **Treaty coverage**: DTAs cover income taxes but NOT consumption taxes - as income tax share falls, the proportion of taxation outside treaty scope rises
+2. **Tax competition**: Corporate income tax rates have declined globally (average statutory rate: 50%+ in 1980 → ~23% in 2024), while VAT rates have risen
+3. **Base erosion**: Mobile income (corporate profits, capital gains) is more easily shifted than consumption, creating pressure for consumption-based alternatives
+
+**Policy Implications**: Some scholars argue for destination-based cash flow taxes (DBCFT) that would tax consumption at destination while exempting exports - potentially eliminating many transfer pricing and base erosion issues. However, such fundamental reform faces significant political and practical obstacles.
+
 ---
 
 ### 4. Characteristics of a Good Tax System
@@ -192,6 +236,32 @@ Withholding taxes (WHT) on passive income (dividends, interest, royalties) are:
 - Direct taxes (on income)
 - Covered by DTAs (Articles 10, 11, 12)
 - Subject to rate limitations under treaties
+
+#### 4. Classification Challenges in the Digital Economy
+
+The digital economy has created novel classification questions that test the boundaries of traditional tax categories:
+
+**Digital Services Taxes (DSTs)**:
+Many countries have introduced DSTs on digital services revenues. These typically:
+- Apply to gross revenues (not profits)
+- Target specific digital activities (advertising, marketplace, data)
+- Are levied on businesses above size thresholds
+
+**Classification Debate**: Are DSTs "taxes on income" covered by treaties?
+
+| Argument For Coverage | Argument Against Coverage |
+|----------------------|---------------------------|
+| Based on business revenues (a form of income) | Gross revenue ≠ income (no expense deductions) |
+| Intended to tax digital economy profits | More akin to turnover tax than income tax |
+| Article 2(2) covers taxes on "elements of income" | Discriminatory design may take it outside treaty scope |
+
+**The OECD Position**: The OECD has indicated that many DSTs may NOT be covered by existing treaties because they tax gross revenues rather than net income. This uncertainty has contributed to trade tensions and underscores the need for multilateral solutions (Pillar One).
+
+**Pillar Two Classification**: The Global Anti-Base Erosion (GloBE) rules introduce novel concepts:
+- **Qualified Domestic Minimum Top-up Tax (QDMTT)**: Is this a "tax on income"?
+- **Undertaxed Profits Rule (UTPR)**: Denies deductions rather than imposing tax directly
+
+These mechanisms may require specific treaty provisions to clarify their treatment, as traditional classification principles provide uncertain answers.
 
 ---
 
