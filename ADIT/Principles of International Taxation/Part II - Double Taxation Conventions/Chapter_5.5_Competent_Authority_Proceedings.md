@@ -6,403 +6,393 @@
 Topic: Resolving Interpretation Issues by Competent Authority Proceedings
 Syllabus Level: 3 (Advanced)
 Syllabus Reference: II.E.5
-Exam Frequency: HIGH – Direct examination: June 2022 Q3 (25 marks); commonly referenced
-Past Appearances: June 2022 Q3 (MAP as definitive solution); June 2023 Q6 (dispute prevention/resolution); December 2022 Q7 (dual residence MAP)
-Mark Range: 15-25 marks (full questions on MAP); 5-10 marks (as part of interpretation questions)
-Time Allocation: 25-40 minutes
-Strategic Priority: ★★★★☆ HIGH – Essential for dispute resolution understanding
+Focus: Article 25(3) – Interpretation and Application Difficulties
+Exam Frequency: MODERATE – Often linked to Article 3(2); appears in interpretation questions
+Past Appearances: June 2022 Q3 (MAP generally); June 2023 Q4 (interpretation); December 2023 Q1 (interpretation)
+Mark Range: 5-15 marks (as part of interpretation questions)
+Time Allocation: 15-25 minutes
+Strategic Priority: ★★★★☆ HIGH – Completes interpretation framework
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-## 1. INTRODUCTION: THE MUTUAL AGREEMENT PROCEDURE
+## 1. ARTICLE 25(3): THE INTERPRETATION RESOLUTION MECHANISM
 
-### 1.1 What is MAP?
+### 1.1 The Provision
 
-The **Mutual Agreement Procedure (MAP)** is the primary mechanism under DTCs for resolving disputes, including interpretation issues. It is governed by **Article 25** of the OECD MTC and UN MDTC.
+**Article 25(3) OECD MTC**:
+> *"The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention."*
 
-**Definition** (Lombardo, 2008):
-> *"A special procedure outside domestic law aimed at resolving the dispute on an amicable basis, i.e. by the agreement between the competent authorities of the contracting states, in cases where tax has been charged, or is going to be charged, in disregard of the provisions of a tax treaty, with a view to securing the uniform application and interpretation of the tax convention in both countries."*
+This provision is **distinct** from Articles 25(1)-(2), which deal with individual taxpayer relief. Article 25(3) addresses **general interpretation issues**.
 
-### 1.2 Key Characteristics
-
-| Feature | Description |
-|---------|-------------|
-| **Nature** | Inter-governmental procedure, not domestic legal process |
-| **Parties** | Competent authorities of both Contracting States |
-| **Trigger** | Taxpayer request OR competent authority initiative |
-| **Scope** | Interpretation, application, cases not provided for |
-| **Goal** | Eliminate taxation not in accordance with the DTC |
-| **Outcome** | "Endeavour" to resolve—not guaranteed outcome |
-
----
-
-## 2. ARTICLE 25 OECD MTC: STRUCTURE AND CONTENT
-
-### 2.1 Overview of Article 25 Paragraphs
+### 1.2 The Two Limbs of Article 25(3)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│               ARTICLE 25 OECD MTC STRUCTURE                     │
+│            ARTICLE 25(3) - TWO DISTINCT FUNCTIONS               │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  Paragraph 1: TAXPAYER INITIATION                               │
-│               • Right to present case to competent authority    │
-│               • Three-year time limit                           │
+│  FIRST LIMB: INTERPRETATION AND APPLICATION                     │
+│  ─────────────────────────────────────────────────────────────  │
+│  "shall endeavour to resolve by mutual agreement any            │
+│  difficulties or doubts arising as to the interpretation        │
+│  or application of the Convention"                              │
 │                                                                 │
-│  Paragraph 2: CA CONSULTATION                                   │
-│               • Endeavour to resolve by mutual agreement        │
-│               • Eliminate taxation not in accordance with DTC   │
-│               • Implementation notwithstanding domestic limits  │
+│  • MANDATORY: CAs "shall endeavour" (though no obligation       │
+│    to reach agreement)                                          │
+│  • Scope: Interpretation AND application issues                 │
+│  • Trigger: Difficulties or doubts arising                      │
+│  • Nature: General issues, not just specific taxpayer cases     │
 │                                                                 │
-│  Paragraph 3: INTERPRETATION AND GENERAL ISSUES                 │
-│               • Resolve difficulties/doubts re interpretation   │
-│               • Cases not provided for in Convention            │
-│               • Direct communication between CAs                │
+├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  Paragraph 4: JOINT COMMISSION (Optional)                       │
-│               • CAs may communicate directly                    │
-│               • Joint commission possible                       │
+│  SECOND LIMB: CASES NOT PROVIDED FOR                            │
+│  ─────────────────────────────────────────────────────────────  │
+│  "may also consult together for the elimination of double       │
+│  taxation in cases not provided for in the Convention"          │
 │                                                                 │
-│  Paragraph 5: ARBITRATION                                       │
-│               • Unresolved issues after 2 years                 │
-│               • Submitted to arbitration at taxpayer request    │
-│               • Decision binding unless taxpayer rejects        │
+│  • PERMISSIVE: CAs "may" consult (discretionary)                │
+│  • Scope: Gap-filling for situations not covered                │
+│  • Purpose: Eliminate double taxation                           │
+│  • Nature: Extension beyond treaty text                         │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 2.2 Article 25(1): Taxpayer Initiation
+---
 
-**Article 25(1)**: *"Where a person considers that the actions of one or both of the Contracting States result or will result in taxation not in accordance with the provisions of this Convention, he may... present his case to the competent authority of the Contracting State of which he is a resident..."*
+## 2. ARTICLE 25(3) AND TREATY INTERPRETATION
 
-**Key elements**:
-- **Who can initiate**: The affected taxpayer (person)
-- **When**: Within **three years** from first notification of the action
-- **Where**: To competent authority of residence State (or either State for nationality discrimination)
-- **Standard**: "Considers"—subjective belief of non-compliance
-- **Timing**: Can be initiated when there is a **probable** (not merely possible) risk of non-compliant taxation
+### 2.1 Position in the Interpretation Framework
 
-**Commentary guidance** [14]-[15]: MAP can be initiated without waiting until taxation has actually been charged, where there is probable risk.
-
-### 2.3 Article 25(2): CA Consultation and Resolution
-
-**Article 25(2)**: *"The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State..."*
-
-**Key elements**:
-- **Endeavour**: CAs must try, but are **not obligated** to reach agreement
-- **Justified objection**: CA must consider taxpayer's case has merit
-- **Bilateral resolution**: If unilateral solution not possible
-- **No domestic time limits**: Implementation notwithstanding domestic limitations
-
-### 2.4 Article 25(3): Interpretation Issues
-
-**Article 25(3)**: *"The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention."*
-
-This is the **key provision** for resolving interpretation issues:
+Article 25(3) operates as a **procedural mechanism** within the broader interpretation framework:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│          ARTICLE 25(3) - INTERPRETATION RESOLUTION              │
+│        INTERPRETATION HIERARCHY WITH ARTICLE 25(3)              │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  CAs may use Article 25(3) to:                                  │
-│                                                                 │
-│  • Agree on DEFINITIONS of terms used in the Convention         │
-│  • Resolve AMBIGUITIES in treaty provisions                     │
-│  • Address GAPS or cases not provided for                       │
-│  • Agree on PROCEDURES for applying relief                      │
-│  • Resolve GENERAL interpretation issues affecting categories   │
-│    of taxpayers (not just specific cases)                       │
-│                                                                 │
-│  Examples from practice:                                        │
-│  • Agreement on meaning of "beneficial owner"                   │
-│  • Procedures for dual residence determination                  │
-│  • Attribution of profits to PEs                                │
-│  • Treatment of hybrid instruments                              │
+│  1. VCLT Article 31: General Rule of Interpretation             │
+│     ↓                                                           │
+│  2. Treaty text, context, object and purpose                    │
+│     ↓                                                           │
+│  3. Article 3(2): Undefined terms                               │
+│     • First: Context from treaty itself                         │
+│     • Second: UNLESS context otherwise requires OR              │
+│              competent authorities agree (Article 25)           │
+│     • Third: Domestic law meaning                               │
+│     ↓                                                           │
+│  4. ARTICLE 25(3): CA AGREEMENT ON INTERPRETATION               │
+│     • Resolves difficulties/doubts in interpretation            │
+│     • Provides uniform meaning for both States                  │
+│     • Creates subsequent agreement (VCLT Article 31(3)(a))      │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 2.5 Article 25(5): Arbitration
+### 2.2 The Critical Link: Article 3(2) and Article 25(3)
 
-**Article 25(5)** (added 2008, amended 2017):
-Where issues remain unresolved after **two years** from the date all required information was provided, unresolved issues shall, at the **taxpayer's request**, be submitted to **arbitration**.
+**Article 3(2)** explicitly references competent authority agreement:
 
-**Key features**:
-| Aspect | Rule |
-|--------|------|
-| **Trigger** | Taxpayer request in writing |
-| **Time** | After 2 years of unresolved MAP |
-| **Binding** | Yes, unless taxpayer rejects mutual agreement implementing decision |
-| **Exceptions** | Not available if court/tribunal has already decided the issue |
-| **Constitutional barriers** | Some States cannot participate due to constitutional issues |
+> *"...any term not defined therein shall, unless the context otherwise requires or the competent authorities agree to a different meaning pursuant to the provisions of Article 25, have the meaning that it has at that time under the law of that State..."*
 
-**Commentary [5]**: Arbitration is "an integral part of MAP" and "does not constitute an alternative route to resolving disputes."
+This creates a **direct interpretive pathway**:
 
----
+| Interpretive Step | Source | Result |
+|-------------------|--------|--------|
+| **Context requires** | Treaty itself | Autonomous meaning |
+| **CA agreement under Article 25** | Article 25(3) | Agreed uniform meaning |
+| **Domestic law reference** | Each State's law | Potentially divergent meanings |
 
-## 3. MAP AND INTERPRETATION: THE CONNECTION
+**Key point**: CA agreement under Article 25(3) takes **priority** over domestic law reference. It provides uniform interpretation for both Contracting States.
 
-### 3.1 How MAP Resolves Interpretation Issues
+### 2.3 Status Under VCLT
 
-MAP addresses interpretation issues in **two ways**:
+CA agreements under Article 25(3) constitute **"subsequent agreement"** under VCLT Article 31(3)(a):
 
-**1. Case-Specific Resolution (Article 25(1)-(2))**:
-- Taxpayer-initiated
-- Resolves specific interpretation dispute
-- Results in bilateral agreement for that case
-- May establish precedent for similar cases
+> *"There shall be taken into account, together with the context: (a) any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its provisions"*
 
-**2. General Interpretation (Article 25(3))**:
-- CA-initiated or arising from cases
-- Resolves difficulties/doubts for **categories** of taxpayers
-- Creates guidance for future application
-- May result in published CA agreements
-
-### 3.2 Link to Article 3(2)
-
-Recall from Chapter 5.4 that **Article 3(2)** permits competent authorities to agree a different meaning for undefined terms:
-
-*"...unless the context otherwise requires or the competent authorities agree to a different meaning pursuant to the provisions of Article 25..."*
-
-This creates a direct link between:
-- Article 3(2) (interpretation of undefined terms)
-- Article 25 (CA proceedings to agree meanings)
-
-### 3.3 Status of CA Agreements
-
-| Type | Binding on Taxpayers? | Binding on Tax Authorities? |
-|------|----------------------|----------------------------|
-| **Case-specific MAP** | Yes, if taxpayer accepts | Yes, both CAs |
-| **General interpretation** | Persuasive, not formally binding | Yes, administrative guidance |
-| **Arbitration decision** | Yes, if taxpayer accepts | Yes, both States |
+This means CA interpretive agreements:
+- Form part of the **context** for interpretation
+- Must be **taken into account** by both States
+- Have **legal weight** in interpretation hierarchy
 
 ---
 
-## 4. BEPS ACTION 14: THE MINIMUM STANDARD
+## 3. SCOPE OF ARTICLE 25(3) INTERPRETATION
 
-### 4.1 Background
-
-**BEPS Action 14** ("Making Dispute Resolution Mechanisms More Effective") established a **minimum standard** for MAP processes. All Inclusive Framework members have committed to implement it.
-
-### 4.2 The Minimum Standard Elements
+### 3.1 What Can Be Resolved?
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│           BEPS ACTION 14 MINIMUM STANDARD                       │
+│      ARTICLE 25(3) - SCOPE OF INTERPRETIVE AUTHORITY            │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  1. ENSURE TREATY OBLIGATIONS ARE IMPLEMENTED IN GOOD FAITH     │
-│     • Resolve MAP cases in timely, effective, efficient manner  │
-│     • Target: Average 24-month resolution time                  │
+│  CAs MAY AGREE ON:                                              │
+│  ─────────────────────────────────────────────────────────────  │
+│  ✓ Meaning of undefined terms (link to Article 3(2))            │
+│  ✓ Classification of income under distributive articles        │
+│  ✓ Application of anti-abuse provisions                         │
+│  ✓ Procedural matters for applying treaty relief                │
+│  ✓ Resolution of ambiguous provisions                           │
+│  ✓ Attribution of profits to permanent establishments           │
+│  ✓ Dual residence determination procedures (Article 4(3))       │
+│  ✓ Treatment of hybrid instruments/entities                     │
 │                                                                 │
-│  2. ENSURE ADMINISTRATIVE PROCESSES PROMOTE MAP                 │
-│     • No barriers to access                                     │
-│     • Clear guidance for taxpayers                              │
-│     • Published MAP profiles                                    │
-│                                                                 │
-│  3. ENSURE TAXPAYERS CAN ACCESS MAP                             │
-│     • No restrictive domestic rules                             │
-│     • Access regardless of domestic appeals                     │
-│                                                                 │
-│  4. ENSURE RESOLVED CASES ARE IMPLEMENTED                       │
-│     • Notwithstanding domestic time limits                      │
-│     • Full elimination of double taxation                       │
+│  CAs MAY NOT:                                                   │
+│  ─────────────────────────────────────────────────────────────  │
+│  ✗ Contradict clear treaty text                                 │
+│  ✗ Override express treaty provisions                           │
+│  ✗ Amend the treaty (requires formal amendment procedures)      │
+│  ✗ Grant benefits beyond treaty scope                           │
+│  ✗ Impose obligations not in treaty                             │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 4.3 Peer Review Process
+### 3.2 Examples of Article 25(3) Interpretive Agreements
 
-- All Inclusive Framework members undergo **peer review**
-- Stage 1: Initial assessment
-- Stage 2: Follow-up on recommendations
-- **2024 onwards**: Continued monitoring with simplified process for countries without "meaningful MAP experience"
-- Results published by OECD
+**Practical applications**:
 
-### 4.4 MAP Statistics
+| Issue | Article 25(3) Resolution |
+|-------|--------------------------|
+| **"Beneficial owner"** | CAs agree on meaning and application criteria |
+| **Hybrid instruments** | CAs agree on classification (debt vs equity) |
+| **PE threshold** | CAs agree on interpretation of "fixed place of business" |
+| **Service fee characterisation** | CAs agree whether fees are royalties, business profits, or other income |
+| **Dual resident entities** | CAs establish procedures for Article 4(3) determination |
+| **Income attribution** | CAs agree on methods for profit allocation |
 
-The OECD publishes annual **MAP statistics**:
-- Case inventory (start, opened, closed, end)
-- Average resolution time
-- Breakdown by type (transfer pricing, other)
-- Resolution outcomes
+### 3.3 Difference from Individual Relief (Article 25(1)-(2))
 
-**Key statistics** (illustrative):
-- ~85% of MAP cases are resolved
-- Average resolution time targeted at 24 months
-- Transfer pricing cases often take longer
-- Some countries have significant backlogs
-
----
-
-## 5. ARBITRATION: ARTICLE 25(5) AND MLI
-
-### 5.1 The Optional Nature
-
-Mandatory binding arbitration (Article 25(5)) is **not** part of the BEPS minimum standard—it is a **recommended best practice**.
-
-**Reasons some countries resist**:
-- Constitutional barriers (arbitrators deciding tax issues)
-- Sovereignty concerns
-- Capacity constraints
-- Policy objections
-
-### 5.2 MLI Part VI: Arbitration
-
-The MLI includes **Part VI** on arbitration (Articles 18-26), which is **optional**:
-
-**Key MLI arbitration features**:
-- Applies only where both parties have opted in
-- Various reservations permitted
-- Decision is **binding** and **final**
-- Unless taxpayer rejects or court finds decision invalid
-
-**MLI Article 19**: *"The arbitration decision with respect to the issues submitted to arbitration shall be implemented through the MAP concerning the case... the arbitration decision shall be final."*
-
-### 5.3 When Arbitration Decision Is Not Binding
-
-Per MLI and Article 25(5), the arbitration decision is **not binding** if:
-1. Taxpayer directly affected **does not accept** the mutual agreement implementing it
-2. Court of either State finds the decision **invalid** due to procedural violation
-3. Taxpayer **pursues litigation** on issues resolved in the MAP agreement
+| Feature | Article 25(1)-(2) | Article 25(3) |
+|---------|-------------------|---------------|
+| **Trigger** | Taxpayer request | CA initiative or arising from issues |
+| **Scope** | Specific case/taxpayer | General interpretation issues |
+| **Time limit** | 3 years from notification | No time limit |
+| **Focus** | Taxation not in accordance with DTC | Interpretation difficulties/doubts |
+| **Beneficiary** | Individual taxpayer | All affected taxpayers |
+| **Nature** | Remedial | Interpretive/preventive |
 
 ---
 
-## 6. PRACTICAL ISSUES AND LIMITATIONS
+## 4. PROCEDURE AND IMPLEMENTATION
 
-### 6.1 The "Endeavour" Problem
+### 4.1 How Article 25(3) Operates
 
-A fundamental limitation: CAs are only required to **endeavour** to resolve—they are not obligated to reach agreement.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│           ARTICLE 25(3) PROCEDURE                               │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  STEP 1: IDENTIFICATION OF ISSUE                                │
+│          • Interpretation difficulty or doubt arises            │
+│          • May emerge from specific cases or general practice   │
+│          • Either CA may initiate                               │
+│                                                                 │
+│  STEP 2: CA CONSULTATION                                        │
+│          • Direct communication between CAs                     │
+│          • No requirement for taxpayer involvement              │
+│          • Article 25(4) permits direct communication           │
+│                                                                 │
+│  STEP 3: MUTUAL AGREEMENT                                       │
+│          • CAs "endeavour" to agree                             │
+│          • No obligation to reach agreement                     │
+│          • If agreed, creates binding interpretation            │
+│                                                                 │
+│  STEP 4: IMPLEMENTATION                                         │
+│          • Published guidance (in many countries)               │
+│          • Administrative practice updated                      │
+│          • Applies prospectively (and sometimes retrospectively)│
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-**Consequences**:
-- No guaranteed resolution
-- Taxpayer may remain in double taxation
-- No remedy if CAs cannot agree (absent arbitration)
+### 4.2 Form of CA Agreements
 
-As the June 2022 exam noted: *"Representatives are required to attempt to reach a resolution as opposed to being compelled to achieve a final agreement."* (Markham, 2018)
+CA interpretive agreements may take various forms:
 
-### 6.2 Time Limits and Delays
+| Form | Description | Binding Effect |
+|------|-------------|----------------|
+| **Exchange of letters** | Formal correspondence between CAs | Binding on both tax authorities |
+| **Published memorandum** | Joint interpretive guidance | Administrative binding |
+| **Unpublished agreement** | Internal administrative agreement | Binding but not transparent |
+| **Protocol amendment** | Formal addition to treaty | Legally binding |
 
-| Time Issue | Details |
-|------------|---------|
-| **3-year initiation** | Taxpayer must submit within 3 years of first notification |
-| **24-month target** | BEPS Action 14 target for resolution |
-| **Actual times** | Often much longer; some cases take many years |
-| **Pre-2016 data** | Less reliable; some countries reported 100+ month averages |
+### 4.3 Commentary Guidance
 
-**June 2022 exam reference**: Belgium completed eight cases with non-OECD economies at an average of 116 months.
+**OECD Commentary on Article 25, paragraph [56]**:
+> *"The competent authorities are, in fact, empowered to settle interpretation questions of a general nature, irrespective of specific cases that may arise..."*
 
-### 6.3 Finality of Decision-Making
-
-The June 2022 exam focused on whether MAP provides **final solutions**:
-
-**Factors limiting finality**:
-1. **No obligation to agree**: CAs only "endeavour"
-2. **Taxpayer rejection**: Can reject MAP agreement and pursue domestic remedies
-3. **Domestic court conflicts**: Court decisions may conflict with MAP outcomes
-4. **Arbitration opt-out**: Many countries have not adopted Article 25(5)
-5. **Reservations**: Countries may reserve on specific provisions
-
-**Factors supporting finality**:
-1. **High success rate**: ~85% resolution rate
-2. **Binding arbitration**: Where adopted, provides final mechanism
-3. **Implementation obligation**: No domestic time limits apply
-4. **BEPS monitoring**: Peer pressure to improve
-
-### 6.4 Taxpayer Position
-
-**Concerns**:
-- Taxpayer not party to CA discussions
-- Limited visibility into process
-- No control over outcome
-- Must often pay tax pending resolution
-- Opportunity costs during long proceedings
-
-**Rights**:
-- Initiate MAP (Article 25(1))
-- Request arbitration (Article 25(5), where available)
-- Accept or reject MAP agreement
-- Pursue domestic remedies if rejecting
+**Paragraph [57]**:
+> *"Such interpretations, because they are agreed upon between the two States, form part of the meaning of the Convention..."*
 
 ---
 
-## 7. MAP IN THE DTC INTERPRETATION CONTEXT
+## 5. ARTICLE 25(3) AS INTERPRETIVE TOOL: EXAM FOCUS
 
-### 7.1 Common Interpretation Issues Resolved by MAP
+### 5.1 Role in Interpretation Questions
 
-| Interpretation Issue | MAP Role |
-|---------------------|----------|
-| **Dual residence** | Article 4(3) refers to CA determination |
-| **PE attribution** | Profits attributable to PE |
-| **Transfer pricing** | Arm's length adjustments |
-| **Beneficial owner** | Meaning and application |
-| **Article characterisation** | Which distributive article applies |
-| **Treaty qualification** | How hybrid instruments are treated |
+When answering interpretation questions, Article 25(3) should be discussed as:
 
-### 7.2 Article 4(3): Dual Resident Entities
+1. **A procedural mechanism** for resolving interpretation difficulties
+2. **An alternative** to domestic law reference under Article 3(2)
+3. **A source of subsequent agreement** under VCLT Article 31(3)(a)
+4. **A means of achieving uniform interpretation** between Contracting States
 
-The tie-breaker for **dual-resident entities** (post-2017) explicitly involves MAP:
+### 5.2 Integration with Other Interpretation Topics
 
-**Article 4(3)**: *"...the competent authorities of the Contracting States shall endeavour to determine by mutual agreement the Contracting State of which such person shall be deemed to be a resident..."*
+```
+┌─────────────────────────────────────────────────────────────────┐
+│    ARTICLE 25(3) IN THE INTERPRETATION FRAMEWORK                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  CHAPTER 5.1: General Approach                                  │
+│  → Article 25(3) provides procedure for CA resolution           │
+│                                                                 │
+│  CHAPTER 5.2: Vienna Convention                                 │
+│  → CA agreements = "subsequent agreement" under VCLT 31(3)(a)   │
+│                                                                 │
+│  CHAPTER 5.3: OECD Commentaries                                 │
+│  → CA agreements may reflect Commentary guidance                │
+│  → CA practice may diverge from Commentary                      │
+│                                                                 │
+│  CHAPTER 5.4: Article 3(2)                                      │
+│  → Article 25(3) provides mechanism for CA agreement            │
+│  → Alternative to domestic law reference                        │
+│  → Creates uniform interpretation                               │
+│                                                                 │
+│  CHAPTER 5.5: This Chapter                                      │
+│  → Article 25(3) as primary CA interpretive mechanism           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-If CAs cannot agree, the entity may **lose treaty benefits entirely** (Commentary [24.4]).
+---
 
-**June 2025 exam reference**: *"If they fail to reach agreement, the person may lose DTA benefits."*
+## 6. LIMITATIONS AND ISSUES
 
-### 7.3 CA Agreements Under Article 3(2)
+### 6.1 The "Endeavour" Standard
 
-Where competent authorities agree on a meaning under Article 3(2)/Article 25:
-- The agreed meaning applies for both States
-- Provides **uniform interpretation**
-- Avoids divergent domestic law references
-- Published agreements guide future application
+Article 25(3) requires CAs to **"endeavour"** to resolve interpretation issues. This means:
+- CAs must make **good faith effort** to agree
+- There is **no obligation** to reach agreement
+- If CAs cannot agree, interpretation difficulty **remains unresolved**
+
+**Consequences of non-agreement**:
+- Divergent interpretations may persist
+- Taxpayers face uncertainty
+- Potential double taxation or double non-taxation
+- Domestic courts must resolve without CA guidance
+
+### 6.2 Binding Effect Questions
+
+| Question | Analysis |
+|----------|----------|
+| **Binding on tax authorities?** | Yes—constitutes administrative guidance |
+| **Binding on taxpayers?** | Generally yes, but taxpayer can challenge in domestic courts |
+| **Binding on courts?** | Persuasive, but courts retain interpretive authority |
+| **Retrospective effect?** | Depends on agreement terms; generally prospective |
+
+### 6.3 Transparency Concerns
+
+CA agreements under Article 25(3) may be:
+- **Published**: Provides certainty but rare in practice
+- **Unpublished**: Common but creates transparency issues
+- **Informal**: Practical but may lack legal clarity
+
+**BEPS Action 14** encourages publication of CA agreements to improve transparency.
+
+---
+
+## 7. ARTICLE 25(3) AND THE SECOND LIMB: CASES NOT PROVIDED FOR
+
+### 7.1 Gap-Filling Function
+
+The second sentence of Article 25(3) permits CAs to address situations **not covered** by the Convention:
+
+> *"They may also consult together for the elimination of double taxation in cases not provided for in the Convention."*
+
+**Key distinctions from first limb**:
+
+| First Limb | Second Limb |
+|------------|-------------|
+| "Shall endeavour" (mandatory effort) | "May also consult" (permissive) |
+| Interpretation of existing provisions | Gap-filling beyond provisions |
+| Resolving difficulties | Eliminating double taxation |
+| Within treaty scope | Beyond treaty scope |
+
+### 7.2 Examples of Gap-Filling
+
+- **New types of income** not anticipated in original treaty
+- **New business models** (e.g., digital economy)
+- **Triangular cases** involving third States
+- **Treaty interaction** with domestic anti-avoidance rules
+
+### 7.3 Limits on Gap-Filling
+
+CAs cannot use the second limb to:
+- **Create new taxing rights** not in the treaty
+- **Impose new obligations** on taxpayers
+- **Contradict** express treaty provisions
+- **Exceed** their delegated authority under domestic law
 
 ---
 
 ## 8. EXAM APPLICATION
 
-### 8.1 Question Types
+### 8.1 How Article 25(3) Appears in Exams
 
-| Question Type | Focus |
-|---------------|-------|
-| "Discuss MAP as a solution to..." | Full Article 25 analysis; finality; limitations |
-| "How can interpretation disputes be resolved..." | Article 25(3); CA agreements; arbitration |
-| "Advise on the taxpayer's options..." | MAP initiation; time limits; outcomes |
-| "Evaluate BEPS Action 14..." | Minimum standard; peer review; effectiveness |
+Article 25(3) typically appears in interpretation questions as:
+- Part of the **interpretation framework** (not standalone)
+- The **procedural mechanism** for CA agreement under Article 3(2)
+- A **source of subsequent agreement** under VCLT
+
+**Past exam patterns**:
+- June 2023 Q4: Interpretation methodology including CA role
+- December 2023 Q1: Article 3(2) and CA agreement
+- June 2024 Q2: Complete interpretation framework
 
 ### 8.2 Answer Framework
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│        ANSWER FRAMEWORK FOR MAP/CA QUESTIONS                    │
+│    ARTICLE 25(3) IN INTERPRETATION ANSWERS                      │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  1. DEFINE MAP and its purpose                                  │
-│     • Special procedure outside domestic law                    │
-│     • Resolve taxation not in accordance with DTC               │
+│  When discussing UNDEFINED TERMS:                               │
+│  ─────────────────────────────────────────────────────────────  │
+│  "Under Article 3(2), undefined terms take their meaning        │
+│  from domestic law unless the context otherwise requires        │
+│  OR the competent authorities agree to a different meaning      │
+│  under Article 25. Article 25(3) provides the mechanism         │
+│  for such agreement, requiring CAs to endeavour to resolve      │
+│  interpretation difficulties by mutual agreement."              │
 │                                                                 │
-│  2. EXPLAIN Article 25 structure                                │
-│     • Taxpayer initiation (25(1))                               │
-│     • CA endeavour to resolve (25(2))                           │
-│     • Interpretation issues (25(3))                             │
-│     • Arbitration (25(5))                                       │
+│  When discussing VCLT:                                          │
+│  ─────────────────────────────────────────────────────────────  │
+│  "CA agreements under Article 25(3) constitute 'subsequent      │
+│  agreement' under VCLT Article 31(3)(a), which must be          │
+│  taken into account together with the context when              │
+│  interpreting treaty provisions."                               │
 │                                                                 │
-│  3. ADDRESS BEPS Action 14 minimum standard                     │
-│     • 24-month target                                           │
-│     • Peer review                                               │
-│     • Implementation requirements                               │
-│                                                                 │
-│  4. DISCUSS LIMITATIONS                                         │
-│     • "Endeavour" not obligation                                │
-│     • Finality issues                                           │
-│     • Time delays                                               │
-│     • Arbitration not universal                                 │
-│                                                                 │
-│  5. CONCLUDE on effectiveness/appropriateness                   │
+│  When discussing INTERPRETATION GENERALLY:                      │
+│  ─────────────────────────────────────────────────────────────  │
+│  "Article 25(3) enables CAs to resolve difficulties or          │
+│  doubts in interpretation, providing uniform meaning for        │
+│  both Contracting States and avoiding divergent domestic        │
+│  law references."                                               │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+### 8.3 Common Exam Errors
+
+| Error | Correct Approach |
+|-------|------------------|
+| Confusing Article 25(1)-(2) with 25(3) | 25(1)-(2) = individual relief; 25(3) = interpretation |
+| Stating CA agreement is "binding on courts" | CA agreements are persuasive, not strictly binding on courts |
+| Ignoring Article 25(3) in Article 3(2) analysis | Always mention CA agreement option when discussing 3(2) |
+| Treating gap-filling as mandatory | Second limb is permissive ("may"), not mandatory |
 
 ---
 
@@ -410,40 +400,37 @@ Where competent authorities agree on a meaning under Article 3(2)/Article 25:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│      RESOLVING INTERPRETATION ISSUES BY CA PROCEEDINGS          │
+│      ARTICLE 25(3) AND INTERPRETATION - KEY POINTS              │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  1. MAP (Article 25) is PRIMARY mechanism for resolving         │
-│     interpretation disputes under DTCs                          │
+│  1. ARTICLE 25(3) is the PROCEDURAL MECHANISM for CAs to        │
+│     resolve interpretation difficulties and doubts              │
 │                                                                 │
-│  2. ARTICLE 25(3) specifically addresses interpretation:        │
-│     "Resolve difficulties or doubts arising as to the           │
-│     interpretation or application of the Convention"            │
+│  2. DIRECT LINK TO ARTICLE 3(2):                                │
+│     • CA agreement takes priority over domestic law             │
+│     • Provides uniform interpretation for both States           │
+│     • Article 25(3) is the mechanism for such agreements        │
 │                                                                 │
-│  3. CAs "ENDEAVOUR" to resolve—no obligation to agree           │
-│     This is fundamental limitation                              │
+│  3. TWO LIMBS:                                                  │
+│     • First: Interpretation/application (mandatory effort)      │
+│     • Second: Cases not provided for (permissive gap-filling)   │
 │                                                                 │
-│  4. BEPS ACTION 14 minimum standard improves MAP:               │
-│     • 24-month resolution target                                │
-│     • Peer review and monitoring                                │
-│     • Implementation notwithstanding domestic limits            │
+│  4. STATUS UNDER VCLT:                                          │
+│     • CA agreements = subsequent agreement under 31(3)(a)       │
+│     • Must be taken into account in interpretation              │
 │                                                                 │
-│  5. ARBITRATION (Article 25(5)) provides finality               │
-│     • But optional—many countries have not adopted              │
-│     • MLI Part VI expands availability                          │
+│  5. "ENDEAVOUR" LIMITATION:                                     │
+│     • CAs must try but not obligated to agree                   │
+│     • Non-agreement leaves interpretation unresolved            │
 │                                                                 │
-│  6. CA agreements under Article 3(2)/25 provide:                │
-│     • Uniform interpretation                                    │
-│     • Alternative to domestic law reference                     │
+│  6. DISTINCTION FROM ARTICLES 25(1)-(2):                        │
+│     • 25(1)-(2): Individual taxpayer relief                     │
+│     • 25(3): General interpretation issues                      │
 │                                                                 │
-│  7. FINALITY is not guaranteed:                                 │
-│     • Taxpayer can reject agreement                             │
-│     • CAs may not reach agreement                               │
-│     • Arbitration not universal                                 │
-│                                                                 │
-│  8. ~85% of MAP cases are RESOLVED                              │
-│     • But process can take years                                │
-│     • Transfer pricing cases especially lengthy                 │
+│  7. EXAM INTEGRATION:                                           │
+│     • Always mention in Article 3(2) analysis                   │
+│     • Reference when discussing VCLT subsequent agreement       │
+│     • Distinguish from individual MAP                           │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -452,41 +439,44 @@ Where competent authorities agree on a meaning under Article 3(2)/Article 25:
 
 ## 10. CONNECTIONS TO OTHER TOPICS
 
-### 10.1 Building on Previous Notes
+### 10.1 Within Interpretation Series (Chapter 5)
 
-This chapter completes the interpretation section by connecting:
-- **Chapter 5.1-5.3**: CA proceedings resolve interpretation disputes identified in those chapters
-- **Chapter 5.4 (Article 3(2))**: CA agreement is alternative to domestic law reference
+| Chapter | Connection to Article 25(3) |
+|---------|----------------------------|
+| **5.1 General Approach** | Article 25(3) provides CA resolution procedure |
+| **5.2 Vienna Convention** | CA agreements are subsequent agreement under VCLT 31(3)(a) |
+| **5.3 OECD Commentaries** | CA agreements may reflect or diverge from Commentary |
+| **5.4 Article 3(2)** | Article 25(3) is the mechanism for CA agreement under 3(2) |
 
-### 10.2 Related Syllabus Topics
+### 10.2 Beyond Interpretation
 
-MAP also connects to:
-- **II.Q (Resolution of disputes)**: Article 25 generally
-- **IV.E.5 (Transfer pricing)**: MAP for TP disputes
-- **V.F.8 (BEPS Action 15)**: MLI arbitration provisions
+| Topic | Connection |
+|-------|------------|
+| **Article 4(3) Dual Residence** | CAs determine residence under Article 25(3) procedure |
+| **Transfer Pricing (Article 9)** | CA agreement on arm's length principle application |
+| **Anti-Abuse Provisions** | CA agreement on application of PPT, LOB |
+| **MLI Implementation** | CA consultations on MLI interpretation |
 
 ---
 
 ## REFERENCES
 
 **Primary Sources**:
-- OECD Model Tax Convention (2017), Article 25 and Commentary
-- UN Model Double Taxation Convention (2021), Article 25 and Commentary
-- OECD Manual on Effective Mutual Agreement Procedures (MEMAP, 2024)
-- BEPS Action 14 Final Report (2015) and Peer Review Documents
+- OECD Model Tax Convention (2017), Article 25(3) and Commentary [54]-[59]
+- UN Model Double Taxation Convention (2021), Article 25(3) and Commentary
+- Vienna Convention on the Law of Treaties (1969), Article 31(3)(a)
 
 **Secondary Sources**:
-- Markham, M. "Mandatory Arbitration" and MAP effectiveness (2018)
-- Lombardo, M. MAP definition (2008)
-- Baker, P. & Pistone, P. on taxpayer rights in MAP (2015/16)
-- Cai & Zhang on MAP statistics and agency problems (2018)
+- Vogel, K. on CA agreements as subsequent agreements under VCLT
+- Baker, P. Double Taxation Conventions, on Article 25(3) scope
+- Avery Jones, J.F. et al. on interpretation of undefined terms
+- Lang, M. on the meaning of "context otherwise requires"
 
 **Exam Resources**:
-- June 2022 Module 1 Q3 (25 marks)—MAP as definitive solution
-- June 2023 Module 1 Q6—Dispute prevention vs resolution
-- December 2022 Module 1 Q7—Dual residence and MAP
-- June 2025 Module 1—MAP and Article 4(3)
+- June 2023 Module 1 Q4—Interpretation methodology
+- December 2023 Module 1 Q1—Article 3(2) and interpretation
+- June 2024 Module 1 Q2—Complete interpretation framework
 
 ---
 
-*This note covers syllabus topic II.E.5: Resolving interpretation issues by competent authority proceedings (Level 3). The MAP under Article 25 is the primary mechanism for resolving interpretation disputes between Contracting States, though its effectiveness is limited by the "endeavour" standard and the optional nature of arbitration.*
+*This note covers syllabus topic II.E.5: Resolving interpretation issues by competent authority proceedings (Level 3). Article 25(3) provides the procedural mechanism for competent authorities to resolve interpretation difficulties, creating uniform interpretation that takes priority over domestic law reference under Article 3(2) and constitutes subsequent agreement under VCLT Article 31(3)(a).*
