@@ -108,46 +108,62 @@ As covered in Chapter 6.1, Article 1 establishes that the treaty applies to **pe
 > *(c) if he has an habitual abode in both States or in neither of them, he shall be deemed to be a resident only of the State of which he is a national;*
 > *(d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement."*
 
-### 3.2 The Sequential Tie-Breaker Tests
+### 3.2 The Tie-Breaker Structure
+
+**Important**: Article 4(2) is NOT five independent sequential tests. The structure is:
+
+- **Article 4(2)(a)**: Permanent home test, with centre of vital interests as a **sub-test** (only if permanent home in BOTH states)
+- **Article 4(2)(b)**: Habitual abode (if permanent home in NEITHER state, or if centre of vital interests inconclusive)
+- **Article 4(2)(c)**: Nationality
+- **Article 4(2)(d)**: MAP
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│      ARTICLE 4(2) - SEQUENTIAL TIE-BREAKER (INDIVIDUALS)        │
+│      ARTICLE 4(2) - TIE-BREAKER STRUCTURE (INDIVIDUALS)         │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  TEST 1: PERMANENT HOME                                         │
+│  ARTICLE 4(2)(a): PERMANENT HOME TEST                           │
 │  ─────────────────────────────────────────────────────────────  │
 │  • Dwelling continuously available (owned, rented, etc.)        │
 │  • Must be "permanent" not temporary or occasional              │
-│  • If permanent home in ONE State only → Resident of that State │
 │                                                                 │
-│          ↓ If permanent home in BOTH States                     │
+│  ┌───────────────────────────────────────────────────────────┐  │
+│  │ Permanent home in ONE State only?                         │  │
+│  │ → YES: Resident of that State (RESOLVED - STOP HERE)      │  │
+│  │ → Permanent home in BOTH States? → Apply sub-test below   │  │
+│  │ → Permanent home in NEITHER State? → Skip to Art 4(2)(b)  │  │
+│  └───────────────────────────────────────────────────────────┘  │
 │                                                                 │
-│  TEST 2: CENTRE OF VITAL INTERESTS                              │
+│  SUB-TEST (within 4(2)(a)): CENTRE OF VITAL INTERESTS           │
 │  ─────────────────────────────────────────────────────────────  │
+│  Only applies if permanent home available in BOTH States        │
 │  • Where personal AND economic relations are closer             │
 │  • Personal: family, social activities, cultural ties           │
 │  • Economic: employment, business, investments, bank accounts   │
 │  • Consider circumstances as a whole                            │
+│  • If determinable → Resident of that State (RESOLVED)          │
 │                                                                 │
-│          ↓ If centre cannot be determined                       │
+│          ↓ If centre of vital interests CANNOT be determined    │
+│            OR if permanent home in NEITHER State                │
 │                                                                 │
-│  TEST 3: HABITUAL ABODE                                         │
+│  ARTICLE 4(2)(b): HABITUAL ABODE                                │
 │  ─────────────────────────────────────────────────────────────  │
 │  • Where individual customarily lives                           │
 │  • Not simply number of days (frequency, duration, regularity)  │
 │  • Consider stays over sufficient period                        │
+│  • If habitual abode in ONE State → Resident of that State      │
 │                                                                 │
-│          ↓ If habitual abode in both or neither                 │
+│          ↓ If habitual abode in BOTH or NEITHER State           │
 │                                                                 │
-│  TEST 4: NATIONALITY                                            │
+│  ARTICLE 4(2)(c): NATIONALITY                                   │
 │  ─────────────────────────────────────────────────────────────  │
 │  • Citizenship of one Contracting State                         │
 │  • Objective, easily determined                                 │
+│  • If national of ONE State → Resident of that State            │
 │                                                                 │
-│          ↓ If national of both or neither                       │
+│          ↓ If national of BOTH or NEITHER State                 │
 │                                                                 │
-│  TEST 5: MUTUAL AGREEMENT PROCEDURE (MAP)                       │
+│  ARTICLE 4(2)(d): MUTUAL AGREEMENT PROCEDURE (MAP)              │
 │  ─────────────────────────────────────────────────────────────  │
 │  • Competent authorities settle by agreement                    │
 │  • Article 25 procedure                                         │
@@ -156,7 +172,38 @@ As covered in Chapter 6.1, Article 1 establishes that the treaty applies to **pe
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 3.3 Commentary Guidance on Each Test
+### 3.3 The Three Paths Through Article 4(2)(a)
+
+```
+PERMANENT HOME ANALYSIS - THREE POSSIBLE OUTCOMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATH 1: Permanent home in ONE State only
+┌─────────────────────────────────────────────────────────────────┐
+│  Individual has permanent home in State A only                  │
+│  → Deemed resident of State A                                   │
+│  → RESOLVED (no need to consider centre of vital interests)     │
+└─────────────────────────────────────────────────────────────────┘
+
+PATH 2: Permanent home in BOTH States
+┌─────────────────────────────────────────────────────────────────┐
+│  Individual has permanent home in BOTH State A and State B      │
+│  → Apply centre of vital interests sub-test                     │
+│  → If determinable: Deemed resident where relations closer      │
+│  → If NOT determinable: Proceed to Article 4(2)(b) habitual abode│
+└─────────────────────────────────────────────────────────────────┘
+
+PATH 3: Permanent home in NEITHER State
+┌─────────────────────────────────────────────────────────────────┐
+│  Individual has no permanent home in either State               │
+│  → SKIP centre of vital interests entirely                      │
+│  → Proceed directly to Article 4(2)(b) habitual abode           │
+└─────────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### 3.4 Commentary Guidance on Each Test
 
 **Permanent Home (Commentary [13])**:
 > *"As regards the concept of home, it should be observed that any form of home may be taken into account (house or apartment belonging to or rented by the individual, rented furnished room)."*
@@ -181,7 +228,7 @@ Consider:
 
 Not merely counting days—look at pattern and regularity of stays.
 
-### 3.4 June 2025 Exam Application
+### 3.5 June 2025 Exam Application
 
 The June 2025 Q5 tested residence determination for a student (Amelie) moving between States A and B:
 - University accommodation: Term-by-term allocation, had to vacate between terms
@@ -291,24 +338,30 @@ Article 4 appears in:
 │     "Under Article 4(1), [X] is resident of both States         │
 │     under their domestic laws because..."                       │
 │                                                                 │
-│  2. APPLY PERMANENT HOME TEST (3-4 marks)                       │
+│  2. APPLY ARTICLE 4(2)(a) - PERMANENT HOME TEST (3-4 marks)     │
 │     • Identify homes in each State                              │
 │     • Is each "permanent" and "available"?                      │
-│     • If home in one State only → Resolved                      │
+│     • THREE OUTCOMES:                                           │
+│       - Home in ONE State only → RESOLVED (stop here)           │
+│       - Home in BOTH States → Apply centre of vital interests   │
+│       - Home in NEITHER State → Skip to habitual abode          │
 │                                                                 │
-│  3. IF NEEDED—CENTRE OF VITAL INTERESTS (3-4 marks)             │
+│  3. IF HOME IN BOTH STATES—CENTRE OF VITAL INTERESTS (3-4 marks)│
+│     (Sub-test within Article 4(2)(a))                           │
 │     • Personal relations (family, social ties)                  │
 │     • Economic relations (employment, business, investments)    │
 │     • Weigh circumstances as a whole                            │
 │     • Personal relations given priority if conflict             │
+│     • If determinable → RESOLVED                                │
 │                                                                 │
-│  4. IF NEEDED—HABITUAL ABODE (2-3 marks)                        │
+│  4. ARTICLE 4(2)(b)—HABITUAL ABODE (2-3 marks)                  │
+│     (If centre cannot be determined OR home in neither state)   │
 │     • Frequency, duration, regularity of stays                  │
 │     • Consider sufficient time period                           │
 │                                                                 │
-│  5. IF NEEDED—NATIONALITY (1-2 marks)                           │
+│  5. ARTICLE 4(2)(c)—NATIONALITY (1-2 marks)                     │
 │                                                                 │
-│  6. IF NEEDED—MAP (1 mark)                                      │
+│  6. ARTICLE 4(2)(d)—MAP (1 mark)                                │
 │                                                                 │
 │  7. CONCLUDE (1-2 marks)                                        │
 │     "[X] is deemed resident of State [Y] for treaty purposes"   │
@@ -320,7 +373,8 @@ Article 4 appears in:
 
 | Error | Correction |
 |-------|------------|
-| Applying tests out of sequence | Tests must be applied sequentially; only proceed if prior test inconclusive |
+| Treating centre of vital interests as independent test | Centre of vital interests is a SUB-TEST within Art 4(2)(a) - only applies if permanent home in BOTH states |
+| Applying centre of vital interests when home in NEITHER state | If no permanent home in either state, skip directly to habitual abode (Art 4(2)(b)) |
 | Counting days for habitual abode | Commentary emphasizes frequency, duration, regularity—not just days |
 | Ignoring "available" requirement | Permanent home must be continuously available, not just owned |
 | Assuming POEM still determines corporate residence | Post-2017: CA determination required; POEM is one factor |
@@ -340,12 +394,13 @@ Article 4 appears in:
 │     • Domicile, residence, place of management, etc.            │
 │     • Excludes persons taxed only on source income              │
 │                                                                 │
-│  2. ARTICLE 4(2) - INDIVIDUAL TIE-BREAKER (SEQUENTIAL):         │
-│     1. Permanent home                                           │
-│     2. Centre of vital interests (personal + economic)          │
-│     3. Habitual abode (frequency, duration, regularity)         │
-│     4. Nationality                                              │
-│     5. MAP (last resort)                                        │
+│  2. ARTICLE 4(2) - INDIVIDUAL TIE-BREAKER:                      │
+│     (a) Permanent home - if in ONE state → RESOLVED             │
+│         If in BOTH states → Centre of vital interests sub-test  │
+│         If in NEITHER state → Skip to (b)                       │
+│     (b) Habitual abode (frequency, duration, regularity)        │
+│     (c) Nationality                                             │
+│     (d) MAP (last resort)                                       │
 │                                                                 │
 │  3. ARTICLE 4(3) - NON-INDIVIDUAL TIE-BREAKER (POST-2017):      │
 │     • CA determination required                                 │
@@ -417,4 +472,4 @@ Article 4 appears in:
 
 ---
 
-*This note covers syllabus topic II.G.1: Meaning of "resident" and resolution of cases of dual residence – Article 4 (Level 3). Article 4(1) defines residence based on comprehensive tax liability under domestic law. Article 4(2) provides sequential tie-breaker rules for dual-resident individuals (permanent home → centre of vital interests → habitual abode → nationality → MAP). Article 4(3), revised in 2017, requires competent authority determination for dual-resident non-individuals, with potential loss of treaty benefits if no agreement is reached.*
+*This note covers syllabus topic II.G.1: Meaning of "resident" and resolution of cases of dual residence – Article 4 (Level 3). Article 4(1) defines residence based on comprehensive tax liability under domestic law. Article 4(2) provides tie-breaker rules for dual-resident individuals: Article 4(2)(a) applies the permanent home test (with centre of vital interests as a sub-test only if permanent home exists in BOTH states); if permanent home in neither state or centre of vital interests inconclusive, Article 4(2)(b) applies habitual abode; then nationality; then MAP. Article 4(3), revised in 2017, requires competent authority determination for dual-resident non-individuals, with potential loss of treaty benefits if no agreement is reached.*
