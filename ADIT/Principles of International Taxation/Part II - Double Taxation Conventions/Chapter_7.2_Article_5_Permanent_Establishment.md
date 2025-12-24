@@ -8,6 +8,7 @@ Syllabus Level: 3 (Advanced Knowledge)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Exam Frequency: HIGH - Appears regularly in various forms
 Recent Appearances:
+  • December 2025: Q3 - Nexus tests under DTAs (25 marks) - policy brief format
   • December 2022: Q8 - DEDICATED 25-mark question on Article 5 changes (OECD MTC 2017)
   • June 2024: PE threshold for natural resources exploration
   • December 2023: Scenario question (Angelica/Felicity) applying PE analysis
@@ -601,6 +602,7 @@ ARTICLE 5 PE - ESSENTIAL KNOWLEDGE
 - [HMRC Manual: BEPS Update to Article 5](https://www.gov.uk/hmrc-internal-manuals/international-manual/intm264350)
 
 ### Past Exam Questions
+- December 2025 Q3: Nexus tests under DTAs - policy brief for government department (25 marks)
 - December 2022 Q8: Article 5 changes and commissionaire arrangements (25 marks)
 - December 2023: PE analysis in Angelica/Felicity scenario
 - June 2024: PE threshold for natural resources

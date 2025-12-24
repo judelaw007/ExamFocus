@@ -9,6 +9,9 @@ Syllabus Level: 3 (Advanced Knowledge)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Exam Frequency: MODERATE - Often appears in context of other articles
 Recent Appearances:
+  • December 2025 Q5a: Shipping with ancillary road delivery (13 marks)
+                      - Article 8 scope, ancillary activities,
+                      UN MDTC 2021 application
   • June 2022: Article 8 in context of Article 21 interaction
   • December 2022: Article 13(3) consistency with Article 8
   • June 2025: Shipping excluded from GloBE/Pillar Two
@@ -435,6 +438,7 @@ ARTICLE 8 SHIPPING/AIR TRANSPORT - ESSENTIAL KNOWLEDGE
 - [ICTD - Taxing Maritime Shipping in Africa](https://www.ictd.ac/publication/taxing-profits-international-maritime-shipping-africa-past-present-future-un-model-article-8-alternative-b/)
 
 ### Past Exam Questions
+- December 2025 Q5a: Shipping with ancillary road delivery services (13 marks) - Article 8 scope, ancillary vs separate activities, UN MDTC 2021
 - June 2022: Article 8 interaction with Article 21
 - December 2022: Article 13(3) consistency with Article 8
 - June 2025: Shipping exclusion from GloBE rules
