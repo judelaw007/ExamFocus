@@ -7,7 +7,8 @@ Topic: Article 29: Entitlement to Benefits
 Syllabus Level: 3 (Advanced)
 Syllabus Reference: II.F.3, II.N.4, II.N.5
 Exam Frequency: HIGH – Core anti-abuse provision; frequently tested
-Past Appearances: December 2023 Q6 (25 marks—treaty shopping); June 2023 Q1 (BEPS);
+Past Appearances: December 2025 Q1 (25 marks—PPT function and operation, report format);
+                  December 2023 Q6 (25 marks—treaty shopping); June 2023 Q1 (BEPS);
                   December 2024 Q2 (PPT reference); June 2024 Q6 (Art.29(9))
 Mark Range: 10-25 marks (standalone or as part of anti-abuse questions)
 Time Allocation: 20-40 minutes

@@ -11,6 +11,8 @@ Syllabus Level: 3 (Advanced knowledge - interpretive analysis required)
 Syllabus Weight: Part of 30% DTC allocation
 
 Past Exam Occurrences (2022-2025):
+  • December 2025 Q2 (25 marks): Model-based drafting legitimacy - critically evaluate
+                                whether OECD/UN model dominance undermines bilateral nature
   • June 2024 Q3 (25 marks): MTA vs bilateral DTAs - critically evaluate
   • Dec 2022 Q1 (25 marks): MLI effectiveness - critically evaluate
   • Dec 2024 Q3 (25 marks): Nature/purpose of DTAs, shift to multilateralism
