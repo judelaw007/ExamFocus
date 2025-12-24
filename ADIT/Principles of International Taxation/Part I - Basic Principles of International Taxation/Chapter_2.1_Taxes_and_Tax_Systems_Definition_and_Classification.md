@@ -27,9 +27,9 @@ INDIRECT RELEVANCE:
 
 ---
 
-## A. CONCEPT FOUNDATION
+## 1. Concept Foundation
 
-### 1. What is a Tax?
+### 1.1. What is a Tax?
 
 **Definition**: A tax is a **compulsory financial charge or levy** imposed by a governmental organization on individuals or entities to fund government expenditure and public services.
 
@@ -81,7 +81,7 @@ For ADIT purposes, the legal/formal approach prevails when analyzing treaty cove
 
 ---
 
-### 2. Classification of Taxes
+### 1.2. Classification of Taxes
 
 Taxes can be classified in multiple ways. Understanding these classifications is essential for analyzing treaty provisions and domestic tax systems.
 
@@ -122,7 +122,7 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 
 ---
 
-### 3. Major Types of Taxes
+### 1.3. Major Types of Taxes
 
 #### Income Taxes
 
@@ -181,7 +181,7 @@ Global tax systems have evolved significantly over recent decades, with importan
 
 ---
 
-### 4. Characteristics of a Good Tax System
+### 1.4. Characteristics of a Good Tax System
 
 Adam Smith's four "Canons of Taxation" (1776) remain foundational principles:
 
@@ -203,7 +203,7 @@ Adam Smith's four "Canons of Taxation" (1776) remain foundational principles:
 
 ---
 
-## B. INTERNATIONAL TAX APPLICATION
+## 2. International Tax Application
 
 ### How Tax Classification Affects Treaty Analysis
 
@@ -265,7 +265,7 @@ These mechanisms may require specific treaty provisions to clarify their treatme
 
 ---
 
-## C. QUICK REFERENCE SUMMARY
+## 3. Quick Reference Summary
 
 ### Tax Classification Matrix
 

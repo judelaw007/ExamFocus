@@ -28,9 +28,9 @@ INDIRECT RELEVANCE:
 
 ---
 
-## A. CONCEPT FOUNDATION
+## 1. Concept Foundation
 
-### 1. Federal vs. Unitary Systems
+### 1.1. Federal vs. Unitary Systems
 
 Countries organize their tax systems based on their constitutional structure:
 
@@ -40,7 +40,7 @@ Countries organize their tax systems based on their constitutional structure:
 | **Unitary** | Single central government holds primary taxing authority | UK, France, Japan, Italy, New Zealand |
 | **Quasi-Federal** | Constitutionally unitary but highly decentralized | Spain, Colombia |
 
-### 2. Key Statistics (OECD 2023 Data)
+### 1.2. Key Statistics (OECD 2023 Data)
 
 **Federal Countries (8 OECD members)**:
 | Government Level | Average Revenue Share |
@@ -63,7 +63,7 @@ Countries organize their tax systems based on their constitutional structure:
 
 ---
 
-### 3. Fiscal Federalism: The Theory
+### 1.3. Fiscal Federalism: The Theory
 
 **Definition**: Fiscal federalism is an economic framework for understanding the division of spending and taxing powers among different levels of government.
 
@@ -113,7 +113,7 @@ This debate directly parallels international discussions on corporate tax compet
 
 ---
 
-### 4. Levels of Government and Their Taxes
+### 1.4. Levels of Government and Their Taxes
 
 #### Federal/Central Government
 
@@ -145,7 +145,7 @@ This debate directly parallels international discussions on corporate tax compet
 
 ---
 
-### 5. Country Examples
+### 1.5. Country Examples
 
 #### United States
 
@@ -210,7 +210,7 @@ Municipal Level:
 
 ---
 
-## B. TREATY COVERAGE OF SUBNATIONAL TAXES
+## 2. Treaty Coverage of Subnational Taxes
 
 ### Article 2(1) OECD Model Tax Convention
 
@@ -265,9 +265,9 @@ The divergence between the OECD approach (include subnational taxes) and U.S. ap
 
 ---
 
-## C. INTERNATIONAL TAX IMPLICATIONS
+## 3. International Tax Implications
 
-### 1. Multiple Layers of Double Taxation
+### 3.1. Multiple Layers of Double Taxation
 
 In federal systems, international taxpayers may face:
 
@@ -284,7 +284,7 @@ State Level:
 Result: Even with DTC relief, state tax may still apply
 ```
 
-### 2. Residence Determination Complexity
+### 3.2. Residence Determination Complexity
 
 Different government levels may have different residence rules:
 
@@ -294,7 +294,7 @@ Different government levels may have different residence rules:
 | State | Varies widely | Domicile, statutory residence, source rules |
 | Local | Physical presence | May trigger local tax |
 
-### 3. Compliance Burden
+### 3.3. Compliance Burden
 
 Federal systems create additional compliance requirements:
 
@@ -306,7 +306,7 @@ Federal systems create additional compliance requirements:
 | Credits/deductions | May not align across levels |
 | Withholding | May be required at multiple levels |
 
-### 4. Transfer Pricing
+### 3.4. Transfer Pricing
 
 Subnational transfer pricing issues arise when:
 - States have their own transfer pricing rules
@@ -346,7 +346,7 @@ The interaction between federal and subnational transfer pricing rules creates u
 
 ---
 
-## D. PRACTICAL CONSIDERATIONS
+## 4. Practical Considerations
 
 ### For Individual Taxpayers
 
@@ -376,7 +376,7 @@ The interaction between federal and subnational transfer pricing rules creates u
 
 ---
 
-## E. QUICK REFERENCE TABLES
+## 5. Quick Reference Tables
 
 ### Government Levels and Tax Authority
 
