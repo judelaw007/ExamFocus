@@ -414,39 +414,3 @@ Germany:
 (d) the property tax (Grundsteuer)
 ```
 
----
-
-## F. KEY VOCABULARY
-
-| Term | Definition |
-|------|------------|
-| **Federal system** | Constitutional structure with multiple levels of government having taxing powers |
-| **Unitary system** | Constitutional structure with central government holding primary taxing authority |
-| **Fiscal federalism** | Economic framework for tax/spending division among government levels |
-| **Political subdivision** | State, province, canton, region within a country |
-| **Local authority** | Municipality, county, commune, city government |
-| **Subnational tax** | Any tax imposed below the national/federal level |
-| **Tax assignment** | Allocation of taxing authority to different government levels |
-| **Intergovernmental transfer** | Grant from higher to lower government level |
-| **Tax harmonization** | Coordination of tax rules across jurisdictions |
-| **Nexus** | Sufficient connection to a jurisdiction to allow taxation |
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention on Income and on Capital (2017), Article 2
-- U.S. Model Income Tax Convention (2016)
-- OECD Revenue Statistics 2025
-
-**Web Sources**:
-- [Overview of Federal Tax System - Congress.gov](https://www.congress.gov/crs-product/R48313)
-- [Fiscal Federalism - Britannica](https://www.britannica.com/money/fiscal-federalism)
-- [Tax Revenue Trends - OECD](https://www.oecd.org/en/publications/2025/12/revenue-statistics-2025_07ca0a8e/full-report/tax-revenue-trends-1965-2024_98c75833.html)
-- [Taxes Covered under Article 2 - IBFD](https://www.ibfd.org/shop/book/taxes-covered-under-article-2-oecd-model)
-- [Local Income Taxes - Tax Foundation](https://taxfoundation.org/research/all/state/local-income-taxes-2023/)
-
----
-
-*Chapter 2.2 | Exam Focus: Principles of International Taxation*

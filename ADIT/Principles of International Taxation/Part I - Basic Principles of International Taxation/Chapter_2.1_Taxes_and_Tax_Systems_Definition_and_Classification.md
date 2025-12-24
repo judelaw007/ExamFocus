@@ -133,7 +133,7 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 | **Capital Gains Tax** | Individuals/entities | Tax on asset appreciation |
 | **Withholding Tax** | Non-residents | Deducted at source on payments (dividends, interest, royalties) |
 
-**Treaty Relevance**: Income taxes are the primary focus of DTAs. Article 2(3) typically lists specific income taxes covered.
+**Treaty Relevance**: Income taxes are the primary focus of DTCs. Article 2(3) typically lists specific income taxes covered.
 
 #### Consumption Taxes
 
@@ -293,38 +293,3 @@ These mechanisms may require specific treaty provisions to clarify their treatme
 | Customs duties | **No** | Outside scope |
 | Social security contributions | **Depends** | May be excluded |
 
----
-
-## D. KEY VOCABULARY
-
-| Term | Definition |
-|------|------------|
-| **Tax** | Compulsory levy imposed by government |
-| **Tax base** | What is being measured for tax (income, value, wealth) |
-| **Tax rate** | Percentage applied to tax base |
-| **Tax liability** | Amount of tax owed |
-| **Marginal rate** | Rate on next unit of income |
-| **Average rate** | Total tax / Total income |
-| **Effective rate** | Actual tax paid / Economic income |
-| **Taxable income** | Income subject to tax after deductions |
-| **Withholding** | Tax deducted at source by payer |
-| **Assessment** | Determination of tax liability |
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention on Income and on Capital (2017), Article 2
-- UN Model Double Taxation Convention (2017), Article 2
-- Adam Smith, *The Wealth of Nations* (1776), Book V, Chapter II
-
-**Web Sources**:
-- [Taxation - Britannica Money](https://www.britannica.com/money/taxation)
-- [Tax - Wikipedia](https://en.wikipedia.org/wiki/Tax)
-- [The Three Basic Tax Types - Tax Foundation](https://taxfoundation.org/taxedu/primers/primer-the-three-basic-tax-types/)
-- [Four Canons of Taxation - Tax Project Institute](https://taxproject.org/four-canons-of-taxation/)
-
----
-
-*Chapter 2.1 | Exam Focus: Principles of International Taxation*

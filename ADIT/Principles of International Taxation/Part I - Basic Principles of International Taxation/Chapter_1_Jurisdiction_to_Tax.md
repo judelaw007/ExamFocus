@@ -686,33 +686,6 @@ The statement's call to "abandon" residence overstates the case. Residence shoul
 | 9 | Not citing OECD Commentary when required | Question explicitly requires it - marks lost | 2-4 |
 | 10 | Running out of time on foundational questions | These questions reward breadth - don't over-elaborate single points | 5-8 |
 
-### Pre-Answer Checklist
-
-Before writing your answer on jurisdiction/enforcement questions:
-
-- [ ] Have I identified the type of jurisdiction being tested (prescriptive vs. enforcement)?
-- [ ] Have I distinguished residence from source jurisdiction?
-- [ ] For enforcement questions: Have I mentioned the revenue rule?
-- [ ] Have I identified relevant treaty provisions (Article 4, 26, 27)?
-- [ ] For "evaluate/consider" questions: Am I addressing both sides?
-- [ ] Have I planned time allocation across all required elements?
-- [ ] Have I included specific examples/cases where helpful?
-
-### Quick Self-Review Questions
-
-Test your understanding before the exam:
-
-1. What is the difference between prescriptive and enforcement jurisdiction?
-2. Why can't a state simply seize assets located in another country?
-3. What case established the revenue rule and what was its holding?
-4. How does Article 27 overcome the revenue rule?
-5. What is the "equivalence principle" in Article 27?
-6. What limitations exist on Article 27's temporal scope?
-7. Why might residence-based taxation be challenged by digitisation?
-8. What is the saving clause and why does it exist?
-
----
-
 ## J. BILATERAL VS. MULTILATERAL APPROACHES TO JURISDICTION
 
 ### The Evolution from Bilateral to Multilateral Solutions
@@ -754,60 +727,3 @@ The shift towards multilateralism affects how jurisdiction questions should be a
 
 **Exam Relevance**: Questions testing jurisdiction and enforcement should consider both bilateral treaty provisions AND multilateral instruments. A comprehensive answer demonstrates awareness of the evolving multilateral framework alongside traditional bilateral analysis.
 
----
-
-## K. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-JURISDICTION TO TAX - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. TWO BASES: Residence (person nexus) vs. Source (activity nexus)
-
-2. NEXUS REQUIRED: Public international law requires genuine
-   connection - states cannot tax without some link
-
-3. ENFORCEMENT LIMITED: States cannot enforce tax laws
-   extraterritorially - this creates the revenue rule problem
-
-4. REVENUE RULE: Government of India v. Taylor [1955] -
-   courts won't enforce foreign tax claims
-
-5. ARTICLE 27: Treaty-based exception allowing assistance
-   in collection - equivalence principle applies
-
-6. TEMPORAL SCOPE: Article 27 is broad but NOT unlimited -
-   subject to both states' limitation periods
-
-7. SAVING CLAUSE: Article 1(3) preserves states' rights to
-   tax their own residents under domestic law
-
-8. RESIDENCE CHALLENGED: Globalisation creates difficulties
-   but no better alternative has emerged
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention on Income and on Capital (2017)
-- UN Model Double Taxation Convention (2017)
-- Vienna Convention on the Law of Treaties
-- Multilateral Convention on Mutual Administrative Assistance in Tax Matters
-
-**Key Cases**:
-- *Government of India v. Taylor* [1955] AC 491
-- *Jimenez v. HMRC* (information gathering vs. revenue enforcement)
-
-**Exam Papers Referenced**:
-- June 2025 Q1 (Article 27 temporal scope)
-- December 2024 Q1 (Residence as nexus)
-- December 2024 Q3 (Nature and purpose of DTCs)
-
----
-
-*Chapter 1 | Exam Focus: Principles of International Taxation*
