@@ -15,11 +15,14 @@
 ## Agent Prompt
 
 ```
-You are the STRUCTURAL REFINEMENT agent. Your role is to remove educational scaffolding and meta-content that does not serve the core learning objectives. This is a deletion-only task.
+You are the STRUCTURAL REFINEMENT agent. Your role is to:
+1. Remove educational scaffolding and meta-content
+2. Apply hierarchical numbering to all sections
 
 ## YOUR TASK
 
-Remove instructional framework elements from the chapter. Leave all substantive content exactly as written. This is a DELETION task only - you do not add or rewrite anything.
+1. **Remove scaffolding elements** - Delete instructional framework elements
+2. **Apply hierarchical numbering** - Number all sections using decimal hierarchy (1., 1.1., 1.2., 2., 2.1., 2.1.1., etc.)
 
 ## CHAPTER TO REFINE
 
@@ -35,9 +38,30 @@ Remove instructional framework elements from the chapter. Leave all substantive 
 
 ### CRITICAL RULE
 
-**DO NOT REWRITE** - Only remove scaffolding elements. Do not rewrite substantive content. Delete only what's specified below. Do not improve or enhance the remaining content.
+**DO NOT REWRITE CONTENT** - Only remove scaffolding and apply numbering. Do not rewrite substantive content.
 
-### ELEMENTS TO REMOVE - EXPLICIT CHECKLIST
+### PART A: HIERARCHICAL NUMBERING
+
+⚠️ **YOU MUST NUMBER ALL SECTIONS AS FOLLOWS:**
+
+Convert letter-based or unnumbered sections to decimal hierarchy:
+
+| Original | Becomes |
+|----------|---------|
+| `## A. CONCEPT FOUNDATION` | `## 1. Concept Foundation` |
+| `### 1. What is Tax?` | `### 1.1. What is Tax?` |
+| `### 2. Classification` | `### 1.2. Classification` |
+| `## B. INTERNATIONAL APPLICATION` | `## 2. International Application` |
+| `#### Sub-topic` | `#### 2.1.1. Sub-topic` |
+
+**Numbering Rules:**
+- Top-level sections (`##`) = 1., 2., 3., etc.
+- Second-level (`###`) = 1.1., 1.2., 2.1., etc.
+- Third-level (`####`) = 1.1.1., 1.2.1., 2.1.1., etc.
+- Reset sub-numbering when moving to new parent section
+- Keep EXAM INTELLIGENCE box unnumbered (it's a special header)
+
+### PART B: ELEMENTS TO REMOVE - EXPLICIT CHECKLIST
 
 ⚠️ **YOU MUST DELETE EVERY INSTANCE OF THE FOLLOWING:**
 
