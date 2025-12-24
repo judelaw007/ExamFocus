@@ -38,7 +38,7 @@ Strategic Priority: ★★★☆☆ MODERATE
 
 ---
 
-## A. THE FUNDAMENTAL QUESTION: WHAT IS A "LEGAL ENTITY"?
+## 1. The Fundamental Question: What Is a "Legal Entity"?
 
 ### 1. Why Recognition Matters for International Taxation
 
@@ -85,7 +85,7 @@ RECOGNITION FRAMEWORK
 
 ---
 
-## B. TWO COMPETING THEORIES OF RECOGNITION
+## 2. Two Competing Theories of Recognition
 
 ### 1. The Incorporation Theory
 
@@ -159,7 +159,7 @@ UNDER REAL SEAT THEORY (e.g., traditional German view):
 
 ---
 
-## C. EU LAW DEVELOPMENTS: CONVERGENCE TOWARD INCORPORATION
+## 3. EU Law Developments: Convergence Toward Incorporation
 
 ### 1. ECJ Case Law and Freedom of Establishment
 
@@ -184,7 +184,7 @@ This creates a bifurcated system in some jurisdictions: incorporation theory for
 
 ---
 
-## D. RECOGNITION AND TAX RESIDENCE: THE CONNECTION
+## 4. Recognition and Tax Residence: The Connection
 
 ### 1. Recognition Precedes Residence
 
@@ -233,7 +233,7 @@ The December 2022 Q6 approach:
 
 ---
 
-## E. RECOGNITION MISMATCHES AND TAX CONSEQUENCES
+## 5. Recognition Mismatches and Tax Consequences
 
 ### 1. When States Disagree on Recognition
 
@@ -263,7 +263,7 @@ Recognition mismatches are a primary driver of **hybrid entity** outcomes (cover
 
 ---
 
-## F. PRACTICAL APPLICATION: EXAM SCENARIOS
+## 6. Practical Application: Exam Scenarios
 
 ### 1. How Recognition Appears in Exam Questions
 
@@ -291,7 +291,7 @@ The question stated Algero was:
 
 ---
 
-## Common Exam Errors to Avoid
+## 7. Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -300,22 +300,3 @@ The question stated Algero was:
 | Assuming all states recognise foreign entities | Some states may not recognise under real seat theory | Consider whether recognition might be disputed |
 | Treating recognition as a tax law question | It's private international law | Acknowledge the lex societatis concept |
 
----
-
-## References
-
-**Primary Sources:**
-- OECD Model Tax Convention (2017), Article 1 (Persons Covered), Article 3 (General Definitions), Article 4 (Resident)
-- OECD Partnership Report (1999) - Application of Model Tax Convention to Partnerships
-
-**Key Concepts from Private International Law:**
-- Lex societatis (law of the company)
-- Incorporation theory vs Real seat theory (Sitztheorie)
-- EU freedom of establishment cases: *Centros*, *Überseering*, *Inspire Art*
-
-**ADIT Past Exam Reference:**
-- December 2022 Q6: Recognition as "separate legal entity" as foundation for residence analysis
-
----
-
-*Next Chapter: 6.2 - Characterisation of Entities as Transparent or Opaque – State Practice*

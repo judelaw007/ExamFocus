@@ -40,7 +40,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## A. WHAT IS A "QUALIFICATION CONFLICT"?
+## 1. What Is a "Qualification Conflict"?
 
 ### 1. Building on Recognition and Characterisation
 
@@ -100,7 +100,7 @@ Qualification conflicts can result in:
 
 ---
 
-## B. ARTICLE 3(2): THE RENVOI TO DOMESTIC LAW
+## 2. Article 3(2): The Renvoi to Domestic Law
 
 ### 1. The Text of Article 3(2)
 
@@ -159,7 +159,7 @@ This exception allows departure from domestic law meaning when:
 
 ---
 
-## C. APPROACHES TO TREATY INTERPRETATION
+## 3. Approaches to Treaty Interpretation
 
 ### 1. Three Interpretive Approaches
 
@@ -227,7 +227,7 @@ The OECD Commentary provides interpretive guidance but its legal status is debat
 
 ---
 
-## D. TYPES OF QUALIFICATION CONFLICTS
+## 4. Types of Qualification Conflicts
 
 ### 1. Entity Qualification Conflicts
 
@@ -266,7 +266,7 @@ The OECD Commentary provides interpretive guidance but its legal status is debat
 
 ---
 
-## E. OECD SOLUTIONS TO QUALIFICATION CONFLICTS
+## 5. OECD Solutions to Qualification Conflicts
 
 ### 1. The Partnership Report (1999)
 
@@ -301,7 +301,7 @@ The OECD Committee on Fiscal Affairs adopted the Partnership Report approach in 
 
 ---
 
-## F. EXAM APPLICATION: QUALIFICATION IN DISTRIBUTIVE RULES
+## 6. Exam Application: Qualification in Distributive Rules
 
 ### 1. Priority Rules Between Distributive Articles
 
@@ -390,7 +390,7 @@ STEP 6: IDENTIFY OUTCOME
 
 ---
 
-## G. CONNECTION TO TREATY OVERRIDE
+## 7. Connection to Treaty Override
 
 ### 1. Ambulatory Interpretation and Treaty Override
 
@@ -419,7 +419,7 @@ A specific example discussed in examinations is whether CFC rules constitute tre
 
 ---
 
-## H. PRACTICAL EXAMPLES
+## 8. Practical Examples
 
 ### 1. Software Payments
 
@@ -456,7 +456,7 @@ As discussed in Chapter 6.2, hybrid instruments create qualification conflicts:
 
 ---
 
-## Common Exam Errors to Avoid
+## 9. Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -467,33 +467,3 @@ As discussed in Chapter 6.2, hybrid instruments create qualification conflicts:
 | Not linking to entity characterisation | Chapter 6.2 concepts feed into qualification | Show how transparent/opaque creates qualification issues |
 | Forgetting priority rules | Articles have explicit and implicit hierarchy | Identify which article takes precedence |
 
----
-
-## References
-
-**Primary Sources:**
-- OECD Model Tax Convention (2017), Article 3(2) (General Definitions)
-- Vienna Convention on the Law of Treaties (1969), Articles 31-32
-- OECD Partnership Report (1999) - Application of the OECD Model Tax Convention to Partnerships
-- OECD Commentary on Article 3, particularly paragraphs 11-13
-
-**Key Concepts:**
-- Qualification conflict / conflict of qualification
-- Lex fori, lex causae, autonomous interpretation
-- Ambulatory vs static interpretation
-- "Context otherwise requires" exception
-
-**ADIT Past Exam References:**
-- June 2023 Q3: Treaty override - Article 3(2) and domestic law meaning (25 marks)
-- December 2022 Q4: Article 13 and interaction with other distributive rules (25 marks)
-- June 2024 Solutions: Autonomous interpretation variability
-
-**Web Sources:**
-- [WU Vienna: Qualification Conflicts - Global Tax Treaty Commentaries](https://www.wu.ac.at/fileadmin/wu/d/i/taxlaw/Institute/Publikationen_Lang/Publikationen_Lang_2015-2019/Publikationen_Lang_2015-2019_P1/Qualification_Conflicts_-_Global_Tax_Treaty_Commentaries_-_IBFD.pdf)
-- [UN: Introduction to Tax Treaties](https://www.un.org/esa/ffd/wp-content/uploads/2015/10/TT_Introduction_Eng.pdf)
-- [IBFD: Priority Rules in Tax Treaties](https://www.ibfd.org/sites/default/files/2023-09/20_007_priority_rules_in_tax_treaties_final_web.pdf)
-
----
-
-*Previous Chapter: 6.2 - Characterisation of Entities as Transparent or Opaque – State Practice*
-*This completes Part I, Section F: Private International Law and Tax*
