@@ -40,7 +40,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## A. THE ECONOMIC NEUTRALITY FRAMEWORK
+## 1. The Economic Neutrality Framework
 
 ### 1. Why Neutrality Matters
 
@@ -80,7 +80,7 @@ values about fairness and efficiency in international taxation.
 
 ---
 
-## B. CAPITAL EXPORT NEUTRALITY (CEN)
+## 2. Capital Export Neutrality (CEN)
 
 ### 1. Definition and Concept
 
@@ -137,7 +137,7 @@ The investor never pays less than the domestic rate, removing tax incentives to 
 
 ---
 
-## C. CAPITAL IMPORT NEUTRALITY (CIN)
+## 3. Capital Import Neutrality (CIN)
 
 ### 1. Definition and Concept
 
@@ -193,7 +193,7 @@ All investors competing in Country S face identical 20% rate—no competitive ad
 
 ---
 
-## D. THE MATHEMATICAL IMPOSSIBILITY
+## 4. The Mathematical Impossibility
 
 ### 1. Why Both Cannot Be Achieved Simultaneously
 
@@ -234,7 +234,7 @@ This trade-off explains why different countries adopt different methods based on
 
 ---
 
-## E. NATIONAL INTEREST AND METHOD CHOICE
+## 5. National Interest and Method Choice
 
 ### 1. Country Type Analysis
 
@@ -295,7 +295,7 @@ Since the 1990s, there has been a dramatic shift toward exemption/territorial sy
 
 ---
 
-## F. CAPITAL OWNERSHIP NEUTRALITY (CON) – THE THIRD CONCEPT
+## 6. Capital Ownership Neutrality (CON) – The Third Concept
 
 ### 1. Definition
 
@@ -328,7 +328,7 @@ Under EXEMPTION system:
 
 ---
 
-## G. PILLAR TWO AND THE NEUTRALITY PARADIGM
+## 7. Pillar Two and the Neutrality Paradigm
 
 ### 1. How Pillar Two Changes the Calculus
 
@@ -368,7 +368,7 @@ The June 2025 exam question on Pillar Two and tax competition relates directly t
 
 ---
 
-## H. PRACTICAL IMPLICATIONS
+## 8. Practical Implications
 
 ### 1. Investment Incentives
 
@@ -413,7 +413,7 @@ This explains business preference for territorial systems.
 
 ---
 
-## I. WORKED EXAM EXAMPLE: DECEMBER 2022 Q2 STYLE
+## 9. Worked Exam Example: December 2022 Q2 Style
 
 ### Question Pattern
 
@@ -466,7 +466,7 @@ MRA should consider:
 
 ---
 
-## J. COMMON EXAM ERRORS
+## 10. Common Exam Errors
 
 ```
 MISTAKES TO AVOID
@@ -498,25 +498,3 @@ MISTAKES TO AVOID
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
-
-## References
-
-**Primary Sources**:
-- OECD Commentary on Articles 23A and 23B
-- OECD MTC 2017 Articles 23A/23B
-- UN Model Tax Convention 2021 Commentary
-
-**Academic Literature**:
-- Musgrave, P., "Taxation of Foreign Investment Income" (1963)
-- Desai & Hines, "Evaluating International Tax Reform" (2003)
-- Knoll, M., "Reconsidering International Tax Neutrality" (2011)
-
-**Current Developments**:
-- Tax Foundation International Tax Competitiveness Index (2024, 2025)
-- OECD Tax Policy Reforms 2025
-- Pillar Two GloBE Rules (2021) and Administrative Guidance
-
----
-
-*Next Chapter: 5.5 - Other Methods of Relief from International Double Taxation*

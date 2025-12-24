@@ -41,7 +41,7 @@ Strategic Priority: ★★★☆☆ MEDIUM
 
 ---
 
-## A. INTRODUCTION: BEYOND CREDIT AND EXEMPTION
+## 1. Introduction: Beyond Credit and Exemption
 
 While credit (Article 23B) and exemption (Article 23A) are the primary treaty-based relief methods, E.5 covers two additional approaches:
 
@@ -56,7 +56,7 @@ Understanding deduction and deferral is essential for complete exam answers on r
 
 ---
 
-## B. RELIEF BY DEDUCTION OF FOREIGN TAX
+## 2. Relief by Deduction of Foreign Tax
 
 ### 1. How the Deduction Method Works
 
@@ -175,7 +175,7 @@ Despite being inferior, deduction persists because:
 
 ---
 
-## C. RELIEF BY DEFERRAL
+## 3. Relief by Deferral
 
 ### 1. Understanding Deferral
 
@@ -337,7 +337,7 @@ RESULT: Deferral preserved only for "good" income
 
 ---
 
-## D. COMPARISON: DEDUCTION AND DEFERRAL WITH OTHER METHODS
+## 4. Comparison: Deduction and Deferral with Other Methods
 
 ### 1. Complete Summary Table
 
@@ -379,7 +379,7 @@ TAXPAYER PREFERENCE RANKING (E.5 Methods Highlighted)
 
 ---
 
-## E. WORKED EXAM EXAMPLE: DECEMBER 2022 Q2 STYLE
+## 5. Worked Exam Example: December 2022 Q2 Style
 
 ### Question
 
@@ -413,7 +413,7 @@ Deferral describes the **timing feature** whereby foreign subsidiary income is n
 
 ---
 
-## F. COMMON EXAM ERRORS
+## 6. Common Exam Errors
 
 ```
 MISTAKES TO AVOID
@@ -450,33 +450,3 @@ MISTAKES TO AVOID
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
-
-## References
-
-**Primary Sources**:
-- OECD Commentary on Article 23 (discussion of alternative methods)
-- BEPS Action 3: Designing Effective CFC Rules
-
-**Current Developments**:
-- US Tax Cuts and Jobs Act 2017 (GILTI provisions)
-- GILTI rate changes: 13.125% → 16.56% (post-December 2025)
-- Pillar Two GloBE Rules implementation (2024-2025)
-- IRS Notice 2025-72: One-month deferral repeal for SFCs
-
-**Key Concepts**:
-- Deduction method mechanics and mathematical formula
-- Deferral and CFC rule interaction
-- Branch vs subsidiary structural implications
-- GILTI as "Blended CFC Tax Regime" under Pillar Two
-
----
-
-*End of Chapter 5 Series: Methods of Relieving Double Taxation*
-
-**Topics Covered:**
-- 5.1: Relief by Credit (Direct, Indirect, Tax Sparing)
-- 5.2: Relief by Exemption (Including Participation Exemption)
-- 5.3: Practical Difficulties in Applying Relief Methods
-- 5.4: Relief Methods Compared (CIN vs CEN)
-- 5.5: Other Methods (Deduction and Deferral)
