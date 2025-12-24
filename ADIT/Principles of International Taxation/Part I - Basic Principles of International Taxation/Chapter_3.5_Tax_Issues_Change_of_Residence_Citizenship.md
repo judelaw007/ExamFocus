@@ -25,9 +25,9 @@ individuals moving between countries, requiring systematic analysis.
 
 ---
 
-## A. CONCEPT FOUNDATION
+## 1. Concept Foundation
 
-### 1. Why Change of Residence Creates Tax Issues
+### 1.1. Why Change of Residence Creates Tax Issues
 
 When an individual or company changes tax residence, several competing claims arise:
 
@@ -50,7 +50,7 @@ Anti-avoidance:     Temporary non-          CFC rules on
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 2. Key Tax Issues on Change of Residence
+### 1.2. Key Tax Issues on Change of Residence
 
 | Issue | Description | Exam Relevance |
 |-------|-------------|----------------|
@@ -63,9 +63,9 @@ Anti-avoidance:     Temporary non-          CFC rules on
 
 ---
 
-## B. EXIT TAXES AND DEEMED DISPOSAL
+## 2. Exit Taxes and Deemed Disposal
 
-### 1. The Policy Rationale
+### 2.1. The Policy Rationale
 
 **Why States Impose Exit Taxes**:
 - Protect tax base on gains accrued during residence
@@ -78,7 +78,7 @@ Anti-avoidance:     Temporary non-          CFC rules on
 - May deter legitimate mobility
 - EU law concerns (freedom of movement)
 
-### 2. Country-Specific Exit Tax Regimes
+### 2.2. Country-Specific Exit Tax Regimes
 
 #### United States: Expatriation Tax (IRC §877A)
 
@@ -169,7 +169,7 @@ new country                         gains; want to defer tax
 | Extended CGT on UK residential property | Exit tax on worldwide assets |
 | Remittance basis charge for non-doms | Mark-to-market on emigration |
 
-### 3. Double Taxation Issues
+### 2.3. Double Taxation Issues
 
 **The Core Problem**:
 ```
@@ -202,9 +202,9 @@ Scenario B: Step-up to FMV in arrival state
 
 ---
 
-## C. DUAL RESIDENCE AND TREATY TIE-BREAKERS
+## 3. Dual Residence and Treaty Tie-Breakers
 
-### 1. When Dual Residence Arises
+### 3.1. When Dual Residence Arises
 
 Dual residence occurs when an individual is **simultaneously resident** in two states under their respective domestic laws:
 
@@ -216,7 +216,7 @@ Dual residence occurs when an individual is **simultaneously resident** in two s
 | **Student abroad** | Home maintained | Presence for studies |
 | **Retirement migration** | Home country ties | New permanent residence |
 
-### 2. Article 4 OECD MTC Tie-Breaker Rules
+### 3.2. Article 4 OECD MTC Tie-Breaker Rules
 
 **The Sequential Tests** (Article 4(2)):
 
@@ -240,7 +240,7 @@ STEP 4: MUTUAL AGREEMENT PROCEDURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 3. Detailed Analysis of Each Test
+### 3.3. Detailed Analysis of Each Test
 
 #### Test 1: Permanent Home
 
@@ -308,7 +308,7 @@ CONCLUSION: Centre of vital interests in Country U
 
 **Consequence**: States must agree; taxpayer faces uncertainty pending resolution.
 
-### 4. Corporate Dual Residence
+### 3.4. Corporate Dual Residence
 
 **Article 4(3)** provides tie-breaker for companies:
 
@@ -324,9 +324,9 @@ CONCLUSION: Centre of vital interests in Country U
 
 ---
 
-## D. SPLIT-YEAR TREATMENT
+## 4. Split-Year Treatment
 
-### 1. The Concept
+### 4.1. The Concept
 
 **Split-year treatment** divides a tax year into:
 - **Resident portion**: Taxed on worldwide income
@@ -334,7 +334,7 @@ CONCLUSION: Centre of vital interests in Country U
 
 **Without Split-Year**: Individual is resident for entire year OR non-resident for entire year based on status at particular point (often year-end).
 
-### 2. UK Split-Year Rules
+### 4.2. UK Split-Year Rules
 
 The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatment:
 
@@ -356,7 +356,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 **Exam Relevance**: UK split-year is domestic law, not treaty-based. Most exam questions focus on treaty tie-breakers rather than domestic split-year rules.
 
-### 3. Interaction with Treaties
+### 4.3. Interaction with Treaties
 
 **Important Distinction**:
 - **Domestic split-year**: Determines residence under internal law
@@ -365,9 +365,9 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 ---
 
-## E. TEMPORARY NON-RESIDENCE RULES
+## 5. Temporary Non-Residence Rules
 
-### 1. UK Temporary Non-Residence (TNR) Rules
+### 5.1. UK Temporary Non-Residence (TNR) Rules
 
 **Purpose**: Prevent individuals leaving the UK for short periods to realise gains/income outside UK tax net, then returning.
 
@@ -378,7 +378,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 **Effect**: Specified gains and income become chargeable in **year of return**.
 
-### 2. What Is Caught by TNR Rules
+### 5.2. What Is Caught by TNR Rules
 
 | Caught | Not Caught |
 |--------|------------|
@@ -387,7 +387,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 | Distributions from close companies | Interest income |
 | Gains on assets connected to pre-departure period | Trading profits |
 
-### 3. Planning Implications
+### 5.3. Planning Implications
 
 **To Avoid TNR Rules**:
 - Remain non-resident for **5 complete tax years**
@@ -398,7 +398,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 ---
 
-## F. GLOBAL TRENDS AND POLICY DEVELOPMENTS
+## 6. Global Trends and Policy Developments
 
 ### The Global Trend Toward Exit Taxation
 
@@ -477,7 +477,7 @@ When exit taxes create double taxation, relief may come from:
 
 ---
 
-## G. EXAM APPLICATION
+## 7. Exam Application
 
 ### Systematic Approach to Change of Residence Questions
 
@@ -595,7 +595,7 @@ worldwide income with credit for Country B source taxes.
 
 ---
 
-## H. COMMON ERRORS TO AVOID
+## 8. Common Errors to Avoid
 
 ```
 ERROR PREVENTION CHECKLIST
@@ -629,26 +629,3 @@ ERROR PREVENTION CHECKLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention 2017, Article 4
-- Commentary on Article 4 OECD MTC (paragraphs 8-21)
-- US IRC §877A (Expatriation Tax)
-- Canadian Income Tax Act, §128.1 (Departure Tax)
-- UK TCGA 1992, ss 1M-1N (Temporary Non-Residence)
-- EU Anti-Tax Avoidance Directive (ATAD) 2016/1164
-
-**Web Resources**:
-- [IRS Expatriation Tax](https://www.irs.gov/individuals/international-taxpayers/expatriation-tax)
-- [Canada Departure Tax](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/dispositions-property.html)
-- [Australian CGT and Residency](https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/foreign-residents-and-capital-gains-tax/how-changing-residency-affects-cgt)
-- [UK Temporary Non-Residence Rules (HS278)](https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2025)
-- [Treaty Tie-Breaker Rules Explained](https://www.cummings.law/how-to-work-with-tax-treaty-tie-breaker-rules-for-dual-residents/)
-- [Global Exit Tax Trends](https://outboundinvestment.com/leaving-isnt-free-anymore-how-exit-taxes-are-redrawing-global-wealth-boundaries/)
-
----
-
-*Chapter 3.5 | Exam Focus: Principles of International Taxation*
