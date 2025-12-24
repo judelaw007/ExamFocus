@@ -35,7 +35,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## A. INSTITUTIONAL FRAMEWORK
+## 1. Institutional Framework
 
 ### 1. Origins and Evolution
 
@@ -99,7 +99,7 @@ The UN and OECD tax work are complementary rather than competing:
 
 ---
 
-## B. THE UN MODEL DOUBLE TAXATION CONVENTION
+## 2. The UN Model Double Taxation Convention
 
 ### 1. Development History
 
@@ -150,7 +150,7 @@ ALWAYS frame your exam answer around this fundamental difference.
 
 ---
 
-## C. KEY UN MODEL PROVISIONS DIFFERING FROM OECD
+## 3. Key UN Model Provisions Differing from OECD
 
 ### 1. Article 5 - Permanent Establishment
 
@@ -245,7 +245,7 @@ Introduced in the **2021 UN Model Update**, Article 12B addresses digital econom
 
 ---
 
-## D. UN MODEL IN PRACTICE
+## 4. UN Model in Practice
 
 ### 1. Country Adoption Patterns
 
@@ -291,7 +291,7 @@ This analytical framework demonstrates understanding.
 
 ---
 
-## E. UN FRAMEWORK CONVENTION ON INTERNATIONAL TAX COOPERATION
+## 5. UN Framework Convention on International Tax Cooperation
 
 ### 1. Background and Development
 
@@ -350,7 +350,7 @@ Do NOT overstate its current impact—it is still under negotiation.
 
 ---
 
-## F. UN CAPACITY BUILDING AND TECHNICAL ASSISTANCE
+## 6. UN Capacity Building and Technical Assistance
 
 ### 1. UN Role in Developing Country Support
 
@@ -384,7 +384,7 @@ The **Platform for Collaboration on Tax** coordinates efforts among four institu
 
 ---
 
-## G. COMPARATIVE ANALYSIS: OECD VS UN APPROACHES
+## 7. Comparative Analysis: OECD vs UN Approaches
 
 ### Summary Comparison Table
 
@@ -431,7 +431,7 @@ HYBRID approach when:
 
 ---
 
-## H. KEY TAKEAWAYS
+## 8. Key Takeaways
 
 ```
 ESSENTIAL CONCEPTS FOR EXAM
@@ -469,7 +469,7 @@ ESSENTIAL CONCEPTS FOR EXAM
 
 ---
 
-## Common Exam Errors to Avoid
+## 9. Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -479,26 +479,3 @@ ESSENTIAL CONCEPTS FOR EXAM
 | Missing developing country perspective | Shows incomplete understanding | Explain WHY developing countries prefer UN provisions |
 | Confusing Committee structure | Undermines institutional analysis | UN = 25 personal experts; OECD = government delegates |
 
----
-
-## References
-
-**Primary Sources:**
-- [UN Model Double Taxation Convention 2021](https://financing.desa.un.org/sites/default/files/2023-05/UN%20Model_2021.pdf)
-- [UN Tax Committee Sessions](https://financing.desa.un.org/events/31st-session-committee-experts-international-cooperation-tax-matters)
-- [UN Framework Convention Negotiations](https://financing.desa.un.org/unfcitc)
-
-**Secondary Sources:**
-- [UN Model vs OECD Model: Key Differences](https://academyoftaxlaw.com/tax-knowledge-base/international-tax-programme/ints1001-weeks-1-2-introduction-to-international-tax/un-model-vs-oecd-model-treaty/)
-- [IBA: How OECD and UN Address International Tax Issues](https://www.ibanet.org/how-do-the-oecd-and-un-address-international-tax-issues-past-present-future)
-- [IISD: UN Framework Convention Summary](https://enb.iisd.org/un-framework-convention-international-tax-cooperation-organizational-session-summary)
-
-**ADIT Past Exam References:**
-- June 2022 Q4: OECD vs UN Article 10 comparison
-- December 2023 Q5: UN-led global tax reform initiative
-- June 2025 Q1 & Q3: UN Model Double Taxation Convention 2021
-
----
-
-*Previous Chapter: 7.2 - Work of the G20 and OECD*
-*Next Chapter: 8.1 - Trends in international tax (if applicable)*

@@ -33,7 +33,7 @@ Strategic Priority: ★★☆☆☆ LOW
 
 ---
 
-## A. HISTORICAL CONTEXT: WHY INTERNATIONAL TAX COORDINATION BEGAN
+## 1. Historical Context: Why International Tax Coordination Began
 
 ### 1. The Post-WWI Tax Environment
 
@@ -59,7 +59,7 @@ As Mitchell B. Carroll noted in 1927, preventative measures were needed to "ligh
 
 ---
 
-## B. THE LEAGUE OF NATIONS' APPROACH
+## 2. The League of Nations' Approach
 
 ### 1. Institutional Framework
 
@@ -123,7 +123,7 @@ While the economists addressed principles, the Technical Experts addressed pract
 
 ---
 
-## C. THE 1928 MODEL CONVENTIONS
+## 3. The 1928 Model Conventions
 
 ### 1. Three Models Adopted
 
@@ -187,7 +187,7 @@ These models attempted to address developing country concerns—a tension that c
 
 ---
 
-## D. TRANSITION TO SUCCESSOR ORGANISATIONS
+## 4. Transition to Successor Organisations
 
 ### 1. From League to UN and OEEC/OECD
 
@@ -228,7 +228,7 @@ The UN's tax work would develop separately (covered in Chapter 7.3), eventually 
 
 ---
 
-## E. LEGACY AND CONTINUING RELEVANCE
+## 5. Legacy and Continuing Relevance
 
 ### 1. Enduring Concepts from the League Era
 
@@ -253,7 +253,7 @@ Understanding the League's work provides context for modern debates:
 
 ---
 
-## F. KEY TAKEAWAYS
+## 6. Key Takeaways
 
 ```
 ESSENTIAL CONCEPTS FOR EXAM
@@ -290,7 +290,7 @@ ESSENTIAL CONCEPTS FOR EXAM
 
 ---
 
-## Common Exam Errors to Avoid
+## 7. Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -299,23 +299,3 @@ ESSENTIAL CONCEPTS FOR EXAM
 | Confusing League with OECD timeline | Shows weak understanding | League (1920s-40s) → OEEC (1948) → OECD (1961) |
 | Over-detailing economists' names | Not tested at this level | Mention "committee of economists" is sufficient |
 
----
-
-## References
-
-**Primary Historical Sources:**
-- League of Nations, Report on Double Taxation by Professors Bruins, Einaudi, Seligman and Sir Josiah Stamp (1923)
-- League of Nations, 1928 Model Conventions (Income/Capital, Succession Duties, Administrative Assistance)
-- Carroll, Mitchell B., Methods of Allocating Taxable Income (League of Nations, 1933)
-
-**Secondary Sources:**
-- Jogarajan, Sunita, *Double Taxation and the League of Nations* (Cambridge University Press, 2018)
-- [UN: Introduction to Tax Treaties](https://www.un.org/esa/ffd/wp-content/uploads/2015/10/TT_Introduction_Eng.pdf)
-- [University of Michigan: Historical Origins of the Multilateral Tax Convention](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1355&context=law_econ_current)
-
-**ADIT Past Exam Reference:**
-- December 2022 Q2: Historical context for double taxation relief (background mention only)
-
----
-
-*Next Chapter: 7.2 - Work of the G20 and OECD*

@@ -39,7 +39,7 @@ Strategic Priority: ★★★★★ CRITICAL
 
 ---
 
-## A. INSTITUTIONAL FRAMEWORK
+## 1. Institutional Framework
 
 ### 1. From OEEC to OECD
 
@@ -111,7 +111,7 @@ OECD/G20 RELATIONSHIP IN TAX MATTERS
 
 ---
 
-## B. THE OECD MODEL TAX CONVENTION
+## 2. The OECD Model Tax Convention
 
 ### 1. Development History
 
@@ -156,7 +156,7 @@ This led to the UN Model (Chapter 7.3) as an alternative with stronger source-st
 
 ---
 
-## C. THE BEPS PROJECT
+## 3. The BEPS Project
 
 ### 1. Origins and Mandate (2013)
 
@@ -229,7 +229,7 @@ Established in 2016 to extend BEPS implementation beyond OECD/G20 members:
 
 ---
 
-## D. THE MULTILATERAL INSTRUMENT (MLI)
+## 4. The Multilateral Instrument (MLI)
 
 ### 1. Purpose and Mechanics
 
@@ -289,7 +289,7 @@ KEY POINTS FROM EXAM SOLUTIONS:
 
 ---
 
-## E. THE TWO-PILLAR SOLUTION
+## 5. The Two-Pillar Solution
 
 ### 1. From BEPS Action 1 to Pillars
 
@@ -357,7 +357,7 @@ EXAM FOCUS: Pillar Two Structure
 
 ---
 
-## F. TRANSFER PRICING GUIDELINES
+## 6. Transfer Pricing Guidelines
 
 ### 1. Development and Status
 
@@ -392,7 +392,7 @@ Transfer pricing questions frequently require reference to the Guidelines:
 
 ---
 
-## G. KEY TAKEAWAYS
+## 7. Key Takeaways
 
 ```
 ESSENTIAL CONCEPTS FOR EXAM
@@ -433,7 +433,7 @@ ESSENTIAL CONCEPTS FOR EXAM
 
 ---
 
-## Common Exam Errors to Avoid
+## 8. Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -444,30 +444,3 @@ ESSENTIAL CONCEPTS FOR EXAM
 | Missing MLI matching requirement | Critical to understanding MLI operation | Explain both parties must list treaty and make compatible choices |
 | Outdated information | Field evolves rapidly | Note dates; acknowledge ongoing developments |
 
----
-
-## References
-
-**Primary Sources:**
-- OECD Model Tax Convention on Income and on Capital (2017, as updated)
-- OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (2022, as updated)
-- OECD, Action Plan on Base Erosion and Profit Shifting (2013)
-- OECD, Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS (2016)
-- OECD, Tax Challenges Arising from Digitalisation – Report on Pillar One Blueprint and Pillar Two Blueprint (2020)
-
-**Web Sources:**
-- [OECD: BEPS Project](https://www.oecd-ilibrary.org/taxation/oecd-g20-base-erosion-and-profit-shifting-project_23132612)
-- [OECD: Transfer Pricing](https://www.oecd.org/en/topics/transfer-pricing.html)
-- [OECD: 1963 Draft Model Convention](https://www.oecd.org/en/publications/draft-double-taxation-convention-on-income-and-capital_9789264073241-en.html)
-
-**ADIT Past Exam References:**
-- June 2023 Q1: BEPS Minimum Standards (25 marks)
-- December 2022 Q1: MLI mechanics (25 marks)
-- December 2022 Q3: Pillar One (25 marks)
-- June 2022 Q2: BEPS Action 13 (25 marks)
-- December 2023 Q2: FHTP and Action 5 (25 marks)
-
----
-
-*Previous Chapter: 7.1 - Work Under the League of Nations*
-*Next Chapter: 7.3 - Work of the UN Group of Experts*
