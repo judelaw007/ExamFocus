@@ -34,9 +34,9 @@ required systematic application of the Article 4(2) hierarchy.
 
 ---
 
-## A. CONCEPT FOUNDATION: THE DEFINITIONAL PROBLEM
+## 1. Concept Foundation: The Definitional Problem
 
-### 1. Why Definitions Conflict
+### 1.1. Why Definitions Conflict
 
 International double taxation often arises not from different types of taxing rights (residence vs source), but from different **definitions** of the same connecting factor. Each state determines its own criteria for residence, source, and other connecting factors under domestic law—and these definitions frequently overlap.
 
@@ -44,7 +44,7 @@ As noted in international tax scholarship: "Obviously, the question would be mea
 
 The absence of a supranational tax authority means there is no universal standard for defining key concepts like "residence" or "source." Each state exercises sovereign power to define these terms according to its own policy objectives, administrative capabilities, and legal traditions. The result is a patchwork of overlapping and sometimes contradictory definitions that create fertile ground for double taxation.
 
-### 2. Types of Definitional Conflicts
+### 1.2. Types of Definitional Conflicts
 
 Definitional conflicts can arise in relation to any connecting factor:
 
@@ -57,7 +57,7 @@ Definitional conflicts can arise in relation to any connecting factor:
 
 ---
 
-## B. INDIVIDUAL RESIDENCE: THE MOST COMMON CONFLICT
+## 2. Individual Residence: The Most Common Conflict
 
 ### 1. Variations in Domestic Residence Tests
 
@@ -122,7 +122,7 @@ However, Article 4(2) provides tie-breaker rules for individuals who are **dual 
 
 ---
 
-## C. THE ARTICLE 4(2) TIE-BREAKER HIERARCHY (INDIVIDUALS)
+## 3. The Article 4(2) Tie-Breaker Hierarchy (Individuals)
 
 ### Correct Structure (Per OECD MTC 2017)
 
@@ -243,7 +243,7 @@ The "last resort" when all preceding tests fail. Competent authorities of both s
 
 ---
 
-## D. CORPORATE RESIDENCE: CONFLICTING DEFINITIONS
+## 4. Corporate Residence: Conflicting Definitions
 
 ### 1. The Two Primary Tests
 
@@ -284,7 +284,7 @@ This change reflects concerns about aggressive tax planning using mobile POEM an
 
 ---
 
-## E. SOURCE DEFINITION CONFLICTS
+## 5. Source Definition Conflicts
 
 ### 1. The Problem
 
@@ -312,7 +312,7 @@ Distributive rules (Articles 6-21) effectively **define source for treaty purpos
 
 ---
 
-## F. EXAM APPLICATION FRAMEWORK
+## 6. Exam Application Framework
 
 ### Question Recognition
 
@@ -335,7 +335,7 @@ For definitional conflict questions:
 
 ---
 
-## G. WORKED EXAM EXAMPLE
+## 7. Worked Exam Example
 
 ### Worked Example: Dual Residence Tie-Breaker (Based on June 2022 Q7)
 
@@ -424,7 +424,7 @@ As a Country U resident for treaty purposes, Country U retains the right to tax 
 
 ---
 
-## H. COMMON ERRORS AND HOW TO AVOID THEM
+## 8. Common Errors and How to Avoid Them
 
 | Error | Why It Happens | Prevention |
 |-------|---------------|------------|
@@ -434,16 +434,3 @@ As a Country U resident for treaty purposes, Country U retains the right to tax 
 | **Ignoring "availability" for permanent home** | Focusing only on ownership | A home rented to others is NOT available |
 | **Counting days for CVI** | Confusing CVI with habitual abode | CVI is qualitative (ties); habitual abode is quantitative (days) |
 
----
-
-## References and Further Reading
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017) - Article 4 and Commentary
-- Commentary on Article 4, paragraphs 10-21 (tie-breaker rules)
-
-**Key Web Resources**:
-- [AIFTP - Conflicts of Definition of Residence](https://aiftponline.org/journal/conflicts-of-definition-of-residence-between-jurisdictions/)
-- [DLA Piper - Dual Tax Residence](https://www.dlapiper.com/en/insights/publications/2021/05/agefi-dual-tax-residence-when-the-tie-does-not-break)
-- [Centre of Vital Interests Analysis](https://www.fieldtax.com/wp-content/uploads/2015/09/The-Expression-Centre-of-Vital-Interests-in-Article-42-OECD-Model-Convention.pdf)
-- [UN Model Double Taxation Convention](https://www.un.org/esa/ffd/wp-content/uploads/2014/10/2STM_Taxation-EC18-2006-7-part2-R.pdf)
