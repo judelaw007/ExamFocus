@@ -13,7 +13,7 @@ Syllabus Level: 1 (awareness required, not detailed knowledge)
 
 Key Question Patterns:
   • June 2022 Q7: US citizenship impact on residence analysis
-  • Dec 2021 Q6: Transfer pricing adjustments causing double taxation
+  • December 2021 Q6: Transfer pricing adjustments causing double taxation
   • June 2024: Hybrid instruments and classification conflicts
   • Part of broader questions on causes of double taxation
 
@@ -396,50 +396,6 @@ Timing differences usually resolve over time (the mismatch reverses), but create
 When a question involves a US person, include analysis such as:
 
 > "Additionally, if [taxpayer] is a US citizen, the United States will tax their worldwide income based on citizenship, regardless of residence status or treaty tie-breaker results. The US saving clause (Article 1(4) US Model) preserves this right in all US treaties. While relief mechanisms exist (Foreign Earned Income Exclusion up to $126,500, Foreign Tax Credit), these may not fully eliminate US tax, creating potential triple taxation."
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CITIZENSHIP-BASED TAXATION:
-   • Only USA and Eritrea tax based on citizenship
-   • US citizens taxed on worldwide income regardless of residence
-   • US saving clause preserves this in ALL US treaties
-   • Relief via FEIE ($126,500 exclusion) and Foreign Tax Credit
-   • Creates potential TRIPLE taxation scenarios
-
-2. ECONOMIC VS JURIDICAL DOUBLE TAXATION:
-   • Juridical: Same taxpayer taxed twice
-   • Economic: Same income taxed in different hands
-   • Treaties primarily address JURIDICAL double taxation
-   • Economic DT addressed through domestic law (participation
-     exemptions, imputation systems)
-
-3. TRANSFER PRICING DOUBLE TAXATION:
-   • Conflicting adjustments by different states
-   • Article 9(2) requires corresponding adjustments
-   • Often requires MAP to resolve
-
-4. TRIANGULAR CASES:
-   • Three-country situations
-   • Bilateral treaties may not provide complete relief
-   • Requires careful structuring or MAP
-
-5. HYBRID MISMATCHES:
-   • Different classification of same entity/instrument
-   • Can cause double taxation OR double non-taxation
-   • BEPS Action 2 addresses these issues
-
-6. EXAM APPROACH:
-   • Always check for US citizenship in fact pattern
-   • Distinguish economic from juridical double taxation
-   • Recognize when bilateral treaty relief is insufficient
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 

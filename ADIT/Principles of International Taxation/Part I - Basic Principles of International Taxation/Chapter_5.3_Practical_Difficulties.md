@@ -643,54 +643,6 @@ ERROR 6: Ignoring current developments
 
 ---
 
-## K. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CREDITABILITY OF FOREIGN TAXES:
-   • Not all foreign levies qualify for credit
-   • Must be compulsory income tax on net gain
-   • DSTs, gross-basis levies, and novel charges problematic
-   • June 2025 Q5 exemplifies this analysis
-
-2. CREDIT LIMITATIONS:
-   • Prevent foreign tax offsetting domestic-source income
-   • Overall, per-country, and basket systems exist
-   • Excess credits may carry forward/back or forfeit
-   • Creates planning opportunities and compliance burden
-
-3. TIMING AND CURRENCY:
-   • Different year-ends create allocation difficulties
-   • Currency conversion methods affect effective credit
-   • Provisional claims and amendments common solutions
-
-4. EXEMPTION COMPLICATIONS:
-   • Progression calculation requires valuing exempt income
-   • Foreign losses: negative progression usually denied
-   • Subject-to-tax clauses require verification
-
-5. HYBRID MISMATCHES:
-   • Classification differences create D/NI outcomes
-   • BEPS Action 2 linking rules neutralise mismatches
-   • Primary rule (deny deduction) vs secondary rule (include)
-   • December 2024 Q5 tested this directly
-
-6. DOCUMENTATION:
-   • Both methods require proof of foreign tax/status
-   • Language, format, timing challenges common
-   • Exchange of information increasingly helps verification
-
-7. PILLAR TWO INTERACTIONS:
-   • GloBE rules affect FTC treatment in ETR calculations
-   • Exemption systems face IIR top-up for low-taxed income
-   • Policy convergence between credit and exemption outcomes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 ## References
 
 **Primary Sources**:

@@ -13,9 +13,9 @@ Syllabus Level: 2 (detailed knowledge required)
 
 Key Question Patterns:
   • June 2022 Q7: Dual residence tie-breaker application (25 marks)
-  • Dec 2022 Q6: Corporate residence - POEM vs incorporation (25 marks)
+  • December 2022 Q6: Corporate residence - POEM vs incorporation (25 marks)
   • June 2024: Article 4(2) tie-breaker hierarchy
-  • Dec 2020 Q7: Multiple connecting factors creating conflicts
+  • December 2020 Q7: Multiple connecting factors creating conflicts
 
 Examiner Focus:
   • Understanding WHY conflicts arise from domestic law differences
@@ -433,46 +433,6 @@ As a Country U resident for treaty purposes, Country U retains the right to tax 
 | **Confusing domestic and treaty residence** | Similar terminology | Treaty residence ONLY affects treaty rights; domestic status unchanged |
 | **Ignoring "availability" for permanent home** | Focusing only on ownership | A home rented to others is NOT available |
 | **Counting days for CVI** | Confusing CVI with habitual abode | CVI is qualitative (ties); habitual abode is quantitative (days) |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CONFLICTING DEFINITIONS arise because each state sets its own
-   criteria for residence, source, etc. under domestic law
-
-2. DUAL RESIDENCE occurs when different domestic law tests result
-   in a person being resident in two states simultaneously
-
-3. ARTICLE 4(2) TIE-BREAKER resolves dual residence FOR TREATY
-   PURPOSES ONLY—does not change domestic law status
-
-4. THE HIERARCHY (individuals):
-   Step 1: Permanent Home (with CVI as sub-test if home in BOTH)
-   Step 2: Habitual Abode
-   Step 3: Nationality
-   Step 4: MAP
-
-5. CVI IS A SUB-TEST of permanent home—applied ONLY when person
-   has permanent home in BOTH states
-
-6. PERMANENT HOME requires:
-   - Any form of dwelling
-   - Arranged and retained for permanent use
-   - Available continuously (NOT rented to others)
-
-7. CORPORATE RESIDENCE conflicts resolved by:
-   - Pre-2017: POEM tie-breaker
-   - Post-2017: MAP on case-by-case basis
-
-8. TREATY RESIDENCE determines which state has primary taxing
-   rights—the other state must provide relief under Article 23
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 

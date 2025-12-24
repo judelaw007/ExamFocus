@@ -464,47 +464,6 @@ Many countries combine methods:
 
 ---
 
-## H. KEY TAKEAWAYS
-
-```
-ESSENTIAL CONCEPTS FOR EXAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CREDIT METHOD PRINCIPLE (Article 23B):
-   • Worldwide income included; credit for foreign tax
-   • Effective rate = HIGHER of source/residence rates
-   • Supports capital export neutrality
-
-2. DIRECT CREDIT:
-   • Tax paid DIRECTLY by taxpayer
-   • Applies to: employment, branch profits, WHT
-   • Must be qualifying income tax (Article 2 link)
-
-3. INDIRECT CREDIT:
-   • Relieves underlying corporate tax on dividends
-   • Requires minimum shareholding (10-25%)
-   • Prevents economic double taxation
-   • Declining: US moved to participation exemption (2017)
-
-4. TAX SPARING:
-   • Credit for "deemed" tax not actually paid
-   • Preserves developing country incentives
-   • DECLINING: BEPS concerns, Pillar Two undermines rationale
-   • US has NEVER granted tax sparing
-
-5. CREDIT LIMITATION:
-   • Ordinary credit: limited to residence state's own tax
-   • Prevents subsidizing high-tax countries
-   • Excess credits: carried forward (usually) or lost
-
-6. POLICY COMPARISON (likely exam topic):
-   • Credit → capital export neutrality, revenue preservation
-   • Exemption → capital import neutrality, simplicity, competitiveness
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 ## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
