@@ -11,8 +11,8 @@ Frequency: Foundational (indirect: 100%) | Direct testing: 25% (2/8 papers)
 Mark Range: 15-25 marks when directly tested
 Key Direct Questions:
   • June 2025 Q1: Article 27 - assistance in collection (25 marks)
-  • Dec 2024 Q1: Residence as effective nexus test (25 marks)
-  • Dec 2024 Q3: Nature and purpose of DTAs (25 marks)
+  • December 2024 Q1: Residence as effective nexus test (25 marks)
+  • December 2024 Q3: Nature and purpose of DTCs (25 marks)
 
 Strategic Priority: ★★★★★ CRITICAL FOUNDATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -107,7 +107,7 @@ The consequences of unrelieved double taxation extend beyond mere inconvenience:
 
 **Impact on Labour Mobility**: Individual workers face double taxation on employment income when working across borders. Without treaty relief, skilled professionals may avoid international assignments, hindering knowledge transfer and economic development.
 
-**The Policy Response**: Recognising these harms, the international community has developed a sophisticated network of over 3,000 bilateral tax treaties, supplemented by multilateral instruments like the MLI. This network, while imperfect, has substantially reduced (though not eliminated) international double taxation.
+**The Policy Response**: Recognising these harms, the international community has developed a sophisticated network of over 3,000 bilateral tax treaties, supplemented by multilateral instruments like the Multilateral Instrument (MLI). This network, while imperfect, has substantially reduced (though not eliminated) international double taxation.
 
 ---
 
@@ -185,7 +185,7 @@ The revenue rule, while originating in English common law, has been adopted with
 **Common Law Jurisdictions**:
 - **United States**: Consistently applied since *Moore v. Mitchell* (1929). U.S. courts refuse to enforce foreign tax judgments as a matter of judicial policy.
 - **Canada**: Follows the revenue rule but has modified it through treaty-based cooperation (extensive Article 27 network).
-- **Australia**: Applied in *Peter Buchanan Ltd v. McVey* - foreign revenue claims are unenforceable absent treaty obligation.
+- **Ireland**: Applied in *Peter Buchanan Ltd v. McVey* [1954] IR 89 - foreign revenue claims are unenforceable absent treaty obligation.
 
 **Civil Law Jurisdictions**:
 - **Germany**: Historically applied a similar principle, but EU harmonisation has created exceptions for intra-EU claims.
@@ -348,7 +348,7 @@ Different model conventions and bilateral treaties take varying approaches to th
 
 The United States applies citizenship-based taxation - one of only two countries (alongside Eritrea) to tax citizens on worldwide income regardless of residence. This makes the saving clause particularly important in US treaties.
 
-*Example*: Under the US-UK DTA:
+*Example*: Under the US-UK DTC:
 - A US citizen residing in the UK earns UK employment income
 - Article 14 allocates primary taxing right to UK (source/residence)
 - The saving clause preserves US right to tax its citizen
@@ -382,7 +382,7 @@ When you see these phrases, jurisdiction/enforcement issues are being tested:
 
 ### Answer Structures by Question Type
 
-**Type 1: "Evaluate whether residence remains an effective nexus" (Dec 2024 Q1 pattern)**
+**Type 1: "Evaluate whether residence remains an effective nexus" (December 2024 Q1 pattern)**
 
 Structure (25 marks, 48 minutes):
 1. Define residence as a basis for tax jurisdiction (4 marks, 8 min)
@@ -400,13 +400,13 @@ Structure (25 marks, 48 minutes):
 4. Discuss limitations and safeguards (4 marks, 8 min)
 5. Conclude on effectiveness (3 marks, 7 min)
 
-**Type 3: "Explain the nature and purpose of DTAs" (Dec 2024 Q3 pattern)**
+**Type 3: "Explain the nature and purpose of DTCs" (December 2024 Q3 pattern)**
 
 Structure (25 marks, 48 minutes):
-1. Define DTAs and their legal status (4 marks, 8 min)
+1. Define DTCs and their legal status (4 marks, 8 min)
 2. Primary purpose: prevent double taxation (6 marks, 12 min)
 3. Secondary purposes: prevent evasion, promote cooperation (6 marks, 12 min)
-4. How DTAs achieve these purposes (allocation, relief methods) (6 marks, 12 min)
+4. How DTCs achieve these purposes (allocation, relief methods) (6 marks, 12 min)
 5. Limitations and ongoing relevance (3 marks, 4 min)
 
 ---
@@ -806,7 +806,7 @@ JURISDICTION TO TAX - EXAM ESSENTIALS
 **Exam Papers Referenced**:
 - June 2025 Q1 (Article 27 temporal scope)
 - December 2024 Q1 (Residence as nexus)
-- December 2024 Q3 (Nature and purpose of DTAs)
+- December 2024 Q3 (Nature and purpose of DTCs)
 
 ---
 
