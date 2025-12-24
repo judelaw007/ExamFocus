@@ -9,6 +9,9 @@ Syllabus Level: 3 (Advanced Knowledge)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Exam Frequency: HIGH - Frequently examined in multiple contexts
 Recent Appearances:
+  • December 2025 Q4: Complex scenario - three financing options
+                     (dividends vs interest vs hybrid instruments),
+                     beneficial ownership, characterization (25 marks)
   • June 2022 Q4: COMPREHENSIVE Article 10 essay - history,
                  OECD/UN differences, WHT rates, developing
                  country perspectives, DTR methods (25 marks)
@@ -958,4 +961,4 @@ MUST KNOW:
 
 ---
 
-*Note: Article 10 is a Level 3 syllabus topic with the HIGHEST exam priority. The June 2022 Q4 comprehensive essay and December 2023 Q7 demonstrate the depth of knowledge required. Understand the shared allocation principle, OECD vs UN differences (especially rates and thresholds), beneficial owner concept, key states' approaches, and the developing country critique. The history from League of Nations through to OECD is also examinable.*
+*Note: Article 10 is a Level 3 syllabus topic with the HIGHEST exam priority. The June 2022 Q4 comprehensive essay, December 2023 Q7, and December 2025 Q4 scenario (comparing dividends, interest, and hybrid instruments) demonstrate the depth of knowledge required. Understand the shared allocation principle, OECD vs UN differences (especially rates and thresholds), beneficial owner concept, key states' approaches, income characterization (debt vs equity), and the developing country critique. The history from League of Nations through to OECD is also examinable.*

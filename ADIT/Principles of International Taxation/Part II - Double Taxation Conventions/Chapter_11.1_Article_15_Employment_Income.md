@@ -9,6 +9,9 @@ Syllabus Level: 3 (Advanced Knowledge)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Exam Frequency: HIGH - Major topic; detailed scenario questions
 Recent Appearances:
+  • December 2025 Q5b: Aircraft pilot employment - Article 15(3)
+                      application, multi-jurisdictional scenario
+                      (3 countries), POEM state allocation (12 marks)
   • June 2023: Comprehensive Article 15 question (Mr Ky scenario -
                employment relationship, economic employer, all three
                conditions of Article 15(2))
@@ -588,6 +591,7 @@ ARTICLE 15 EMPLOYMENT INCOME - ESSENTIAL KNOWLEDGE
 - [Kluwer International Tax Blog - Article 15 and Digitalization](https://legalblogs.wolterskluwer.com/international-tax-law-blog/rethinking-article-15-of-the-oecd-model-in-light-of-digitalization/)
 
 ### Past Exam Questions
+- **December 2025 Q5b**: Aircraft pilot employment scenario (12 marks) - Article 15(3) application, multi-jurisdictional (3 countries), POEM state allocation
 - **June 2023 Q6**: Comprehensive Article 15 question (Mr Ky) - Economic employer, all three conditions, salary and bonus attribution
 - June 2025: Article 15(2)(b) in dual residence context
 - December 2023: Employment income scenario
