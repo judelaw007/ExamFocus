@@ -85,7 +85,7 @@ Anti-avoidance:     Temporary non-          CFC rules on
 | Element | Rule |
 |---------|------|
 | **Who is caught** | "Covered expatriates" - citizens renouncing, long-term residents terminating |
-| **Covered expatriate tests** | Net worth >$2M OR average tax liability >$206,000 (2025) OR failure to certify 5-year compliance |
+| **Covered expatriate tests** | Net worth >$2M OR average tax liability >$206,000 (2024) OR failure to certify 5-year compliance |
 | **Mechanism** | Mark-to-market: deemed sale at FMV day before expatriation |
 | **Exclusion amount** | First $866,000 (2024) of gain excluded |
 | **Deferred compensation** | Subject to 30% withholding when paid |
@@ -155,7 +155,7 @@ new country                         gains; want to defer tax
 |---------|--------------|
 | **France** | Exit tax on >€800K shareholdings or >50% ownership; applies if resident 6/10 years before departure; deferred if moving within EU/EEA |
 | **Germany** | Exit tax on >1% shareholdings in corporations; 10-year look-back for returning emigrants |
-| **Norway** | 2024 reforms: must settle tax within 12 years regardless of sale; €3M NOK exemption |
+| **Norway** | 2024 reforms: must settle tax within 12 years regardless of sale; 3M NOK exemption |
 | **Spain** | Exit tax if resident 10/15 years; extended 5-year tax on worldwide income if moving to tax haven |
 | **Netherlands** | Conservative tax claim on substantial shareholdings (>5%); deferred within EU |
 
@@ -510,7 +510,7 @@ Test 3 - Habitual Abode (if needed):
 Test 4 - Nationality (if needed):
   RESULT: National of [State A/State B/Both/Neither]
 
-CONCLUSION: Treaty resident of [State] for purposes of DTA
+CONCLUSION: Treaty resident of [State] for purposes of DTC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -542,7 +542,7 @@ SCENARIO FACTS
 • Rental apartment in Country B provided by employer
 • Bank account and investment property in Country B from prior visits
 • Returns to Country A September 5
-• DTA mirrors OECD MTC 2017
+• DTC mirrors OECD MTC 2017
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ANALYSIS
@@ -626,51 +626,6 @@ ERROR PREVENTION CHECKLIST
 ❌ WRONG: Confusing domestic split-year with treaty residence
 ✓ RIGHT: These are SEPARATE concepts - split-year is domestic,
          treaty residence is per Article 4
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHANGE OF RESIDENCE - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. EXIT TAXES: Several countries tax accrued gains on departure
-   (US, Canada, Australia, France, Germany, Netherlands); UK
-   does NOT have general exit tax
-
-2. DEEMED DISPOSAL: Fiction of selling assets at FMV creates
-   immediate tax liability; watch for double taxation issues
-
-3. DUAL RESIDENCE: Apply domestic rules of EACH state first;
-   only use treaty tie-breakers if resident in BOTH
-
-4. TIE-BREAKER SEQUENCE: Permanent home test (with CVI as
-   sub-test if home in both states) → Habitual abode →
-   Nationality → MAP
-
-5. PERMANENT HOME: Requires dwelling available continuously,
-   maintained and used regularly - not temporary accommodation
-
-6. CENTRE OF VITAL INTERESTS: Sub-test within permanent home
-   test; balance personal and economic relations; only
-   applied when permanent home exists in BOTH states
-
-7. UK TNR RULES: Anti-avoidance catches gains realised during
-   non-residence <5 years; taxed in year of return
-
-8. SPLIT-YEAR: Domestic concept (especially UK); treaty
-   residence determined separately under Article 4
-
-9. DOUBLE TAXATION: Exit tax + arrival state CGT = potential
-   double tax; look for step-up, FTC, or treaty relief
-
-10. EXAM APPROACH: Systematic analysis - domestic status,
-    treaty tie-breaker, exit tax, relief mechanisms
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
