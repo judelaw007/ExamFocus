@@ -95,9 +95,9 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 | **Examples**: Income tax, corporate tax, wealth tax | **Examples**: VAT, sales tax, customs duties, excise |
 
 **International Tax Relevance**:
-- Double Tax Agreements primarily cover **direct taxes** on income and capital
-- Article 2(2) OECD MTC: "taxes on income and on capital shall be deemed to be all taxes imposed on total income, on total capital, or on elements of income or of capital"
-- Indirect taxes (VAT, customs) are generally **NOT covered** by DTAs
+- Double Taxation Conventions (DTCs) primarily cover **direct taxes** on income and capital
+- Article 2(2) OECD MTC: "There shall be regarded as taxes on income and on capital all taxes imposed on total income, on total capital, or on elements of income or of capital"
+- Indirect taxes (VAT, customs) are generally **NOT covered** by DTCs
 
 #### B. By Rate Structure: Progressive, Proportional, Regressive
 
@@ -145,7 +145,7 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 | **Excise Duties** | Specific goods/services | Alcohol, tobacco, fuel |
 | **Customs Duties** | Border levies | Imports/exports |
 
-**Treaty Relevance**: Generally **excluded** from DTA scope - not "taxes on income or capital."
+**Treaty Relevance**: Generally **excluded** from DTC scope - not "taxes on income or capital."
 
 #### Property and Wealth Taxes
 
@@ -173,8 +173,8 @@ Global tax systems have evolved significantly over recent decades, with importan
 | 2020s onwards | Digital levies emerging | New challenges for classification |
 
 **Why This Matters**:
-1. **Treaty coverage**: DTAs cover income taxes but NOT consumption taxes - as income tax share falls, the proportion of taxation outside treaty scope rises
-2. **Tax competition**: Corporate income tax rates have declined globally (average statutory rate: 50%+ in 1980 → ~23% in 2024), while VAT rates have risen
+1. **Treaty coverage**: DTCs cover income taxes but NOT consumption taxes - as income tax share falls, the proportion of taxation outside treaty scope rises
+2. **Tax competition**: Corporate income tax rates have declined globally (average statutory rate: ~47% in 1980 → ~24% in 2024), while VAT rates have risen
 3. **Base erosion**: Mobile income (corporate profits, capital gains) is more easily shifted than consumption, creating pressure for consumption-based alternatives
 
 **Policy Implications**: Some scholars argue for destination-based cash flow taxes (DBCFT) that would tax consumption at destination while exempting exports - potentially eliminating many transfer pricing and base erosion issues. However, such fundamental reform faces significant political and practical obstacles.
@@ -211,7 +211,7 @@ Understanding tax classification is essential for several aspects of internation
 
 #### 1. Treaty Coverage (Article 2)
 
-**Question**: Is this charge a "tax on income or capital" covered by the DTA?
+**Question**: Is this charge a "tax on income or capital" covered by the DTC?
 
 ```
 Analysis Framework:
@@ -234,7 +234,7 @@ The classification of a tax affects how double taxation relief is provided:
 
 Withholding taxes (WHT) on passive income (dividends, interest, royalties) are:
 - Direct taxes (on income)
-- Covered by DTAs (Articles 10, 11, 12)
+- Covered by DTCs (Articles 10, 11, 12)
 - Subject to rate limitations under treaties
 
 #### 4. Classification Challenges in the Digital Economy
@@ -309,36 +309,6 @@ These mechanisms may require specific treaty provisions to clarify their treatme
 | **Taxable income** | Income subject to tax after deductions |
 | **Withholding** | Tax deducted at source by payer |
 | **Assessment** | Determination of tax liability |
-
----
-
-## E. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DEFINITION AND CLASSIFICATION OF TAXES - ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. TAX DEFINED: Compulsory, unrequited levy imposed by
-   government - distinguishes from fees, fines, and other charges
-
-2. DIRECT vs INDIRECT: Direct taxes (income, profit) covered
-   by DTAs; indirect taxes (VAT, sales) generally NOT covered
-
-3. RATE STRUCTURES: Progressive (rate rises with income),
-   proportional (flat rate), regressive (effective rate falls)
-
-4. TREATY SCOPE: Article 2 OECD MTC covers "taxes on income
-   and capital" - must determine if a charge qualifies
-
-5. ADAM SMITH'S CANONS: Equity, Certainty, Convenience,
-   Economy - remain foundational for tax system design
-
-6. EXAM APPLICATION: Not directly tested, but understanding
-   is assumed when analyzing treaty coverage questions
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 
