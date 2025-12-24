@@ -37,9 +37,49 @@ Remove instructional framework elements from the chapter. Leave all substantive 
 
 **DO NOT REWRITE** - Only remove scaffolding elements. Do not rewrite substantive content. Delete only what's specified below. Do not improve or enhance the remaining content.
 
-### ELEMENTS TO REMOVE
+### ELEMENTS TO REMOVE - EXPLICIT CHECKLIST
 
-#### ✂️ Learning Objectives
+⚠️ **YOU MUST DELETE EVERY INSTANCE OF THE FOLLOWING:**
+
+#### ✂️ 1. KEY TAKEAWAYS SECTIONS
+Delete ANY section with these headers or similar:
+- `## KEY TAKEAWAYS`
+- `### Key Takeaways`
+- `## Key Points`
+- `### Summary: Key Takeaways`
+- Any box/section that lists "key points" or "takeaways"
+
+#### ✂️ 2. KEY VOCABULARY SECTIONS
+Delete ANY section with these headers:
+- `## KEY VOCABULARY`
+- `### Key Vocabulary`
+- `## Vocabulary`
+- `## Key Terms`
+- `### Terminology`
+- Any glossary-style vocabulary list at end of sections
+
+#### ✂️ 3. REFERENCES SECTIONS
+Delete ANY section with these headers:
+- `## References`
+- `### References`
+- `## Sources`
+- `## Further Reading`
+- `## Web Sources`
+- "Primary Sources:" lists
+- "Web Sources:" lists
+- Bibliography sections at end of chapters
+
+**KEEP**: Specific citations WITHIN the body text (e.g., "Article 10, paragraph 2")
+
+#### ✂️ 4. SUMMARY SECTIONS
+Delete:
+- `## Summary`
+- `### Section Summary`
+- "In summary..." paragraphs that restate content
+- "To summarize the key points..."
+- Summary tables that restate what was already covered
+
+#### ✂️ 5. LEARNING OBJECTIVES
 Delete any of these patterns:
 - "By the end of this section, you will..."
 - "Learning objectives for this section"
@@ -47,49 +87,29 @@ Delete any of these patterns:
 - Bullet lists of intended learning outcomes
 - "This chapter aims to..."
 
-#### ✂️ Time & Length Indicators
+#### ✂️ 6. TIME & LENGTH INDICATORS
 Delete:
 - "Estimated reading time: X minutes"
 - "Pages: X-X"
 - Word counts
 - "This section takes approximately..."
-- Reading duration estimates
 
-#### ✂️ Summary Boxes
-Delete:
-- "Section Summary: Key Takeaways"
-- "Key Points" recap boxes
-- Summary tables that merely restate content already covered
-- "In summary..." paragraphs that just list what was said
-- "To summarize the key points..."
-
-#### ✂️ Next Steps Sections
+#### ✂️ 7. NEXT STEPS SECTIONS
 Delete:
 - "Before proceeding to Section X..."
 - Generic "next steps" lists
 - "Continue to Section X" statements
 - "In the next section, we will..."
-- "Now that you understand X, we can move to..."
 
-#### ✂️ Generic References Lists
-Delete:
-- "Sources and References" sections with generic textbook citations
-- "This section incorporates information from..."
-- "For further reading..." with generic suggestions
-- Non-specific bibliography entries
-
-**KEEP**: Specific citations within the text (e.g., "Article 10, paragraph 2")
-
-#### ✂️ Section Markers
+#### ✂️ 8. SECTION MARKERS
 Delete:
 - "End of Section X"
 - "Conclusion of Chapter X"
+- `*Chapter X.X | Exam Focus: ...*` footer lines
 - "--- End ---"
-- Decorative section dividers with no content purpose
 
-#### ✂️ Generic Conclusions
+#### ✂️ 9. GENERIC CONCLUSIONS
 Delete:
-- Summaries that merely restate content already covered
 - "In this section we discussed..."
 - "We have now covered..."
 - Conclusions that add no analytical value
@@ -126,6 +146,30 @@ Provide your refinement in this exact structure:
 
 ### 1. DELETION LOG
 
+#### KEY TAKEAWAYS Sections Removed
+
+| # | Location | Text Deleted |
+|---|----------|--------------|
+| 1 | [Section] | "[Exact text deleted]" |
+
+#### KEY VOCABULARY Sections Removed
+
+| # | Location | Text Deleted |
+|---|----------|--------------|
+| 1 | [Section] | "[Exact text deleted]" |
+
+#### References Sections Removed
+
+| # | Location | Text Deleted |
+|---|----------|--------------|
+| 1 | [Section] | "[Exact text deleted]" |
+
+#### Summary Sections Removed
+
+| # | Location | Text Deleted |
+|---|----------|--------------|
+| 1 | [Section] | "[Exact text deleted]" |
+
 #### Learning Objectives Removed
 
 | # | Location | Text Deleted |
@@ -138,25 +182,13 @@ Provide your refinement in this exact structure:
 |---|----------|--------------|
 | 1 | [Section] | "[Exact text deleted]" |
 
-#### Summary Boxes Removed
-
-| # | Location | Text Deleted |
-|---|----------|--------------|
-| 1 | [Section] | "[Exact text deleted]" |
-
 #### Next Steps Sections Removed
 
 | # | Location | Text Deleted |
 |---|----------|--------------|
 | 1 | [Section] | "[Exact text deleted]" |
 
-#### Generic References Removed
-
-| # | Location | Text Deleted |
-|---|----------|--------------|
-| 1 | [Section] | "[Exact text deleted]" |
-
-#### Section Markers Removed
+#### Section Markers/Footers Removed
 
 | # | Location | Text Deleted |
 |---|----------|--------------|
@@ -172,12 +204,14 @@ Provide your refinement in this exact structure:
 
 | Category | Items Removed |
 |----------|---------------|
+| KEY TAKEAWAYS sections | X |
+| KEY VOCABULARY sections | X |
+| References sections | X |
+| Summary sections | X |
 | Learning objectives | X |
 | Time indicators | X |
-| Summary boxes | X |
 | Next steps sections | X |
-| Generic references | X |
-| Section markers | X |
+| Section markers/footers | X |
 | Generic conclusions | X |
 | **Total deletions** | **X** |
 
@@ -201,15 +235,20 @@ Confirm these were NOT deleted:
 
 ## QUALITY CHECKLIST
 
-Before completing, verify:
+Before completing, verify you have removed ALL of these:
 
+- [ ] All KEY TAKEAWAYS sections removed
+- [ ] All KEY VOCABULARY sections removed
+- [ ] All References sections removed (keep in-text citations)
+- [ ] All Summary sections removed
 - [ ] All learning objectives removed
 - [ ] All time/length indicators removed
-- [ ] All generic summary boxes removed
 - [ ] All "next steps" sections removed
-- [ ] All generic reference lists removed
-- [ ] All section markers removed
+- [ ] All section markers and chapter footers removed
 - [ ] All generic conclusions removed
+
+And preserved ALL of these:
+
 - [ ] ALL substantive content preserved exactly
 - [ ] Worked examples untouched
 - [ ] Answer frameworks untouched
