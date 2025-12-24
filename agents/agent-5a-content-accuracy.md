@@ -45,12 +45,21 @@ You must verify the following via web search:
 |----------|----------|----------|
 | **Dates & Timelines** | Implementation dates, amendment years, deadline dates | Critical |
 | **Statistics & Numbers** | Percentages, thresholds, rates, mark allocations | Critical |
+| **Calculations** | Mathematical examples, tax computations, percentage calculations | Critical |
 | **Regulatory References** | Article numbers, paragraph citations, treaty provisions | Critical |
 | **Legal & Technical Terms** | Definitions, terminology, standard meanings | High |
 | **OECD/UN Positions** | Current model provisions, commentary paragraphs | High |
 | **BEPS/MLI Content** | Action numbers, implementation status, provisions | High |
-| **Case Law & Rulings** | Case names, jurisdictions, outcomes | Medium |
+| **Case Law & Rulings** | Case names, jurisdictions, outcomes, citations | Medium |
 | **Organizational Info** | Committee names, institutional references | Medium |
+
+### CALCULATION VERIFICATION
+
+If the chapter contains any calculations or worked examples, you MUST:
+1. Verify the mathematical accuracy of each calculation step
+2. Check that formulas are correctly applied
+3. Confirm that final answers match the calculation steps
+4. Flag any calculation errors for correction
 
 ### SEARCH STRATEGY
 
