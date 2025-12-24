@@ -291,41 +291,6 @@ The question stated Algero was:
 
 ---
 
-## G. KEY TAKEAWAYS
-
-```
-ESSENTIAL CONCEPTS FOR EXAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. RECOGNITION IS A THRESHOLD QUESTION:
-   • Before taxing an entity, state must recognise its existence
-   • Private international law (not tax law) determines recognition
-   • Lex societatis = law governing the entity's existence
-
-2. TWO MAIN APPROACHES:
-   • Incorporation theory: law of place of incorporation governs
-   • Real seat theory: law of place of effective management governs
-   • EU law has pushed toward incorporation theory within EU
-
-3. RECOGNITION ≠ RESIDENCE:
-   • Recognition: DOES entity exist?
-   • Residence: WHERE is entity taxed?
-   • Recognition is prerequisite; residence is consequence
-
-4. MISMATCHES CREATE COMPLICATIONS:
-   • Different states may disagree on recognition
-   • Non-recognised entity = transparent = member-level taxation
-   • Foundation for hybrid entity issues (Chapter 6.2)
-
-5. EXAM APPLICATION:
-   • Look for recognition statements in fact patterns
-   • Recognition is usually GIVEN in questions (assumed)
-   • Understand WHY it matters for subsequent analysis
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 ## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |

@@ -14,7 +14,7 @@ Syllabus Level: 2 (detailed knowledge required)
 Key Question Patterns:
   • June 2023 Q7: Source taxation of non-resident performers (25 marks)
   • June 2023 Q6: Employment income source (DynaCorp - 25 marks)
-  • Dec 2023 Q6: Immovable property situs/source (Angelica - 25 marks)
+  • December 2023 Q6: Immovable property situs/source (Angelica - 25 marks)
 
 Strategic Priority: ★★★★☆ HIGH - FUNDAMENTAL CONCEPT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -415,42 +415,6 @@ Azuria has full taxing rights over both income streams under Article 17. The non
 | Confusing situs with source | 2-3 marks | Situs = property location; source = income origin |
 | Assuming domestic rules override treaty | 3-4 marks | Treaty prevails between treaty partners |
 | Not distinguishing OECD from UN Model | 2-3 marks | Note which model applies |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SOURCE OF INCOME - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. SOURCE = WHERE INCOME ARISES: Determines which state has
-   territorial connection to tax non-residents
-
-2. EMPLOYMENT: Sourced where services performed; 183-day
-   exception may preserve residence-only taxation (Art. 15)
-
-3. BUSINESS PROFITS: Sourced where PE located; no PE = no
-   source taxation (Art. 7)
-
-4. PASSIVE INCOME: Dividends/interest - payer residence;
-   royalties - varies; limited WHT under treaties
-
-5. CAPITAL GAINS: Immovable property = situs; shares in
-   property-rich companies = property location; other = residence
-
-6. ENTERTAINERS/SPORTSPERSONS: Article 17 exception - source
-   state can ALWAYS tax (no 183-day or PE exception)
-
-7. DOMESTIC VS. TREATY: Treaties override domestic source
-   rules between treaty partners
-
-8. POLICY TENSION: OECD favours residence; UN favours source;
-   Pillar One shifts toward market/destination
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 

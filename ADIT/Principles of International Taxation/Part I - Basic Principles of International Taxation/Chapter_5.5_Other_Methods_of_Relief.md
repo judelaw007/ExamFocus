@@ -452,44 +452,6 @@ MISTAKES TO AVOID
 
 ---
 
-## G. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. DEDUCTION METHOD (E.5):
-   • Foreign tax = deductible EXPENSE (not credit)
-   • Reduces income, NOT tax liability
-   • Provides PARTIAL relief only
-   • Effective rate ALWAYS > higher of two rates
-   • Formula: Source% + (1 - Source%) × Residence%
-   • Used as FALLBACK when credit unavailable
-
-2. DEFERRAL (E.5):
-   • TIMING feature, not true relief method
-   • Subsidiary income taxed when distributed
-   • Branch income taxed currently (no deferral)
-   • Time value of money benefit
-   • SEVERELY LIMITED by:
-     - CFC rules (passive/tainted income)
-     - US GILTI (13.125% → 16.56% after 2025)
-     - Pillar Two (15% minimum)
-   • Historical planning advantage largely eliminated
-
-3. HIERARCHY (Taxpayer Preference):
-   Exemption > Deferral > Credit > Deduction
-
-4. EXAM APPLICATION:
-   • Include deduction AND deferral in comprehensive questions
-   • Show WHY deduction is inferior (formula/calculation)
-   • Discuss modern limitations on deferral (CFC/GILTI/P2)
-   • Note deduction as fallback for non-qualifying taxes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 ## References
 
 **Primary Sources**:

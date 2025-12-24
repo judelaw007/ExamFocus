@@ -307,42 +307,6 @@ Look for these triggers in exam questions:
 
 ---
 
-## G. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CITIZENSHIP-BASED TAXATION - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. ONLY TWO COUNTRIES: USA and Eritrea use citizenship-based
-   taxation; all others use residence or territorial systems
-
-2. US CITIZENS: Taxed on worldwide income regardless of where
-   they live or earn income
-
-3. SAVING CLAUSE: Preserves US right to tax citizens; renders
-   most treaty benefits unavailable to Americans
-
-4. RELIEF MECHANISMS: FEIE ($126,500 exclusion 2024) and FTC
-   (foreign tax credit) prevent double taxation
-
-5. COMPLIANCE BURDEN: US citizens abroad must file returns,
-   FBAR, FATCA even if no US tax owed
-
-6. BANKING ISSUES: FATCA causes foreign banks to refuse US
-   persons, creating practical difficulties
-
-7. EXIT TAX: Renouncing citizenship triggers exit tax for
-   covered expatriates (>$2M net worth)
-
-8. EXAM RELEVANCE: Level 1 awareness topic; not directly
-   tested but relevant background for treaty analysis
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 ## References
 
 **Primary Sources**:

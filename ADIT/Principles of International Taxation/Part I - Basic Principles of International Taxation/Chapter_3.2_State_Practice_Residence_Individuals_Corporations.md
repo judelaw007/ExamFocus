@@ -13,9 +13,9 @@ Syllabus Level: 2 (detailed knowledge required)
 
 Key Question Patterns:
   • June 2025 Q4: Student residence changes (Amelie case - 25 marks)
-  • Dec 2024 Q1: Residence as effective nexus (25 marks)
-  • Dec 2023 Q7: Residence status determination (Zara/Maryam - 25 marks)
-  • Dec 2022 Q6: Corporate residence/POEM (Algero - 25 marks)
+  • December 2024 Q1: Residence as effective nexus (25 marks)
+  • December 2023 Q7: Residence status determination (Zara/Maryam - 25 marks)
+  • December 2022 Q6: Corporate residence/POEM (Algero - 25 marks)
   • June 2022 Q7: Residence determination and changes (Mykola - 25 marks)
 
 Strategic Priority: ★★★★★ CRITICAL - HIGH FREQUENCY
@@ -257,7 +257,7 @@ India introduced detailed POEM guidance in 2017:
 
 **Example**:
 ```
-ALGERO CORPORATION (Dec 2022 Q6 Pattern)
+ALGERO CORPORATION (December 2022 Q6 Pattern)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Country A: Incorporation test
   → Algero incorporated in Country A = Resident
@@ -531,42 +531,6 @@ If Mykola is resident in both countries (Country U not yet treating as non-resid
 | Confusing POEM with board meeting location | 3-4 marks | POEM = where decisions made in substance |
 | Not addressing 2017 changes for companies | 2-3 marks | Note MAP replaced POEM for corporate tie-breaker |
 | Forgetting treaty benefits denied if MAP fails | 2-3 marks | State consequence of no agreement |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-RESIDENCE DETERMINATION - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. DOMESTIC LAW PRIMACY: Residence determined by each state's
-   domestic law - no universal definition
-
-2. COMMON INDIVIDUAL TESTS: 183-day presence, permanent home,
-   centre of vital interests, domicile
-
-3. CORPORATE TESTS: Incorporation (simple, certain) vs. POEM
-   (substance-based, uncertain)
-
-4. UK SRT: Three tiers - automatic overseas, automatic UK,
-   sufficient ties (days + ties matrix)
-
-5. DUAL RESIDENCE: Arises when both countries' domestic laws
-   treat person as resident
-
-6. INDIVIDUAL TIE-BREAKER: Sequential - permanent home → CVI
-   → habitual abode → nationality → MAP
-
-7. CORPORATE TIE-BREAKER (2017): MAP replaces POEM; no treaty
-   benefits if no agreement
-
-8. EXAM APPROACH: Apply domestic tests FIRST, then treaty
-   tie-breaker if dual residence exists
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 

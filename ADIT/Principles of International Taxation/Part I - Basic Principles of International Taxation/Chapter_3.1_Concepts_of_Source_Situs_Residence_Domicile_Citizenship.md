@@ -12,10 +12,10 @@ Mark Range: 15-25 marks when directly tested
 Syllabus Level: 2 (detailed knowledge required)
 
 Key Question Patterns:
-  • Dec 2024 Q1: Residence as effective nexus test (25 marks)
-  • Dec 2022 Q6: Corporate residence and POEM (25 marks)
+  • December 2024 Q1: Residence as effective nexus test (25 marks)
+  • December 2022 Q6: Corporate residence and POEM (25 marks)
   • June 2022 Q7: Residence determination and change (25 marks)
-  • Dec 2020 Q7: Multiple connecting factors (residence, citizenship, situs)
+  • December 2020 Q7: Multiple connecting factors (residence, citizenship, situs)
 
 Strategic Priority: ★★★★★ CRITICAL FOUNDATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -115,7 +115,7 @@ States claim taxing rights based on **two fundamentally different types of conne
 **The US Exception**:
 - US citizens must file and potentially pay US tax on worldwide income **even if living abroad permanently**
 - Origins: Civil War era (1861) to prevent wealthy Americans avoiding tax by moving overseas
-- Enforcement: IRS can cancel passports for tax debts exceeding $50,000
+- Enforcement: IRS can cancel passports for tax debts exceeding $64,000 (2025 threshold, adjusted annually for inflation)
 - Relief mechanisms: Foreign Earned Income Exclusion (FEIE), Foreign Tax Credit (FTC)
 
 **Eritrea's Diaspora Tax**:
@@ -205,7 +205,7 @@ Without Relief:
   French tax (residence): £15,000 (30%)
   Total tax: £25,000 (50% effective rate)
 
-With Treaty Relief (France-UK DTA):
+With Treaty Relief (France-UK DTC):
   UK retains taxing right (Article 6)
   France provides credit for UK tax paid
   Total tax: £15,000 (30% effective rate)
@@ -270,9 +270,9 @@ Source-based taxation reflects **territorial sovereignty**—a state's right to 
 | Model | Favours | Rationale |
 |-------|---------|-----------|
 | **OECD Model** | Residence state | Developed countries export capital; residence taxation protects their tax base |
-| **UN Model** | Source state | Developing countries import capital; source taxation allows them to tax inward investment |
+| **UN MTC** | Source state | Developing countries import capital; source taxation allows them to tax inward investment |
 
-This explains why UN Model provisions often grant broader source-state taxing rights (e.g., Article 12A on fees for technical services).
+This explains why UN MTC provisions often grant broader source-state taxing rights (e.g., Article 12A on fees for technical services).
 
 ### The Evolution of "Nexus" Concepts
 
@@ -303,7 +303,7 @@ When you see these phrases, connecting factor analysis is required:
 
 ### Answer Structure for Connecting Factor Questions
 
-**For 25-mark questions** (e.g., Dec 2024 Q1 pattern):
+**For 25-mark questions** (e.g., December 2024 Q1 pattern):
 
 ```
 1. INTRODUCTION (3 marks, 5 min)
@@ -411,42 +411,6 @@ The appropriate response is not to abandon residence but to supplement it with a
 | Assuming universal residence definition | 3-4 marks | State that domestic law determines residence |
 | Missing Article 4 OECD MTC reference | 2-3 marks | Always cite Article 4 for residence issues |
 | One-sided analysis | 4-5 marks | Address both strengths and challenges of connecting factors |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONNECTING FACTORS - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. TWO CATEGORIES: Personal (residence, domicile, citizenship)
-   vs. Territorial (source, situs)
-
-2. RESIDENCE: Primary personal nexus; determined by domestic
-   law; creates worldwide tax liability; Article 4 OECD MTC
-
-3. DOMICILE: Common law concept distinct from residence;
-   permanent home with intent to remain; harder to change
-
-4. CITIZENSHIP: Only USA and Eritrea tax based on citizenship
-   regardless of residence
-
-5. SOURCE: Where income originates; varies by income type;
-   enables taxation without personal connection
-
-6. SITUS: Physical location of property; situs state has
-   primary taxing right over immovable property
-
-7. DOUBLE TAXATION: Arises when multiple connecting factors
-   apply simultaneously (residence + source)
-
-8. TREATY ALLOCATION: Treaties allocate taxing rights based
-   on which connecting factor takes priority
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 

@@ -20,7 +20,7 @@ INDIRECT RELEVANCE:
 • Article 2(1) OECD MTC: Covers taxes "imposed on behalf of a
   Contracting State or of its political subdivisions or local
   authorities"
-• Understanding which taxes are covered by DTAs
+• Understanding which taxes are covered by DTCs
 • Analyzing residence and source rules across government levels
 • Compliance obligations in federal systems
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -167,7 +167,7 @@ Local Level (thousands of jurisdictions):
 • Local sales tax: Additional to state tax
 ```
 
-**Note on DTAs**: U.S. tax treaties generally **exclude** state and local taxes from coverage (except for non-discrimination provisions).
+**Note on DTCs**: U.S. tax treaties generally **exclude** state and local taxes from coverage (except for non-discrimination provisions).
 
 #### Canada
 
@@ -217,7 +217,7 @@ Municipal Level:
 > "This Convention shall apply to taxes on income and on capital imposed on behalf of a Contracting State or of **its political subdivisions or local authorities**, irrespective of the manner in which they are levied."
 
 **Key Points**:
-- DTAs cover taxes at **all levels** of government (federal, state, local)
+- DTCs cover taxes at **all levels** of government (federal, state, local)
 - Applies regardless of collection method
 - Covers "political subdivisions" (states, provinces, regions)
 - Covers "local authorities" (municipalities, counties)
@@ -226,7 +226,7 @@ Municipal Level:
 
 | Country | Treaty Treatment of Subnational Taxes |
 |---------|--------------------------------------|
-| **Most countries** | Subnational income taxes covered by DTA |
+| **Most countries** | Subnational income taxes covered by DTC |
 | **United States** | State/local taxes generally **excluded** (except non-discrimination) |
 | **Switzerland** | Cantonal taxes covered |
 | **Germany** | State share of taxes covered |
@@ -238,7 +238,7 @@ The U.S. Model Tax Convention takes a unique position:
 > "Except with respect to Article 24 (Nondiscrimination), state and local taxes in the United States are not covered by the Convention."
 
 **Implications**:
-- State income taxes are NOT reduced by U.S. DTAs
+- State income taxes are NOT reduced by U.S. DTCs
 - Non-residents may face both federal AND state tax
 - Non-discrimination protection still applies at state level
 - Creates complexity for international taxpayers
@@ -275,13 +275,13 @@ In federal systems, international taxpayers may face:
 Example: Non-resident earning income in USA
 
 Federal Level:
-• U.S. federal income tax (potentially reduced by DTA)
+• U.S. federal income tax (potentially reduced by DTC)
 
 State Level:
-• State income tax (NOT covered by DTA)
+• State income tax (NOT covered by DTC)
 • Rates: 0% to 13.3%
 
-Result: Even with DTA relief, state tax may still apply
+Result: Even with DTC relief, state tax may still apply
 ```
 
 ### 2. Residence Determination Complexity
@@ -400,7 +400,7 @@ The interaction between federal and subnational transfer pricing rules creates u
 ### Treaty Article 2(3) - Typical Listed Taxes
 
 ```
-Example: UK-Germany DTA Article 2(3)
+Example: UK-Germany DTC Article 2(3)
 
 United Kingdom:
 (a) the income tax;
@@ -430,41 +430,6 @@ Germany:
 | **Intergovernmental transfer** | Grant from higher to lower government level |
 | **Tax harmonization** | Coordination of tax rules across jurisdictions |
 | **Nexus** | Sufficient connection to a jurisdiction to allow taxation |
-
----
-
-## G. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FEDERAL SYSTEMS AND LOCAL-LEVEL TAXES - ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. FEDERAL vs. UNITARY: Federal systems (USA, Canada, Germany)
-   have multiple taxing authorities; unitary systems (UK, France)
-   concentrate power at central level
-
-2. OECD DATA: Federal countries: 53% central, 18% state, 8% local
-   Unitary countries: 65% central, 10% local
-
-3. ARTICLE 2(1) OECD MTC: Treaties cover taxes at ALL levels -
-   "political subdivisions or local authorities"
-
-4. U.S. EXCEPTION: U.S. DTAs generally EXCLUDE state/local taxes
-   (except non-discrimination) - unique approach
-
-5. COMPLIANCE BURDEN: Federal systems create multiple filing
-   requirements, varying rates, and different tax bases
-
-6. FISCAL FEDERALISM: Theory suggests mobile tax bases
-   (capital) should be taxed federally; immobile bases
-   (property) should be taxed locally
-
-7. EXAM APPLICATION: Not directly tested, but understanding
-   helps with Article 2 analysis and real-world application
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 

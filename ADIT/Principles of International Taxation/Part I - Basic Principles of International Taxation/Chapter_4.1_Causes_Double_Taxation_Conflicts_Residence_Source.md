@@ -13,8 +13,8 @@ Syllabus Level: 2 (detailed knowledge required)
 
 Key Question Patterns:
   • June 2022 Q4: Allocation of taxing rights for dividends (Article 10)
-  • Dec 2020 Q7: Residence/source conflicts with relief mechanisms
-  • Dec 2021 Q6: Source vs residence taxation and treaty allocation
+  • December 2020 Q7: Residence/source conflicts with relief mechanisms
+  • December 2021 Q6: Source vs residence taxation and treaty allocation
   • June 2024: Residence determination leading to double taxation
 
 Examiner Focus:
@@ -455,41 +455,6 @@ Before submitting your answer, verify:
 - [ ] Have I applied the correct relief method with proper calculations?
 - [ ] Have I shown all workings for numerical parts?
 - [ ] Have I concluded on the taxpayer's final position?
-
----
-
-## H. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. International juridical double taxation = same taxpayer + same
-   income + same period + two states
-
-2. Residence-source conflict is the MOST COMMON cause:
-   - Residence state taxes worldwide income
-   - Source state taxes territorial income
-   - Same income taxed twice
-
-3. Treaties resolve through TWO steps:
-   - Step 1: Allocate taxing rights (Arts 6-22 distributive rules)
-   - Step 2: Residence state provides relief (Arts 23A/23B)
-
-4. Two relief methods:
-   - Exemption: foreign income excluded from tax base
-   - Credit: foreign tax deducted from domestic liability
-
-5. Credit method: effective rate = HIGHER of two states' rates
-   Exemption method: effective rate = SOURCE state rate only
-
-6. For dividends/interest: BOTH states may tax, but source state
-   limited to treaty rate (typically 5-15%)
-
-7. Always check: Is there a treaty? What does domestic law provide?
-   Do conditions (e.g., beneficial ownership) apply?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 
