@@ -28,9 +28,9 @@ factual scenarios and resolve dual residence using Article 4 OECD MTC.
 
 ---
 
-## A. CONCEPT FOUNDATION
+## 1. Concept Foundation
 
-### 1. The Domestic Law Primacy Principle
+### 1.1. The Domestic Law Primacy Principle
 
 **Key Principle**: Tax residence is determined under **domestic law** of each jurisdiction. There is no universal international definition of residence.
 
@@ -47,7 +47,7 @@ factual scenarios and resolve dual residence using Article 4 OECD MTC.
 - Tests may produce conflicting results
 - Dual residence leads to double taxation unless resolved by treaty
 
-### 2. Types of Residence Tests
+### 1.2. Types of Residence Tests
 
 States generally use one or more of the following approaches:
 
@@ -62,9 +62,9 @@ States generally use one or more of the following approaches:
 
 ---
 
-## B. INDIVIDUAL RESIDENCE: STATE PRACTICE
+## 2. Individual Residence: State Practice
 
-### 1. Physical Presence Tests
+### 2.1. Physical Presence Tests
 
 The most common approach uses **number of days** present in the country.
 
@@ -114,7 +114,7 @@ Result: Does NOT meet SPT (below 183)
 - Treaty tie-breaker (if dual resident under SPT + other country's test)
 - Exempt individuals (F-1 students for 5 years, J-1 scholars for 2 years)
 
-### 2. UK Statutory Residence Test (SRT)
+### 2.2. UK Statutory Residence Test (SRT)
 
 The UK's SRT (introduced 2013) is the most sophisticated domestic residence test globally. It uses a **three-tier structure**:
 
@@ -160,7 +160,7 @@ If neither automatic test applies, residence depends on **combination of days + 
 | 121-182 | 1+ ties |
 | ≥183 | Automatic resident |
 
-### 3. Other State Practice Examples
+### 2.3. Other State Practice Examples
 
 #### France
 
@@ -186,9 +186,9 @@ Uses a **combination approach**:
 
 ---
 
-## C. CORPORATE RESIDENCE: STATE PRACTICE
+## 3. Corporate Residence: State Practice
 
-### 1. The Two Primary Tests
+### 3.1. The Two Primary Tests
 
 Corporate residence is determined by one of two main tests:
 
@@ -197,7 +197,7 @@ Corporate residence is determined by one of two main tests:
 | **Incorporation** | Where legally formed | Simple, certain, objective | Easy to manipulate |
 | **Place of Effective Management (POEM)** | Where key decisions made | Substance-based, harder to manipulate | Uncertain, subjective |
 
-### 2. Place of Incorporation Test
+### 3.2. Place of Incorporation Test
 
 **How It Works**: A company is resident where it is legally incorporated/registered.
 
@@ -216,7 +216,7 @@ Corporate residence is determined by one of two main tests:
 - Form over substance
 - Facilitates stateless income structures
 
-### 3. Place of Effective Management (POEM)
+### 3.3. Place of Effective Management (POEM)
 
 **Definition**: POEM is where key management and commercial decisions necessary for the conduct of business are **in substance made**.
 
@@ -251,7 +251,7 @@ India introduced detailed POEM guidance in 2017:
 4. Where company's head office located
 5. Where main and substantial activity carried out
 
-### 4. Dual Corporate Residence Scenarios
+### 3.4. Dual Corporate Residence Scenarios
 
 **Problem**: A company incorporated in Country A may be managed from Country B, creating dual residence.
 
@@ -271,7 +271,7 @@ Country B: POEM test
 Result: Dual residence requiring treaty resolution
 ```
 
-### 5. 2017 OECD MTC Changes for Corporate Residence
+### 3.5. 2017 OECD MTC Changes for Corporate Residence
 
 **Pre-2017**: Article 4(3) used POEM as the tie-breaker for dual-resident companies
 
@@ -288,9 +288,9 @@ Result: Dual residence requiring treaty resolution
 
 ---
 
-## D. TREATY TIE-BREAKER RULES (ARTICLE 4 OECD MTC)
+## 4. Treaty Tie-Breaker Rules (Article 4 OECD MTC)
 
-### 1. Individual Tie-Breaker Rules (Article 4(2))
+### 4.1. Individual Tie-Breaker Rules (Article 4(2))
 
 When an individual is resident in both states under domestic law, Article 4(2) provides a **sequential hierarchy**:
 
@@ -321,7 +321,7 @@ Step 4: MUTUAL AGREEMENT PROCEDURE
   → Individual not entitled to treaty benefits until resolved
 ```
 
-### 2. Applying the Tie-Breaker: Worked Example
+### 4.2. Applying the Tie-Breaker: Worked Example
 
 ```
 SCENARIO: Maria's Dual Residence
@@ -357,7 +357,7 @@ for treaty purposes, despite spending more time in UK.
 
 ---
 
-## E. THE EVOLUTION OF RESIDENCE TESTS AND POLICY DEBATES
+## 5. Evolution of Residence Tests and Policy Debates
 
 ### Historical Development
 
@@ -422,7 +422,8 @@ Country B: Resident based on 90+ days presence
 
 Individual could be resident in both simultaneously,
 accessing treaty benefits of both countries with
-third parties while potentially abusing CRS/FATCA
+third parties while potentially abusing Common Reporting
+Standard (CRS) and Foreign Account Tax Compliance Act (FATCA)
 classifications.
 ```
 
@@ -430,7 +431,7 @@ These arbitrage opportunities explain why information exchange (CRS) requires re
 
 ---
 
-## F. EXAM APPLICATION FRAMEWORK
+## 6. Exam Application Framework
 
 ### Recognition Triggers
 
@@ -471,7 +472,7 @@ These arbitrage opportunities explain why information exchange (CRS) requires re
 
 ---
 
-## G. WORKED EXAM EXAMPLE
+## 7. Worked Exam Example
 
 ### June 2022, Question 7 - Mykola Case (25 marks)
 
@@ -519,77 +520,3 @@ If Mykola is resident in both countries (Country U not yet treating as non-resid
 
 **Conclusion**: Result depends on how tribunal weighs personal vs. economic ties. If family location considered paramount, Country U residence. If employment location considered more significant, Country X residence.
 
----
-
-## H. COMMON ERRORS TO AVOID
-
-| Error | Impact | Prevention |
-|-------|--------|------------|
-| Not stating domestic law determines residence | 3-4 marks | Always cite Article 4(1) first |
-| Applying tie-breaker without dual residence | 4-5 marks | Check BOTH countries' domestic law first |
-| Wrong order of tie-breaker steps | 3-4 marks | Permanent home (with CVI sub-test) → Habitual abode → Nationality → MAP |
-| Confusing POEM with board meeting location | 3-4 marks | POEM = where decisions made in substance |
-| Not addressing 2017 changes for companies | 2-3 marks | Note MAP replaced POEM for corporate tie-breaker |
-| Forgetting treaty benefits denied if MAP fails | 2-3 marks | State consequence of no agreement |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-RESIDENCE DETERMINATION - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. DOMESTIC LAW PRIMACY: Residence determined by each state's
-   domestic law - no universal definition
-
-2. COMMON INDIVIDUAL TESTS: 183-day presence, permanent home,
-   centre of vital interests, domicile
-
-3. CORPORATE TESTS: Incorporation (simple, certain) vs. POEM
-   (substance-based, uncertain)
-
-4. UK SRT: Three tiers - automatic overseas, automatic UK,
-   sufficient ties (days + ties matrix)
-
-5. DUAL RESIDENCE: Arises when both countries' domestic laws
-   treat person as resident
-
-6. INDIVIDUAL TIE-BREAKER: Sequential - permanent home → CVI
-   → habitual abode → nationality → MAP
-
-7. CORPORATE TIE-BREAKER (2017): MAP replaces POEM; no treaty
-   benefits if no agreement
-
-8. EXAM APPROACH: Apply domestic tests FIRST, then treaty
-   tie-breaker if dual residence exists
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Article 4
-- UK Statutory Residence Test (Finance Act 2013, Schedule 45)
-- US Internal Revenue Code §7701(b) - Substantial Presence Test
-
-**Web Resources**:
-- [UK SRT Guidance (GOV.UK)](https://www.gov.uk/government/publications/rdr3-statutory-residence-test-srt/guidance-note-for-statutory-residence-test-srt-rdr3)
-- [US Substantial Presence Test (IRS)](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test)
-- [Corporate Residence and POEM (Taxmann)](https://www.taxmann.com/post/blog/concept-of-residency-and-place-of-effective-management-poem/)
-- [Article 4 Tie-Breaker Rules (DLA Piper)](https://www.dlapiper.com/en/insights/publications/2021/05/agefi-dual-tax-residence-when-the-tie-does-not-break)
-
-**Exam Papers Referenced**:
-- June 2025 Q4 (Amelie - student residence)
-- December 2024 Q1 (Residence as nexus)
-- December 2023 Q7 (Zara/Maryam - residence changes)
-- December 2022 Q6 (Algero - corporate residence/POEM)
-- June 2022 Q7 (Mykola - residence determination)
-
----
-
-*Chapter 3.2 | Exam Focus: Principles of International Taxation*

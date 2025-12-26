@@ -4,30 +4,7 @@
 
 ---
 
-```
-EXAM INTELLIGENCE: Source of Income Rules
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frequency: 30% (3/10 papers direct testing 2020-2025)
-Mark Range: 15-25 marks when directly tested
-Syllabus Level: 2 (detailed knowledge required)
-
-Key Question Patterns:
-  • June 2023 Q7: Source taxation of non-resident performers (25 marks)
-  • June 2023 Q6: Employment income source (DynaCorp - 25 marks)
-  • Dec 2023 Q6: Immovable property situs/source (Angelica - 25 marks)
-
-Strategic Priority: ★★★★☆ HIGH - FUNDAMENTAL CONCEPT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHY THIS MATTERS: Source rules determine whether a state can tax
-non-residents. Every treaty article allocating taxing rights implicitly
-applies source principles. Understanding source is essential for
-analyzing any cross-border income scenario.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. CONCEPT FOUNDATION
+## 1. CONCEPT FOUNDATION
 
 ### 1. What Is "Source" of Income?
 
@@ -41,8 +18,8 @@ analyzing any cross-border income scenario.
 |---------|-------------|
 | **Non-resident taxation** | Determines if state can tax non-residents |
 | **Treaty allocation** | Identifies which state is "source" vs "residence" |
-| **Double taxation relief** | Foreign tax credit limited to tax on foreign-source income |
-| **Withholding taxes** | Source state withholds tax at source on payments to non-residents |
+| **Double taxation relief** | FTC (Foreign Tax Credit) limited to tax on foreign-source income |
+| **WHT (Withholding Tax)** | Source state withholds tax at source on payments to non-residents |
 
 ### 3. The Fundamental Problem
 
@@ -54,7 +31,7 @@ analyzing any cross-border income scenario.
 
 ---
 
-## B. SOURCE RULES BY INCOME TYPE
+## 2. SOURCE RULES BY INCOME TYPE
 
 ### 1. Employment Income (Services)
 
@@ -97,7 +74,7 @@ Result: ALL €100,000 taxable only in France
 
 ### 2. Business Profits
 
-**General Rule**: Business profits sourced where **permanent establishment (PE)** located.
+**General Rule**: Business profits sourced where **PE (Permanent Establishment)** located.
 
 **OECD MTC Article 7**: Business profits taxable only in residence state UNLESS carried on through PE in source state.
 
@@ -182,7 +159,7 @@ Relief: Germany credits UK tax paid
 
 ---
 
-## C. STATE PRACTICE: DOMESTIC SOURCE RULES
+## 3. STATE PRACTICE: DOMESTIC SOURCE RULES
 
 ### 1. United States (IRC §§861-865)
 
@@ -228,7 +205,7 @@ Relief: Germany credits UK tax paid
 
 ---
 
-## D. TREATY MODIFICATION OF SOURCE RULES
+## 4. TREATY MODIFICATION OF SOURCE RULES
 
 ### 1. How Treaties Override Domestic Source Rules
 
@@ -255,7 +232,7 @@ Some treaties explicitly **re-source** income for treaty purposes:
 
 ---
 
-## E. POLICY PERSPECTIVES: RESIDENCE VS SOURCE TAXATION
+## 5. POLICY PERSPECTIVES: RESIDENCE VS SOURCE TAXATION
 
 ### The Historical Compromise
 
@@ -280,7 +257,7 @@ This compromise has persisted for nearly a century but faces increasing challeng
 | PE required for business profits | Value created by users/data |
 | Sales sourced at title passage | Digital goods have no "location" |
 
-**Pillar One's Market-Based Approach**: Represents a partial shift from traditional source to market/destination taxation for largest MNEs.
+**Pillar One's Market-Based Approach**: Represents a partial shift from traditional source to market/destination taxation for largest MNEs (Multinational Enterprises).
 
 ### Developing Country Perspectives
 
@@ -313,49 +290,7 @@ BEPS Response:
 
 ---
 
-## F. EXAM APPLICATION FRAMEWORK
-
-### Recognition Triggers
-
-| Trigger Phrase | Analysis Required |
-|----------------|-------------------|
-| "Non-resident earns income from..." | Source taxation analysis |
-| "Performs services in..." | Employment source rules (Art. 15) |
-| "Receives dividends/interest/royalties from..." | Passive income source + WHT |
-| "Sells property located in..." | Capital gains situs analysis |
-| "PE in Country X" | Business profits attribution |
-
-### Answer Structure for Source Questions
-
-**For scenario questions involving income sourcing**:
-
-```
-1. IDENTIFY INCOME TYPE (3 marks, 5 min)
-   - Employment/business/passive/capital gain?
-   - Different rules apply to each
-
-2. APPLY DOMESTIC SOURCE RULE (5 marks, 10 min)
-   - State how source state determines source
-   - Apply facts to domestic test
-
-3. APPLY TREATY SOURCE RULE (8 marks, 15 min)
-   - Cite relevant OECD MTC article
-   - Apply facts to treaty allocation
-   - Determine which state has taxing right
-
-4. DETERMINE TAX CONSEQUENCE (5 marks, 10 min)
-   - Source state taxation (if permitted)
-   - WHT rates (if applicable)
-   - Residence state relief mechanism
-
-5. CONCLUSION (4 marks, 8 min)
-   - Summarize taxing rights
-   - Note any planning opportunities/risks
-```
-
----
-
-## G. WORKED EXAM EXAMPLE
+## 6. WORKED EXAM EXAMPLE
 
 ### June 2023, Question 7 - Azurian Music Festival (25 marks)
 
@@ -403,74 +338,3 @@ This is an **exception** to the normal source rules:
 **Conclusion**:
 Azuria has full taxing rights over both income streams under Article 17. The non-resident performers' residence states must provide relief (typically FTC) to prevent double taxation.
 
----
-
-## H. COMMON ERRORS TO AVOID
-
-| Error | Impact | Prevention |
-|-------|--------|------------|
-| Applying wrong source rule for income type | 4-5 marks | Identify income category first |
-| Forgetting Article 17 exception for performers | 3-4 marks | Check if entertainer/sportsperson |
-| Missing 183-day exception for employment | 3-4 marks | Always check three conditions |
-| Confusing situs with source | 2-3 marks | Situs = property location; source = income origin |
-| Assuming domestic rules override treaty | 3-4 marks | Treaty prevails between treaty partners |
-| Not distinguishing OECD from UN Model | 2-3 marks | Note which model applies |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SOURCE OF INCOME - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. SOURCE = WHERE INCOME ARISES: Determines which state has
-   territorial connection to tax non-residents
-
-2. EMPLOYMENT: Sourced where services performed; 183-day
-   exception may preserve residence-only taxation (Art. 15)
-
-3. BUSINESS PROFITS: Sourced where PE located; no PE = no
-   source taxation (Art. 7)
-
-4. PASSIVE INCOME: Dividends/interest - payer residence;
-   royalties - varies; limited WHT under treaties
-
-5. CAPITAL GAINS: Immovable property = situs; shares in
-   property-rich companies = property location; other = residence
-
-6. ENTERTAINERS/SPORTSPERSONS: Article 17 exception - source
-   state can ALWAYS tax (no 183-day or PE exception)
-
-7. DOMESTIC VS. TREATY: Treaties override domestic source
-   rules between treaty partners
-
-8. POLICY TENSION: OECD favours residence; UN favours source;
-   Pillar One shifts toward market/destination
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Articles 6, 7, 10-17, 21
-- UN Model Double Taxation Convention (2021)
-- US Internal Revenue Code §§861-865
-
-**Web Resources**:
-- [US Source of Income Rules (IRS)](https://www.irs.gov/pub/fatca/int_practice_units/ftc-sourcing-of-income.pdf)
-- [Income Sourcing Rules (Freeman Law)](https://freemanlaw.com/income-sourcing-rules-foreign-source-and-u-s-source-income/)
-- [Capital Gains Taxation (UN)](https://www.un.org/esa/ffd/wp-content/uploads/2014/09/20140923_Paper_TaxationCapitalGains.pdf)
-
-**Exam Papers Referenced**:
-- June 2023 Q7 (Non-resident performers - source taxation)
-- June 2023 Q6 (Employment income source - DynaCorp)
-- December 2023 Q6 (Immovable property - Angelica)
-
----
-
-*Chapter 3.4 | Exam Focus: Principles of International Taxation*
