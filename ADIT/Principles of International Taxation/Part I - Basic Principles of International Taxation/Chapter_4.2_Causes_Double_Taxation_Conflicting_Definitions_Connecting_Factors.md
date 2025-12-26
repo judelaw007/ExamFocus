@@ -1,370 +1,99 @@
-# Chapter 4.2: Causes of International Double Taxation - Conflicting Definitions of Connecting Factors
+## Chapter 4.2: Causes of International Double Taxation - Conflicting Definitions of Connecting Factors
 
-## When States Define the Same Concepts Differently
+### 1. The Definitional Problem
 
----
+International double taxation frequently arises not from different types of taxing rights—residence versus source—but from different definitions of the same connecting factor. Each state determines its own criteria for residence, source, and other connecting factors under domestic law, and these definitions frequently overlap in ways that subject the same income to taxation in multiple jurisdictions.
 
-## 1. CONCEPT FOUNDATION: THE DEFINITIONAL PROBLEM
+The absence of a supranational tax authority means there is no universal standard for defining concepts such as "residence" or "source of income." Each state exercises sovereign power to define these terms according to its own policy objectives, administrative capabilities, and legal traditions. A state favouring physical presence tests may adopt different day-counting rules than its neighbours; another may emphasise subjective factors such as permanent home or centre of vital interests. The result is a patchwork of overlapping and sometimes contradictory definitions that create fertile ground for double taxation even when both states purport to use residence as their primary connecting factor.
 
-### 1. Why Definitions Conflict
+This problem extends beyond residence to encompass corporate residence, source rules, and permanent establishment thresholds. When two states each conclude under their domestic law that they possess the right to tax the same income—because their definitions of the relevant connecting factor differ—juridical double taxation results absent treaty relief.
 
-International double taxation often arises not from different types of taxing rights (residence vs source), but from different **definitions** of the same connecting factor. Each state determines its own criteria for residence, source, and other connecting factors under domestic law—and these definitions frequently overlap.
+### 2. Individual Residence Conflicts
 
-As noted in international tax scholarship: "Obviously, the question would be meaningless if all the States concerned had strictly the same internal criteria for determining residence and if the criteria of each country excluded any risk of conflict with those of another, but this is typically not the case."
+#### 2.1. Variations in Domestic Residence Tests
 
-The absence of a supranational tax authority means there is no universal standard for defining key concepts like "residence" or "source." Each state exercises sovereign power to define these terms according to its own policy objectives, administrative capabilities, and legal traditions. The result is a patchwork of overlapping and sometimes contradictory definitions that create fertile ground for double taxation.
+States employ fundamentally different approaches to determine individual tax residence. **Physical presence tests** count days spent within the jurisdiction—the 183-day rule appears in numerous domestic laws, though states vary in whether they count by calendar year, fiscal year, or rolling period, and whether partial days count. Germany, France, and Japan exemplify this objective approach.
 
-### 2. Types of Definitional Conflicts
+**Permanent home and centre of vital interests tests** focus on qualitative factors—where the individual maintains a dwelling and where personal and economic ties are strongest. Belgium and the Netherlands traditionally emphasised these subjective factors, which may apply regardless of days present.
 
-Definitional conflicts can arise in relation to any connecting factor:
+**Statutory hybrid tests** combine multiple elements. The United Kingdom's Statutory Residence Test, introduced in 2013, applies automatic tests based on presence thresholds and then considers connection factors including available accommodation, family location, and substantive work ties. Meeting certain presence thresholds triggers residence; meeting others with sufficient connection factors also triggers residence.
 
-| Connecting Factor | Nature of Conflict | Double Taxation Result |
-|-------------------|-------------------|----------------------|
-| **Individual Residence** | State A uses 183-day test; State B uses permanent home test | Person may be resident in both |
-| **Corporate Residence** | State A uses place of incorporation; State B uses place of effective management | Company may be resident in both |
-| **Source of Income** | States apply different sourcing rules to same income type | Same income may have "source" in multiple states |
-| **Permanent Establishment** | Different PE thresholds under domestic law | Same activity may create PE in one state but not another |
+These variations create obvious conflict scenarios. An individual spending 120 days working in the United Kingdom and 100 days with family in France may be resident in both under domestic law—the UK based on work ties and sufficient presence, France based on family location and centre of vital interests.
 
----
+#### 2.2. The Article 4(2) Tie-Breaker
 
-## 2. INDIVIDUAL RESIDENCE: THE MOST COMMON CONFLICT
+Article 4(1) of the OECD Model Tax Convention explicitly defers to domestic law, treating a person as resident of a contracting state if "liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature." The treaty does not create an autonomous residence definition but accepts each state's domestic determination.
 
-### 1. Variations in Domestic Residence Tests
+When domestic laws produce dual residence, Article 4(2) provides tie-breaker rules to determine residence for treaty purposes only. These rules operate as a hierarchical sequence—once a test resolves the conflict, subsequent tests are not applied.
 
-States use fundamentally different approaches to determine individual tax residence:
+The **permanent home test** asks whether the individual has a dwelling arranged and retained for permanent use, continuously available to them. A home rented to unrelated third parties fails this availability requirement. When the individual has a permanent home in one state only, treaty residence lies in that state.
 
-```
-RESIDENCE TESTS COMPARISON
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+When permanent homes exist in both states, the **centre of vital interests** sub-test examines where personal and economic relations are closer. Personal relations—spouse, children, social connections—receive particular weight, though economic relations including employment, business activities, and investments also matter. The analysis examines circumstances as a whole rather than applying mechanical rules.
 
-PHYSICAL PRESENCE TESTS (Objective)
-┌─────────────────────────────────────────────────────────────────┐
-│ • 183-day test (many countries)                                 │
-│ • Counted per calendar year OR fiscal year OR rolling period    │
-│ • Some count partial days, others only full days                │
-│ • Example: Germany, France, Japan                               │
-└─────────────────────────────────────────────────────────────────┘
+The **habitual abode** test applies when permanent home exists in neither state or when centre of vital interests proves indeterminate. This primarily quantitative analysis considers frequency, duration, and regularity of stays as part of a settled routine, though the qualitative nature of stays also matters.
 
-PERMANENT HOME / CENTRE OF INTERESTS (Subjective)
-┌─────────────────────────────────────────────────────────────────┐
-│ • Focus on dwelling availability and personal ties              │
-│ • May apply regardless of days present                          │
-│ • Example: UK (pre-2013), Belgium, Netherlands                  │
-└─────────────────────────────────────────────────────────────────┘
+The **nationality** test applies when habitual abode fails to resolve the conflict. If the individual holds nationality of only one contracting state, treaty residence lies there.
 
-STATUTORY TESTS (Hybrid)
-┌─────────────────────────────────────────────────────────────────┐
-│ • Complex combination of presence + connections                 │
-│ • Multiple tests applied in sequence                            │
-│ • Example: UK Statutory Residence Test (SRT)                    │
-└─────────────────────────────────────────────────────────────────┘
+When all preceding tests fail, the **mutual agreement procedure** requires competent authorities to settle the residence question by agreement. This creates uncertainty for taxpayers, as MAP cases may take years to resolve.
 
-CITIZENSHIP-BASED
-┌─────────────────────────────────────────────────────────────────┐
-│ • Residence irrelevant for tax purposes                         │
-│ • Citizens taxed on worldwide income regardless of location     │
-│ • Example: United States, Eritrea                               │
-└─────────────────────────────────────────────────────────────────┘
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+The application of these tie-breaker rules featured in the June 2025 examination, which required analysis of a dual residence scenario involving a student moving between states (covered in June 2025).
 
-### 2. Example of Conflict: UK vs France
+#### 2.3. The Centre of Vital Interests Analysis
 
-Consider an individual who:
-- Spends 120 days in the UK (working in London)
-- Spends 100 days in France (family home in Paris)
-- Spends remaining time traveling
+The centre of vital interests test merits particular attention given its frequent examination. The OECD Commentary provides that circumstances must be examined as a whole, with considerations based on personal acts receiving special attention. Relevant factors include family location and relationships, employment and business connections, political and cultural activities, and property ownership patterns.
 
-**Under UK SRT**: May be resident if meeting "sufficient ties" test with 120+ days and significant connections (accommodation, family, work)
+Courts have varied in their emphasis. Some jurisdictions prioritise family location, viewing the presence of spouse and dependent children as decisive. Others focus on economic substance, examining where the individual earns income and manages investments. The totality of circumstances approach resists mechanical application but creates interpretive uncertainty.
 
-**Under French law**: May be resident if France is the "centre of economic interests" or "centre of vital interests" (family home location)
+### 3. Corporate Residence Conflicts
 
-**Result**: Same person, same year, potentially resident in both states under domestic law, each claiming the right to tax worldwide income.
+#### 3.1. Primary Tests for Corporate Residence
 
-### 3. The Treaty Solution: Article 4(2) Tie-Breaker
+States use fundamentally different approaches to corporate residence. The **place of incorporation test** treats a company as resident where it is legally formed—a clear, easily administered standard that the United States applies. The **place of effective management** test looks to substance, examining where key management and commercial decisions are actually made. Germany and most civil law jurisdictions apply this approach. The **central management and control** test, traditional in UK law and Commonwealth countries, asks where the board of directors actually exercises control over the company.
 
-Article 4(1) OECD Model Tax Convention (MTC) explicitly defers to domestic law: a person is a resident of a Contracting State if they are "liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature."
+These tests can produce dramatically different results. A company incorporated in Delaware with board meetings in London and operations managed from Frankfurt might be resident in all three jurisdictions under the relevant domestic laws, with each state claiming worldwide taxation rights.
 
-However, Article 4(2) provides tie-breaker rules for individuals who are **dual residents** under both states' domestic laws. These rules determine residence **for treaty purposes only**—they do not change domestic law status.
+#### 3.2. Article 4(3) and the 2017 Changes
 
-**Critical Distinction**:
-> "If the person is deemed to be a resident of country A pursuant to the tie-breaker rule in the treaty, the person is a resident of country A for purposes of the treaty but remains a resident of country B for purposes of its domestic law for all purposes not affected by the treaty."
+Prior to 2017, the OECD Model used place of effective management as the automatic tie-breaker—a dual resident company was deemed resident where its POEM was situated. This approach encountered difficulties with modern multinational enterprises whose management functions are distributed across multiple locations, and with aggressive tax planning that exploited mobile POEM.
 
----
+The 2017 revision removed the automatic POEM tie-breaker, replacing it with case-by-case determination through mutual agreement procedure. Competent authorities must now consider all relevant factors including where board meetings are held, where senior management operates, where key decisions are effectively made, and where main business activities are conducted. If authorities fail to reach agreement, the dual resident company may lose treaty benefits entirely—a significant consequence that creates planning uncertainty.
 
-## 3. THE ARTICLE 4(2) TIE-BREAKER HIERARCHY (INDIVIDUALS)
+This change reflects the growing difficulty of determining "effective management" when video conferencing enables board meetings without physical presence and when operational decisions may be made by managers in different jurisdictions.
 
-### Correct Structure (Per OECD MTC 2017)
+### 4. Source Definition Conflicts
 
-The tie-breaker operates as a **hierarchical sequence**—once a test resolves the conflict, subsequent tests are not applied:
+#### 4.1. Common Source Rule Variations
 
-```
-ARTICLE 4(2) TIE-BREAKER HIERARCHY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-STEP 1: PERMANENT HOME TEST
-         │
-         ├──► Permanent home in ONE state only
-         │    → Resident of that state [STOP]
-         │
-         ├──► Permanent home in BOTH states
-         │    → Apply SUB-TEST: Centre of Vital Interests (CVI)
-         │         │
-         │         ├──► CVI clearly in one state
-         │         │    → Resident of that state [STOP]
-         │         │
-         │         └──► CVI indeterminate
-         │              → Go to Step 2
-         │
-         └──► Permanent home in NEITHER state
-              → Go to Step 2
+Conflicts in source definitions arise when states apply different rules to determine where income arises. For **services income**, one state may source income where services are physically performed while another sources it where the customer receives benefit. Services performed in State A for a customer headquartered in State B may thus have source in both jurisdictions.
 
-         ▼
+**Interest** may be sourced where the debtor is resident, where the loan contract was concluded, or where borrowed capital is actually used. When a State A resident borrows to finance operations in State B, conflicting source rules may attribute source to both.
 
-STEP 2: HABITUAL ABODE
-         │
-         ├──► Habitual abode in ONE state only
-         │    → Resident of that state [STOP]
-         │
-         └──► Habitual abode in BOTH or NEITHER state
-              → Go to Step 3
+**Royalties** may be sourced where the payer is resident or where the intellectual property is actually used. Software licensed by a State A company to customers throughout State B may generate income with source in both jurisdictions under their respective domestic laws.
 
-         ▼
+#### 4.2. Treaty Resolution Through Distributive Rules
 
-STEP 3: NATIONALITY
-         │
-         ├──► National of ONE state only
-         │    → Resident of that state [STOP]
-         │
-         └──► National of BOTH or NEITHER state
-              → Go to Step 4
+Treaty distributive rules effectively create source definitions for treaty purposes, overriding conflicting domestic characterisations. Article 6 sources immovable property income where the property is located. Article 7 sources business profits where a permanent establishment exists. Article 10 sources dividends where the paying company is resident. Article 11 sources interest where the payer is resident, with exceptions for permanent establishment cases. Article 15 sources employment income where services are physically performed.
 
-         ▼
+These treaty rules do not change domestic law—a state may still consider income to have domestic source under its internal provisions. However, the treaty limits taxing rights according to its own source definitions, preventing double taxation even when domestic source rules conflict.
 
-STEP 4: MUTUAL AGREEMENT PROCEDURE (MAP)
-         │
-         └──► Competent authorities must settle by agreement
+### 5. Practical Implications
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 5.1. When Tie-Breakers Fail
 
-**IMPORTANT**: Centre of Vital Interests (CVI) is a **sub-test within Step 1**, applied only when the person has a permanent home in BOTH states. It is NOT a separate Step 2.
+The Article 4(2) tie-breaker hierarchy usually produces a clear result, but cases exist where multiple tests prove indeterminate. An individual with permanent homes in both states, mixed personal and economic ties, similar presence in each jurisdiction, and dual nationality may reach the mutual agreement procedure stage. Corporate dual residence after 2017 necessarily involves MAP determination given the removal of the automatic POEM rule.
 
-### Detailed Analysis of Each Test
+MAP resolution creates several practical difficulties. The process may take two to three years. During pendency, the taxpayer faces uncertainty about which state has primary taxing rights and whether treaty benefits are available. Some treaties provide that pending MAP resolution, the taxpayer may not claim treaty benefits at all, potentially resulting in unrelieved double taxation until resolution.
 
-#### Step 1: Permanent Home Test
+#### 5.2. Domestic Law Consequences Persist
 
-**Definition**: A permanent home is any dwelling "which the individual owns or possesses" that is "arranged and retained for his permanent use" and is "available to him continuously" (Commentary on Article 4, para 13).
+The tie-breaker rules determine residence for treaty purposes only—they do not change domestic law status. An individual deemed treaty resident in State A remains a domestic law resident of State B for purposes not affected by the treaty. This creates continuing compliance obligations in State B and may affect matters outside the treaty's scope, including inheritance tax, social security, and regulatory requirements.
 
-**Key Requirements**:
-- The home must be **available** at all times (not rented to third parties)
-- Must be **permanent** (not temporary or occasional accommodation)
-- Can be any form: house, apartment, rented room
-- **Ownership is irrelevant**—possession and availability matter
+Understanding this distinction is essential when advising internationally mobile individuals. Treaty residence allocation determines which state provides double taxation relief and which state's treaty network applies to third-country income, but domestic obligations in both states may persist.
 
-**What Disqualifies a Property**:
-| Factor | Effect |
-|--------|--------|
-| Rented to unrelated party | NOT available—fails test |
-| Used only for short business trips | NOT permanent—fails test |
-| Hotel room (even if regularly used) | NOT permanent home |
-| Property abroad never visited | NOT a home for these purposes |
+#### 5.3. Planning Considerations
 
-#### Sub-Test: Centre of Vital Interests (CVI)
+Definitional conflicts create both risks and planning opportunities. Taxpayers relocating between jurisdictions must understand the residence tests applied by both the departure and arrival states, as the timing and manner of relocation may affect residence status under each. Maintaining property in the former state of residence, retaining family members there, or continuing business activities may trigger dual residence even after physical relocation.
 
-Applied **only when** person has permanent home in BOTH states.
+For corporate structures, the 2017 changes to Article 4(3) have increased uncertainty for entities with genuinely split management functions. While pre-2017 planning might have focused on locating POEM in a favourable jurisdiction, post-2017 planning must consider the risk that competent authorities may fail to agree on residence, potentially denying treaty benefits altogether. Companies with international governance structures should document where key decisions are made and consider whether simplifying decision-making locations might reduce dual residence risk.
 
-**The CVI Test Examines**:
-- Personal relations (family, social connections)
-- Economic relations (employment, business, investments)
-- Political, cultural, and other activities
-
-**OECD Commentary Guidance** (para 15):
-> "The circumstances must be examined as a whole, but considerations based on the personal acts of the individual must obviously be given special attention."
-
-| Factor Category | Examples |
-|----------------|----------|
-| **Personal** | Spouse/partner location, dependent children, social clubs, religious communities |
-| **Economic** | Primary employment, business activities, bank accounts, investment management |
-| **Other** | Political activities, cultural participation, property ownership patterns |
-
-**Weight of Factors**: The OECD suggests that personal factors should receive "special attention," though this does not create a strict hierarchy. Courts have varied in their emphasis—some prioritizing family location, others focusing on economic substance.
-
-#### Step 2: Habitual Abode
-
-Applied when:
-- Person has permanent home in NEITHER state, OR
-- CVI is indeterminate
-
-**Definition**: The state where the person **habitually lives**—looking at frequency, duration, and regularity of stays as part of a "settled routine."
-
-**Key Point**: This is primarily a quantitative test (days of presence) but also considers the qualitative nature of stays. A person cannot have a habitual abode in BOTH states—the comparison must yield a clear result for one state.
-
-#### Step 3: Nationality
-
-Applied when habitual abode is in BOTH states or NEITHER state.
-
-- If national of only ONE state → resident of that state
-- If national of BOTH or NEITHER → proceed to MAP
-
-#### Step 4: Mutual Agreement Procedure
-
-The "last resort" when all preceding tests fail. Competent authorities of both states must agree on residence allocation. This can be a lengthy process (average 2-3 years for MAP cases) and creates significant uncertainty for the taxpayer.
-
----
-
-## 4. CORPORATE RESIDENCE: CONFLICTING DEFINITIONS
-
-### 1. The Two Primary Tests
-
-States use fundamentally different approaches to corporate residence:
-
-| Test | Basis | Countries Using |
-|------|-------|-----------------|
-| **Place of Incorporation** | Legal formality—where company registered | USA, UK (partial), most common law countries |
-| **Place of Effective Management (POEM)** | Substantive—where key decisions made | Germany, France, Netherlands, most civil law countries |
-| **Central Management and Control** | Where board actually exercises control | UK (traditional test), Commonwealth countries |
-
-### 2. How Conflicts Arise
-
-**Example**: A company is:
-- Incorporated in Delaware (USA)
-- Has board meetings in London
-- Day-to-day operations managed from Frankfurt
-
-**Under US law**: Resident in USA (place of incorporation)
-**Under UK law**: Potentially resident (central management and control in London)
-**Under German law**: Potentially resident (POEM in Frankfurt if key decisions made there)
-
-**Result**: Same company could be resident in all three jurisdictions, each claiming worldwide taxation rights.
-
-### 3. Treaty Solution: Article 4(3)
-
-**Pre-2017 OECD Model**: Used POEM as the tie-breaker—company deemed resident where its "place of effective management" is situated.
-
-**Post-2017 OECD Model**: Removed automatic POEM tie-breaker, replacing it with:
-- Case-by-case determination by MAP
-- Competent authorities must consider all relevant factors including:
-  - Where board meetings held
-  - Where CEO and senior management operate
-  - Where key decisions effectively made
-  - Where main business activities conducted
-
-This change reflects concerns about aggressive tax planning using mobile POEM and the difficulty of determining "effective management" for modern multinational enterprises.
-
----
-
-## 5. SOURCE DEFINITION CONFLICTS
-
-### 1. The Problem
-
-States also differ in how they define the **source** of income. Since source taxation allows a state to tax non-residents on income "arising" within its territory, conflicting source rules can cause the same income to have "source" in multiple countries.
-
-### 2. Common Source Rule Variations
-
-| Income Type | State A Rule | State B Rule | Conflict |
-|-------------|-------------|-------------|----------|
-| **Services** | Where performed | Where benefit received | Services performed in A, benefiting customer in B |
-| **Interest** | Where debtor resident | Where capital used | Debtor in A uses capital in B |
-| **Royalties** | Where payer resident | Where IP used | Payer in A, use in B |
-| **Business profits** | Where contracts concluded | Where goods delivered | Contract in A, delivery in B |
-
-### 3. Treaty Resolution
-
-Distributive rules (Articles 6-21) effectively **define source for treaty purposes**, overriding conflicting domestic definitions:
-
-- Article 6: Immovable property income → source where property located
-- Article 7: Business profits → source where PE located
-- Article 10: Dividends → source where paying company resident
-- Article 11: Interest → source where payer resident (with PE exceptions)
-- Article 12: Royalties → OECD gives residence exclusive rights; UN allows source taxation
-- Article 15: Employment income → source where services performed
-
----
-
-## 6. WORKED EXAM EXAMPLE
-
-### Worked Example: Dual Residence Tie-Breaker (Based on June 2022 Q7)
-
-**Scenario**:
-
-Mr. Patel is tax resident under domestic law in both Country U and Country X for Year One. The facts are:
-
-**Connections with Country U**:
-- Has lived there for 15 years
-- Employed by a Country U company
-- Lives with partner and children in owned home
-- Returns to Country U immediately when work project ends
-
-**Connections with Country X**:
-- Spent 8 months there for work project (initially 3 months, extended)
-- Owns apartment (usually rented out, but stayed there when unexpectedly vacant)
-- Has some relatives in Country X
-- Some past short visits
-
-The Country U/X treaty follows the OECD Model.
-
-**Question**: Apply the tie-breaker rules to determine Mr. Patel's residence for treaty purposes. (25 marks)
-
----
-
-**Model Answer**:
-
-**1. Preliminary Analysis (4 marks)**
-
-Mr. Patel is a dual resident, being resident under the domestic law of both Country U and Country X. The treaty's Article 4(2) tie-breaker must be applied to determine his residence **for treaty purposes only**. This will not change his domestic law status in either country but will determine which country has primary taxing rights under the treaty.
-
-The tie-breaker rules operate hierarchically—each test is applied in sequence until residence is determined.
-
-**2. Step 1: Permanent Home Test (8 marks)**
-
-**Country U**: Mr. Patel clearly has a permanent home in Country U:
-- He owns the property with his partner
-- His family (partner and children) live there
-- It is continuously available to him
-- He has lived there for 15 years and returns immediately after his project
-- This home is arranged and retained for his permanent use
-
-**Country X**: The position is more complex:
-
-*Short-stay accommodation*: This is employer-provided temporary accommodation for the work project. It is not "arranged and retained for his permanent use" but rather for a specific, temporary purpose. It fails the permanence test.
-
-*Owned apartment*: Although Mr. Patel owns this property, it is normally rented to third parties. Per the OECD Commentary (para 13), "a home rented to an unrelated party cannot be referred to as a means of establishing his center of vital interests." The property is not "available" to him in the required sense. His stay there was only due to unexpected vacancy, not because it was retained for his permanent use.
-
-**Conclusion on Permanent Home**: Mr. Patel has a permanent home in Country U only. There is no permanent home in Country X.
-
-**Result**: Under Step 1(a), residence is allocated to **Country U** where he has his only permanent home. **The analysis could stop here.**
-
-**3. Sub-Test: CVI (For completeness) (6 marks)**
-
-Although not strictly necessary (since permanent home is in one state only), examiners often expect CVI analysis:
-
-| Factor | Country U | Country X |
-|--------|-----------|-----------|
-| **Family** | Partner and children | Some relatives (relationship unclear) |
-| **Employment** | Employed by Country U company | Temporary work assignment |
-| **Home** | Owned family home, 15 years | Investment property |
-| **Duration** | Long-term settled life | 8 months temporary |
-| **Intent** | Returns immediately after project | No stated intention to remain |
-
-**CVI Analysis**: Mr. Patel's centre of vital interests is clearly in Country U. His personal ties (immediate family), economic ties (employment), and settled pattern of life are all centered there. His presence in Country X was temporary, driven by employment requirements, and he returned to Country U immediately upon project completion.
-
-**4. Steps 2-4 (For completeness) (4 marks)**
-
-If the permanent home and CVI tests were indeterminate:
-
-**Habitual Abode**: In Year One, Mr. Patel spent approximately 8 months in Country X and 4 months in Country U. However, habitual abode considers frequency, duration, and regularity as part of a "settled routine." Mr. Patel's extended stay in Country X was for a single temporary project—not part of his settled routine. Looking beyond Year One, his habitual abode is clearly Country U.
-
-**Nationality**: No information provided, but this test would only apply if habitual abode were indeterminate.
-
-**MAP**: Only if all preceding tests fail.
-
-**5. Conclusion (3 marks)**
-
-Mr. Patel is **resident of Country U for treaty purposes** based on:
-1. His permanent home being in Country U only
-2. Even if permanent home were in both states, his CVI is clearly in Country U
-
-As a Country U resident for treaty purposes, Country U retains the right to tax his worldwide income. Country X may only tax income in accordance with the treaty's distributive rules (e.g., employment income for services performed in Country X under Article 15). Country U must provide relief for any double taxation under Article 23.
-
-**Important Note**: Mr. Patel remains a domestic law resident of Country X. This may create compliance obligations and potential issues for income not covered by the treaty.
+The interaction between domestic law definitions and treaty tie-breakers also affects third-country situations. A taxpayer may be treaty resident in State A for purposes of the State A-State B treaty but remain domestic law resident in State B, affecting which treaty network applies when that taxpayer derives income from State C. These complexities require careful analysis of each bilateral relationship rather than assuming residence determined under one treaty applies universally.
