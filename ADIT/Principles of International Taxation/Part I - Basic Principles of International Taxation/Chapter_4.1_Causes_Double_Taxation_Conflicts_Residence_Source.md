@@ -4,37 +4,7 @@
 
 ---
 
-```
-EXAM INTELLIGENCE: Conflicts of Residence and Source
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frequency: HIGH (appears in 40%+ of papers, often combined with treaty analysis)
-Mark Range: 12-25 marks when directly tested
-Syllabus Level: 2 (detailed knowledge required)
-
-Key Question Patterns:
-  • June 2022 Q4: Allocation of taxing rights for dividends (Article 10)
-  • Dec 2020 Q7: Residence/source conflicts with relief mechanisms
-  • Dec 2021 Q6: Source vs residence taxation and treaty allocation
-  • June 2024: Residence determination leading to double taxation
-
-Examiner Focus:
-  • Understanding WHY double taxation arises (conceptual foundation)
-  • Distinguishing juridical vs economic double taxation
-  • Applying OECD MTC distributive rules (Articles 6-22)
-  • Calculating relief under Articles 23A (exemption) and 23B (credit)
-
-Strategic Priority: ★★★★★ CRITICAL
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHY THIS MATTERS: Understanding residence-source conflicts is essential
-because virtually every cross-border transaction involves potential
-double taxation. You cannot analyze treaty benefits, relief methods,
-or advise on any international structure without grasping this core concept.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. CONCEPT FOUNDATION: WHAT IS INTERNATIONAL DOUBLE TAXATION?
+## 1. CONCEPT FOUNDATION: WHAT IS INTERNATIONAL DOUBLE TAXATION?
 
 ### 1. Defining International Double Taxation
 
@@ -66,7 +36,7 @@ The Commentary on Articles 23A and 23B explicitly states that these provisions d
 
 ---
 
-## B. THE THREE TYPES OF JURISDICTIONAL CONFLICTS
+## 2. THE THREE TYPES OF JURISDICTIONAL CONFLICTS
 
 International double taxation arises from three distinct types of jurisdictional conflicts. Understanding which type applies helps identify the appropriate relief mechanism.
 
@@ -172,7 +142,7 @@ This arises because there is no universally agreed definition of "source" and st
 
 ---
 
-## C. THE OECD SOLUTION: DISTRIBUTIVE RULES AND RELIEF METHODS
+## 3. THE OECD SOLUTION: DISTRIBUTIVE RULES AND RELIEF METHODS
 
 The OECD Model Tax Convention addresses residence-source conflicts through a two-step mechanism that represents decades of international consensus-building on how to allocate taxing rights fairly between states.
 
@@ -183,8 +153,8 @@ The **distributive rules** determine which state may tax each type of income, an
 | Article | Income Type | Allocation Rule |
 |---------|-------------|-----------------|
 | **Art 6** | Immovable property income | Source state may tax (where property located) |
-| **Art 7** | Business profits | Residence state only, UNLESS attributable to PE in source state |
-| **Art 8** | Shipping/air transport | Residence of POEM may tax exclusively |
+| **Art 7** | Business profits | Residence state only, UNLESS attributable to Permanent Establishment (PE) in source state |
+| **Art 8** | Shipping/air transport | Residence of Place of Effective Management (POEM) may tax exclusively |
 | **Art 10** | Dividends | Both may tax; source limited to 5%/15% |
 | **Art 11** | Interest | Both may tax; source limited to 10% |
 | **Art 12** | Royalties | Residence state only (OECD); source may tax (UN) |
@@ -258,30 +228,7 @@ The choice between exemption and credit methods reflects different policy priori
 
 ---
 
-## D. EXAM APPLICATION FRAMEWORK
-
-### How Examiners Test Residence-Source Conflicts
-
-**Question Pattern Recognition**:
-
-| Trigger Words | Question Type | Answer Approach |
-|---------------|--------------|-----------------|
-| "Advise on the tax position in both countries" | R-S conflict analysis | 1) Identify income type 2) Apply distributive rule 3) Calculate relief |
-| "Explain how double taxation arises" | Conceptual explanation | Define juridical DT, explain R-S tension, describe treaty solution |
-| "Which state has the right to tax?" | Treaty interpretation | Cite specific article, apply to facts, conclude on allocation |
-| "Calculate the relief available" | Numerical calculation | Apply Art 23A or 23B with workings |
-
-### Answer Structure for R-S Conflict Questions
-
-**Framework (ARRC)**:
-1. **Analyze** the income type and relevant treaty article
-2. **Recognize** the conflicting claims (residence vs source)
-3. **Resolve** using distributive rules
-4. **Calculate** relief (if numerical)
-
----
-
-## E. WORKED EXAM EXAMPLES
+## 4. WORKED EXAM EXAMPLES
 
 ### Worked Example 1: Basic Residence-Source Conflict (Employment Income)
 
@@ -341,7 +288,7 @@ Effective rate: 30% (the higher of the two rates)
 
 **Scenario**:
 
-A UK-resident individual (Mr. Brown) holds 30% of shares in a German company (GermanCo). GermanCo declares a dividend of €100,000 to Mr. Brown. The UK-Germany treaty follows the OECD Model. Germany's domestic WHT rate is 26.375%. UK income tax rate for dividends is 38.1% (additional rate).
+A UK-resident individual (Mr. Brown) holds 30% of shares in a German company (GermanCo). GermanCo declares a dividend of €100,000 to Mr. Brown. The UK-Germany treaty follows the OECD Model. Germany's domestic Withholding Tax (WHT) rate is 26.375%. UK income tax rate for dividends is 39.35% (additional rate).
 
 **Question**: Explain the allocation of taxing rights and calculate the tax position. (15 marks)
 
@@ -372,24 +319,24 @@ Since Mr. Brown is an individual (not a company), the 15% limit applies regardle
 ```
 UK Tax Position:
 Gross dividend:                      €100,000
-UK tax at 38.1%:                     €38,100
+UK tax at 39.35%:                    €39,350
 
 German WHT (limited to 15%):         €15,000
 
 Credit method (Article 23B):
-Maximum credit = UK tax on dividend = €38,100
+Maximum credit = UK tax on dividend = €39,350
 Actual foreign tax = €15,000
 Credit allowed = €15,000
 
 UK tax after credit:
-€38,100 - €15,000 = €23,100
+€39,350 - €15,000 = €24,350
 
 Total tax burden:
 Germany: €15,000
-UK:      €23,100
-Total:   €38,100
+UK:      €24,350
+Total:   €39,350
 
-Effective rate: 38.1% (UK rate as higher)
+Effective rate: 39.35% (UK rate as higher)
 ```
 
 **4. Alternative: If Exemption Method Applied (2 marks)**
@@ -404,7 +351,7 @@ The economic rationale is that both states have legitimate claims: Germany hosts
 
 ---
 
-## F. POLICY PERSPECTIVES: THE ONGOING DEBATE
+## 5. POLICY PERSPECTIVES: THE ONGOING DEBATE
 
 ### 1. Historical Evolution of Allocation Rules
 
@@ -432,75 +379,3 @@ Traditional residence-source allocation rules struggle with:
 - **Pillar One (Amount A)**: The OECD's new framework reallocates some taxing rights to market jurisdictions regardless of physical presence
 
 These developments suggest that the residence-source framework, while still foundational, is evolving to address the limitations of traditional connecting factors in a globalized, digitized economy.
-
----
-
-## G. COMMON ERRORS AND HOW TO AVOID THEM
-
-### Error Catalog from Examiner Reports
-
-| Error | Why It Happens | Prevention |
-|-------|---------------|------------|
-| Confusing juridical and economic double taxation | Similar names | Remember: same taxpayer = juridical; same income, different taxpayers = economic |
-| Misapplying treaty WHT limits | Forgetting "beneficial owner" requirement | Always check: is recipient the beneficial owner? |
-| Credit calculation errors | Not limiting credit to domestic tax | Credit = LOWER of foreign tax or domestic tax on foreign income |
-| Ignoring Article 15(2) exception | Not checking all conditions | Systematic check: <183 days AND non-resident employer AND no PE |
-| Treating "may tax" as "must tax" | Misreading treaty language | Treaty allocates rights; domestic law determines exercise |
-
-### Quick Self-Check Questions
-
-Before submitting your answer, verify:
-- [ ] Have I identified the income type and correct treaty article?
-- [ ] Have I explained which state(s) may tax under the distributive rules?
-- [ ] Have I applied the correct relief method with proper calculations?
-- [ ] Have I shown all workings for numerical parts?
-- [ ] Have I concluded on the taxpayer's final position?
-
----
-
-## H. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. International juridical double taxation = same taxpayer + same
-   income + same period + two states
-
-2. Residence-source conflict is the MOST COMMON cause:
-   - Residence state taxes worldwide income
-   - Source state taxes territorial income
-   - Same income taxed twice
-
-3. Treaties resolve through TWO steps:
-   - Step 1: Allocate taxing rights (Arts 6-22 distributive rules)
-   - Step 2: Residence state provides relief (Arts 23A/23B)
-
-4. Two relief methods:
-   - Exemption: foreign income excluded from tax base
-   - Credit: foreign tax deducted from domestic liability
-
-5. Credit method: effective rate = HIGHER of two states' rates
-   Exemption method: effective rate = SOURCE state rate only
-
-6. For dividends/interest: BOTH states may tax, but source state
-   limited to treaty rate (typically 5-15%)
-
-7. Always check: Is there a treaty? What does domestic law provide?
-   Do conditions (e.g., beneficial ownership) apply?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References and Further Reading
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017) - Articles 4, 6-23, and Commentaries
-- UN Model Double Taxation Convention (2021)
-- OECD Commentary on Articles 23A and 23B
-
-**Key Web Resources**:
-- [OECD Model Tax Convention](https://www.oecd.org/en/topics/sub-issues/oecd-model-tax-convention-on-income-and-on-capital.html)
-- [UN Tax Committee Resources](https://www.un.org/esa/ffd/wp-content/uploads/2014/10/2STM_Taxation-EC18-2006-7-part1-R.pdf)
-- [IBFD Research on Exemption and Credit Methods](https://www.ibfd.org/sites/default/files/2022-12/20_007_exemption_method_and_credit_method_proof_1.pdf)
