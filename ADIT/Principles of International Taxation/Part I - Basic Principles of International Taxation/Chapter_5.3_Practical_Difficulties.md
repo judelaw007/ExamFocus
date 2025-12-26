@@ -44,7 +44,7 @@ Strategic Priority: ★★★★★ CRITICAL - Often the differentiating
 
 ---
 
-## 1. The Gap Between Theory and Practice
+## A. THE GAP BETWEEN THEORY AND PRACTICE
 
 ### 1. Why This Topic Matters
 
@@ -94,7 +94,7 @@ COMMON TO BOTH METHODS:
 
 ---
 
-## 2. Credit Method: What Is a Creditable "Tax"?
+## B. CREDIT METHOD: WHAT IS A CREDITABLE "TAX"?
 
 ### 1. The Fundamental Question
 
@@ -186,7 +186,7 @@ The US Treasury's 2022 final FTC regulations (with transitional relief through 2
 
 ---
 
-## 3. Credit Method: Limitation Structures
+## C. CREDIT METHOD: LIMITATION STRUCTURES
 
 ### 1. Why Limitations Exist
 
@@ -258,7 +258,7 @@ When foreign tax exceeds the limitation, countries handle the excess differently
 
 ---
 
-## 4. Credit Method: Timing and Currency Issues
+## D. CREDIT METHOD: TIMING AND CURRENCY ISSUES
 
 ### 1. Different Tax Year-Ends
 
@@ -319,7 +319,7 @@ Exchange rates during the year:
 
 ---
 
-## 5. Exemption Method: Progression and Loss Issues
+## E. EXEMPTION METHOD: PROGRESSION AND LOSS ISSUES
 
 ### 1. Exemption with Progression Complexity
 
@@ -384,7 +384,7 @@ This is precisely the situation BEPS Action 2 linking rules address.
 
 ---
 
-## 6. Hybrid Mismatches and Linking Rules
+## F. HYBRID MISMATCHES AND LINKING RULES
 
 ### 1. When Credit and Exemption Create Double Non-Taxation
 
@@ -469,7 +469,7 @@ OUTCOME: One layer of taxation assured
 
 ---
 
-## 7. Documentation and Verification Burdens
+## G. DOCUMENTATION AND VERIFICATION BURDENS
 
 ### 1. Proving Entitlement to Relief
 
@@ -502,7 +502,7 @@ The **OECD Common Reporting Standard** and **bilateral exchange agreements** inc
 
 ---
 
-## 8. Pillar Two and Relief Method Interactions
+## H. PILLAR TWO AND RELIEF METHOD INTERACTIONS
 
 ### 1. How GloBE Rules Affect FTC Treatment
 
@@ -526,7 +526,7 @@ Pillar Two creates an interesting tension with exemption systems:
 
 ---
 
-## 9. Worked Exam Example: June 2025 Q5 Style
+## I. WORKED EXAM EXAMPLE: JUNE 2025 Q5 STYLE
 
 ### Question (25 marks)
 
@@ -537,7 +537,7 @@ Pillar Two creates an interesting tension with exemption systems:
 - *Is collected by Country Y's tax authority and paid into general revenue*
 - *Operates outside Country Y's corporate income tax system*
 
-*Countries X and Y have a DTC identical to the OECD MTC 2017, with Article 23B (credit method) applying.*
+*Countries X and Y have a DTA identical to the OECD MTC 2017, with Article 23B (credit method) applying.*
 
 *Required:*
 *(1) Whether Country X must grant FTC for MPA amounts paid to Country Y (18 marks)*
@@ -560,7 +560,7 @@ Article 2(1) covers "taxes on income." The MPA presents difficulties:
 - **Separate from income tax system**: Country Y explicitly operates MPA outside its corporate income tax, suggesting it's not an "income tax."
 - **Label vs substance**: Country Y calls it a "market-based contribution"—nomenclature suggests non-tax character.
 
-Article 2(4) extends coverage to "identical or substantially similar" taxes introduced after the DTC. The MPA's novel character (user-based, gross receipts) makes "substantially similar" argument weak.
+Article 2(4) extends coverage to "identical or substantially similar" taxes introduced after the DTA. The MPA's novel character (user-based, gross receipts) makes "substantially similar" argument weak.
 
 **Domestic Creditability Test (5 marks)**
 
@@ -601,7 +601,7 @@ Country X should engage Country Y through MAP to clarify MPA's treatment and pot
 
 ---
 
-## 10. Common Exam Errors to Avoid
+## J. COMMON EXAM ERRORS TO AVOID
 
 ```
 EXAMINER INSIGHTS: WHAT LOSES MARKS
@@ -641,3 +641,74 @@ ERROR 6: Ignoring current developments
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+---
+
+## K. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CREDITABILITY OF FOREIGN TAXES:
+   • Not all foreign levies qualify for credit
+   • Must be compulsory income tax on net gain
+   • DSTs, gross-basis levies, and novel charges problematic
+   • June 2025 Q5 exemplifies this analysis
+
+2. CREDIT LIMITATIONS:
+   • Prevent foreign tax offsetting domestic-source income
+   • Overall, per-country, and basket systems exist
+   • Excess credits may carry forward/back or forfeit
+   • Creates planning opportunities and compliance burden
+
+3. TIMING AND CURRENCY:
+   • Different year-ends create allocation difficulties
+   • Currency conversion methods affect effective credit
+   • Provisional claims and amendments common solutions
+
+4. EXEMPTION COMPLICATIONS:
+   • Progression calculation requires valuing exempt income
+   • Foreign losses: negative progression usually denied
+   • Subject-to-tax clauses require verification
+
+5. HYBRID MISMATCHES:
+   • Classification differences create D/NI outcomes
+   • BEPS Action 2 linking rules neutralise mismatches
+   • Primary rule (deny deduction) vs secondary rule (include)
+   • December 2024 Q5 tested this directly
+
+6. DOCUMENTATION:
+   • Both methods require proof of foreign tax/status
+   • Language, format, timing challenges common
+   • Exchange of information increasingly helps verification
+
+7. PILLAR TWO INTERACTIONS:
+   • GloBE rules affect FTC treatment in ETR calculations
+   • Exemption systems face IIR top-up for low-taxed income
+   • Policy convergence between credit and exemption outcomes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention (2017), Articles 23A, 23B and Commentary
+- OECD BEPS Action 2: Neutralising the Effects of Hybrid Mismatch Arrangements (2015)
+- OECD Administrative Guidance on GloBE Rules (June 2024)
+
+**Country-Specific**:
+- US: Treasury Regulations on Foreign Tax Credit (2022, with transitional relief)
+- UK: TIOPA 2010 Part 2 (double taxation relief)
+- Germany: AStG Section 8 (foreign tax credit rules)
+
+**Current Developments**:
+- [Short-term relief for foreign tax credit woes | The Tax Adviser](https://www.thetaxadviser.com/issues/2024/feb/short-term-relief-for-foreign-tax-credit-woes/)
+- [Foreign Tax Credit Limitation | iTaxa](https://www.itaxa.it/blog/en/dizionario/foreign-tax-credit-limitation/)
+- [BEPS Action 2 Linking Rules | Kluwer International Tax Blog](https://legalblogs.wolterskluwer.com/international-tax-law-blog/hybrid-financial-instruments-double-non-taxation-and-linking-rules-only-some-issues-stemming-from-the-apparent-solution/)
+- [Key updates in latest OECD guidance package | Grant Thornton](https://www.grantthornton.com/insights/alerts/tax/2024/insights/key-updates-in-latest-oecd-guidance-package)
+
+---
+
+*Next Chapter: 5.4 - Relief by Exemption and Relief by Credit Compared (Capital Import Neutrality vs Capital Export Neutrality)*

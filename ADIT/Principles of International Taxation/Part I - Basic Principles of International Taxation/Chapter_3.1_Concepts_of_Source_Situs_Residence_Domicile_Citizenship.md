@@ -12,10 +12,10 @@ Mark Range: 15-25 marks when directly tested
 Syllabus Level: 2 (detailed knowledge required)
 
 Key Question Patterns:
-  • December 2024 Q1: Residence as effective nexus test (25 marks)
-  • December 2022 Q6: Corporate residence and POEM (25 marks)
+  • Dec 2024 Q1: Residence as effective nexus test (25 marks)
+  • Dec 2022 Q6: Corporate residence and POEM (25 marks)
   • June 2022 Q7: Residence determination and change (25 marks)
-  • December 2020 Q7: Multiple connecting factors (residence, citizenship, situs)
+  • Dec 2020 Q7: Multiple connecting factors (residence, citizenship, situs)
 
 Strategic Priority: ★★★★★ CRITICAL FOUNDATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -28,9 +28,9 @@ application, double taxation relief, or cross-border scenario question.
 
 ---
 
-## 1. Concept Foundation
+## A. CONCEPT FOUNDATION
 
-### 1.1. What Are "Connecting Factors"?
+### 1. What Are "Connecting Factors"?
 
 **Connecting factors** (also called **nexus** or **tax links**) are the criteria states use to establish their right to tax a person or transaction. They create the legal connection between:
 - A **taxing state** (the government asserting tax authority)
@@ -39,7 +39,7 @@ application, double taxation relief, or cross-border scenario question.
 
 **Key Principle**: Without a valid connecting factor, a state has no legitimate basis to impose tax. International law requires a genuine link between the taxing state and the subject of taxation.
 
-### 1.2. The Two Fundamental Categories
+### 2. The Two Fundamental Categories
 
 States claim taxing rights based on **two fundamentally different types of connection**:
 
@@ -52,9 +52,9 @@ States claim taxing rights based on **two fundamentally different types of conne
 
 ---
 
-## 2. Personal Connecting Factors
+## B. PERSONAL CONNECTING FACTORS
 
-### 2.1. Residence
+### 1. Residence
 
 **Definition**: Residence is the primary connecting factor used by most states to assert unlimited (worldwide) tax liability.
 
@@ -77,7 +77,7 @@ States claim taxing rights based on **two fundamentally different types of conne
 
 **Critical Point**: The treaty does NOT create an autonomous definition of residence—it refers back to domestic law while listing acceptable connecting factors.
 
-### 2.2. Domicile
+### 2. Domicile
 
 **Definition**: Domicile is a common law concept distinct from residence, referring to a person's **permanent home**—the place they consider their ultimate base.
 
@@ -100,7 +100,7 @@ States claim taxing rights based on **two fundamentally different types of conne
 - Article 4(1) OECD MTC lists "domicile" as an acceptable basis for tax residence
 - Many civil law countries use domicile-like concepts (e.g., "fiscal domicile" in France)
 
-### 2.3. Citizenship (Nationality)
+### 3. Citizenship (Nationality)
 
 **Definition**: Citizenship-based taxation imposes tax liability based on holding citizenship/nationality of a state, **regardless of where the person lives**.
 
@@ -115,7 +115,7 @@ States claim taxing rights based on **two fundamentally different types of conne
 **The US Exception**:
 - US citizens must file and potentially pay US tax on worldwide income **even if living abroad permanently**
 - Origins: Civil War era (1861) to prevent wealthy Americans avoiding tax by moving overseas
-- Enforcement: IRS can cancel passports for tax debts exceeding $64,000 (2025 threshold, adjusted annually for inflation)
+- Enforcement: IRS can cancel passports for tax debts exceeding $50,000
 - Relief mechanisms: Foreign Earned Income Exclusion (FEIE), Foreign Tax Credit (FTC)
 
 **Eritrea's Diaspora Tax**:
@@ -127,9 +127,9 @@ States claim taxing rights based on **two fundamentally different types of conne
 
 ---
 
-## 3. Territorial Connecting Factors
+## C. TERRITORIAL CONNECTING FACTORS
 
-### 3.1. Source
+### 1. Source
 
 **Definition**: Source refers to the **geographic origin of income**—the place where economic activity generating the income occurs.
 
@@ -162,7 +162,7 @@ Germany (Source State):
 Result: Double taxation unless relieved by treaty
 ```
 
-### 3.2. Situs
+### 2. Situs
 
 **Definition**: Situs means the **physical location** of property or assets for tax purposes. It determines which state has taxing rights over property-based income and gains.
 
@@ -186,9 +186,9 @@ Result: Double taxation unless relieved by treaty
 
 ---
 
-## 4. Interaction Between Connecting Factors
+## D. INTERACTION BETWEEN CONNECTING FACTORS
 
-### 4.1. How Double Taxation Arises
+### 1. How Double Taxation Arises
 
 Double taxation occurs when **multiple connecting factors apply simultaneously**:
 
@@ -205,13 +205,13 @@ Without Relief:
   French tax (residence): £15,000 (30%)
   Total tax: £25,000 (50% effective rate)
 
-With Treaty Relief (France-UK DTC):
+With Treaty Relief (France-UK DTA):
   UK retains taxing right (Article 6)
   France provides credit for UK tax paid
   Total tax: £15,000 (30% effective rate)
 ```
 
-### 4.2. Hierarchy of Connecting Factors in Treaties
+### 2. Hierarchy of Connecting Factors in Treaties
 
 Treaties allocate taxing rights based on **which connecting factor takes priority**:
 
@@ -222,7 +222,7 @@ Treaties allocate taxing rights based on **which connecting factor takes priorit
 | **Medium** | Source (passive income) | Limited source taxation (reduced WHT rates) |
 | **Baseline** | Residence | Residence state taxes; provides relief for source tax |
 
-### 4.3. Exam Application Framework
+### 3. Exam Application Framework
 
 When analyzing any international tax scenario, systematically identify:
 
@@ -237,7 +237,7 @@ When analyzing any international tax scenario, systematically identify:
 
 ---
 
-## 5. Theoretical Framework: The Policy Rationale for Different Connecting Factors
+## E. THEORETICAL FRAMEWORK: THE POLICY RATIONALE FOR DIFFERENT CONNECTING FACTORS
 
 ### The Benefits Principle and Residence
 
@@ -270,9 +270,9 @@ Source-based taxation reflects **territorial sovereignty**—a state's right to 
 | Model | Favours | Rationale |
 |-------|---------|-----------|
 | **OECD Model** | Residence state | Developed countries export capital; residence taxation protects their tax base |
-| **UN MTC** | Source state | Developing countries import capital; source taxation allows them to tax inward investment |
+| **UN Model** | Source state | Developing countries import capital; source taxation allows them to tax inward investment |
 
-This explains why UN MTC provisions often grant broader source-state taxing rights (e.g., Article 12A on fees for technical services).
+This explains why UN Model provisions often grant broader source-state taxing rights (e.g., Article 12A on fees for technical services).
 
 ### The Evolution of "Nexus" Concepts
 
@@ -286,7 +286,7 @@ Pillar One's Amount A represents a fundamental shift—taxing rights allocated t
 
 ---
 
-## 6. Exam Application Framework
+## F. EXAM APPLICATION FRAMEWORK
 
 ### Recognition Triggers
 
@@ -303,7 +303,7 @@ When you see these phrases, connecting factor analysis is required:
 
 ### Answer Structure for Connecting Factor Questions
 
-**For 25-mark questions** (e.g., December 2024 Q1 pattern):
+**For 25-mark questions** (e.g., Dec 2024 Q1 pattern):
 
 ```
 1. INTRODUCTION (3 marks, 5 min)
@@ -327,7 +327,7 @@ When you see these phrases, connecting factor analysis is required:
 
 ---
 
-## 7. Worked Exam Example
+## G. WORKED EXAM EXAMPLE
 
 ### December 2024, Question 1 (25 marks)
 
@@ -401,7 +401,7 @@ The appropriate response is not to abandon residence but to supplement it with a
 
 ---
 
-## 8. Common Errors to Avoid
+## H. COMMON ERRORS TO AVOID
 
 | Error | Impact | Prevention |
 |-------|--------|------------|
@@ -412,3 +412,63 @@ The appropriate response is not to abandon residence but to supplement it with a
 | Missing Article 4 OECD MTC reference | 2-3 marks | Always cite Article 4 for residence issues |
 | One-sided analysis | 4-5 marks | Address both strengths and challenges of connecting factors |
 
+---
+
+## I. KEY TAKEAWAYS
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONNECTING FACTORS - EXAM ESSENTIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. TWO CATEGORIES: Personal (residence, domicile, citizenship)
+   vs. Territorial (source, situs)
+
+2. RESIDENCE: Primary personal nexus; determined by domestic
+   law; creates worldwide tax liability; Article 4 OECD MTC
+
+3. DOMICILE: Common law concept distinct from residence;
+   permanent home with intent to remain; harder to change
+
+4. CITIZENSHIP: Only USA and Eritrea tax based on citizenship
+   regardless of residence
+
+5. SOURCE: Where income originates; varies by income type;
+   enables taxation without personal connection
+
+6. SITUS: Physical location of property; situs state has
+   primary taxing right over immovable property
+
+7. DOUBLE TAXATION: Arises when multiple connecting factors
+   apply simultaneously (residence + source)
+
+8. TREATY ALLOCATION: Treaties allocate taxing rights based
+   on which connecting factor takes priority
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention on Income and on Capital (2017), Article 4
+- UN Model Double Taxation Convention (2021)
+- Vienna Convention on the Law of Treaties
+
+**Key Concepts**:
+- Tax residence - [Wikipedia](https://en.wikipedia.org/wiki/Tax_residence)
+- OECD Tax Residency Portal - [OECD](https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html)
+- Citizenship-Based Taxation - [Greenback Tax Services](https://www.greenbacktaxservices.com/knowledge-center/difference-residency-based-taxation-citizenship-based-taxation/)
+- Situs Tax - [Anchor Capital](https://anchorcapital.co.za/macro-research/understanding-situs-and-situs-tax/)
+
+**Exam Papers Referenced**:
+- December 2024 Q1 (Residence as nexus test)
+- December 2022 Q6 (Corporate residence/POEM)
+- June 2022 Q7 (Residence determination)
+- December 2020 Q7 (Multiple connecting factors)
+
+---
+
+*Chapter 3.1 | Exam Focus: Principles of International Taxation*

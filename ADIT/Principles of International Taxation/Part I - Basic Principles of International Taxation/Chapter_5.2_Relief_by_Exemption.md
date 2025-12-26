@@ -45,9 +45,9 @@ Strategic Priority: ★★★★★ CRITICAL - Often tested alongside
 
 ---
 
-## 1. The Exemption Method: Concept and Philosophy
+## A. THE EXEMPTION METHOD: CONCEPT AND PHILOSOPHY
 
-### 1.1. Article 23A OECD Model Tax Convention
+### 1. Article 23A OECD Model Tax Convention
 
 The exemption method represents a fundamentally different philosophy to eliminating double taxation compared to the credit method. Article 23A of the OECD Model Tax Convention provides:
 
@@ -55,7 +55,7 @@ The exemption method represents a fundamentally different philosophy to eliminat
 
 The key word is "exempt"—the residence state removes the foreign income entirely from its tax base. This stands in stark contrast to Article 23B (credit), where the residence state taxes worldwide income but grants a credit for foreign tax paid.
 
-### 1.2. The Territorial Philosophy
+### 2. The Territorial Philosophy
 
 The exemption method embodies a **territorial** or **source-based** approach to taxation:
 
@@ -81,7 +81,7 @@ TERRITORIAL/EXEMPTION APPROACH (Article 23A):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 1.3. Capital Import Neutrality (CIN) - The Policy Foundation
+### 3. Capital Import Neutrality (CIN) - The Policy Foundation
 
 The exemption method achieves **Capital Import Neutrality (CIN)**—the principle that all investors competing in the same market should face the same tax burden, regardless of where they are resident.
 
@@ -104,9 +104,9 @@ This is why CIN is sometimes called "**competitive neutrality**" or "**inward in
 
 ---
 
-## 2. Full Exemption vs Exemption with Progression
+## B. FULL EXEMPTION vs EXEMPTION WITH PROGRESSION
 
-### 2.1. The Critical Distinction
+### 1. The Critical Distinction
 
 The exemption method comes in two forms, and understanding their difference is essential for exam success:
 
@@ -117,7 +117,7 @@ The exemption method comes in two forms, and understanding their difference is e
 | **Article reference** | Not standard | Article 23A(3) OECD MTC |
 | **Modern usage** | Rare | Standard |
 
-### 2.2. Full Exemption - And Why It's Problematic
+### 2. Full Exemption - And Why It's Problematic
 
 Under **full exemption**, foreign income is completely ignored—both for calculating the tax base AND for determining the applicable tax rate. This creates a "rate reset" effect in progressive tax systems.
 
@@ -138,7 +138,7 @@ Under **full exemption**:
 
 **Why examiners focus on this**: The full exemption problem illustrates a fundamental tension in tax policy between territoriality and ability-to-pay. A strong exam answer explains not just *how* full exemption works, but *why* it creates policy problems.
 
-### 2.3. Exemption with Progression - The Modern Solution
+### 3. Exemption with Progression - The Modern Solution
 
 **Exemption with progression** solves the full exemption problem by:
 - **Excluding** foreign income from the tax base (no residence-state tax)
@@ -183,9 +183,9 @@ POLICY BALANCE:
 
 ---
 
-## 3. Participation Exemption
+## C. PARTICIPATION EXEMPTION
 
-### 3.1. What Is Participation Exemption?
+### 1. What Is Participation Exemption?
 
 The **participation exemption** is a specific application of the exemption method to dividends received from qualifying foreign subsidiaries. It exempts (fully or partially) dividends flowing from subsidiary to parent, preventing economic double taxation of corporate profits.
 
@@ -227,7 +227,7 @@ RESULT: Single level of tax; profits flow freely within group
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 3.2. Participation Exemption vs Indirect Credit: A Policy Comparison
+### 2. Participation Exemption vs Indirect Credit: A Policy Comparison
 
 Both mechanisms address economic double taxation on dividends, but through fundamentally different approaches:
 
@@ -242,7 +242,7 @@ Both mechanisms address economic double taxation on dividends, but through funda
 
 **Policy Insight for Exams**: The choice between participation exemption and indirect credit reflects a fundamental policy choice about whether residence states should assert taxing rights over foreign subsidiary profits. Participation exemption says "no"—once subsidiary profits are taxed at source, the parent's residence state should not interfere.
 
-### 3.3. Qualifying Conditions - The Anti-Abuse Framework
+### 3. Qualifying Conditions - The Anti-Abuse Framework
 
 Countries impose conditions to ensure participation exemption benefits genuine business operations, not artificial structures:
 
@@ -264,7 +264,7 @@ Without qualifying conditions, participation exemption could facilitate aggressi
 
 *Result with conditions*: Netherlands participation exemption requires subsidiary to be "subject to tax" at a minimum rate and conduct genuine activities. ShellCo fails both tests; dividends are taxable.
 
-### 3.4. Country Examples: Participation Exemption in Practice
+### 4. Country Examples: Participation Exemption in Practice
 
 **Netherlands** (Classic territorial system):
 - 5% minimum shareholding
@@ -285,7 +285,7 @@ Without qualifying conditions, participation exemption could facilitate aggressi
 - Accompanied by GILTI regime (Global Intangible Low-Taxed Income) as anti-abuse
 - Shows global trend toward territorial taxation
 
-### 3.5. Capital Gains on Participations
+### 5. Capital Gains on Participations
 
 Many participation exemption regimes extend to capital gains on disposal of qualifying participations:
 
@@ -307,9 +307,9 @@ With participation exemption for capital gains, only German tax applies—no dou
 
 ---
 
-## 4. The Double Non-Taxation Problem and Anti-Abuse Measures
+## D. THE DOUBLE NON-TAXATION PROBLEM AND ANTI-ABUSE MEASURES
 
-### 4.1. When Exemption Goes Wrong
+### 1. When Exemption Goes Wrong
 
 A significant concern with the exemption method is **double non-taxation**: the residence state exempts income that the source state doesn't actually tax.
 
@@ -337,7 +337,7 @@ SCENARIO 3: Hybrid Instruments
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 4.2. Subject-to-Tax Clauses
+### 2. Subject-to-Tax Clauses
 
 **Subject-to-tax clauses** make the residence state's exemption conditional on actual taxation at source:
 
@@ -345,7 +345,7 @@ SCENARIO 3: Hybrid Instruments
 
 **Policy Effect**: If the source state doesn't exercise its taxing right (due to local incentives, classification differences, etc.), the residence state doesn't give up its own right.
 
-### 4.3. Switch-Over Clauses
+### 3. Switch-Over Clauses
 
 **Switch-over clauses** allow the residence state to abandon exemption and apply credit method when abuse indicators are present:
 
@@ -372,7 +372,7 @@ EXAMPLE: Germany's approach
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 4.4. The Pillar Two Subject to Tax Rule (STTR)
+### 4. The Pillar Two Subject to Tax Rule (STTR)
 
 The OECD/G20 Pillar Two framework introduces a new anti-abuse measure—the **Subject to Tax Rule (STTR)**:
 
@@ -387,9 +387,9 @@ The OECD/G20 Pillar Two framework introduces a new anti-abuse measure—the **Su
 
 ---
 
-## 5. Current Developments: Pillar Two and Participation Exemptions
+## E. CURRENT DEVELOPMENTS: PILLAR TWO AND PARTICIPATION EXEMPTIONS
 
-### 5.1. The Pillar Two Challenge to Territorial Taxation
+### 1. The Pillar Two Challenge to Territorial Taxation
 
 The OECD/G20 Pillar Two global minimum tax (15% effective rate) fundamentally challenges the exemption method's logic:
 
@@ -397,7 +397,7 @@ The OECD/G20 Pillar Two global minimum tax (15% effective rate) fundamentally ch
 
 **Pillar Two Logic**: "If foreign profits aren't taxed at least 15%, someone must collect the difference"
 
-### 5.2. Interaction with Participation Exemptions
+### 2. Interaction with Participation Exemptions
 
 Pillar Two creates complex interactions with domestic participation exemption regimes:
 
@@ -429,7 +429,7 @@ ISSUE 3: Tax Competition Diminished
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 5.3. Ireland's New Participation Exemption (2025)
+### 3. Ireland's New Participation Exemption (2025)
 
 **Development**: Ireland is introducing a dividend participation exemption effective January 1, 2025.
 
@@ -439,7 +439,7 @@ ISSUE 3: Tax Competition Diminished
 - Reflects broader global trend toward territorial systems
 - Comes as Pillar Two reduces the tax advantage of low-rate jurisdictions
 
-### 5.4. ATAD 3 (Unshell Directive) and Substance Requirements
+### 4. ATAD 3 (Unshell Directive) and Substance Requirements
 
 The EU's proposed ATAD 3 (Unshell Directive) would impose minimum substance requirements for entities to access:
 - Participation exemption benefits
@@ -456,9 +456,9 @@ The EU's proposed ATAD 3 (Unshell Directive) would impose minimum substance requ
 
 ---
 
-## 6. Credit vs Exemption: A Comprehensive Comparison
+## F. CREDIT vs EXEMPTION: A COMPREHENSIVE COMPARISON
 
-### 6.1. Policy Framework: CEN vs CIN
+### 1. Policy Framework: CEN vs CIN
 
 ```
 CREDIT vs EXEMPTION: THE GREAT DEBATE
@@ -515,7 +515,7 @@ EXEMPTION METHOD (Article 23A) → CAPITAL IMPORT NEUTRALITY (CIN)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 6.2. The Impossibility of Both: A Key Exam Point
+### 2. The Impossibility of Both: A Key Exam Point
 
 A crucial insight for exam success: **CEN and CIN cannot be achieved simultaneously** unless all countries have the same tax rate.
 
@@ -528,7 +528,7 @@ If Country R has 30% rate and Country S has 20% rate:
 
 These are incompatible. Countries must choose which neutrality to prioritise.
 
-### 6.3. The Global Trend: Toward Territoriality
+### 3. The Global Trend: Toward Territoriality
 
 The clear trend over the past two decades has been toward the exemption method:
 
@@ -547,15 +547,15 @@ The clear trend over the past two decades has been toward the exemption method:
 
 ---
 
-## 7. Worked Exam Example: December 2022 Q2 Style
+## G. WORKED EXAM EXAMPLE: DECEMBER 2022 Q2 STYLE
 
-### 7.1. Question (25 marks)
+### Question (25 marks)
 
 *The Manualian Revenue Authority (MRA) is considering whether, and how, to amend its system of relief from juridical double taxation.*
 
 *You are required to outline the various systems that are available, and the main policy considerations involved in adopting each option.*
 
-### 7.2. Model Answer Structure
+### Model Answer Structure
 
 **Introduction (2 marks)**
 
@@ -624,7 +624,7 @@ Modern trend favours **exemption** with anti-abuse safeguards. The US shift in 2
 
 ---
 
-## 8. Common Exam Errors to Avoid
+## H. COMMON EXAM ERRORS TO AVOID
 
 ```
 EXAMINER INSIGHTS: WHAT LOSES MARKS
@@ -663,3 +663,74 @@ ERROR 6: Calculation-heavy answers when policy is asked
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+---
+
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. EXEMPTION METHOD PRINCIPLE (Article 23A):
+   • Foreign income excluded from residence state tax base
+   • Effective rate = SOURCE state rate only
+   • Reflects TERRITORIAL philosophy
+   • Achieves CAPITAL IMPORT NEUTRALITY (CIN)
+
+2. FULL vs EXEMPTION WITH PROGRESSION:
+   • Full: Foreign income ignored for base AND rate → unfair
+   • With progression: Ignored for base, included for rate
+   • Article 23A(3) authorises exemption with progression
+   • Most modern systems use exemption with progression
+
+3. PARTICIPATION EXEMPTION:
+   • Specific exemption for qualifying subsidiary dividends
+   • Prevents economic double taxation on corporate profits
+   • Common conditions: 5-25% shareholding, holding period,
+     substance, subject-to-tax
+   • Often extends to capital gains on participations
+
+4. DOUBLE NON-TAXATION SAFEGUARDS:
+   • Subject-to-tax clauses: Exemption requires source taxation
+   • Switch-over clauses: Credit method applies if abuse detected
+   • Pillar Two STTR: 9% minimum on certain intra-group payments
+
+5. CREDIT vs EXEMPTION:
+   • Credit → CEN (same tax regardless of investment location)
+   • Exemption → CIN (same tax for all investors in a market)
+   • Cannot achieve both—countries must choose
+   • Global trend toward exemption (US 2017, UK 2009)
+
+6. PILLAR TWO IMPACT:
+   • 15% global minimum tax changes the calculus
+   • Participation exemption still applies to dividends
+   • But underlying income "topped up" to 15% via IIR
+   • Reduced but not eliminated competition on exemption rules
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention (2017), Articles 23A, 23B and Commentary
+- UN Model Double Taxation Convention (2021), Article 23
+- EU Parent-Subsidiary Directive 2011/96/EU
+- OECD Pillar Two Model Rules and Commentary (2021-2023)
+
+**Country-Specific**:
+- Netherlands: Articles 13-13aa Wet Vpb (participation exemption)
+- Germany: Section 8b KStG (95% exemption)
+- United States: IRC Section 245A (dividends received deduction, post-TCJA)
+- Ireland: Finance Act 2024 (new participation exemption from 2025)
+
+**Current Developments**:
+- [Tax Policy Reforms 2025 | OECD](https://www.oecd.org/en/publications/tax-policy-reforms-2025_de648d27-en.html)
+- [Pillar 2: Understanding its exemption for dividends | Norton Rose Fulbright](https://www.nortonrosefulbright.com/en/knowledge/publications/e109fe91/pillar-2-understanding-its-exemption-for-dividends-and-profit-distributions)
+- [Capital Import Neutrality | Diversification.com](https://diversification.com/term/capital-import-neutrality)
+- [EU Anti-Tax Avoidance Directive Implementation | KPMG](https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2024/11/eu-anti-tax-avoidance-directive-member-state-implementation-overview.pdf)
+
+---
+
+*Next Chapter: 5.3 - Practical Difficulties in Applying Relief by Credit and Relief by Exemption*

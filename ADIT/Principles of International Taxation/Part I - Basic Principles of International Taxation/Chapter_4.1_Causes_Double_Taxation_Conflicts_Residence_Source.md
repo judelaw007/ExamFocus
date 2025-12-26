@@ -13,8 +13,8 @@ Syllabus Level: 2 (detailed knowledge required)
 
 Key Question Patterns:
   • June 2022 Q4: Allocation of taxing rights for dividends (Article 10)
-  • December 2020 Q7: Residence/source conflicts with relief mechanisms
-  • December 2021 Q6: Source vs residence taxation and treaty allocation
+  • Dec 2020 Q7: Residence/source conflicts with relief mechanisms
+  • Dec 2021 Q6: Source vs residence taxation and treaty allocation
   • June 2024: Residence determination leading to double taxation
 
 Examiner Focus:
@@ -34,9 +34,9 @@ or advise on any international structure without grasping this core concept.
 
 ---
 
-## 1. Concept Foundation: What Is International Double Taxation?
+## A. CONCEPT FOUNDATION: WHAT IS INTERNATIONAL DOUBLE TAXATION?
 
-### 1.1. Defining International Double Taxation
+### 1. Defining International Double Taxation
 
 **International juridical double taxation** arises when the same income or capital is taxed in the hands of **the same taxpayer** by **two or more states** for the **same period** in respect of the **same subject matter**.
 
@@ -51,7 +51,7 @@ This definition, derived from the OECD Model Tax Convention Commentary, contains
 
 The phenomenon occurs because no universal rule of international law prevents states from asserting overlapping tax claims. Each sovereign state determines its own tax jurisdiction independently, and these claims frequently overlap in cross-border situations. The absence of a supranational tax authority means there is no automatic mechanism to eliminate these overlapping claims—hence the development of bilateral tax treaties and unilateral relief measures.
 
-### 1.2. Juridical vs Economic Double Taxation
+### 2. Juridical vs Economic Double Taxation
 
 The distinction between **juridical** and **economic** double taxation is fundamental and frequently tested:
 
@@ -66,11 +66,11 @@ The Commentary on Articles 23A and 23B explicitly states that these provisions d
 
 ---
 
-## 2. The Three Types of Jurisdictional Conflicts
+## B. THE THREE TYPES OF JURISDICTIONAL CONFLICTS
 
 International double taxation arises from three distinct types of jurisdictional conflicts. Understanding which type applies helps identify the appropriate relief mechanism.
 
-### 2.1. Residence-Source Conflict (R-S)
+### 1. Residence-Source Conflict (R-S)
 
 **The Most Common Cause of Double Taxation**
 
@@ -119,7 +119,7 @@ VISUAL: RESIDENCE-SOURCE CONFLICT
 
 **Why This Conflict Arises**: This is the fundamental tension in international taxation. Most developed countries assert worldwide taxation over their residents (based on the benefit theory—residents benefit from state services wherever they earn income), while also claiming source-based taxation over income arising within their borders (based on the origin theory—income should be taxed where economic activity occurs). When these two legitimate but conflicting claims overlap, double taxation results.
 
-### 2.2. Residence-Residence Conflict (R-R)
+### 2. Residence-Residence Conflict (R-R)
 
 A residence-residence conflict occurs when **two states both consider the same person to be their tax resident**.
 
@@ -151,7 +151,7 @@ Both France and Belgium may consider him tax resident under their domestic laws,
 
 **Step 4: MUTUAL AGREEMENT PROCEDURE** → Competent authorities must agree
 
-### 2.3. Source-Source Conflict (S-S)
+### 3. Source-Source Conflict (S-S)
 
 A source-source conflict occurs when **two states both consider the same income to have its source within their territory**.
 
@@ -172,7 +172,7 @@ This arises because there is no universally agreed definition of "source" and st
 
 ---
 
-## 3. The OECD Solution: Distributive Rules and Relief Methods
+## C. THE OECD SOLUTION: DISTRIBUTIVE RULES AND RELIEF METHODS
 
 The OECD Model Tax Convention addresses residence-source conflicts through a two-step mechanism that represents decades of international consensus-building on how to allocate taxing rights fairly between states.
 
@@ -258,7 +258,7 @@ The choice between exemption and credit methods reflects different policy priori
 
 ---
 
-## 4. Exam Application Framework
+## D. EXAM APPLICATION FRAMEWORK
 
 ### How Examiners Test Residence-Source Conflicts
 
@@ -281,7 +281,7 @@ The choice between exemption and credit methods reflects different policy priori
 
 ---
 
-## 5. Worked Exam Examples
+## E. WORKED EXAM EXAMPLES
 
 ### Worked Example 1: Basic Residence-Source Conflict (Employment Income)
 
@@ -404,7 +404,7 @@ The economic rationale is that both states have legitimate claims: Germany hosts
 
 ---
 
-## 6. Policy Perspectives: The Ongoing Debate
+## F. POLICY PERSPECTIVES: THE ONGOING DEBATE
 
 ### 1. Historical Evolution of Allocation Rules
 
@@ -435,7 +435,7 @@ These developments suggest that the residence-source framework, while still foun
 
 ---
 
-## 7. Common Errors and How to Avoid Them
+## G. COMMON ERRORS AND HOW TO AVOID THEM
 
 ### Error Catalog from Examiner Reports
 
@@ -447,3 +447,60 @@ These developments suggest that the residence-source framework, while still foun
 | Ignoring Article 15(2) exception | Not checking all conditions | Systematic check: <183 days AND non-resident employer AND no PE |
 | Treating "may tax" as "must tax" | Misreading treaty language | Treaty allocates rights; domestic law determines exercise |
 
+### Quick Self-Check Questions
+
+Before submitting your answer, verify:
+- [ ] Have I identified the income type and correct treaty article?
+- [ ] Have I explained which state(s) may tax under the distributive rules?
+- [ ] Have I applied the correct relief method with proper calculations?
+- [ ] Have I shown all workings for numerical parts?
+- [ ] Have I concluded on the taxpayer's final position?
+
+---
+
+## H. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. International juridical double taxation = same taxpayer + same
+   income + same period + two states
+
+2. Residence-source conflict is the MOST COMMON cause:
+   - Residence state taxes worldwide income
+   - Source state taxes territorial income
+   - Same income taxed twice
+
+3. Treaties resolve through TWO steps:
+   - Step 1: Allocate taxing rights (Arts 6-22 distributive rules)
+   - Step 2: Residence state provides relief (Arts 23A/23B)
+
+4. Two relief methods:
+   - Exemption: foreign income excluded from tax base
+   - Credit: foreign tax deducted from domestic liability
+
+5. Credit method: effective rate = HIGHER of two states' rates
+   Exemption method: effective rate = SOURCE state rate only
+
+6. For dividends/interest: BOTH states may tax, but source state
+   limited to treaty rate (typically 5-15%)
+
+7. Always check: Is there a treaty? What does domestic law provide?
+   Do conditions (e.g., beneficial ownership) apply?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References and Further Reading
+
+**Primary Sources**:
+- OECD Model Tax Convention (2017) - Articles 4, 6-23, and Commentaries
+- UN Model Double Taxation Convention (2021)
+- OECD Commentary on Articles 23A and 23B
+
+**Key Web Resources**:
+- [OECD Model Tax Convention](https://www.oecd.org/en/topics/sub-issues/oecd-model-tax-convention-on-income-and-on-capital.html)
+- [UN Tax Committee Resources](https://www.un.org/esa/ffd/wp-content/uploads/2014/10/2STM_Taxation-EC18-2006-7-part1-R.pdf)
+- [IBFD Research on Exemption and Credit Methods](https://www.ibfd.org/sites/default/files/2022-12/20_007_exemption_method_and_credit_method_proof_1.pdf)

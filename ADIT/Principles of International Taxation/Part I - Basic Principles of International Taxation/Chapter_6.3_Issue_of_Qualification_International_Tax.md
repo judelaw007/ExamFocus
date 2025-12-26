@@ -40,7 +40,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## 1. What Is a "Qualification Conflict"?
+## A. WHAT IS A "QUALIFICATION CONFLICT"?
 
 ### 1. Building on Recognition and Characterisation
 
@@ -100,7 +100,7 @@ Qualification conflicts can result in:
 
 ---
 
-## 2. Article 3(2): The Renvoi to Domestic Law
+## B. ARTICLE 3(2): THE RENVOI TO DOMESTIC LAW
 
 ### 1. The Text of Article 3(2)
 
@@ -159,7 +159,7 @@ This exception allows departure from domestic law meaning when:
 
 ---
 
-## 3. Approaches to Treaty Interpretation
+## C. APPROACHES TO TREATY INTERPRETATION
 
 ### 1. Three Interpretive Approaches
 
@@ -201,8 +201,8 @@ June 2023 Q3 discussed Article 3(2) in context of treaty override.
 
 KEY POINT from suggested solution:
 "Article 3(2) is considered by some to be a vivid treaty-based
-reminder of the connection between the DTC and the two contracting
-states' domestic legal systems, which allows the DTC to link into
+reminder of the connection between the DTA and the two contracting
+states' domestic legal systems, which allows the DTA to link into
 the relevant CS's taxing rights that are established in its
 domestic legislation."
 
@@ -227,7 +227,7 @@ The OECD Commentary provides interpretive guidance but its legal status is debat
 
 ---
 
-## 4. Types of Qualification Conflicts
+## D. TYPES OF QUALIFICATION CONFLICTS
 
 ### 1. Entity Qualification Conflicts
 
@@ -266,7 +266,7 @@ The OECD Commentary provides interpretive guidance but its legal status is debat
 
 ---
 
-## 5. OECD Solutions to Qualification Conflicts
+## E. OECD SOLUTIONS TO QUALIFICATION CONFLICTS
 
 ### 1. The Partnership Report (1999)
 
@@ -301,7 +301,7 @@ The OECD Committee on Fiscal Affairs adopted the Partnership Report approach in 
 
 ---
 
-## 6. Exam Application: Qualification in Distributive Rules
+## F. EXAM APPLICATION: QUALIFICATION IN DISTRIBUTIVE RULES
 
 ### 1. Priority Rules Between Distributive Articles
 
@@ -312,7 +312,7 @@ EXAM FOCUS: December 2022 Q4 - Article 13 and Distributive Rules
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 QUESTION STRUCTURE:
-Part 1 (13 marks): Domestic tax law applying a DTC
+Part 1 (13 marks): Domestic tax law applying a DTA
 Part 2 (12 marks): Interaction between Article 13 and other
                    distributive rules
 
@@ -390,7 +390,7 @@ STEP 6: IDENTIFY OUTCOME
 
 ---
 
-## 7. Connection to Treaty Override
+## G. CONNECTION TO TREATY OVERRIDE
 
 ### 1. Ambulatory Interpretation and Treaty Override
 
@@ -419,7 +419,7 @@ A specific example discussed in examinations is whether CFC rules constitute tre
 
 ---
 
-## 8. Practical Examples
+## H. PRACTICAL EXAMPLES
 
 ### 1. Software Payments
 
@@ -456,7 +456,50 @@ As discussed in Chapter 6.2, hybrid instruments create qualification conflicts:
 
 ---
 
-## 9. Common Exam Errors to Avoid
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL CONCEPTS FOR EXAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. QUALIFICATION CONFLICTS DEFINED:
+   • Arise when states apply different distributive rules
+   • To same income and taxpayer
+   • Due to different interpretation of treaty terms
+
+2. ARTICLE 3(2) IS CENTRAL:
+   • Undefined terms → domestic law meaning
+   • "Unless the context otherwise requires"
+   • Ambulatory reference (at time of application)
+   • Tax law meaning prevails over general law
+
+3. THREE INTERPRETIVE APPROACHES:
+   • Lex fori: each state's own domestic law
+   • Lex causae: source state's domestic law
+   • Autonomous: derived from treaty context
+
+4. OECD SOLUTION:
+   • Residence state should follow source state characterisation
+   • Provide relief based on source state's taxation
+   • Limitations: not binding; may not work in all cases
+
+5. LINKS TO CHAPTERS 6.1 AND 6.2:
+   • Entity recognition differences → qualification conflicts
+   • Transparent/opaque characterisation → different taxpayers
+   • Hybrid entities/instruments → different income categories
+
+6. EXAM APPLICATION:
+   • Identify the income and each state's characterisation
+   • Determine applicable treaty articles
+   • Consider "context otherwise requires" exception
+   • Apply OECD solution where relevant
+   • Identify double taxation or non-taxation outcomes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -467,3 +510,33 @@ As discussed in Chapter 6.2, hybrid instruments create qualification conflicts:
 | Not linking to entity characterisation | Chapter 6.2 concepts feed into qualification | Show how transparent/opaque creates qualification issues |
 | Forgetting priority rules | Articles have explicit and implicit hierarchy | Identify which article takes precedence |
 
+---
+
+## References
+
+**Primary Sources:**
+- OECD Model Tax Convention (2017), Article 3(2) (General Definitions)
+- Vienna Convention on the Law of Treaties (1969), Articles 31-32
+- OECD Partnership Report (1999) - Application of the OECD Model Tax Convention to Partnerships
+- OECD Commentary on Article 3, particularly paragraphs 11-13
+
+**Key Concepts:**
+- Qualification conflict / conflict of qualification
+- Lex fori, lex causae, autonomous interpretation
+- Ambulatory vs static interpretation
+- "Context otherwise requires" exception
+
+**ADIT Past Exam References:**
+- June 2023 Q3: Treaty override - Article 3(2) and domestic law meaning (25 marks)
+- December 2022 Q4: Article 13 and interaction with other distributive rules (25 marks)
+- June 2024 Solutions: Autonomous interpretation variability
+
+**Web Sources:**
+- [WU Vienna: Qualification Conflicts - Global Tax Treaty Commentaries](https://www.wu.ac.at/fileadmin/wu/d/i/taxlaw/Institute/Publikationen_Lang/Publikationen_Lang_2015-2019/Publikationen_Lang_2015-2019_P1/Qualification_Conflicts_-_Global_Tax_Treaty_Commentaries_-_IBFD.pdf)
+- [UN: Introduction to Tax Treaties](https://www.un.org/esa/ffd/wp-content/uploads/2015/10/TT_Introduction_Eng.pdf)
+- [IBFD: Priority Rules in Tax Treaties](https://www.ibfd.org/sites/default/files/2023-09/20_007_priority_rules_in_tax_treaties_final_web.pdf)
+
+---
+
+*Previous Chapter: 6.2 - Characterisation of Entities as Transparent or Opaque – State Practice*
+*This completes Part I, Section F: Private International Law and Tax*

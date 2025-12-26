@@ -31,7 +31,7 @@ Examiner Focus:
   • Practical consequences of characterisation conflicts
 
 Strategic Priority: ★★★★☆ HIGH
-  → Direct testing in hybrid mismatch questions (December 2024)
+  → Direct testing in hybrid mismatch questions (Dec 2024)
   → Essential foundation for treaty and CFC analysis
   → Integrates with multiple high-frequency topics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -39,7 +39,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## 1. From Recognition to Characterisation
+## A. FROM RECOGNITION TO CHARACTERISATION
 
 ### 1. Building on Recognition Concepts
 
@@ -69,7 +69,7 @@ Understanding this distinction is essential because the same entity may be chara
 
 ---
 
-## 2. State Practice in Entity Characterisation
+## B. STATE PRACTICE IN ENTITY CHARACTERISATION
 
 ### 1. The US "Check-the-Box" Regime
 
@@ -148,7 +148,7 @@ An entity exhibiting corporate characteristics (limited liability, centralised m
 
 ---
 
-## 3. Hybrid Entities and Mismatches
+## C. HYBRID ENTITIES AND MISMATCHES
 
 ### 1. What Creates a Hybrid Entity?
 
@@ -231,7 +231,7 @@ EXAMPLE: German KG with US corporate investor
 
 ---
 
-## 4. Treaty Application and Transparent Entities
+## D. TREATY APPLICATION AND TRANSPARENT ENTITIES
 
 ### 1. Article 1(2) OECD Model Tax Convention
 
@@ -296,7 +296,7 @@ When states disagree on entity characterisation, complex treaty issues arise:
 
 ---
 
-## 5. BEPS Action 2: Neutralising Hybrid Mismatches
+## E. BEPS ACTION 2: NEUTRALISING HYBRID MISMATCHES
 
 ### 1. Overview of BEPS Action 2
 
@@ -408,7 +408,7 @@ Several major jurisdictions have implemented BEPS Action 2:
 
 ---
 
-## 6. CFC Rules and Entity Characterisation
+## F. CFC RULES AND ENTITY CHARACTERISATION
 
 ### 1. Two CFC Approaches: Transparent vs Opaque Treatment
 
@@ -431,7 +431,7 @@ CFC rules interact with entity characterisation for treaty purposes:
 
 ---
 
-## 7. Pillar Two and Entity Characterisation
+## G. PILLAR TWO AND ENTITY CHARACTERISATION
 
 ### 1. Flow-Through Entity Treatment Under GloBE Rules
 
@@ -453,7 +453,7 @@ Under Pillar Two, a single flow-through entity may have different characterisati
 
 ---
 
-## 8. Practical Application Framework
+## H. PRACTICAL APPLICATION FRAMEWORK
 
 ### 1. Analytical Steps for Exam Questions
 
@@ -506,7 +506,49 @@ STEP 6: DETERMINE TREATY APPLICATION
 
 ---
 
-## 9. Common Exam Errors to Avoid
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL CONCEPTS FOR EXAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. TRANSPARENT vs OPAQUE:
+   • Transparent: income flows to members; entity not taxed
+   • Opaque: entity taxed separately; members taxed on distribution
+   • Same entity can be classified differently by different states
+
+2. HYBRID ENTITIES ARISE FROM CLASSIFICATION CONFLICTS:
+   • Not a characteristic of the entity itself
+   • Result of different state characterisations
+   • Create D/NI or DD mismatches
+
+3. KEY STATE PRACTICES:
+   • US: Check-the-box (elective)
+   • UK: Generally follows legal form
+   • Germany: Structural comparison approach
+   • Each approach can produce different results for same entity
+
+4. BEPS ACTION 2 LINKING RULES:
+   • Primary rule: deny deduction if no inclusion
+   • Defensive rule: require inclusion if deduction allowed
+   • Hierarchy prevents both rules applying simultaneously
+
+5. TREATY APPLICATION:
+   • Article 1(2) addresses transparent entity treatment
+   • Partners (not partnership) may claim treaty benefits
+   • "Liable to tax" does not require actual payment
+
+6. EXAM APPLICATION:
+   • Identify entity type and characterisation in each jurisdiction
+   • Analyse mismatch consequences
+   • Apply anti-avoidance rules where relevant
+   • Consider treaty access for transparent entities
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -517,3 +559,28 @@ STEP 6: DETERMINE TREATY APPLICATION
 | Treating "liable to tax" as requiring payment | Well-established it does not | Explain difference between liable and subject to tax |
 | Missing hybrid entity in fact pattern | Characterisation differences create exam issues | Check each jurisdiction's view of entity |
 
+---
+
+## References
+
+**Primary Sources:**
+- OECD Model Tax Convention (2017), Articles 1 (Persons Covered), 4 (Resident)
+- OECD, Neutralising the Effects of Hybrid Mismatch Arrangements – Action 2: 2015 Final Report
+- OECD, Neutralising the Effects of Branch Mismatch Arrangements – Action 2 (2017)
+- US Treasury Regulations §301.7701-2, -3 (Check-the-box regulations)
+
+**ADIT Past Exam References:**
+- June 2022 Q1: "Liable to tax" and fiscally transparent entities (25 marks)
+- December 2022: CFC treatment—transparent vs opaque approaches
+- December 2024 Q5: Hybrid mismatch arrangements—linking rules vs harmonisation (25 marks)
+- June 2025: Transparent entities and income attribution under DTCs
+
+**Web Sources:**
+- [OECD: Neutralising Hybrid Mismatch Arrangements Action 2 Final Report](https://www.oecd.org/en/publications/2015/10/neutralising-the-effects-of-hybrid-mismatch-arrangements-action-2-2015-final-report_g1g58cdf.html)
+- [US IRS: Overview of Entity Classification Regulations](https://www.irs.gov/pub/fatca/int_practice_units/ore_c_19_02_01.pdf)
+- [OECD Pillars: Treatment of Tax Transparent Entities Under Pillar Two](https://oecdpillars.com/the-treatment-of-tax-transparent-entities-under-pillar-two/)
+
+---
+
+*Previous Chapter: 6.1 - Recognition of Foreign Legal Entities*
+*Next Chapter: 6.3 - The Issue of Qualification and International Tax*

@@ -39,9 +39,9 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## 1. The Credit Method: Concept and Operation
+## A. THE CREDIT METHOD: CONCEPT AND OPERATION
 
-### 1.1. Article 23B OECD Model Tax Convention
+### 1. Article 23B OECD Model Tax Convention
 
 The credit method represents one of the two primary mechanisms through which states eliminate international double taxation. Article 23B of the OECD Model Tax Convention establishes the framework:
 
@@ -51,7 +51,7 @@ The credit method embodies a fundamentally different philosophy from the exempti
 
 The historical development of the credit method traces to the United States, which adopted foreign tax credits as early as 1918. American policymakers were concerned that exempting foreign income would create powerful incentives for capital to flow abroad to lower-tax jurisdictions, eroding the domestic tax base and potentially distorting investment decisions. The credit method solved this by ensuring that American taxpayers would never face a lower effective rate on foreign income than on domestic income—the source country could tax first, but the US would "top up" to its own rate.
 
-### 1.2. How the Credit Method Works: Conceptual Framework
+### 2. How the Credit Method Works: Conceptual Framework
 
 The credit method operates through a systematic process that ensures the taxpayer pays the **higher** of the source or residence state tax rate:
 
@@ -89,7 +89,7 @@ KEY OUTCOME: Effective rate = HIGHER of source or residence rate
 
 The key insight is that when the source state rate is lower than the residence state rate, the taxpayer ends up paying the residence state rate through this "top-up" mechanism. The credit eliminates double taxation but ensures the residence state collects the difference.
 
-### 1.3. The Credit Limitation: Ordinary vs Full Credit
+### 3. The Credit Limitation: Ordinary vs Full Credit
 
 The distinction between ordinary (limited) credit and full (unlimited) credit is fundamental:
 
@@ -125,9 +125,9 @@ If foreign rate = domestic rate:
 
 ---
 
-## 2. Direct Credit (Basic Foreign Tax Credit)
+## B. DIRECT CREDIT (BASIC FOREIGN TAX CREDIT)
 
-### 2.1. When Direct Credit Applies
+### 1. When Direct Credit Applies
 
 The direct credit is the simplest form of foreign tax credit and applies when a taxpayer **directly pays** tax to a foreign jurisdiction on their own income. The elegance of the direct credit lies in its straightforward logic: you paid tax abroad, so you receive credit at home.
 
@@ -143,7 +143,7 @@ The critical requirement is that the taxpayer must have **directly borne** the f
 
 **Conceptual distinction**: When a UK company operates a branch in Australia and pays Australian tax on branch profits, that is direct credit territory—the UK company itself paid the tax. When the same UK company receives a dividend from an Australian subsidiary, the Australian corporate tax was paid by the subsidiary—a different legal person—requiring indirect credit analysis.
 
-### 2.2. Taxes Qualifying for Credit
+### 2. Taxes Qualifying for Credit
 
 Not all foreign charges qualify for foreign tax credit. The tax must generally be an **income tax** or tax **in lieu of** income tax. This connects to Article 2 of the OECD Model (Taxes Covered).
 
@@ -162,9 +162,9 @@ This distinction becomes critical when new types of levies emerge. The June 2025
 
 ---
 
-## 3. Indirect Credit (Underlying Tax Credit)
+## C. INDIRECT CREDIT (UNDERLYING TAX CREDIT)
 
-### 3.1. The Problem Indirect Credit Solves
+### 1. The Problem Indirect Credit Solves
 
 When a parent company receives dividends from a foreign subsidiary, two layers of tax have typically been paid:
 
@@ -199,7 +199,7 @@ THE UNDERLYING TAX PROBLEM
 
 This asymmetry would distort organizational choices if left unaddressed. Companies would structure inefficiently, using branches where subsidiaries would be commercially preferable, purely to minimize taxes.
 
-### 3.2. How Indirect Credit Works: The Concept
+### 2. How Indirect Credit Works: The Concept
 
 Indirect credit allows the parent company to claim credit not just for WHT, but also for a **proportion** of the subsidiary's corporate tax attributable to the dividend received:
 
@@ -226,7 +226,7 @@ KEY CONCEPTS:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 3.3. Conditions for Indirect Credit
+### 3. Conditions for Indirect Credit
 
 Indirect credit is typically subject to qualifying conditions reflecting policy judgments about when parent-subsidiary relationships justify this treatment:
 
@@ -240,7 +240,7 @@ Indirect credit is typically subject to qualifying conditions reflecting policy 
 
 The minimum shareholding requirement deserves attention. A portfolio investor holding 2% of a foreign company does not receive indirect credit—only direct credit for any WHT. This reflects a policy judgment that small shareholders lack the economic integration with the company that justifies treating them and the company as a single unit for credit purposes.
 
-### 3.4. The US Shift: TCJA 2017 and Participation Exemption
+### 4. The US Shift: TCJA 2017 and Participation Exemption
 
 A significant development in indirect credit came with the US Tax Cuts and Jobs Act 2017, which largely **replaced** indirect credit with participation exemption for US corporate shareholders:
 
@@ -255,9 +255,9 @@ This shift illustrates the global trend toward **participation exemption** (disc
 
 ---
 
-## 4. Tax Sparing Credits
+## D. TAX SPARING CREDITS
 
-### 4.1. The Concept and Its Historical Context
+### 1. The Concept and Its Historical Context
 
 Tax sparing represents perhaps the most controversial credit mechanism in international taxation. It emerged from development economics debates of the 1960s and 1970s, when newly independent nations sought to attract foreign investment through tax incentives, only to discover that the credit method in investors' home countries **neutralized these incentives entirely**.
 
@@ -287,7 +287,7 @@ THE INJUSTICE: Developing country bears all cost;
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 4.2. How Tax Sparing Works
+### 2. How Tax Sparing Works
 
 Tax sparing allows a credit for tax that **would have been paid** absent the incentive:
 
@@ -313,7 +313,7 @@ MECHANISM: Credit given for taxes NOT PAID but that
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 4.3. Arguments For and Against Tax Sparing
+### 3. Arguments For and Against Tax Sparing
 
 Tax sparing has always been contentious, reflecting deeper disagreements about the international tax system:
 
@@ -325,7 +325,7 @@ Tax sparing has always been contentious, reflecting deeper disagreements about t
 | Prevents residence state from "free-riding" on source country sacrifice | Can be abused through aggressive planning |
 | Historical use by Japan, UK with former colonies | Difficult to administer and verify |
 
-### 4.4. The Decline of Tax Sparing
+### 4. The Decline of Tax Sparing
 
 Tax sparing has become **less common** in modern treaty practice for several interconnected reasons:
 
@@ -347,9 +347,9 @@ Tax sparing has become **less common** in modern treaty practice for several int
 
 ---
 
-## 5. Credit Limitations and Baskets
+## E. CREDIT LIMITATIONS AND BASKETS
 
-### 5.1. Overall vs Per-Country Limitation
+### 1. Overall vs Per-Country Limitation
 
 Countries using the credit method must choose how to calculate the limitation when taxpayers have income from multiple foreign sources:
 
@@ -360,7 +360,7 @@ Countries using the credit method must choose how to calculate the limitation wh
 
 **Cross-crediting concept**: Under overall limitation, a taxpayer with €10,000 income from a 40% country (€4,000 tax) and €10,000 from a 10% country (€1,000 tax) can use the €1,500 excess credit from the high-tax country against the spare €1,500 capacity from the low-tax country (assuming 25% home rate). Per-country limitation prevents this averaging.
 
-### 5.2. The US Basket System
+### 2. The US Basket System
 
 The US uses a sophisticated basket system to prevent cross-crediting within income categories:
 
@@ -371,7 +371,7 @@ The US uses a sophisticated basket system to prevent cross-crediting within inco
 | **GILTI** | Global Intangible Low-Taxed Income | Special regime—only 80% credit allowed |
 | **Branch** | Branch profits | Separate treatment |
 
-### 5.3. Excess Credit Treatment
+### 3. Excess Credit Treatment
 
 When foreign tax exceeds the limitation:
 
@@ -383,7 +383,7 @@ When foreign tax exceeds the limitation:
 
 ---
 
-## 6. Policy Comparison: Credit vs Exemption
+## F. POLICY COMPARISON: CREDIT VS EXEMPTION
 
 Understanding when examiners ask about relief systems requires grasping the fundamental policy trade-offs:
 
@@ -422,9 +422,9 @@ and policy considerations"—this comparison is essential
 
 ---
 
-## 7. Worked Exam Example
+## G. WORKED EXAM EXAMPLE
 
-### 7.1. Policy Analysis Question (December 2022 Style)
+### Policy Analysis Question (December 2022 Style)
 
 **Question**: "The Manualian Revenue Authority is considering whether, and how, to amend its system of relief from juridical double taxation. Outline the various systems available and the main policy considerations involved in adopting each option." (25 marks)
 
@@ -464,7 +464,48 @@ Many countries combine methods:
 
 ---
 
-## 8. Common Exam Errors to Avoid
+## H. KEY TAKEAWAYS
+
+```
+ESSENTIAL CONCEPTS FOR EXAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CREDIT METHOD PRINCIPLE (Article 23B):
+   • Worldwide income included; credit for foreign tax
+   • Effective rate = HIGHER of source/residence rates
+   • Supports capital export neutrality
+
+2. DIRECT CREDIT:
+   • Tax paid DIRECTLY by taxpayer
+   • Applies to: employment, branch profits, WHT
+   • Must be qualifying income tax (Article 2 link)
+
+3. INDIRECT CREDIT:
+   • Relieves underlying corporate tax on dividends
+   • Requires minimum shareholding (10-25%)
+   • Prevents economic double taxation
+   • Declining: US moved to participation exemption (2017)
+
+4. TAX SPARING:
+   • Credit for "deemed" tax not actually paid
+   • Preserves developing country incentives
+   • DECLINING: BEPS concerns, Pillar Two undermines rationale
+   • US has NEVER granted tax sparing
+
+5. CREDIT LIMITATION:
+   • Ordinary credit: limited to residence state's own tax
+   • Prevents subsidizing high-tax countries
+   • Excess credits: carried forward (usually) or lost
+
+6. POLICY COMPARISON (likely exam topic):
+   • Credit → capital export neutrality, revenue preservation
+   • Exemption → capital import neutrality, simplicity, competitiveness
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -474,3 +515,21 @@ Many countries combine methods:
 | Treating tax sparing as current practice | Outdated analysis | Note its decline and Pillar Two impact |
 | Pure calculation focus | Misses policy marks | Emphasize WHY rules exist, not just HOW they calculate |
 
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention (2017), Article 23B and Commentary
+- OECD Report on Tax Sparing (1998)
+- UN Model Tax Convention (2021), Article 23
+- US Tax Cuts and Jobs Act 2017 (participation exemption shift)
+
+**Key Current Developments**:
+- Pillar Two GloBE Rules impact on tax incentives and tax sparing
+- June 2025 ADIT exam: FTC for non-income taxes (Market Presence Adjustment)
+- Trend toward participation exemption over indirect credit
+
+---
+
+*Next Chapter: 5.2 - Relief by Exemption (Including Participation Exemption)*

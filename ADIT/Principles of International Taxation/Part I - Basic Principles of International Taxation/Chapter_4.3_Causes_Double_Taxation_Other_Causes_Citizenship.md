@@ -13,7 +13,7 @@ Syllabus Level: 1 (awareness required, not detailed knowledge)
 
 Key Question Patterns:
   • June 2022 Q7: US citizenship impact on residence analysis
-  • December 2021 Q6: Transfer pricing adjustments causing double taxation
+  • Dec 2021 Q6: Transfer pricing adjustments causing double taxation
   • June 2024: Hybrid instruments and classification conflicts
   • Part of broader questions on causes of double taxation
 
@@ -34,9 +34,9 @@ These topics often appear as subsidiary points worth 3-5 marks.
 
 ---
 
-## 1. Overview: The Full Picture of Double Taxation Causes
+## A. OVERVIEW: THE FULL PICTURE OF DOUBLE TAXATION CAUSES
 
-### 1.1. Expanding Beyond R-S Conflicts
+### 1. Expanding Beyond R-S Conflicts
 
 While residence-source and residence-residence conflicts are the primary causes of international double taxation (covered in Chapters 4.1 and 4.2), several **other factors** can create or exacerbate double taxation situations:
 
@@ -53,9 +53,9 @@ Understanding these additional causes is essential because they often **compound
 
 ---
 
-## 2. Citizenship-Based Taxation
+## B. CITIZENSHIP-BASED TAXATION
 
-### 2.1. The US Anomaly
+### 1. The US Anomaly
 
 The United States is the **only major developed nation** that taxes based on citizenship rather than solely on residence. This creates unique double taxation problems for an estimated 9 million US citizens living abroad.
 
@@ -79,7 +79,7 @@ RESIDENCE-BASED TAXATION (Used by virtually all other countries)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 2.2. How US Citizenship Creates Triple Taxation Potential
+### 2. How US Citizenship Creates Triple Taxation Potential
 
 A US citizen living abroad may face taxation from **three sources**:
 
@@ -102,7 +102,7 @@ Without relief mechanisms, she could face:
 
 The Germany-France treaty may resolve the residence-source conflict, but the US tax claim exists **regardless of and in addition to** any treaty between Germany and France.
 
-### 2.3. US Treaty and Statutory Relief Mechanisms
+### 3. US Treaty and Statutory Relief Mechanisms
 
 The US tax system provides several mechanisms to mitigate (but not eliminate) double taxation for citizens abroad:
 
@@ -136,7 +136,7 @@ US tax treaties contain a "saving clause" preserving the US right to tax its cit
 
 Additional exclusion for qualified housing expenses incurred while living abroad.
 
-### 2.4. Practical Impact: Banking and FATCA
+### 4. Practical Impact: Banking and FATCA
 
 Beyond direct taxation, US citizens abroad face additional burdens from the **Foreign Account Tax Compliance Act (FATCA)**:
 
@@ -146,7 +146,7 @@ Beyond direct taxation, US citizens abroad face additional burdens from the **Fo
 
 As noted by advocacy groups: "The worst of it lies in how remarkably difficult banking has become for many Americans overseas. Thanks to FATCA, foreign financial institutions often choose to deny services to U.S. citizens living abroad rather than deal with the complex reporting requirements."
 
-### 2.5. Political Developments (2024-2025)
+### 5. Political Developments (2024-2025)
 
 The issue has gained political attention:
 
@@ -156,7 +156,7 @@ The issue has gained political attention:
 
 The proposed legislation would allow US citizens abroad to elect treatment as non-residents for tax purposes while retaining citizenship, effectively moving the US toward the global norm of residence-based taxation.
 
-### 2.6. Exam Relevance
+### 6. Exam Relevance
 
 **When to Consider Citizenship**:
 - Whenever a fact pattern mentions a US citizen (or US person)
@@ -171,9 +171,9 @@ The proposed legislation would allow US citizens abroad to elect treatment as no
 
 ---
 
-## 3. Economic Double Taxation
+## C. ECONOMIC DOUBLE TAXATION
 
-### 3.1. Definition and Distinction from Juridical Double Taxation
+### 1. Definition and Distinction from Juridical Double Taxation
 
 **Economic double taxation** occurs when the **same income is taxed in the hands of different taxpayers**—contrasted with juridical double taxation where the same taxpayer is taxed twice.
 
@@ -184,7 +184,7 @@ The proposed legislation would allow US citizens abroad to elect treatment as no
 
 The OECD Commentary explicitly notes that Articles 23A and 23B address juridical double taxation, "which is to be distinguished from so-called economic double taxation." This distinction matters because treaty relief mechanisms are primarily designed for juridical double taxation.
 
-### 3.2. Classic Example: Corporate Profits and Dividends
+### 2. Classic Example: Corporate Profits and Dividends
 
 The most common form of economic double taxation occurs with corporate distributions:
 
@@ -213,7 +213,7 @@ Result: €100,000 profit taxed TWICE:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 3.3. Mechanisms to Address Economic Double Taxation
+### 3. Mechanisms to Address Economic Double Taxation
 
 Unlike juridical double taxation, economic double taxation is primarily addressed through **domestic law** rather than treaties:
 
@@ -229,9 +229,9 @@ Unlike juridical double taxation, economic double taxation is primarily addresse
 
 ---
 
-## 4. Transfer Pricing and Double Taxation
+## D. TRANSFER PRICING AND DOUBLE TAXATION
 
-### 4.1. How Transfer Pricing Creates Double Taxation
+### 1. How Transfer Pricing Creates Double Taxation
 
 When related parties engage in cross-border transactions, each state may apply its own transfer pricing rules, potentially resulting in **conflicting adjustments**:
 
@@ -260,7 +260,7 @@ transfer pricing interpretations.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 4.2. Treaty Relief: Article 9(2) Corresponding Adjustments
+### 2. Treaty Relief: Article 9(2) Corresponding Adjustments
 
 Article 9(2) OECD MTC addresses this by requiring the other state to make a **corresponding adjustment** when one state adjusts profits under the arm's length principle:
 
@@ -271,15 +271,15 @@ Article 9(2) OECD MTC addresses this by requiring the other state to make a **co
 - States may disagree on whether adjustment was appropriate
 - Often requires MAP to resolve disputes (can take 2-3 years)
 
-### 4.3. BEPS Impact
+### 3. BEPS Impact
 
 BEPS Actions 8-10 enhanced transfer pricing documentation requirements and guidance, but disputes persist. The MAP statistics show that transfer pricing cases constitute the majority of disputes and take the longest to resolve.
 
 ---
 
-## 5. Triangular Cases
+## E. TRIANGULAR CASES
 
-### 5.1. What Are Triangular Cases?
+### 1. What Are Triangular Cases?
 
 Triangular cases involve **three or more countries** where bilateral treaties fail to provide complete relief because they only address two-party situations.
 
@@ -288,7 +288,7 @@ Triangular cases involve **three or more countries** where bilateral treaties fa
 - State B: Location of permanent establishment (PE)
 - State C: Source state of income flowing to the PE
 
-### 5.2. Example: Interest Through a PE
+### 2. Example: Interest Through a PE
 
 ```
 TRIANGULAR CASE: INTEREST THROUGH PE
@@ -325,7 +325,7 @@ TREATIES:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 5.3. Treaty Solutions (Limited)
+### 3. Treaty Solutions (Limited)
 
 Article 24(3) OECD MTC (non-discrimination for PEs) provides some protection, but triangular cases often require:
 - Specific treaty provisions addressing three-party situations
@@ -334,16 +334,16 @@ Article 24(3) OECD MTC (non-discrimination for PEs) provides some protection, bu
 
 ---
 
-## 6. Hybrid Mismatches
+## F. HYBRID MISMATCHES
 
-### 6.1. Definition
+### 1. Definition
 
 **Hybrid mismatches** occur when two states classify the same entity, instrument, or transaction differently, leading to either:
 - **Double deduction (DD)**: Same expense deducted in both states
 - **Deduction/No inclusion (D/NI)**: Deduction in one state, no corresponding income inclusion in other
 - **Double taxation**: Same income taxed differently due to classification mismatch
 
-### 6.2. Common Hybrid Scenarios
+### 2. Common Hybrid Scenarios
 
 | Type | State A Treatment | State B Treatment | Result |
 |------|-------------------|-------------------|--------|
@@ -351,7 +351,7 @@ Article 24(3) OECD MTC (non-discrimination for PEs) provides some protection, bu
 | **Hybrid instrument** | Debt (interest deductible) | Equity (dividend exempt) | D/NI mismatch |
 | **Reverse hybrid** | Opaque | Transparent | Double non-taxation possible |
 
-### 6.3. BEPS Action 2
+### 3. BEPS Action 2
 
 BEPS Action 2 addresses hybrid mismatch arrangements through recommendations to:
 - Deny deductions for payments that give rise to D/NI outcomes
@@ -362,9 +362,9 @@ BEPS Action 2 addresses hybrid mismatch arrangements through recommendations to:
 
 ---
 
-## 7. Timing Differences
+## G. TIMING DIFFERENCES
 
-### 7.1. The Problem
+### 1. The Problem
 
 States may recognize income and expenses in **different tax periods**, creating temporary double taxation:
 
@@ -373,15 +373,15 @@ States may recognize income and expenses in **different tax periods**, creating 
 | Prepaid royalties | Income in Year 1 (cash basis) | Deduction in Year 2 (accrual) | Year 1 income taxed twice |
 | Provisions | Expense in Year 1 (accrual) | Not deductible until paid | Year 1 mismatch |
 
-### 7.2. Resolution
+### 2. Resolution
 
 Timing differences usually resolve over time (the mismatch reverses), but create cash flow burdens and compliance complexity. Treaties generally do not address timing differences directly.
 
 ---
 
-## 8. Exam Application
+## H. EXAM APPLICATION
 
-### 8.1. Question Recognition
+### Question Recognition
 
 | Trigger Words | Topic | Key Points |
 |---------------|-------|------------|
@@ -391,9 +391,68 @@ Timing differences usually resolve over time (the mismatch reverses), but create
 | "PE receives income from third country" | Triangular case | Bilateral treaty limitations |
 | "Different treatment in each state" | Hybrid mismatch | BEPS Action 2 awareness |
 
-### 8.2. Model Answer Component: Citizenship Issue
+### Model Answer Component: Citizenship Issue
 
 When a question involves a US person, include analysis such as:
 
 > "Additionally, if [taxpayer] is a US citizen, the United States will tax their worldwide income based on citizenship, regardless of residence status or treaty tie-breaker results. The US saving clause (Article 1(4) US Model) preserves this right in all US treaties. While relief mechanisms exist (Foreign Earned Income Exclusion up to $126,500, Foreign Tax Credit), these may not fully eliminate US tax, creating potential triple taxation."
 
+---
+
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CITIZENSHIP-BASED TAXATION:
+   • Only USA and Eritrea tax based on citizenship
+   • US citizens taxed on worldwide income regardless of residence
+   • US saving clause preserves this in ALL US treaties
+   • Relief via FEIE ($126,500 exclusion) and Foreign Tax Credit
+   • Creates potential TRIPLE taxation scenarios
+
+2. ECONOMIC VS JURIDICAL DOUBLE TAXATION:
+   • Juridical: Same taxpayer taxed twice
+   • Economic: Same income taxed in different hands
+   • Treaties primarily address JURIDICAL double taxation
+   • Economic DT addressed through domestic law (participation
+     exemptions, imputation systems)
+
+3. TRANSFER PRICING DOUBLE TAXATION:
+   • Conflicting adjustments by different states
+   • Article 9(2) requires corresponding adjustments
+   • Often requires MAP to resolve
+
+4. TRIANGULAR CASES:
+   • Three-country situations
+   • Bilateral treaties may not provide complete relief
+   • Requires careful structuring or MAP
+
+5. HYBRID MISMATCHES:
+   • Different classification of same entity/instrument
+   • Can cause double taxation OR double non-taxation
+   • BEPS Action 2 addresses these issues
+
+6. EXAM APPROACH:
+   • Always check for US citizenship in fact pattern
+   • Distinguish economic from juridical double taxation
+   • Recognize when bilateral treaty relief is insufficient
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References and Further Reading
+
+**Primary Sources**:
+- US Model Tax Convention (2016) - Article 1(4) Saving Clause
+- OECD Model Tax Convention - Articles 9, 23A, 23B
+- BEPS Action 2: Neutralising the Effects of Hybrid Mismatch Arrangements
+
+**Key Web Resources**:
+- [American Citizens Abroad - Taxation](https://www.americansabroad.org/taxation)
+- [Tax Fairness for Americans Abroad](https://www.taxfairnessabroad.org/blog/american-citizens-abroad-are-victims-of-a-lot-more-than-double-taxation)
+- [KPMG - US Bill on Overseas Taxation](https://kpmg.com/xx/en/our-insights/gms-flash-alert/flash-alert-2024-257.html)
+- [The Tax Adviser - Proposal to End Citizenship-Based Taxation](https://www.thetaxadviser.com/issues/2025/jun/a-proposal-to-end-citizenship-based-taxation-for-us-citizens-living-overseas/)
+- [UN Double Taxation Convention Part I](https://www.un.org/esa/ffd/wp-content/uploads/2014/10/2STM_Taxation-EC18-2006-7-part1-R.pdf)

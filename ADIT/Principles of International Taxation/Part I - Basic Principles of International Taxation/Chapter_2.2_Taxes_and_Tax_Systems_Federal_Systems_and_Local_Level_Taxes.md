@@ -20,7 +20,7 @@ INDIRECT RELEVANCE:
 • Article 2(1) OECD MTC: Covers taxes "imposed on behalf of a
   Contracting State or of its political subdivisions or local
   authorities"
-• Understanding which taxes are covered by DTCs
+• Understanding which taxes are covered by DTAs
 • Analyzing residence and source rules across government levels
 • Compliance obligations in federal systems
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -28,9 +28,9 @@ INDIRECT RELEVANCE:
 
 ---
 
-## 1. Concept Foundation
+## A. CONCEPT FOUNDATION
 
-### 1.1. Federal vs. Unitary Systems
+### 1. Federal vs. Unitary Systems
 
 Countries organize their tax systems based on their constitutional structure:
 
@@ -40,7 +40,7 @@ Countries organize their tax systems based on their constitutional structure:
 | **Unitary** | Single central government holds primary taxing authority | UK, France, Japan, Italy, New Zealand |
 | **Quasi-Federal** | Constitutionally unitary but highly decentralized | Spain, Colombia |
 
-### 1.2. Key Statistics (OECD 2023 Data)
+### 2. Key Statistics (OECD 2023 Data)
 
 **Federal Countries (8 OECD members)**:
 | Government Level | Average Revenue Share |
@@ -63,7 +63,7 @@ Countries organize their tax systems based on their constitutional structure:
 
 ---
 
-### 1.3. Fiscal Federalism: The Theory
+### 3. Fiscal Federalism: The Theory
 
 **Definition**: Fiscal federalism is an economic framework for understanding the division of spending and taxing powers among different levels of government.
 
@@ -113,7 +113,7 @@ This debate directly parallels international discussions on corporate tax compet
 
 ---
 
-### 1.4. Levels of Government and Their Taxes
+### 4. Levels of Government and Their Taxes
 
 #### Federal/Central Government
 
@@ -145,7 +145,7 @@ This debate directly parallels international discussions on corporate tax compet
 
 ---
 
-### 1.5. Country Examples
+### 5. Country Examples
 
 #### United States
 
@@ -167,7 +167,7 @@ Local Level (thousands of jurisdictions):
 • Local sales tax: Additional to state tax
 ```
 
-**Note on DTCs**: U.S. tax treaties generally **exclude** state and local taxes from coverage (except for non-discrimination provisions).
+**Note on DTAs**: U.S. tax treaties generally **exclude** state and local taxes from coverage (except for non-discrimination provisions).
 
 #### Canada
 
@@ -210,14 +210,14 @@ Municipal Level:
 
 ---
 
-## 2. Treaty Coverage of Subnational Taxes
+## B. TREATY COVERAGE OF SUBNATIONAL TAXES
 
 ### Article 2(1) OECD Model Tax Convention
 
 > "This Convention shall apply to taxes on income and on capital imposed on behalf of a Contracting State or of **its political subdivisions or local authorities**, irrespective of the manner in which they are levied."
 
 **Key Points**:
-- DTCs cover taxes at **all levels** of government (federal, state, local)
+- DTAs cover taxes at **all levels** of government (federal, state, local)
 - Applies regardless of collection method
 - Covers "political subdivisions" (states, provinces, regions)
 - Covers "local authorities" (municipalities, counties)
@@ -226,7 +226,7 @@ Municipal Level:
 
 | Country | Treaty Treatment of Subnational Taxes |
 |---------|--------------------------------------|
-| **Most countries** | Subnational income taxes covered by DTC |
+| **Most countries** | Subnational income taxes covered by DTA |
 | **United States** | State/local taxes generally **excluded** (except non-discrimination) |
 | **Switzerland** | Cantonal taxes covered |
 | **Germany** | State share of taxes covered |
@@ -238,7 +238,7 @@ The U.S. Model Tax Convention takes a unique position:
 > "Except with respect to Article 24 (Nondiscrimination), state and local taxes in the United States are not covered by the Convention."
 
 **Implications**:
-- State income taxes are NOT reduced by U.S. DTCs
+- State income taxes are NOT reduced by U.S. DTAs
 - Non-residents may face both federal AND state tax
 - Non-discrimination protection still applies at state level
 - Creates complexity for international taxpayers
@@ -265,9 +265,9 @@ The divergence between the OECD approach (include subnational taxes) and U.S. ap
 
 ---
 
-## 3. International Tax Implications
+## C. INTERNATIONAL TAX IMPLICATIONS
 
-### 3.1. Multiple Layers of Double Taxation
+### 1. Multiple Layers of Double Taxation
 
 In federal systems, international taxpayers may face:
 
@@ -275,16 +275,16 @@ In federal systems, international taxpayers may face:
 Example: Non-resident earning income in USA
 
 Federal Level:
-• U.S. federal income tax (potentially reduced by DTC)
+• U.S. federal income tax (potentially reduced by DTA)
 
 State Level:
-• State income tax (NOT covered by DTC)
+• State income tax (NOT covered by DTA)
 • Rates: 0% to 13.3%
 
-Result: Even with DTC relief, state tax may still apply
+Result: Even with DTA relief, state tax may still apply
 ```
 
-### 3.2. Residence Determination Complexity
+### 2. Residence Determination Complexity
 
 Different government levels may have different residence rules:
 
@@ -294,7 +294,7 @@ Different government levels may have different residence rules:
 | State | Varies widely | Domicile, statutory residence, source rules |
 | Local | Physical presence | May trigger local tax |
 
-### 3.3. Compliance Burden
+### 3. Compliance Burden
 
 Federal systems create additional compliance requirements:
 
@@ -306,7 +306,7 @@ Federal systems create additional compliance requirements:
 | Credits/deductions | May not align across levels |
 | Withholding | May be required at multiple levels |
 
-### 3.4. Transfer Pricing
+### 4. Transfer Pricing
 
 Subnational transfer pricing issues arise when:
 - States have their own transfer pricing rules
@@ -346,7 +346,7 @@ The interaction between federal and subnational transfer pricing rules creates u
 
 ---
 
-## 4. Practical Considerations
+## D. PRACTICAL CONSIDERATIONS
 
 ### For Individual Taxpayers
 
@@ -376,7 +376,7 @@ The interaction between federal and subnational transfer pricing rules creates u
 
 ---
 
-## 5. Quick Reference Tables
+## E. QUICK REFERENCE TABLES
 
 ### Government Levels and Tax Authority
 
@@ -400,7 +400,7 @@ The interaction between federal and subnational transfer pricing rules creates u
 ### Treaty Article 2(3) - Typical Listed Taxes
 
 ```
-Example: UK-Germany DTC Article 2(3)
+Example: UK-Germany DTA Article 2(3)
 
 United Kingdom:
 (a) the income tax;
@@ -414,3 +414,74 @@ Germany:
 (d) the property tax (Grundsteuer)
 ```
 
+---
+
+## F. KEY VOCABULARY
+
+| Term | Definition |
+|------|------------|
+| **Federal system** | Constitutional structure with multiple levels of government having taxing powers |
+| **Unitary system** | Constitutional structure with central government holding primary taxing authority |
+| **Fiscal federalism** | Economic framework for tax/spending division among government levels |
+| **Political subdivision** | State, province, canton, region within a country |
+| **Local authority** | Municipality, county, commune, city government |
+| **Subnational tax** | Any tax imposed below the national/federal level |
+| **Tax assignment** | Allocation of taxing authority to different government levels |
+| **Intergovernmental transfer** | Grant from higher to lower government level |
+| **Tax harmonization** | Coordination of tax rules across jurisdictions |
+| **Nexus** | Sufficient connection to a jurisdiction to allow taxation |
+
+---
+
+## G. KEY TAKEAWAYS
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEDERAL SYSTEMS AND LOCAL-LEVEL TAXES - ESSENTIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. FEDERAL vs. UNITARY: Federal systems (USA, Canada, Germany)
+   have multiple taxing authorities; unitary systems (UK, France)
+   concentrate power at central level
+
+2. OECD DATA: Federal countries: 53% central, 18% state, 8% local
+   Unitary countries: 65% central, 10% local
+
+3. ARTICLE 2(1) OECD MTC: Treaties cover taxes at ALL levels -
+   "political subdivisions or local authorities"
+
+4. U.S. EXCEPTION: U.S. DTAs generally EXCLUDE state/local taxes
+   (except non-discrimination) - unique approach
+
+5. COMPLIANCE BURDEN: Federal systems create multiple filing
+   requirements, varying rates, and different tax bases
+
+6. FISCAL FEDERALISM: Theory suggests mobile tax bases
+   (capital) should be taxed federally; immobile bases
+   (property) should be taxed locally
+
+7. EXAM APPLICATION: Not directly tested, but understanding
+   helps with Article 2 analysis and real-world application
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention on Income and on Capital (2017), Article 2
+- U.S. Model Income Tax Convention (2016)
+- OECD Revenue Statistics 2025
+
+**Web Sources**:
+- [Overview of Federal Tax System - Congress.gov](https://www.congress.gov/crs-product/R48313)
+- [Fiscal Federalism - Britannica](https://www.britannica.com/money/fiscal-federalism)
+- [Tax Revenue Trends - OECD](https://www.oecd.org/en/publications/2025/12/revenue-statistics-2025_07ca0a8e/full-report/tax-revenue-trends-1965-2024_98c75833.html)
+- [Taxes Covered under Article 2 - IBFD](https://www.ibfd.org/shop/book/taxes-covered-under-article-2-oecd-model)
+- [Local Income Taxes - Tax Foundation](https://taxfoundation.org/research/all/state/local-income-taxes-2023/)
+
+---
+
+*Chapter 2.2 | Exam Focus: Principles of International Taxation*

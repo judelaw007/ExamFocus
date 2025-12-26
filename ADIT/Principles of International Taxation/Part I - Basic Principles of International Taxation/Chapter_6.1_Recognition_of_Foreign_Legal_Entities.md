@@ -38,7 +38,7 @@ Strategic Priority: ★★★☆☆ MODERATE
 
 ---
 
-## 1. The Fundamental Question: What Is a "Legal Entity"?
+## A. THE FUNDAMENTAL QUESTION: WHAT IS A "LEGAL ENTITY"?
 
 ### 1. Why Recognition Matters for International Taxation
 
@@ -85,7 +85,7 @@ RECOGNITION FRAMEWORK
 
 ---
 
-## 2. Two Competing Theories of Recognition
+## B. TWO COMPETING THEORIES OF RECOGNITION
 
 ### 1. The Incorporation Theory
 
@@ -159,7 +159,7 @@ UNDER REAL SEAT THEORY (e.g., traditional German view):
 
 ---
 
-## 3. EU Law Developments: Convergence Toward Incorporation
+## C. EU LAW DEVELOPMENTS: CONVERGENCE TOWARD INCORPORATION
 
 ### 1. ECJ Case Law and Freedom of Establishment
 
@@ -184,7 +184,7 @@ This creates a bifurcated system in some jurisdictions: incorporation theory for
 
 ---
 
-## 4. Recognition and Tax Residence: The Connection
+## D. RECOGNITION AND TAX RESIDENCE: THE CONNECTION
 
 ### 1. Recognition Precedes Residence
 
@@ -233,7 +233,7 @@ The December 2022 Q6 approach:
 
 ---
 
-## 5. Recognition Mismatches and Tax Consequences
+## E. RECOGNITION MISMATCHES AND TAX CONSEQUENCES
 
 ### 1. When States Disagree on Recognition
 
@@ -263,7 +263,7 @@ Recognition mismatches are a primary driver of **hybrid entity** outcomes (cover
 
 ---
 
-## 6. Practical Application: Exam Scenarios
+## F. PRACTICAL APPLICATION: EXAM SCENARIOS
 
 ### 1. How Recognition Appears in Exam Questions
 
@@ -291,7 +291,42 @@ The question stated Algero was:
 
 ---
 
-## 7. Common Exam Errors to Avoid
+## G. KEY TAKEAWAYS
+
+```
+ESSENTIAL CONCEPTS FOR EXAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. RECOGNITION IS A THRESHOLD QUESTION:
+   • Before taxing an entity, state must recognise its existence
+   • Private international law (not tax law) determines recognition
+   • Lex societatis = law governing the entity's existence
+
+2. TWO MAIN APPROACHES:
+   • Incorporation theory: law of place of incorporation governs
+   • Real seat theory: law of place of effective management governs
+   • EU law has pushed toward incorporation theory within EU
+
+3. RECOGNITION ≠ RESIDENCE:
+   • Recognition: DOES entity exist?
+   • Residence: WHERE is entity taxed?
+   • Recognition is prerequisite; residence is consequence
+
+4. MISMATCHES CREATE COMPLICATIONS:
+   • Different states may disagree on recognition
+   • Non-recognised entity = transparent = member-level taxation
+   • Foundation for hybrid entity issues (Chapter 6.2)
+
+5. EXAM APPLICATION:
+   • Look for recognition statements in fact patterns
+   • Recognition is usually GIVEN in questions (assumed)
+   • Understand WHY it matters for subsequent analysis
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -300,3 +335,22 @@ The question stated Algero was:
 | Assuming all states recognise foreign entities | Some states may not recognise under real seat theory | Consider whether recognition might be disputed |
 | Treating recognition as a tax law question | It's private international law | Acknowledge the lex societatis concept |
 
+---
+
+## References
+
+**Primary Sources:**
+- OECD Model Tax Convention (2017), Article 1 (Persons Covered), Article 3 (General Definitions), Article 4 (Resident)
+- OECD Partnership Report (1999) - Application of Model Tax Convention to Partnerships
+
+**Key Concepts from Private International Law:**
+- Lex societatis (law of the company)
+- Incorporation theory vs Real seat theory (Sitztheorie)
+- EU freedom of establishment cases: *Centros*, *Überseering*, *Inspire Art*
+
+**ADIT Past Exam Reference:**
+- December 2022 Q6: Recognition as "separate legal entity" as foundation for residence analysis
+
+---
+
+*Next Chapter: 6.2 - Characterisation of Entities as Transparent or Opaque – State Practice*

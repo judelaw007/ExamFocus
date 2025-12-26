@@ -35,7 +35,7 @@ Strategic Priority: ★★☆☆☆ MODERATE-LOW
 
 ---
 
-## 1. Introduction: Human Rights and Taxation
+## A. INTRODUCTION: HUMAN RIGHTS AND TAXATION
 
 ### 1. The Fundamental Tension
 
@@ -81,7 +81,7 @@ MOST RELEVANT TO TAX: Article 1, Protocol 1 (A1P1)
 
 ---
 
-## 2. Article 1, Protocol 1: Protection of Property
+## B. ARTICLE 1, PROTOCOL 1: PROTECTION OF PROPERTY
 
 ### 1. The Text
 
@@ -147,7 +147,7 @@ Successful challenges typically involve:
 
 ---
 
-## 3. Leading Cases on Taxation and A1P1
+## C. LEADING CASES ON TAXATION AND A1P1
 
 ### 1. National & Provincial Building Society v United Kingdom (1997)
 
@@ -201,7 +201,7 @@ Successful challenges typically involve:
 
 ---
 
-## 4. Article 6: Right to Fair Trial and Tax Disputes
+## D. ARTICLE 6: RIGHT TO FAIR TRIAL AND TAX DISPUTES
 
 ### 1. The Ferrazzini Limitation
 
@@ -249,7 +249,7 @@ Article 6 **does apply** to tax-related matters where:
 
 ---
 
-## 5. Article 14: Non-Discrimination
+## E. ARTICLE 14: NON-DISCRIMINATION
 
 ### 1. Structure of Article 14
 
@@ -284,7 +284,7 @@ The ECtHR accords states **particularly wide discretion** in tax discrimination 
 
 ---
 
-## 6. Article 8: Privacy and Tax Administration
+## F. ARTICLE 8: PRIVACY AND TAX ADMINISTRATION
 
 ### 1. Relevance to Tax
 
@@ -308,7 +308,7 @@ Exchange of information provisions (Chapter 7.2-7.3, Article 26 OECD MTC) must c
 
 ---
 
-## 7. Practical Implications for International Tax
+## G. PRACTICAL IMPLICATIONS FOR INTERNATIONAL TAX
 
 ### 1. Relationship with DTCs
 
@@ -339,7 +339,7 @@ ECHR relevance depends on:
 
 ---
 
-## 8. Key Takeaways
+## H. KEY TAKEAWAYS
 
 ```
 ESSENTIAL CONCEPTS FOR EXAM
@@ -378,7 +378,7 @@ ESSENTIAL CONCEPTS FOR EXAM
 
 ---
 
-## 9. Common Exam Errors to Avoid
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -388,3 +388,23 @@ ESSENTIAL CONCEPTS FOR EXAM
 | Missing taxation exception in A1P1 | Core feature of A1P1 | Quote second paragraph |
 | Excessive case detail | Low-frequency topic | Focus on principles, not minutiae |
 
+---
+
+## References
+
+**Primary Sources:**
+- [European Court of Human Rights Factsheet: Taxation and the ECHR](https://www.echr.coe.int/documents/d/echr/fs_taxation_eng)
+- [Guide on Article 1 of Protocol No. 1](https://www.echr.coe.int/Documents/Guide_Art_1_Protocol_1_ENG.pdf)
+- [Ferrazzini v Italy - HUDOC](https://hudoc.echr.coe.int/eng?i=001-59589)
+- [Burden v United Kingdom - HUDOC](https://hudoc.echr.coe.int/eng?i=001-86146)
+- [National & Provincial Building Society v UK - HUDOC](https://hudoc.echr.coe.int/eng?i=001-58109)
+
+**Secondary Sources:**
+- [IBFD: Human Rights and Taxation in Europe](https://www.ibfd.org/sites/default/files/2021-12/14_085_Human%20Rights%20and%20Taxation%20in%20Europe%20and%20the%20World_final_web.pdf)
+- [British Tax Review: Taxation and the ECHR](https://www.fieldtax.com/wp-content/uploads/2015/04/BTR-2000-4-211-377-Taxation-and-the-European-Convention-on-Human-Rights.pdf)
+- Baker, Philip, *Double Taxation Conventions* (Sweet & Maxwell)
+
+---
+
+*Previous Chapter: 7.3 - Work of the UN Group of Experts*
+*Next Chapter: 8.2 - The International Covenant on Civil and Political Rights*

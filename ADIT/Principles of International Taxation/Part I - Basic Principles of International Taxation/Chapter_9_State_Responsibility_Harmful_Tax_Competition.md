@@ -39,7 +39,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## 1. Introduction: State Responsibility and Tax Competition
+## A. INTRODUCTION: STATE RESPONSIBILITY AND TAX COMPETITION
 
 ### 1. The Concept of Tax Competition
 
@@ -90,7 +90,7 @@ Traditional public international law provides limited constraints on tax soverei
 
 ---
 
-## 2. The 1998 OECD Report: Foundation of the Concept
+## B. THE 1998 OECD REPORT: FOUNDATION OF THE CONCEPT
 
 ### 1. Background and Context
 
@@ -156,7 +156,7 @@ For identifying harmful preferential regimes within OECD countries:
 
 ---
 
-## 3. Evolution: From 1998 to BEPS
+## C. EVOLUTION: FROM 1998 TO BEPS
 
 ### 1. Early Challenges (1998-2006)
 
@@ -191,7 +191,7 @@ This became one of the **four BEPS Minimum Standards**, meaning:
 
 ---
 
-## 4. BEPS Action 5: The Current Framework
+## D. BEPS ACTION 5: THE CURRENT FRAMEWORK
 
 ### 1. Two Main Workstreams
 
@@ -282,7 +282,7 @@ The transparency framework requires exchange of information on:
 
 ---
 
-## 5. The Forum on Harmful Tax Practices (FHTP)
+## E. THE FORUM ON HARMFUL TAX PRACTICES (FHTP)
 
 ### 1. Structure and Role
 
@@ -348,7 +348,7 @@ Regimes are classified as:
 
 ---
 
-## 6. Substance Requirements in No/Nominal Tax Jurisdictions
+## F. SUBSTANCE REQUIREMENTS IN NO/NOMINAL TAX JURISDICTIONS
 
 ### 1. Background
 
@@ -383,7 +383,7 @@ Jurisdictions have enacted **economic substance legislation**:
 
 ---
 
-## 7. Challenges and Criticisms
+## G. CHALLENGES AND CRITICISMS
 
 ### 1. Ongoing Challenges for FHTP
 
@@ -418,7 +418,7 @@ The introduction of Pillar Two (Global Minimum Tax, 15% ETR) has implications fo
 
 ---
 
-## 8. Practical Application
+## H. PRACTICAL APPLICATION
 
 ### 1. Identifying Potentially Harmful Features
 
@@ -466,7 +466,7 @@ Harmful tax competition connects to several other syllabus areas:
 
 ---
 
-## 9. Key Takeaways
+## I. KEY TAKEAWAYS
 
 ```
 ESSENTIAL CONCEPTS FOR EXAM
@@ -513,7 +513,7 @@ ESSENTIAL CONCEPTS FOR EXAM
 
 ---
 
-## 10. Common Exam Errors to Avoid
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -524,3 +524,27 @@ ESSENTIAL CONCEPTS FOR EXAM
 | Overlooking transparency workstream | Equal importance to regime review | Cover both FHTP workstreams |
 | Not knowing current FHTP work | Shows outdated knowledge | Reference 332+ regimes reviewed, annual monitoring |
 
+---
+
+## References
+
+**Primary Sources:**
+- [OECD 1998 Report: Harmful Tax Competition](https://www.oecd-ilibrary.org/taxation/harmful-tax-competition_9789264162945-en)
+- [OECD: Harmful Tax Practices Topic Page](https://www.oecd.org/en/topics/harmful-tax-practices.html)
+- [BEPS Action 5 Final Report 2015](https://oecd.org/ctp/countering-harmful-tax-practices-more-effectively-taking-into-account-transparency-and-substance-action-5-2015-final-report-9789264241190-en.htm)
+- [Modified Nexus Approach Explanatory Paper](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/harmful-tax-practices/explanatory-paper-beps-action-5-agreement-on-modified-nexus-approach-for-ip-regimes.pdf)
+- [2025 Peer Review Results](https://www.oecd.org/en/about/news/announcements/2025/02/oecd-releases-latest-peer-review-results-on-preferential-tax-regimes-under-beps-action-5.html)
+
+**Secondary Sources:**
+- [EY: OECD 2024 Update on Action 5](https://www.ey.com/en_gl/technical/tax-alerts/oecd-releases-2024-update-on-peer-reviews-under-beps-action-5-on)
+- [Tax Foundation: OECD Harmful Tax Practices](https://taxfoundation.org/blog/oecd-harmful-tax-practices-base-erosion-profit-shifting/)
+
+**ADIT Past Exam References:**
+- December 2023 Q3 (25 marks): FHTP work, evolution, challenges
+- June 2023 Q1: BEPS minimum standards including Action 5
+- Multiple papers 2022-2025: Preferential regimes, substance requirements
+
+---
+
+*Previous Chapter: 8.2 - The International Covenant on Civil and Political Rights*
+*End of Part I: Basic Principles of International Taxation*

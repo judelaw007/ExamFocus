@@ -35,7 +35,7 @@ Strategic Priority: ★★☆☆☆ MODERATE-LOW
 
 ---
 
-## 1. Introduction: The ICCPR in Context
+## A. INTRODUCTION: THE ICCPR IN CONTEXT
 
 ### 1. Overview of the Covenant
 
@@ -85,7 +85,7 @@ KEY DIFFERENCE FOR TAX:
 
 ---
 
-## 2. Key Provisions Relevant to Taxation
+## B. KEY PROVISIONS RELEVANT TO TAXATION
 
 ### 1. Article 2 - Non-Discrimination (Accessory)
 
@@ -136,7 +136,7 @@ Unlike the Ferrazzini limitation under ECHR Article 6 (see Chapter 8.1), the ICC
 
 ---
 
-## 3. The Human Rights Committee
+## C. THE HUMAN RIGHTS COMMITTEE
 
 ### 1. Role and Function
 
@@ -180,7 +180,7 @@ The HRC's **General Comment No. 18 (1989)** is the key interpretive document on 
 
 ---
 
-## 4. Application of Article 26 to Taxation
+## D. APPLICATION OF ARTICLE 26 TO TAXATION
 
 ### 1. Landmark Cases: Broeks and Zwaan-de Vries
 
@@ -225,7 +225,7 @@ While the HRC accepts jurisdiction over tax discrimination claims, it accords st
 
 ---
 
-## 5. The "Reasonable and Objective" Test
+## E. THE "REASONABLE AND OBJECTIVE" TEST
 
 ### 1. Structure of the Test
 
@@ -272,7 +272,7 @@ Tax systems inherently involve classifications:
 
 ---
 
-## 6. Comparison: ECHR vs ICCPR on Tax Discrimination
+## F. COMPARISON: ECHR VS ICCPR ON TAX DISCRIMINATION
 
 ### Summary Comparison Table
 
@@ -306,7 +306,7 @@ Tax systems inherently involve classifications:
 
 ---
 
-## 7. Practical Relevance for International Tax
+## G. PRACTICAL RELEVANCE FOR INTERNATIONAL TAX
 
 ### 1. Limited Direct Application
 
@@ -340,7 +340,7 @@ Note: "Article 26" in ADIT exam questions typically refers to **OECD MTC Article
 
 ---
 
-## 8. Key Takeaways
+## H. KEY TAKEAWAYS
 
 ```
 ESSENTIAL CONCEPTS FOR EXAM
@@ -380,7 +380,7 @@ ESSENTIAL CONCEPTS FOR EXAM
 
 ---
 
-## 9. Common Exam Errors to Avoid
+## Common Exam Errors to Avoid
 
 | Error | Why It Loses Marks | Correct Approach |
 |-------|-------------------|------------------|
@@ -390,3 +390,23 @@ ESSENTIAL CONCEPTS FOR EXAM
 | Expecting binding judgments | HRC Views not enforceable | Contrast with ECtHR binding decisions |
 | Excessive detail on cases | Low-frequency topic | Focus on principles, not case minutiae |
 
+---
+
+## References
+
+**Primary Sources:**
+- [ICCPR Full Text - OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)
+- [ICCPR Treaty Text - UN](https://legal.un.org/avl/pdf/ha/iccpr/iccpr_e.pdf)
+- [Human Rights Committee General Comment No. 18](https://www.refworld.org/docid/453883fa8.html)
+- [Broeks v Netherlands - HRC](https://opil.ouplaw.com/view/10.1093/law:ihrl/1690unhrc87.case.1/law-ihrl-1690unhrc87)
+- [Zwaan-de Vries v Netherlands - ESCR-Net](https://www.escr-net.org/caselaw/2006/f-h-zwaan-vries-v-netherlands-communication-no-1821984-9-april-1987-un-doc-supp-no-40/)
+
+**Secondary Sources:**
+- [Cambridge Commentary on Article 26 ICCPR](https://www.cambridge.org/core/books/abs/commentary-on-the-international-covenant-on-civil-and-political-rights/article-26-equality-before-the-law-equal-protection-of-the-law/E907CF808F5D592180D6C042F3438461)
+- [CCPR Centre Database of Decisions](https://ccprcentre.org/database-decisions/)
+- [IBFD: Human Rights and Taxation](https://www.ibfd.org/sites/default/files/2021-12/14_085_Human%20Rights%20and%20Taxation%20in%20Europe%20and%20the%20World_final_web.pdf)
+
+---
+
+*Previous Chapter: 8.1 - The European Convention on Human Rights*
+*Next Section: I - State responsibility in international tax*

@@ -40,7 +40,7 @@ Strategic Priority: ★★★★☆ HIGH
 
 ---
 
-## 1. The Economic Neutrality Framework
+## A. THE ECONOMIC NEUTRALITY FRAMEWORK
 
 ### 1. Why Neutrality Matters
 
@@ -80,7 +80,7 @@ values about fairness and efficiency in international taxation.
 
 ---
 
-## 2. Capital Export Neutrality (CEN)
+## B. CAPITAL EXPORT NEUTRALITY (CEN)
 
 ### 1. Definition and Concept
 
@@ -137,7 +137,7 @@ The investor never pays less than the domestic rate, removing tax incentives to 
 
 ---
 
-## 3. Capital Import Neutrality (CIN)
+## C. CAPITAL IMPORT NEUTRALITY (CIN)
 
 ### 1. Definition and Concept
 
@@ -193,7 +193,7 @@ All investors competing in Country S face identical 20% rate—no competitive ad
 
 ---
 
-## 4. The Mathematical Impossibility
+## D. THE MATHEMATICAL IMPOSSIBILITY
 
 ### 1. Why Both Cannot Be Achieved Simultaneously
 
@@ -234,7 +234,7 @@ This trade-off explains why different countries adopt different methods based on
 
 ---
 
-## 5. National Interest and Method Choice
+## E. NATIONAL INTEREST AND METHOD CHOICE
 
 ### 1. Country Type Analysis
 
@@ -295,7 +295,7 @@ Since the 1990s, there has been a dramatic shift toward exemption/territorial sy
 
 ---
 
-## 6. Capital Ownership Neutrality (CON) – The Third Concept
+## F. CAPITAL OWNERSHIP NEUTRALITY (CON) – THE THIRD CONCEPT
 
 ### 1. Definition
 
@@ -328,7 +328,7 @@ Under EXEMPTION system:
 
 ---
 
-## 7. Pillar Two and the Neutrality Paradigm
+## G. PILLAR TWO AND THE NEUTRALITY PARADIGM
 
 ### 1. How Pillar Two Changes the Calculus
 
@@ -368,7 +368,7 @@ The June 2025 exam question on Pillar Two and tax competition relates directly t
 
 ---
 
-## 8. Practical Implications
+## H. PRACTICAL IMPLICATIONS
 
 ### 1. Investment Incentives
 
@@ -413,7 +413,7 @@ This explains business preference for territorial systems.
 
 ---
 
-## 9. Worked Exam Example: December 2022 Q2 Style
+## I. WORKED EXAM EXAMPLE: DECEMBER 2022 Q2 STYLE
 
 ### Question Pattern
 
@@ -466,7 +466,7 @@ MRA should consider:
 
 ---
 
-## 10. Common Exam Errors
+## J. COMMON EXAM ERRORS
 
 ```
 MISTAKES TO AVOID
@@ -498,3 +498,69 @@ MISTAKES TO AVOID
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+---
+
+## K. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CAPITAL EXPORT NEUTRALITY (CEN):
+   • Same effective rate regardless of investment LOCATION
+   • Achieved by CREDIT method (Article 23B)
+   • Favored by capital-EXPORTING countries
+   • Promotes efficient global capital allocation
+
+2. CAPITAL IMPORT NEUTRALITY (CIN):
+   • Same effective rate for all investors in one MARKET
+   • Achieved by EXEMPTION method (Article 23A)
+   • Favored by capital-IMPORTING countries
+   • Promotes competitive equality
+
+3. THE IMPOSSIBILITY THEOREM:
+   • If rates differ, CEN and CIN CANNOT both be achieved
+   • Countries must choose based on national interests
+   • This is a MATHEMATICAL not policy limitation
+
+4. GLOBAL TRENDS (2025):
+   • 27/38 OECD countries now use territorial (exemption)
+   • Shift accelerated post-US TCJA 2017
+   • Only 4 OECD countries remain fully worldwide
+
+5. PILLAR TWO IMPACT:
+   • 15% global minimum limits "race to bottom"
+   • Introduces CEN-like elements (IIR top-up)
+   • But exemption countries retain advantage above 15%
+   • Changes but doesn't eliminate the CEN/CIN trade-off
+
+6. EXAM APPROACH:
+   • Define CEN and CIN clearly with which method achieves each
+   • Demonstrate mathematical impossibility of achieving both
+   • Analyze based on country's economic position
+   • Discuss modern developments (territorial shift, Pillar Two)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Commentary on Articles 23A and 23B
+- OECD MTC 2017 Articles 23A/23B
+- UN Model Tax Convention 2021 Commentary
+
+**Academic Literature**:
+- Musgrave, P., "Taxation of Foreign Investment Income" (1963)
+- Desai & Hines, "Evaluating International Tax Reform" (2003)
+- Knoll, M., "Reconsidering International Tax Neutrality" (2011)
+
+**Current Developments**:
+- Tax Foundation International Tax Competitiveness Index (2024, 2025)
+- OECD Tax Policy Reforms 2025
+- Pillar Two GloBE Rules (2021) and Administrative Guidance
+
+---
+
+*Next Chapter: 5.5 - Other Methods of Relief from International Double Taxation*
