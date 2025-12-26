@@ -1,566 +1,102 @@
-# Chapter 5.4: Relief by Exemption and Relief by Credit Compared
+## Chapter 5.4: Relief by Exemption and Relief by Credit Compared – Capital Import Neutrality vs Capital Export Neutrality
 
-## Capital Import Neutrality vs Capital Export Neutrality
+### 1. The Economic Neutrality Framework
 
----
-
-```
-EXAM INTELLIGENCE: Methods Compared
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Reference: E.4 - Methods compared (CIN vs CEN)
-Syllabus Level: 2 (Detailed knowledge and application)
-Part I Weight: 20%
-
-Past Exam Occurrences (2022-2025):
-  • December 2022 Q2 (25 marks): "outline the various systems
-    that are available, and the main policy considerations
-    involved in adopting each option" - requires CEN/CIN analysis
-  • June 2025 Q2 (25 marks): Pillar Two and tax competition vs
-    sovereignty - how global minimum tax changes the neutrality
-    calculus and affects exemption country competitiveness
+Tax systems inevitably influence economic behaviour. In purely domestic contexts, policymakers generally aspire to neutrality—designing taxes that minimise distortions and avoid causing different decisions than would occur absent taxation. International taxation presents a more complex challenge because cross-border transactions involve at least two tax systems with potentially conflicting design objectives. Two competing neutrality concepts address different aspects of this problem, each with distinct implications for which relief method a country should adopt.
 
-Key Question Patterns:
-  • "Compare exemption and credit methods" (Dec 2022 Q2)
-  • "Explain CEN and CIN and which method achieves each"
-  • "Why might Country X prefer exemption over credit?"
-  • "How does Pillar Two affect the CEN/CIN debate?"
-  • "Discuss policy trade-offs for capital importers/exporters"
+#### 1.1. Why Neutrality Matters
 
-Examiner Focus:
-  • Clear definitions of CEN and CIN
-  • Which method achieves which neutrality (credit → CEN,
-    exemption → CIN)
-  • Mathematical impossibility of achieving both simultaneously
-  • Country interest analysis based on economic position
-  • Modern trends: shift to territorial + Pillar Two impact
+Capital export neutrality and capital import neutrality emerged from mid-twentieth century welfare economics as frameworks for evaluating the efficiency of international tax rules. Neither represents an absolute principle, but together they illuminate the fundamental policy trade-offs inherent in designing relief mechanisms. The choice between these concepts reflects deeper questions about whose tax policy preferences should govern cross-border income and how the international tax system should allocate taxing rights between residence and source jurisdictions.
 
-Strategic Priority: ★★★★☆ HIGH
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 1.2. The Fundamental Trade-Off
 
----
+The credit method, embodied in Article 23B of the OECD Model Tax Convention, reflects residence-state primacy—the view that a country's residents should pay that country's tax rate regardless of where their income is earned. The exemption method, reflected in Article 23A, embodies source-state primacy—the view that the country where income arises should determine the effective tax rate. Neither position is inherently superior; they represent different values about fairness, efficiency, and the proper relationship between competing tax claims on the same income.
 
-## A. THE ECONOMIC NEUTRALITY FRAMEWORK
+### 2. Capital Export Neutrality
 
-### 1. Why Neutrality Matters
+#### 2.1. Definition and Concept
 
-Tax systems inevitably influence economic behaviour. The goal of "neutrality" is to minimise distortions—ensuring taxes don't cause different decisions than would occur in a tax-free world. In international taxation, two competing neutrality concepts address different policy concerns:
+Capital export neutrality exists when an investor's tax burden is the same regardless of where they invest. An investor from Country R pays the same total tax whether investing domestically or in Country S, removing tax as a factor in investment location decisions. The goal is to ensure that investment flows to its most productive use based on pre-tax returns rather than to the lowest-tax jurisdiction.
 
-| Neutrality Type | Question It Addresses |
-|-----------------|----------------------|
-| **Capital Export Neutrality (CEN)** | Should tax affect WHERE an investor invests? |
-| **Capital Import Neutrality (CIN)** | Should tax affect WHO competes in a market? |
+From the investor's perspective, capital export neutrality means that a domestic investment yielding 12% pre-tax and a foreign investment yielding 10% pre-tax will be evaluated on their economic merits. Without tax distortions, the higher-returning domestic project will be chosen. Tax considerations should not cause the investor to prefer a less productive foreign investment simply because it is taxed more lightly.
 
-These concepts emerged from mid-20th century welfare economics (Musgrave, Richman) and remain central to policy debates today.
+#### 2.2. How the Credit Method Achieves CEN
 
-### 2. The Fundamental Trade-Off
+The credit method achieves capital export neutrality by ensuring the investor always faces at least their home country rate. When an investor from a 35% rate country earns income in a 15% rate country, the credit mechanism operates as follows: the source country taxes at 15%, the residence country includes the foreign income in its worldwide tax base and calculates tax at 35%, and the taxpayer receives a credit for the 15% foreign tax paid. The result is that the residence country collects the remaining 20%, bringing the total effective rate to 35%—the same rate the investor would face on domestic income.
 
-```
-THE CORE POLICY QUESTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+When the foreign rate exceeds the domestic rate, the credit is limited to the residence country's own tax on the foreign income, leaving the taxpayer bearing the higher foreign rate. In either case, the investor never pays less than the domestic rate on foreign income, eliminating tax-driven incentives to invest abroad purely for rate arbitrage.
 
-"Whose tax policy preferences should govern cross-border income?"
+#### 2.3. Policy Arguments for CEN
 
-CREDIT METHOD (Article 23B):
-  → Residence-state primacy
-  → "Our citizens should pay our rate regardless of where
-     income is earned"
-  → Achieves CEN
+Proponents of capital export neutrality advance several policy justifications. The efficient capital allocation argument holds that investment should flow to its most productive use globally, and tax-induced distortions cause misallocation of capital to lower-returning projects in low-tax jurisdictions. The revenue protection argument emphasises that the residence state captures tax up to its rate on all resident income, preventing revenue leakage to low-tax jurisdictions that might otherwise attract investment diverted from the domestic economy.
 
-EXEMPTION METHOD (Article 23A):
-  → Source-state primacy
-  → "The country where income arises should determine
-     the effective rate"
-  → Achieves CIN
+Horizontal equity considerations support treating similarly situated taxpayers equally—all residents face the same effective rate regardless of where their income is earned. Additionally, capital export neutrality aligns with anti-avoidance objectives by reducing incentives for profit shifting and artificial structures designed to locate income in low-tax jurisdictions, since no tax benefit results from such arrangements when the residence country tops up to its own rate.
 
-Neither position is inherently superior—they reflect different
-values about fairness and efficiency in international taxation.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### 3. Capital Import Neutrality
 
----
+#### 3.1. Definition and Concept
 
-## B. CAPITAL EXPORT NEUTRALITY (CEN)
+Capital import neutrality exists when all investors in a particular market face the same tax burden regardless of their residence. All competitors in Country S—whether local enterprises or foreign-owned subsidiaries—face Country S's tax rate and compete on equal terms. The goal is to ensure a level playing field within each market, with competition determined by operational efficiency rather than home country tax rates.
 
-### 1. Definition and Concept
+From the market's perspective, capital import neutrality means that a local Company S, a subsidiary of Country R, and a subsidiary of Country T all face identical taxation when operating in Country S. No investor gains competitive advantage from their home country's tax system, and all must compete based on their actual commercial capabilities.
 
-**Capital Export Neutrality (CEN)** exists when an investor's tax burden is the same regardless of where they invest. The investor from Country R pays the same total tax whether investing domestically or abroad.
+#### 3.2. How the Exemption Method Achieves CIN
 
-```
-CEN: THE INVESTOR'S PERSPECTIVE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The exemption method achieves capital import neutrality by ensuring only source-state tax applies to foreign income. When an investor from Country R earns income in Country S, and Country R exempts foreign income from its tax base, the investor bears only Country S's tax. Investors from other exemption countries face the same position. All competitors in Country S thus bear identical tax burdens determined solely by Country S's rate.
 
-GOAL: Remove tax as a factor in investment LOCATION decisions
+The exemption may be complete or may operate with a progression reservation, where exempt income is taken into account in determining the rate applicable to other income. Either way, the residence state imposes no additional tax on the foreign income, leaving source-state tax as the only burden and equalising the position of all investors in that source jurisdiction.
 
-        R Investor Choosing Where to Invest
-                    │
-         ┌──────────┴──────────┐
-         │                     │
-         ▼                     ▼
-    ┌─────────┐           ┌─────────┐
-    │ Invest  │           │ Invest  │
-    │ in R    │           │ in S    │
-    │ (home)  │           │(abroad) │
-    └─────────┘           └─────────┘
-         │                     │
-         ▼                     ▼
-    Tax: 35%              Tax: 35%
-    (R rate)              (S tax + R top-up
-                           via credit)
+#### 3.3. Policy Arguments for CIN
 
-RESULT: Investment location based on PRE-TAX returns,
-        not tax rate differentials
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Proponents of capital import neutrality emphasise competitive equality—foreign subsidiaries compete on equal terms with domestic companies, with no artificial advantage flowing from lower home-country tax rates. This reflects the commercial reality that multinational enterprises care most about competing effectively in each market, and a level playing field is the most important consideration from an operational perspective.
 
-### 2. How the Credit Method Achieves CEN
+Source state sovereignty arguments support the view that if Country S sets a 20% rate to attract investment or fund public services, Country R should not override this policy choice by imposing additional taxation on its residents' income from Country S. Administrative simplicity also favours exemption, as it eliminates complex credit calculations, foreign tax verification requirements, and limitation computations that create compliance burdens for both taxpayers and tax authorities.
 
-The credit method ensures the investor always faces their home country rate:
+### 4. The Mathematical Impossibility
 
-| Investment Location | Tax Calculation | Effective Rate |
-|--------------------|--------------------|----------------|
-| **Domestic (R)** | R tax only | R rate (35%) |
-| **Foreign low-tax (S = 15%)** | S tax (15%) + R top-up (20%) | R rate (35%) |
-| **Foreign high-tax (T = 45%)** | T tax only (credit limited) | T rate (45%) |
+#### 4.1. Why Both Cannot Be Achieved Simultaneously
 
-The investor never pays less than the domestic rate, removing tax incentives to invest abroad purely for tax reasons.
+If two countries have different tax rates, capital export neutrality and capital import neutrality cannot both be achieved. This is a mathematical impossibility, not merely a policy difficulty. Consider Country R with a 35% rate and Country S with a 20% rate. Capital export neutrality requires that an investor from R face 35% on all investments, including those in S. Capital import neutrality requires that all investors in S—including those from R—face 20%. Since 35% cannot simultaneously equal 20%, satisfying one neutrality necessarily violates the other.
 
-### 3. Policy Arguments for CEN
+This mathematical constraint forces countries to choose which neutrality to prioritise. The choice reflects national interests, economic position, and policy preferences rather than any objectively correct answer. The impossibility theorem explains why different countries adopt different approaches and why no uniform international consensus exists on the optimal relief method.
 
-**Efficient Capital Allocation**: Investment flows to most productive use, not lowest-tax jurisdiction. If a domestic project returns 12% and a foreign project returns 10%, CEN ensures the domestic project is chosen (assuming equal risk).
+#### 4.2. The Trade-Off in Practice
 
-**Revenue Protection**: Residence state captures tax up to its rate on all resident income. No revenue "leakage" to low-tax jurisdictions.
+A country using the credit method achieves capital export neutrality but violates capital import neutrality—its investors in foreign markets face higher effective rates than local competitors whose home countries use exemption. A country using the exemption method achieves capital import neutrality but violates capital export neutrality—its investors may face lower effective rates on foreign income than on domestic income, creating tax incentives to invest abroad.
 
-**Horizontal Equity**: All residents face the same effective rate regardless of where their income is earned—treating similarly situated taxpayers equally.
+This trade-off explains observed patterns in national practice. Countries select their relief method based on which neutrality better serves their interests, and these interests differ systematically based on economic circumstances.
 
-**Anti-BEPS Alignment**: Reduces incentive for profit shifting to low-tax locations since no tax benefit results.
+### 5. National Interest and Method Choice
 
----
+#### 5.1. Country Type Analysis
 
-## C. CAPITAL IMPORT NEUTRALITY (CIN)
+Countries' relief method preferences align with their economic positions. Net capital exporters—countries whose residents invest more abroad than foreigners invest domestically—traditionally preferred the credit method. Protecting the domestic tax base, preventing revenue loss on outbound investment, and discouraging capital flight to low-tax jurisdictions all favour maintaining residence taxation through the credit mechanism.
 
-### 1. Definition and Concept
+Net capital importers—typically developing countries seeking foreign direct investment—often prefer exemption systems. Ensuring a level playing field for local competitors, respecting source taxation as a development tool, and simplifying compliance for inbound investors all support exemption. Financial and holding company centres also favour exemption for competitive reasons—participation exemptions attract holding company structures, and favourable treatment enhances treaty network attractiveness.
 
-**Capital Import Neutrality (CIN)** exists when all investors in a particular market face the same tax burden, regardless of their residence. All competitors in Country S face S's rate.
+Large economies with significant both inbound and outbound investment may employ hybrid approaches, applying different methods to different income types or allowing taxpayer elections in certain circumstances.
 
-```
-CIN: THE MARKET'S PERSPECTIVE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#### 5.2. The Global Shift Toward Territorial Systems
 
-GOAL: Remove tax as a factor in market COMPETITION
+Since the 1990s, there has been a dramatic shift toward exemption and territorial systems among developed countries. Where more than twenty OECD countries employed worldwide taxation with credit in the 1990s, only four—Chile, Israel, Korea, and Mexico—retained fully worldwide systems by 2025. The United States moved to a largely territorial system with the Tax Cuts and Jobs Act 2017, joining the majority of OECD countries that now provide participation exemption for qualifying foreign dividends.
 
-        Investors Competing in Country S Market
-                    │
-    ┌───────────────┼───────────────┐
-    │               │               │
-    ▼               ▼               ▼
-┌───────┐      ┌───────┐       ┌───────┐
-│ Local │      │From R │       │From T │
-│ S Co  │      │(exempt│       │(exempt│
-│       │      │method)│       │method)│
-└───────┘      └───────┘       └───────┘
-    │               │               │
-    ▼               ▼               ▼
-Tax: 20%       Tax: 20%        Tax: 20%
-(S rate)       (S rate only)   (S rate only)
+This shift reflects several factors: multinational enterprise lobbying for competitive equality with foreign competitors, recognition that credit systems create competitive disadvantages for domestic multinationals, the simplification benefits of territorial approaches, and global tax competition pressures. The trend represents a revealed preference for capital import neutrality over capital export neutrality among major economies, though this preference is not universal and remains contested in academic and policy debates.
 
-RESULT: Level playing field—competition based on
-        efficiency, not home country tax rates
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### 6. Modern Developments
 
-### 2. How the Exemption Method Achieves CIN
+#### 6.1. Capital Ownership Neutrality
 
-The exemption method ensures only source-state tax applies:
+Academic literature has introduced capital ownership neutrality as a third concept: a tax system that does not distort who owns assets. The question is whether taxation affects whether a Company R or Company S would own a particular target company. Like capital import neutrality, capital ownership neutrality generally supports exemption systems because worldwide taxation with credit creates different after-tax returns for potential acquirers based on home country rates, distorting merger and acquisition decisions.
 
-| Investor Residence | Tax on S Income | Effective Rate in S |
-|-------------------|-----------------|---------------------|
-| **S (local)** | S tax only | 20% |
-| **R (exemption)** | S tax only (R exempts) | 20% |
-| **T (exemption)** | S tax only (T exempts) | 20% |
+Under credit systems, a potential acquirer from a high-rate country would receive lower after-tax returns from a target than a potential acquirer from a low-rate country, even if the high-rate acquirer could operate the target more efficiently. Under exemption, all potential acquirers face the same source-country rate on the target's income, and ownership is determined by operational efficiency rather than tax considerations.
 
-All investors competing in Country S face identical 20% rate—no competitive advantage from home country tax system.
+#### 6.2. Pillar Two and the Neutrality Paradigm
 
-### 3. Policy Arguments for CIN
+The OECD Pillar Two global minimum tax fundamentally alters the capital neutrality debate. By imposing a 15% minimum effective tax rate on large multinational enterprises through the Income Inclusion Rule and other mechanisms, Pillar Two introduces elements resembling capital export neutrality into systems that previously operated on pure exemption principles.
 
-**Competitive Equality**: Foreign subsidiaries compete on equal terms with domestic companies. No artificial advantage from lower home-country rates.
+Before Pillar Two, an investor from an exemption country earning income in a 5% tax jurisdiction faced only 5% effective tax, potentially creating substantial competitive advantages over investors from credit countries. After Pillar Two, the same investor faces a 10% top-up tax through the Income Inclusion Rule, bringing the effective rate to the 15% minimum. This reduces—though does not eliminate—the differential between exemption and credit country investors.
 
-**Source State Sovereignty**: Respects the source country's policy choice. If Country S sets 20% to attract investment, Country R doesn't override this through additional taxation.
+Pillar Two represents a partial convergence toward capital export neutrality principles without adopting the credit method directly. Exemption countries retain advantages above the 15% floor—their investors still face lower effective rates than credit country investors in jurisdictions with rates between 15% and residence country rates. The global minimum thus constrains the "race to bottom" that capital import neutrality critics identify, while preserving meaningful differences between the two approaches for above-minimum rate jurisdictions (covered in June 2025).
 
-**Administrative Simplicity**: No complex credit calculations, foreign tax credit limitations, or documentation requirements for relief.
+The interaction between traditional neutrality concepts and the emerging global minimum tax framework continues to evolve. Countries must now consider not only which domestic relief method to adopt but also how that choice interacts with Pillar Two obligations and the relief methods of treaty partners—adding new layers of complexity to what was already a challenging policy choice.
 
-**Business Reality**: From MNC perspective, what matters is competing effectively in each market—level playing field most important consideration.
-
----
-
-## D. THE MATHEMATICAL IMPOSSIBILITY
-
-### 1. Why Both Cannot Be Achieved Simultaneously
-
-**CRITICAL EXAM POINT**: If two countries have different tax rates, CEN and CIN cannot both be achieved. This is mathematically impossible.
-
-```
-THE NEUTRALITY IMPOSSIBILITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Given:
-  • Country R rate: 35%
-  • Country S rate: 20%
-
-FOR CEN: R investor must face 35% on all investments
-         → R investor in S pays: 20% (S) + 15% (R top-up) = 35%
-
-FOR CIN: All S investors must face 20%
-         → R investor in S pays: 20% (S only)
-
-But 35% ≠ 20%
-
-CONCLUSION: With different rates, satisfying one neutrality
-            necessarily violates the other.
-
-Countries must CHOOSE which to prioritize, or accept
-that neither is fully achieved.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. The Trade-Off in Practice
-
-| If Country R Uses... | CEN Status | CIN Status |
-|---------------------|------------|------------|
-| **Credit method** | ✓ Achieved | ✗ Violated |
-| **Exemption method** | ✗ Violated | ✓ Achieved |
-
-This trade-off explains why different countries adopt different methods based on their economic interests.
-
----
-
-## E. NATIONAL INTEREST AND METHOD CHOICE
-
-### 1. Country Type Analysis
-
-Countries' relief method preferences align with their economic positions:
-
-```
-METHOD CHOICE BY COUNTRY TYPE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-NET CAPITAL EXPORTERS (e.g., US historically, Germany)
-  Preference: Credit (CEN)
-  Rationale:
-    • Protect domestic tax base
-    • Prevent revenue loss on outbound investment
-    • Discourage capital flight to low-tax jurisdictions
-    • Ensure residents pay "fair share"
-
-NET CAPITAL IMPORTERS (e.g., developing countries, Ireland)
-  Preference: Exemption (CIN)
-  Rationale:
-    • Attract foreign direct investment
-    • Ensure level playing field for local competitors
-    • Respect source taxation as development tool
-    • Simplify compliance for inbound investors
-
-FINANCIAL/HOLDING CENTERS (e.g., Netherlands, Luxembourg)
-  Preference: Exemption (CIN)
-  Rationale:
-    • Attract holding company structures
-    • Compete for mobile capital
-    • Participation exemption critical for attractiveness
-    • Network effects of favorable treaty network
-
-LARGE ECONOMIES (e.g., US, China)
-  Preference: Flexible/hybrid
-  Rationale:
-    • Market power makes either approach viable
-    • Can achieve objectives through domestic rules
-    • May use different methods for different income types
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. The Global Shift Toward Territorial Systems
-
-Since the 1990s, there has been a dramatic shift toward exemption/territorial systems:
-
-| Period | OECD Countries with Worldwide Systems |
-|--------|--------------------------------------|
-| 1990s | More than 20 |
-| 2017 | 7 (before US TCJA) |
-| 2025 | 4 (Chile, Israel, Korea, Mexico) |
-
-**27 of 38 OECD countries** now use some form of territorial system (2025). This reflects:
-- MNC lobbying for competitive equality
-- Recognition that credit systems create competitive disadvantage
-- Simplification benefits of territorial approach
-- Global tax competition pressures
-
----
-
-## F. CAPITAL OWNERSHIP NEUTRALITY (CON) – THE THIRD CONCEPT
-
-### 1. Definition
-
-Academic literature has introduced **Capital Ownership Neutrality (CON)**: a tax system that does not distort *who owns* assets. The question is whether tax affects whether a US company or a German company would own a particular foreign subsidiary.
-
-### 2. Relevance to Method Choice
-
-CON, like CIN, supports territorial/exemption systems because:
-- Worldwide systems with credit create different after-tax returns for acquirers based on home country rates
-- This distorts M&A decisions and asset ownership patterns
-- Exemption ensures all potential acquirers face same source-country rate
-
-```
-CON EXAMPLE: WHO SHOULD OWN TARGET CO?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Target Co in Country S (20% rate) generates €100 profit
-
-Under CREDIT system:
-  • US acquirer (35%): Keeps €65 after all tax
-  • German acquirer (30%): Keeps €70 after all tax
-  → German company "should" own Target (tax distortion)
-
-Under EXEMPTION system:
-  • US acquirer: Keeps €80 (only S tax applies)
-  • German acquirer: Keeps €80 (only S tax applies)
-  → Ownership based on operational efficiency, not tax
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## G. PILLAR TWO AND THE NEUTRALITY PARADIGM
-
-### 1. How Pillar Two Changes the Calculus
-
-The OECD Pillar Two global minimum tax (15% GloBE rate) fundamentally alters the CEN/CIN debate:
-
-```
-PILLAR TWO IMPACT ON NEUTRALITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-BEFORE PILLAR TWO:
-  Exemption country investor in 5% tax haven:
-    • Effective rate: 5%
-    • Competitive advantage: 30% vs 35% credit country investor
-
-AFTER PILLAR TWO:
-  Exemption country investor in 5% tax haven:
-    • Source tax: 5%
-    • IIR top-up: 10% (to reach 15% minimum)
-    • Effective rate: 15%
-    • Competitive advantage reduced: only 15% vs 35%
-
-IMPLICATIONS:
-  • Low-tax exemption "races to bottom" limited
-  • Some CEN-like elements introduced (top-up tax)
-  • But 15% floor still below most residence rates
-  • Exemption countries retain advantage (15% vs 25-35%)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. June 2025 Q2 Theme: Tax Competition vs Sovereignty
-
-The June 2025 exam question on Pillar Two and tax competition relates directly to CEN/CIN:
-- Pillar Two constrains tax competition (limits CIN-based "races to bottom")
-- But preserves sovereignty above 15% floor
-- Creates "partial convergence" without full harmonisation
-- Exemption countries can still offer competitive rates (15%+)
-
----
-
-## H. PRACTICAL IMPLICATIONS
-
-### 1. Investment Incentives
-
-| Under Credit (CEN) | Under Exemption (CIN) |
-|-------------------|----------------------|
-| No tax benefit from low-tax investment | Low-tax investment yields higher after-tax returns |
-| Investment based on pre-tax economics | Tax becomes factor in location decisions |
-| Less pressure for "tax haven" structures | Potential "races to bottom" |
-| Residence state captures residual revenue | Residence state foregoes foreign-source revenue |
-
-### 2. MNC Competitiveness
-
-```
-COMPETITIVE IMPACT EXAMPLE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Two MNCs competing for contract in Country S (20% rate):
-
-MNC from Credit Country (35% rate):
-  • Win €100 contract, profit €20
-  • S tax: €4
-  • Home country tax: €7 - €4 credit = €3 top-up
-  • After-tax profit: €13
-
-MNC from Exemption Country (30% rate):
-  • Win €100 contract, profit €20
-  • S tax: €4
-  • Home country tax: €0 (exempt)
-  • After-tax profit: €16
-
-Exemption MNC can bid 18.75% lower and achieve same return!
-This explains business preference for territorial systems.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 3. Revenue Allocation Between Countries
-
-| Method | Source State Gets | Residence State Gets |
-|--------|------------------|---------------------|
-| **Credit** | First claim (source tax) | Top-up to residence rate |
-| **Exemption** | Full tax on foreign income | Nothing on foreign income |
-
----
-
-## I. WORKED EXAM EXAMPLE: DECEMBER 2022 Q2 STYLE
-
-### Question Pattern
-
-*"The Manualian Revenue Authority (MRA) is considering whether, and how, to amend its system of relief from juridical double taxation. You are required to outline the various systems that are available, and the main policy considerations involved in adopting each option."* (25 marks)
-
-### Answer Framework
-
-**1. Introduction: Systems Available (4 marks)**
-
-Two primary methods exist under Articles 23A and 23B OECD MTC:
-- **Credit method** (Article 23B): Residence state taxes worldwide income, allows credit for foreign tax paid
-- **Exemption method** (Article 23A): Residence state exempts foreign-source income from taxation
-
-Secondary methods include deduction (treating foreign tax as expense) and deferral (postponing residence tax until repatriation).
-
-**2. Capital Export Neutrality and Credit (6 marks)**
-
-CEN ensures investors face same effective rate regardless of investment location. Achieved through credit method because home country "tops up" low-tax foreign income.
-
-*Policy considerations for credit:*
-- Efficient capital allocation (investment based on pre-tax returns)
-- Revenue protection (residence state captures tax up to its rate)
-- Horizontal equity (all residents pay same rate)
-- Anti-avoidance (no benefit from low-tax investment)
-
-**3. Capital Import Neutrality and Exemption (6 marks)**
-
-CIN ensures all investors in a market face same rate regardless of residence. Achieved through exemption because only source-state tax applies.
-
-*Policy considerations for exemption:*
-- Competitive equality (MNCs compete on level playing field)
-- Source state sovereignty (tax policy respected)
-- Administrative simplicity (no credit calculations)
-- Investment attraction (low rates directly benefit investors)
-
-**4. The Mathematical Trade-Off (4 marks)**
-
-If rates differ between countries, CEN and CIN cannot both be achieved—satisfying one necessarily violates the other. This forces policy choice based on national interests.
-
-**5. Factors for MRA's Decision (5 marks)**
-
-MRA should consider:
-- **Economic position**: Net capital importer → exemption; net exporter → credit
-- **Global trends**: 27/38 OECD countries now territorial (exemption)
-- **Pillar Two impact**: 15% minimum reduces extreme rate differentials
-- **Competitiveness**: Exemption helps domestic MNCs compete abroad
-- **Revenue needs**: Credit preserves residence-state revenue
-- **Administrative capacity**: Exemption simpler to administer
-- **Treaty network**: Existing commitments may constrain options
-
----
-
-## J. COMMON EXAM ERRORS
-
-```
-MISTAKES TO AVOID
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. REVERSING CEN AND CIN
-   ✗ "CEN is achieved by exemption"
-   ✓ Credit → CEN; Exemption → CIN
-
-2. CLAIMING BOTH CAN BE ACHIEVED
-   ✗ "Countries can achieve both neutralities"
-   ✓ Mathematically impossible if rates differ
-
-3. IGNORING COUNTRY INTERESTS
-   ✗ Generic answer without analyzing country's position
-   ✓ Capital exporter vs importer has different interests
-
-4. OVERLOOKING PILLAR TWO IMPACT
-   ✗ Treating pre-2024 analysis as current
-   ✓ Acknowledge 15% minimum changes the calculus
-
-5. CONFUSING CIN WITH CON
-   ✗ Treating them as identical concepts
-   ✓ CIN = same rate in market; CON = ownership neutrality
-
-6. MISSING PRACTICAL IMPLICATIONS
-   ✗ Only theoretical definitions without application
-   ✓ Show how method choice affects MNC competitiveness
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## K. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CAPITAL EXPORT NEUTRALITY (CEN):
-   • Same effective rate regardless of investment LOCATION
-   • Achieved by CREDIT method (Article 23B)
-   • Favored by capital-EXPORTING countries
-   • Promotes efficient global capital allocation
-
-2. CAPITAL IMPORT NEUTRALITY (CIN):
-   • Same effective rate for all investors in one MARKET
-   • Achieved by EXEMPTION method (Article 23A)
-   • Favored by capital-IMPORTING countries
-   • Promotes competitive equality
-
-3. THE IMPOSSIBILITY THEOREM:
-   • If rates differ, CEN and CIN CANNOT both be achieved
-   • Countries must choose based on national interests
-   • This is a MATHEMATICAL not policy limitation
-
-4. GLOBAL TRENDS (2025):
-   • 27/38 OECD countries now use territorial (exemption)
-   • Shift accelerated post-US TCJA 2017
-   • Only 4 OECD countries remain fully worldwide
-
-5. PILLAR TWO IMPACT:
-   • 15% global minimum limits "race to bottom"
-   • Introduces CEN-like elements (IIR top-up)
-   • But exemption countries retain advantage above 15%
-   • Changes but doesn't eliminate the CEN/CIN trade-off
-
-6. EXAM APPROACH:
-   • Define CEN and CIN clearly with which method achieves each
-   • Demonstrate mathematical impossibility of achieving both
-   • Analyze based on country's economic position
-   • Discuss modern developments (territorial shift, Pillar Two)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Commentary on Articles 23A and 23B
-- OECD MTC 2017 Articles 23A/23B
-- UN Model Tax Convention 2021 Commentary
-
-**Academic Literature**:
-- Musgrave, P., "Taxation of Foreign Investment Income" (1963)
-- Desai & Hines, "Evaluating International Tax Reform" (2003)
-- Knoll, M., "Reconsidering International Tax Neutrality" (2011)
-
-**Current Developments**:
-- Tax Foundation International Tax Competitiveness Index (2024, 2025)
-- OECD Tax Policy Reforms 2025
-- Pillar Two GloBE Rules (2021) and Administrative Guidance
-
----
-
-*Next Chapter: 5.5 - Other Methods of Relief from International Double Taxation*
