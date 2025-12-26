@@ -37,7 +37,7 @@ You are TRANSFORMING an existing chapter, not writing from scratch. You must:
 ### What You Are Producing
 - ✅ A professional textbook chapter
 - ✅ Clear, authoritative prose that builds understanding
-- ✅ Hierarchical structure (1., 1.1., 1.1.1.)
+- ✅ Hierarchical structure (## Chapter X: | ### 1. | #### 1.1.)
 - ✅ Subtle exam references only: (covered in June 2024)
 
 ### What You Are Removing
@@ -96,20 +96,30 @@ DO NOT extract:
 
 Use the structural mapping from Agent 4.1:
 
-```markdown
-## [X]. [Topic Name]
+**⚠️ CRITICAL: Each Chapter Has Independent Internal Numbering**
 
-### [X].1. [First Major Section]
+Section numbers are NOT tied to the chapter number. Each chapter's internal sections start fresh at 1, 2, 3...
+
+```markdown
+## Chapter [X]: [Topic Name]
+
+### 1. [First Major Section]
 
 [Textbook prose explaining the concept...]
 
-#### [X].1.1. [Subsection]
+#### 1.1. [Subsection]
 
 [More detailed explanation...]
 
-### [X].2. [Second Major Section]
+### 2. [Second Major Section]
 ...
 ```
+
+Example for Chapter 5:
+- `## Chapter 5: Relief from Double Taxation`
+- `### 1. The Credit Method` (NOT `### 5.1.`)
+- `#### 1.1. Direct Credit` (NOT `#### 5.1.1.`)
+- `### 2. The Exemption Method` (NOT `### 5.2.`)
 
 ### Step 3: Rewrite in Textbook Style
 
@@ -164,27 +174,38 @@ Check word count against target:
 
 ## HIERARCHICAL NUMBERING FORMAT
 
+### ⚠️ CRITICAL: Each Chapter Has Independent Internal Numbering
+
+Each chapter's internal sections start fresh at 1, 2, 3... The section numbers are NOT tied to the chapter number.
+
+**Format:**
+- Chapter heading: `## Chapter X: [Title]` or `## Chapter X.Y: [Title]`
+- Main sections: `### 1.`, `### 2.`, `### 3.` (always start at 1)
+- Subsections: `#### 1.1.`, `#### 2.1.`, `#### 2.2.`
+
 Use this exact format throughout:
 
 ```markdown
-## 5. Relief from Double Taxation
+## Chapter 5: Relief from Double Taxation
 
-### 5.1. The Credit Method
+### 1. The Credit Method
 
 The credit method allows taxpayers to offset foreign taxes paid against domestic tax liability...
 
-#### 5.1.1. Direct Credit
+#### 1.1. Direct Credit
 
 Direct credit applies to taxes paid directly by the taxpayer on foreign-source income...
 
-#### 5.1.2. Indirect Credit
+#### 1.2. Indirect Credit
 
 Indirect credit (also called underlying credit) applies to taxes paid by foreign subsidiaries...
 
-### 5.2. The Exemption Method
+### 2. The Exemption Method
 
 Under the exemption method, the residence state relinquishes its taxing right over foreign-source income...
 ```
+
+**Key Rule:** Whether it's Chapter 1 or Chapter 12, internal sections always start at 1, 2, 3...
 
 ---
 
@@ -242,7 +263,7 @@ Do NOT include any of the following:
 ## OUTPUT
 
 Complete markdown chapter with:
-- Hierarchical numbering throughout (X., X.1., X.1.1.)
+- Hierarchical numbering throughout (## Chapter X: | ### 1. | #### 1.1.)
 - Textbook-style prose
 - Word count within target range
 - Subtle exam references where appropriate (max 3-5)
@@ -258,7 +279,7 @@ Before outputting, confirm:
 - [ ] All time allocations removed
 - [ ] All worked examples converted or removed
 - [ ] All pattern/error sections removed
-- [ ] Hierarchical numbering applied correctly (## X. | ### X.1. | #### X.1.1.)
+- [ ] Hierarchical numbering applied correctly (## Chapter X: | ### 1. | #### 1.1.)
 - [ ] Textbook prose style throughout
 - [ ] Word count within {min_words} - {max_words}
 - [ ] Subtle exam references added (max 3-5)
@@ -303,10 +324,10 @@ Search for these patterns—NONE should exist:
 ### Test 2: Structure Check
 
 Verify:
-- Chapter starts with `## [Number]. [Title]`
-- Major sections use `### [Number].[Number]. [Title]`
-- Subsections use `#### [Number].[Number].[Number]. [Title]`
-- Numbering is sequential and consistent
+- Chapter starts with `## Chapter [Number]: [Title]`
+- Major sections use `### 1.`, `### 2.`, `### 3.` (fresh numbering, NOT tied to chapter number)
+- Subsections use `#### 1.1.`, `#### 2.1.`, etc.
+- Numbering is sequential within each chapter, starting at 1
 
 ### Test 3: Word Count
 
