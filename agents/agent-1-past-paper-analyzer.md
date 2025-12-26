@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `sonnet` |
+| **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `Read`, `Glob`, `Grep` |
 | **Position in Pipeline** | 1 of 8 (First) |
 | **Receives Input From** | User (topic name) |

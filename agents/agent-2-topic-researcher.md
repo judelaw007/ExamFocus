@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `sonnet` |
+| **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `WebSearch`, `WebFetch` |
 | **Position in Pipeline** | 2 of 8 |
 | **Receives Input From** | Agent 1 (Past Paper Analyzer) output + Topic name |

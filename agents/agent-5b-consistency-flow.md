@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `sonnet` |
+| **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `Read`, `Edit` |
 | **Position** | 5b of 8 (Second Quality Agent) |
 | **Input** | Agent 5a (Accuracy-Verified Chapter) |

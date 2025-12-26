@@ -12,7 +12,7 @@ Mark Range: 15-25 marks when directly tested
 Key Direct Questions:
   • June 2025 Q1: Article 27 - assistance in collection (25 marks)
   • Dec 2024 Q1: Residence as effective nexus test (25 marks)
-  • Dec 2024 Q3: Nature and purpose of DTAs (25 marks)
+  • Dec 2024 Q3: Nature and purpose of DTCs (25 marks)
 
 Strategic Priority: ★★★★★ CRITICAL FOUNDATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -25,15 +25,15 @@ source, PE, or treaty benefit questions.
 
 ---
 
-## A. CONCEPT FOUNDATION
+## 1. Concept Foundation
 
-### 1. What is Tax Jurisdiction?
+### 1.1. What is Tax Jurisdiction?
 
 **Tax jurisdiction** is a state's legal authority to impose and collect taxes. This authority derives from **fiscal sovereignty** - the inherent power of every sovereign state to determine its own tax system.
 
 **Key Principle**: States have broad autonomy to design tax systems, but this power is not unlimited. Both domestic law and international law impose constraints.
 
-#### Theoretical Foundations of Tax Jurisdiction
+#### 1.1.1. Theoretical Foundations of Tax Jurisdiction
 
 The concept of tax jurisdiction is rooted in fundamental principles of state sovereignty that emerged from the Peace of Westphalia (1648). Under Westphalian sovereignty, each state exercises supreme authority within its territorial boundaries, free from external interference. This sovereignty extends to the power to tax - a core attribute of statehood.
 
@@ -49,7 +49,9 @@ The tension between these perspectives explains many international tax disputes.
 
 **The Foundational Paradox**: While states are sovereign and equal under international law, their tax claims often overlap, creating double taxation. No supranational authority exists to resolve these conflicts definitively. Instead, states must cooperate through bilateral treaties and multilateral conventions - a voluntary limitation of sovereignty in pursuit of mutual benefit.
 
-### 2. The Two Primary Bases of Tax Jurisdiction
+### 1.2. The Two Primary Bases of Tax Jurisdiction
+
+The development of two distinct bases for tax jurisdiction reflects a fundamental truth about the relationship between states and economic activity: income does not exist in a vacuum. It arises from the interaction between persons (who reside somewhere) and activities (which occur somewhere). States recognised early in the development of income taxation that they could legitimately claim a share of income based on either connection. The residence basis rests on the social contract theory - residents benefit from state services and owe allegiance through taxation. The source basis reflects the principle that states enable economic activity within their borders through infrastructure, legal systems, and market access, entitling them to tax the resulting income. This dual foundation, while logical, creates the central problem of international taxation: when both the residence and source states assert their legitimate claims, double taxation inevitably results.
 
 States assert tax jurisdiction based on two fundamental connecting factors:
 
@@ -60,27 +62,27 @@ States assert tax jurisdiction based on two fundamental connecting factors:
 
 **Exam Tip**: Most states use BOTH residence and source jurisdiction simultaneously. A UK resident earning US dividends faces: UK tax (residence basis) + US withholding tax (source basis) = double taxation.
 
-### 3. Connecting Factors in Detail
+### 1.3. Connecting Factors in Detail
 
-States use various **connecting factors** (nexus tests) to establish jurisdiction:
+States use various **connecting factors** (nexus tests) to establish jurisdiction. The diversity of connecting factors across jurisdictions is not accidental - it reflects differing national priorities and historical circumstances. Common law jurisdictions traditionally favoured domicile and physical presence tests, reflecting their territorial legal traditions. Civil law countries often relied on formal criteria like place of incorporation or registered office, consistent with their emphasis on legal form. The United States, shaped by its immigrant history and global citizenship diaspora, uniquely adopted citizenship-based taxation. These variations matter enormously in practice: a multinational structuring its operations must navigate a patchwork of different tests, each capable of creating unexpected tax exposure. Understanding why states chose their particular tests helps predict how courts will interpret ambiguous cases:
 
-#### For Individuals:
+#### 1.3.1. For Individuals
 - **Residence** - Physical presence, days spent in country
 - **Domicile** - Permanent home, settled intention
 - **Citizenship/Nationality** - Legal status (US and Eritrea tax citizens worldwide)
 
-#### For Companies:
+#### 1.3.2. For Companies
 - **Place of incorporation** - Where legally formed
 - **Place of effective management (POEM)** - Where key decisions made
 - **Registered office** - Formal headquarters location
 
-#### For Income:
+#### 1.3.3. For Income
 - **Situs** - Physical location of asset (real property)
 - **Source** - Where economic activity occurs
 
 **Important**: Different states define these terms differently under domestic law. This creates overlap and conflict - the foundation of double taxation.
 
-### 4. Why Double Taxation Occurs
+### 1.4. Why Double Taxation Occurs
 
 Double taxation arises when **two or more states claim tax jurisdiction over the same income**.
 
@@ -97,7 +99,7 @@ Double taxation arises when **two or more states claim tax jurisdiction over the
 
 **This is why tax treaties exist** - to allocate taxing rights and prevent/relieve double taxation.
 
-#### The Economic Burden of Double Taxation
+#### 1.4.1. The Economic Burden of Double Taxation
 
 The consequences of unrelieved double taxation extend beyond mere inconvenience:
 
@@ -107,17 +109,19 @@ The consequences of unrelieved double taxation extend beyond mere inconvenience:
 
 **Impact on Labour Mobility**: Individual workers face double taxation on employment income when working across borders. Without treaty relief, skilled professionals may avoid international assignments, hindering knowledge transfer and economic development.
 
-**The Policy Response**: Recognising these harms, the international community has developed a sophisticated network of over 3,000 bilateral tax treaties, supplemented by multilateral instruments like the MLI. This network, while imperfect, has substantially reduced (though not eliminated) international double taxation.
+**The Policy Response**: Recognising these harms, the international community has developed a sophisticated network of over 3,000 bilateral tax treaties, supplemented by multilateral instruments like the Multilateral Instrument (MLI). This network, while imperfect, has substantially reduced (though not eliminated) international double taxation.
 
 ---
 
-## B. PUBLIC INTERNATIONAL LAW LIMITS ON TAX JURISDICTION
+## 2. Public International Law Limits on Tax Jurisdiction
 
-### 1. The Nexus Requirement
+### 2.1. The Nexus Requirement
 
 Public international law requires a **genuine connection (nexus)** between the taxing state and the taxpayer or taxable event.
 
 **Key Principle**: A state cannot tax a person or transaction with which it has no connection whatsoever. There must be some link justifying the assertion of tax authority.
+
+The nexus requirement serves as a fundamental constraint on what would otherwise be unbounded fiscal sovereignty. Without it, any state could purport to tax any income arising anywhere in the world, creating legal chaos. The requirement reflects the practical reality that taxation implies a reciprocal relationship: the state provides benefits (protection, services, market access) and in return claims a share of income. Where no such relationship exists, the claim lacks legitimacy. Courts and international tribunals have gradually articulated this principle, though its precise boundaries remain contested - particularly in the digital economy where traditional physical presence may be minimal while economic activity is substantial.
 
 The nexus requirement has been recognized by courts worldwide:
 - A state's fiscal sovereignty is limited by public international law rules of jurisdiction
@@ -125,9 +129,9 @@ The nexus requirement has been recognized by courts worldwide:
 
 **Exam Application**: If an exam scenario involves a taxpayer with NO connection to a state, question whether that state has valid jurisdiction to tax at all.
 
-### 2. Types of Jurisdiction in International Law
+### 2.2. Types of Jurisdiction in International Law
 
-International law distinguishes three types of state jurisdiction:
+International law distinguishes three types of state jurisdiction, and understanding this distinction is crucial because it reveals the fundamental asymmetry at the heart of international tax enforcement. A state may have broad prescriptive jurisdiction to create tax laws reaching far beyond its borders - taxing residents on worldwide income, for example - but its enforcement jurisdiction stops at the frontier. This asymmetry explains why tax planning involving cross-border structures is so prevalent: taxpayers can arrange their affairs to fall within a state's prescriptive jurisdiction while placing assets and income beyond its enforcement reach. The gap between what states claim and what they can actually collect drives both the demand for international cooperation mechanisms and the opportunities for tax avoidance:
 
 | Type | Definition | Tax Relevance |
 |------|------------|---------------|
@@ -142,7 +146,9 @@ International law distinguishes three types of state jurisdiction:
 
 This limitation creates the problem addressed by Article 27 (assistance in collection).
 
-### 3. The Sovereignty Principle
+### 2.3. The Sovereignty Principle
+
+The sovereignty principle creates what might be called the "enforcement paradox" of international taxation. States are simultaneously supreme within their own territory and powerless outside it. This arrangement, rooted in the Westphalian international order, means that a tax authority's writ extends no further than its national boundaries - regardless of how clear and legitimate its tax claim might be. A UK taxpayer who moves to a non-treaty country with their assets is effectively beyond HMRC's reach, however large the debt owed. This is not a flaw in the system but a fundamental feature of the international legal order: allowing one state to enforce its laws in another's territory would undermine the very concept of sovereign equality upon which international relations rest. The practical challenge, then, is not to abolish sovereignty but to create voluntary cooperation mechanisms that work within it.
 
 Each sovereign state has:
 - **Full authority** within its territory
@@ -155,9 +161,9 @@ Each sovereign state has:
 
 ---
 
-## C. THE REVENUE RULE AND CROSS-BORDER ENFORCEMENT
+## 3. The Revenue Rule and Cross-Border Enforcement
 
-### 1. The Revenue Rule Explained
+### 3.1. The Revenue Rule Explained
 
 **The Revenue Rule** (also called "Rule 3" from Dicey & Morris): Courts of one state will NOT enforce the tax claims of another state.
 
@@ -178,14 +184,14 @@ Each sovereign state has:
 
 **The Rule Today**: *Government of India v. Taylor* remains good law and forms the basis of the revenue rule worldwide.
 
-#### Comparative Analysis: The Revenue Rule Across Jurisdictions
+#### 3.1.1. Comparative Analysis: The Revenue Rule Across Jurisdictions
 
 The revenue rule, while originating in English common law, has been adopted with variations across legal systems:
 
 **Common Law Jurisdictions**:
 - **United States**: Consistently applied since *Moore v. Mitchell* (1929). U.S. courts refuse to enforce foreign tax judgments as a matter of judicial policy.
 - **Canada**: Follows the revenue rule but has modified it through treaty-based cooperation (extensive Article 27 network).
-- **Australia**: Applied in *Peter Buchanan Ltd v. McVey* - foreign revenue claims are unenforceable absent treaty obligation.
+- **Ireland**: Applied in *Peter Buchanan Ltd v. McVey* [1954] IR 89 - foreign revenue claims are unenforceable absent treaty obligation.
 
 **Civil Law Jurisdictions**:
 - **Germany**: Historically applied a similar principle, but EU harmonisation has created exceptions for intra-EU claims.
@@ -196,13 +202,13 @@ The revenue rule, while originating in English common law, has been adopted with
 The traditional revenue rule is increasingly viewed as anachronistic in a globalised economy. Several factors are eroding its strict application:
 
 1. **Treaty networks**: Bilateral treaties with Article 27 provisions create binding obligations to assist in collection.
-2. **Multilateral instruments**: The MCMAATM (151 signatories) creates a comprehensive framework for mutual assistance.
+2. **Multilateral instruments**: The Multilateral Convention on Mutual Administrative Assistance in Tax Matters (MCMAATM) (151 signatories) creates a comprehensive framework for mutual assistance.
 3. **EU harmonisation**: The EU Recovery Directive (2010/24/EU) mandates mutual assistance between member states.
-4. **Automatic exchange regimes**: CRS and FATCA create information flows that facilitate voluntary compliance.
+4. **Automatic exchange regimes**: The Common Reporting Standard (CRS) and Foreign Account Tax Compliance Act (FATCA) create information flows that facilitate voluntary compliance.
 
 Despite these developments, the core principle remains: absent a specific legal obligation (treaty or directive), courts will not enforce foreign tax claims. This creates ongoing tension between the principle of fiscal sovereignty and the practical need for cross-border tax cooperation.
 
-### 2. Why the Revenue Rule Exists
+### 3.2. Why the Revenue Rule Exists
 
 **Rationale**:
 1. **Sovereignty**: Enforcing another state's tax law is an act of that state's sovereignty on foreign territory
@@ -210,7 +216,9 @@ Despite these developments, the core principle remains: absent a specific legal 
 3. **Complexity**: Foreign courts ill-equipped to interpret and apply another state's tax law
 4. **Precedent**: Long-standing common law principle across jurisdictions
 
-### 3. Consequences of the Revenue Rule
+### 3.3. Consequences of the Revenue Rule
+
+The practical consequences of the revenue rule extend far beyond the inconvenience of uncollectible debts. At a systemic level, the rule creates perverse incentives that undermine tax compliance globally. Sophisticated taxpayers who understand the rule can structure their affairs to ensure that by the time a tax liability is finally determined, their assets are safely beyond the creditor state's reach. This is not merely theoretical: the offshore wealth held in non-cooperative jurisdictions runs into trillions of dollars, a significant portion representing untaxed or under-taxed income. The revenue rule thus creates a two-tier system where mobile capital escapes taxation that immobile factors - labour, real property, domestic businesses - cannot avoid. This inequity erodes public confidence in the tax system and increases the burden on those who cannot or will not engage in aggressive cross-border planning.
 
 Without cooperation mechanisms, tax authorities face serious limitations:
 - Cannot pursue taxpayers who move assets abroad
@@ -222,11 +230,11 @@ Without cooperation mechanisms, tax authorities face serious limitations:
 
 ---
 
-## D. OVERCOMING THE REVENUE RULE: ASSISTANCE IN COLLECTION
+## 4. Overcoming the Revenue Rule: Assistance in Collection
 
-### 1. Article 27 OECD Model Tax Convention
+### 4.1. Article 27 OECD Model Tax Convention (OECD MTC)
 
-**Article 27** ("Assistance in the Collection of Taxes") provides a treaty-based exception to the revenue rule.
+**Article 27** ("Assistance in the Collection of Taxes") provides a treaty-based exception to the revenue rule. The inclusion of Article 27 in the OECD MTC in 2003 represented a significant shift in international tax policy, reflecting growing recognition that the traditional revenue rule had become untenable in an era of global capital mobility. For decades, states had relied on bilateral cooperation and ad hoc arrangements, but the scale of cross-border tax evasion demanded a more systematic response. Article 27 represented a carefully calibrated compromise: states would assist each other in collection, but only on terms that protected their sovereignty and ensured fair treatment. The article's architecture - with its equivalence principle, safeguards, and exceptions - reflects years of negotiation to balance the competing interests of tax administration efficiency and taxpayer protection.
 
 **Key Provisions**:
 
@@ -242,7 +250,9 @@ Without cooperation mechanisms, tax authorities face serious limitations:
 - Interest, administrative penalties, and costs of collection
 - Must be a claim that is **enforceable** under the laws of the requesting state
 
-### 2. The Equivalence Principle
+### 4.2. The Equivalence Principle
+
+The equivalence principle represents the conceptual core of Article 27 and answers a fundamental question: when a state agrees to collect another state's taxes, whose rules should apply? The drafters chose a pragmatic solution that maximises enforceability while respecting sovereignty. Rather than requiring the requested state to learn and apply foreign tax procedures - an administratively impossible task - the equivalence principle incorporates foreign claims into the requested state's existing enforcement machinery. This approach serves multiple purposes: it ensures foreign claims receive effective enforcement (using powers the requested state actually possesses), it protects taxpayers from unfamiliar or potentially harsher foreign procedures, and it makes cooperation administratively feasible. The principle also prevents "enforcement shopping" where a requesting state might seek assistance specifically because the requested state has more aggressive collection powers than the claim would receive at home.
 
 **Key Mechanism** (Article 27(3)):
 
@@ -257,7 +267,7 @@ When a requested state receives a valid assistance request, it must treat the fo
 - Grant the foreign claim higher priority than its own tax claims
 - Take measures contrary to its public policy
 
-### 3. Temporal Scope of Article 27
+### 4.3. Temporal Scope of Article 27
 
 **Exam Focus - June 2025 Q1 tested this directly**:
 
@@ -274,9 +284,9 @@ Does Article 27 have unlimited temporal reach?
 2. Limitation periods of the requested state
 3. Public policy exceptions
 
-### 4. Other Assistance Mechanisms
+### 4.4. Other Assistance Mechanisms
 
-**The Multilateral Convention on Mutual Administrative Assistance in Tax Matters (MCMAATM)**:
+**The MCMAATM**:
 - Developed by OECD and Council of Europe (1988, amended 2010)
 - 151 signatories as of 2025
 - Covers:
@@ -290,7 +300,9 @@ Does Article 27 have unlimited temporal reach?
 - Covers all taxes (not just income tax)
 - Uniform instrument for enforcement across member states
 
-### 5. Distinction: Information vs. Enforcement
+### 4.5. Distinction: Information vs. Enforcement
+
+The distinction between information exchange and enforcement assistance is often overlooked but carries significant practical and legal consequences. States that are willing to share tax information may be unwilling to act as debt collectors for foreign governments. This reflects a fundamental difference in the nature of cooperation: providing information does not require the requested state to take coercive action against persons within its territory, while collection assistance necessarily involves using state power to extract money for another sovereign's benefit. The distinction also matters for taxpayers: challenging an information request is difficult because the requesting state has not yet determined liability, while assistance in collection typically involves a final, enforceable claim that the taxpayer may challenge. Understanding which article applies - Article 26 for information, Article 27 for collection - is essential for advising taxpayers facing cross-border tax disputes.
 
 **Important**: Gathering information is NOT the same as enforcing revenue claims.
 
@@ -300,9 +312,11 @@ Does Article 27 have unlimited temporal reach?
 
 ---
 
-## E. THE SAVING CLAUSE: PRESERVING DOMESTIC TAXING RIGHTS
+## 5. The Saving Clause: Preserving Domestic Taxing Rights
 
-### 1. What is the Saving Clause?
+### 5.1. What is the Saving Clause?
+
+The saving clause addresses a conceptual tension inherent in treaty design: if treaties allocate taxing rights between states, should they also prevent the residence state from taxing its own residents? Without the saving clause, a resident might argue that treaty provisions allocating income to the source state implicitly preclude the residence state from taxing that income at all. The saving clause forecloses this argument by explicitly preserving the residence state's domestic taxing rights. This matters particularly for citizenship-based taxation (the US approach) but applies broadly to ensure that treaty benefits flow to taxpayers as intended - reducing double taxation without creating double non-taxation. The clause reflects a policy choice that fiscal sovereignty over one's own residents should not be inadvertently surrendered through treaty negotiation.
 
 **Article 1(3) OECD MTC** (added 2017):
 
@@ -310,7 +324,7 @@ Does Article 27 have unlimited temporal reach?
 
 The saving clause **preserves** each state's right to tax its own residents/citizens under domestic law, **notwithstanding** treaty provisions that might otherwise limit this.
 
-### 2. Purpose of the Saving Clause
+### 5.2. Purpose of the Saving Clause
 
 **Why Needed**:
 - Treaties typically restrict source state taxation
@@ -323,17 +337,17 @@ The saving clause **preserves** each state's right to tax its own residents/citi
 - WITHOUT saving clause: US might be prevented from taxing its citizen
 - WITH saving clause: US retains right to tax its citizen's worldwide income
 
-### 3. Exceptions to the Saving Clause
+### 5.3. Exceptions to the Saving Clause
 
 Article 1(3) lists exceptions where the saving clause does NOT apply:
 - Benefits granted by the residence state under Articles 6-22 (substantive rules)
 - Treaty provisions specifically designed to benefit residents (e.g., pension articles)
 - Non-discrimination provisions
-- MAP and arbitration procedures
+- Mutual Agreement Procedure (MAP) and arbitration procedures
 
 **Exam Application**: When analyzing treaty benefits for residents, check whether the saving clause overrides the benefit.
 
-### 4. The Saving Clause in Different Treaty Models
+### 5.4. The Saving Clause in Different Treaty Models
 
 Different model conventions and bilateral treaties take varying approaches to the saving clause:
 
@@ -344,11 +358,11 @@ Different model conventions and bilateral treaties take varying approaches to th
 | **US Model** | More extensive | Explicitly covers citizens AND residents |
 | **UK Treaties** | Varies | Some older treaties lack saving clause |
 
-**The US Approach - A Case Study**:
+#### 5.4.1. The US Approach - A Case Study
 
 The United States applies citizenship-based taxation - one of only two countries (alongside Eritrea) to tax citizens on worldwide income regardless of residence. This makes the saving clause particularly important in US treaties.
 
-*Example*: Under the US-UK DTA:
+*Example*: Under the US-UK DTC:
 - A US citizen residing in the UK earns UK employment income
 - Article 14 allocates primary taxing right to UK (source/residence)
 - The saving clause preserves US right to tax its citizen
@@ -364,9 +378,9 @@ The prevailing approach (saving clause included) favours fiscal sovereignty, ens
 
 ---
 
-## F. EXAM APPLICATION FRAMEWORK
+## 6. Exam Application Framework
 
-### Recognition Triggers
+### 6.1. Recognition Triggers
 
 When you see these phrases, jurisdiction/enforcement issues are being tested:
 
@@ -380,9 +394,9 @@ When you see these phrases, jurisdiction/enforcement issues are being tested:
 | "Temporal limitations" | Article 27 scope | June 2025 Q1 pattern |
 | "Reserves the right to tax its residents" | Saving clause | Article 1(3) application |
 
-### Answer Structures by Question Type
+### 6.2. Answer Structures by Question Type
 
-**Type 1: "Evaluate whether residence remains an effective nexus" (Dec 2024 Q1 pattern)**
+#### 6.2.1. Type 1: "Evaluate whether residence remains an effective nexus" (Dec 2024 Q1 pattern)
 
 Structure (25 marks, 48 minutes):
 1. Define residence as a basis for tax jurisdiction (4 marks, 8 min)
@@ -391,7 +405,7 @@ Structure (25 marks, 48 minutes):
 4. Evaluate alternatives (source, formulary, consumption-based) (6 marks, 12 min)
 5. Conclude with reasoned view (5 marks, 8 min)
 
-**Type 2: "Critically examine Article 27 provisions" (June 2025 Q1 pattern)**
+#### 6.2.2. Type 2: "Critically examine Article 27 provisions" (June 2025 Q1 pattern)
 
 Structure (25 marks, 48 minutes):
 1. State the revenue rule and its rationale (5 marks, 9 min)
@@ -400,20 +414,20 @@ Structure (25 marks, 48 minutes):
 4. Discuss limitations and safeguards (4 marks, 8 min)
 5. Conclude on effectiveness (3 marks, 7 min)
 
-**Type 3: "Explain the nature and purpose of DTAs" (Dec 2024 Q3 pattern)**
+#### 6.2.3. Type 3: "Explain the nature and purpose of DTCs" (Dec 2024 Q3 pattern)
 
 Structure (25 marks, 48 minutes):
-1. Define DTAs and their legal status (4 marks, 8 min)
+1. Define DTCs and their legal status (4 marks, 8 min)
 2. Primary purpose: prevent double taxation (6 marks, 12 min)
 3. Secondary purposes: prevent evasion, promote cooperation (6 marks, 12 min)
-4. How DTAs achieve these purposes (allocation, relief methods) (6 marks, 12 min)
+4. How DTCs achieve these purposes (allocation, relief methods) (6 marks, 12 min)
 5. Limitations and ongoing relevance (3 marks, 4 min)
 
 ---
 
-## G. WORKED EXAM EXAMPLES
+## 7. Worked Exam Examples
 
-### Worked Example 1: Article 27 - Assistance in Collection
+### 7.1. Worked Example 1: Article 27 - Assistance in Collection
 
 **Source**: June 2025, Question 1 (25 marks)
 
@@ -424,37 +438,19 @@ Structure (25 marks, 48 minutes):
 
 ---
 
-**Question Analysis**:
-- Tests knowledge of Article 27 (assistance in collection)
-- Requires understanding of the revenue rule (why Article 27 needed)
-- Focus on temporal scope - is it truly "unlimited"?
-- Must reference OECD MTC and Commentary
-- "Critically examine" = weigh arguments for and against the statement
-
-**Answer Planning** (3 minutes):
-```
-Introduction: Revenue rule context
-Part 1: Article 27 overview - what it does
-Part 2: "Unlimited temporal reach" - arguments supporting
-Part 3: Limitations - why not truly unlimited
-Conclusion: Qualified statement - broad but not unlimited
-```
-
----
-
 **Model Answer**:
 
-**Introduction**
+#### 7.1.1. Introduction
 
 The statement raises the important question of Article 27's temporal scope in overcoming the traditional "revenue rule." To evaluate this claim, we must first understand why assistance in collection is needed and then examine whether Article 27's reach is truly "unlimited."
 
-**The Revenue Rule and Need for Article 27**
+#### 7.1.2. The Revenue Rule and Need for Article 27
 
 Traditionally, under the "revenue rule" established in *Government of India v. Taylor* [1955], courts of one state will not enforce the tax claims of another state. This principle reflects state sovereignty - tax obligations are imposed by sovereign authority and cannot be enforced extraterritorially.
 
 Article 27, introduced to the OECD MTC in 2003 and to the UN Model in 2011, provides a treaty-based exception. It requires Contracting States to "lend assistance to each other in the collection of revenue claims," treating foreign tax debts as if they were domestic claims (the "equivalence principle").
 
-**Arguments Supporting "Unlimited Temporal Reach"**
+#### 7.1.3. Arguments Supporting "Unlimited Temporal Reach"
 
 Several aspects of Article 27 support broad temporal application:
 
@@ -466,7 +462,7 @@ Third, Article 27(1) states the article is "not restricted by Articles 1 and 2,"
 
 Fourth, the equivalence principle in Article 27(3) means the requested state must treat claims "as if it were an amount of tax owed to that State" - suggesting full enforcement powers without temporal qualification.
 
-**Arguments Against Truly "Unlimited" Reach**
+#### 7.1.4. Arguments Against Truly "Unlimited" Reach
 
 However, several factors constrain Article 27's temporal scope:
 
@@ -480,7 +476,7 @@ However, several factors constrain Article 27's temporal scope:
 
 **Public policy exception**: Article 27(8) allows refusal where assistance would be "contrary to public policy." A requested state might invoke this for very old claims raising fairness concerns.
 
-**Conclusion**
+#### 7.1.5. Conclusion
 
 The statement that Article 27 provides "unlimited temporal reach" is an **overstatement**. While Article 27 deliberately avoids express temporal limitations and can apply to claims arising before treaty entry into force, it is constrained by:
 - The requesting state's own enforceability rules
@@ -492,35 +488,7 @@ The more accurate characterization is that Article 27 provides **broad** but not
 
 ---
 
-**Mark Scheme Mapping**:
-
-| Component | Marks | Achieved By |
-|-----------|-------|-------------|
-| Revenue rule explanation | 4 | Government of India v. Taylor, sovereignty rationale |
-| Article 27 purpose and mechanism | 5 | 2003 introduction, equivalence principle, scope |
-| Arguments for "unlimited" reach | 5 | No express limit, Commentary para 11, Art 27(1) scope |
-| Arguments against "unlimited" reach | 7 | Enforceability, domestic limitations, conservancy, public policy |
-| Critical analysis and balance | 2 | Weighing both sides fairly |
-| Conclusion | 2 | "Broad but not unlimited" reasoned position |
-| **Total** | **25** | |
-
----
-
-**Common Errors** (from examiner expectations):
-- ❌ Failing to explain the revenue rule first - loses context marks
-- ❌ Simply stating "yes" or "no" without balanced analysis
-- ❌ Not referencing the OECD Commentary when question requires it
-- ❌ Confusing Article 26 (information exchange) with Article 27 (collection assistance)
-- ❌ Missing the equivalence principle as key mechanism
-
-**Time Management**: 48 minutes total
-- Reading/Planning: 5 minutes
-- Writing: 40 minutes
-- Review: 3 minutes
-
----
-
-### Worked Example 2: Residence as Tax Nexus
+### 7.2. Worked Example 2: Residence as Tax Nexus
 
 **Source**: December 2024, Question 1 (25 marks)
 
@@ -531,32 +499,13 @@ The more accurate characterization is that Article 27 provides **broad** but not
 
 ---
 
-**Question Analysis**:
-- Tests foundational understanding of residence as jurisdiction basis
-- Requires evaluation of alternatives
-- Must engage with globalisation/digitisation challenges
-- "Consider" = examine arguments on both sides
-- Reference to OECD MTC required
-
-**Answer Planning** (3 minutes):
-```
-Introduction: Define residence, its role in tax jurisdiction
-Part 1: Traditional rationale for residence-based taxation
-Part 2: Challenges from globalisation and digitisation
-Part 3: Arguments for retaining residence
-Part 4: Possible alternatives and their limitations
-Conclusion: Residence remains relevant but requires adaptation
-```
-
----
-
 **Model Answer**:
 
-**Introduction**
+#### 7.2.1. Introduction
 
 Residence is one of two fundamental bases for tax jurisdiction, alongside source. Under residence-based taxation, a state taxes the worldwide income of persons deemed resident under its domestic law. Article 4 of the OECD MTC addresses dual residence through tie-breaker rules, reflecting residence's centrality to the treaty framework. This answer considers whether residence remains a meaningful connecting factor amid modern challenges.
 
-**Traditional Rationale for Residence-Based Taxation**
+#### 7.2.2. Traditional Rationale for Residence-Based Taxation
 
 Residence has historically been favoured for several reasons:
 
@@ -568,7 +517,7 @@ Residence has historically been favoured for several reasons:
 
 **Treaty coherence**: The OECD MTC assumes residence-based taxation, with residence state generally bearing double taxation relief obligations. Abandoning residence would require wholesale treaty restructure.
 
-**Challenges from Globalisation and Mobility**
+#### 7.2.3. Challenges from Globalisation and Mobility
 
 The statement's concerns reflect genuine modern difficulties:
 
@@ -576,11 +525,11 @@ The statement's concerns reflect genuine modern difficulties:
 
 **Digital nomads**: Remote workers may have genuine connections to multiple states without clear primary residence. Traditional tests (permanent home, centre of vital interests) may produce arbitrary results.
 
-**Corporate residence uncertainty**: Place of effective management (POEM) is difficult to determine for companies with dispersed decision-making or virtual board meetings. The 2017 OECD MTC acknowledged this by moving to mutual agreement procedure for dual-resident entities.
+**Corporate residence uncertainty**: Place of effective management is difficult to determine for companies with dispersed decision-making or virtual board meetings. The 2017 OECD MTC acknowledged this by moving to mutual agreement procedure for dual-resident entities.
 
 **Erosion of residence-source allocation**: Digital business models allow revenue generation without physical presence, undermining the residence/source allocation framework treaties depend upon.
 
-**Arguments for Retaining Residence**
+#### 7.2.4. Arguments for Retaining Residence
 
 Despite these challenges, strong arguments support residence's continued relevance:
 
@@ -592,7 +541,7 @@ Despite these challenges, strong arguments support residence's continued relevan
 
 **Global consensus**: Abandoning residence would require unprecedented international coordination. No viable alternative commands sufficient support to replace it.
 
-**Possible Alternatives and Their Limitations**
+#### 7.2.5. Possible Alternatives and Their Limitations
 
 **Citizenship-based taxation** (US model): Creates different problems - taxation without current connection, compliance burdens for expatriates, double taxation for immigrants.
 
@@ -602,7 +551,7 @@ Despite these challenges, strong arguments support residence's continued relevan
 
 **Consumption-based taxation**: Would require fundamental restructure of direct taxation, raises progressivity concerns, and faces its own cross-border challenges.
 
-**Conclusion**
+#### 7.2.6. Conclusion
 
 Residence for tax purposes remains an effective connecting factor despite globalisation challenges. While not perfect, it offers a workable basis for allocating taxing rights that no proposed alternative clearly improves upon. The appropriate response is adaptation - tightening anti-avoidance rules, improving tie-breaker mechanisms, and supplementing residence-based taxation with targeted source-based measures (as Pillar One attempts) - rather than abandonment.
 
@@ -610,32 +559,9 @@ The statement's call to "abandon" residence overstates the case. Residence shoul
 
 ---
 
-**Mark Scheme Mapping**:
+## 8. Pattern Variations
 
-| Component | Marks | Achieved By |
-|-----------|-------|-------------|
-| Definition and role of residence | 3 | Article 4, jurisdiction basis, worldwide taxation |
-| Traditional rationale | 5 | Benefits principle, ability to pay, administration, treaty coherence |
-| Globalisation challenges | 6 | Manipulation, digital nomads, POEM difficulties, digital economy |
-| Arguments for retention | 6 | Alternatives worse, workable, adaptable, global consensus |
-| Evaluation of alternatives | 3 | Citizenship, source, formulary, consumption |
-| Conclusion | 2 | Balanced, reasoned position |
-| **Total** | **25** | |
-
----
-
-**Common Errors**:
-- ❌ One-sided answer (only challenges OR only benefits)
-- ❌ Failing to discuss alternatives
-- ❌ Not engaging with the specific quote in the question
-- ❌ Missing Article 4 tie-breaker reference
-- ❌ Vague generalities without specific examples
-
----
-
-## H. PATTERN VARIATIONS
-
-### How Examiners Vary Jurisdiction Questions
+### 8.1. How Examiners Vary Jurisdiction Questions
 
 **Variation 1: Comparative Framework**
 - "Compare residence and source as bases for taxation"
@@ -657,7 +583,7 @@ The statement's call to "abandon" residence overstates the case. Residence shoul
 - "Advise Country X on whether it can collect tax from Mr Y who has moved to Country Z"
 - Apply principles to facts: jurisdiction basis → revenue rule → treaty provisions
 
-### Adaptation Strategies
+### 8.2. Adaptation Strategies
 
 | Variation | Key Adaptation |
 |-----------|----------------|
@@ -669,53 +595,9 @@ The statement's call to "abandon" residence overstates the case. Residence shoul
 
 ---
 
-## I. ERROR PREVENTION
+## 9. Bilateral vs. Multilateral Approaches to Jurisdiction
 
-### Top 10 Candidate Mistakes
-
-| # | Mistake | Prevention | Marks at Risk |
-|---|---------|------------|---------------|
-| 1 | Confusing residence and source jurisdictions | Define both clearly at outset | 3-4 |
-| 2 | Forgetting the revenue rule exists | Always mention *Government of India v. Taylor* for enforcement questions | 4-5 |
-| 3 | Mixing up Article 26 (information) and Article 27 (collection) | Note: 26 = information, 27 = collection | 3-4 |
-| 4 | Claiming treaties CREATE taxing rights | Treaties LIMIT/ALLOCATE existing domestic rights | 2-3 |
-| 5 | One-sided evaluation answers | Always address both sides of "evaluate/consider" questions | 4-6 |
-| 6 | Missing the saving clause | Check if Article 1(3) preserves domestic taxing rights | 2-3 |
-| 7 | Vague discussion of "globalisation" | Give specific examples (digital nomads, POEM issues) | 3-4 |
-| 8 | Forgetting equivalence principle | Key to Article 27 - requested state treats as own claim | 2-3 |
-| 9 | Not citing OECD Commentary when required | Question explicitly requires it - marks lost | 2-4 |
-| 10 | Running out of time on foundational questions | These questions reward breadth - don't over-elaborate single points | 5-8 |
-
-### Pre-Answer Checklist
-
-Before writing your answer on jurisdiction/enforcement questions:
-
-- [ ] Have I identified the type of jurisdiction being tested (prescriptive vs. enforcement)?
-- [ ] Have I distinguished residence from source jurisdiction?
-- [ ] For enforcement questions: Have I mentioned the revenue rule?
-- [ ] Have I identified relevant treaty provisions (Article 4, 26, 27)?
-- [ ] For "evaluate/consider" questions: Am I addressing both sides?
-- [ ] Have I planned time allocation across all required elements?
-- [ ] Have I included specific examples/cases where helpful?
-
-### Quick Self-Review Questions
-
-Test your understanding before the exam:
-
-1. What is the difference between prescriptive and enforcement jurisdiction?
-2. Why can't a state simply seize assets located in another country?
-3. What case established the revenue rule and what was its holding?
-4. How does Article 27 overcome the revenue rule?
-5. What is the "equivalence principle" in Article 27?
-6. What limitations exist on Article 27's temporal scope?
-7. Why might residence-based taxation be challenged by digitisation?
-8. What is the saving clause and why does it exist?
-
----
-
-## J. BILATERAL VS. MULTILATERAL APPROACHES TO JURISDICTION
-
-### The Evolution from Bilateral to Multilateral Solutions
+### 9.1. The Evolution from Bilateral to Multilateral Solutions
 
 Historically, international tax cooperation has relied on bilateral treaties. This approach has both strengths and limitations:
 
@@ -753,61 +635,3 @@ The shift towards multilateralism affects how jurisdiction questions should be a
 3. **Automatic exchange impact**: Even without formal assistance provisions, automatic exchange may provide tax authorities with information enabling domestic enforcement.
 
 **Exam Relevance**: Questions testing jurisdiction and enforcement should consider both bilateral treaty provisions AND multilateral instruments. A comprehensive answer demonstrates awareness of the evolving multilateral framework alongside traditional bilateral analysis.
-
----
-
-## K. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-JURISDICTION TO TAX - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. TWO BASES: Residence (person nexus) vs. Source (activity nexus)
-
-2. NEXUS REQUIRED: Public international law requires genuine
-   connection - states cannot tax without some link
-
-3. ENFORCEMENT LIMITED: States cannot enforce tax laws
-   extraterritorially - this creates the revenue rule problem
-
-4. REVENUE RULE: Government of India v. Taylor [1955] -
-   courts won't enforce foreign tax claims
-
-5. ARTICLE 27: Treaty-based exception allowing assistance
-   in collection - equivalence principle applies
-
-6. TEMPORAL SCOPE: Article 27 is broad but NOT unlimited -
-   subject to both states' limitation periods
-
-7. SAVING CLAUSE: Article 1(3) preserves states' rights to
-   tax their own residents under domestic law
-
-8. RESIDENCE CHALLENGED: Globalisation creates difficulties
-   but no better alternative has emerged
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention on Income and on Capital (2017)
-- UN Model Double Taxation Convention (2017)
-- Vienna Convention on the Law of Treaties
-- Multilateral Convention on Mutual Administrative Assistance in Tax Matters
-
-**Key Cases**:
-- *Government of India v. Taylor* [1955] AC 491
-- *Jimenez v. HMRC* (information gathering vs. revenue enforcement)
-
-**Exam Papers Referenced**:
-- June 2025 Q1 (Article 27 temporal scope)
-- December 2024 Q1 (Residence as nexus)
-- December 2024 Q3 (Nature and purpose of DTAs)
-
----
-
-*Chapter 1 | Exam Focus: Principles of International Taxation*

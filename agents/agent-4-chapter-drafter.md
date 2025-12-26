@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `opus` |
+| **Model** | `claude-opus-4-5-20251101` |
 | **Tools** | `Read`, `Write` |
 | **Position in Pipeline** | 4 of 8 |
 | **Receives Input From** | Agent 3 (Chapter Plan) + All previous context |
