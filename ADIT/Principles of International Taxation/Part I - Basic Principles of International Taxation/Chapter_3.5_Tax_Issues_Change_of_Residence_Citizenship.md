@@ -1,522 +1,97 @@
-# Chapter 3.5: Tax Issues Arising from a Change of Residence/Citizenship
-
----
-
-## 1. CONCEPT FOUNDATION
-
-### 1. Why Change of Residence Creates Tax Issues
-
-When an individual or company changes tax residence, several competing claims arise:
-
-```
-COMPETING STATE INTERESTS ON CHANGE OF RESIDENCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    DEPARTURE STATE          ARRIVAL STATE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Interest:           Tax accrued gains       Tax future gains
-                    before departure        from arrival date
-
-Concern:            Loss of tax base        Cost base issues
-                    on appreciated assets   (step-up or not?)
-
-Mechanism:          Exit tax / deemed       Fresh start or
-                    disposal                carryover basis
-
-Anti-avoidance:     Temporary non-          CFC rules on
-                    residence rules         former residents
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. Key Tax Issues on Change of Residence
-
-| Issue | Description | Exam Relevance |
-|-------|-------------|----------------|
-| **Exit taxes** | Tax on accrued gains at departure | HIGH - Know country examples |
-| **Deemed disposal** | Fiction of selling assets at FMV (Fair Market Value) on departure | HIGH - Canada, Australia |
-| **Dual residence** | Resident in two states simultaneously | VERY HIGH - Treaty tie-breakers |
-| **Split-year treatment** | Part-year residence rules | MEDIUM - UK rules |
-| **Temporary non-residence** | Anti-avoidance for short absences | MEDIUM - UK rules |
-| **Corporate inversions** | Change of corporate residence | LOW - BEPS context |
-
----
-
-## 2. EXIT TAXES AND DEEMED DISPOSAL
-
-### 1. The Policy Rationale
-
-**Why States Impose Exit Taxes**:
-- Protect tax base on gains accrued during residence
-- Prevent tax-motivated emigration to low-tax jurisdictions
-- Ensure fair contribution before accessing other systems
-
-**Why Exit Taxes Are Controversial**:
-- Tax on unrealised gains (no cash to pay)
-- Potential double taxation if arrival state doesn't provide step-up
-- May deter legitimate mobility
-- EU law concerns (freedom of movement)
-
-### 2. Country-Specific Exit Tax Regimes
-
-#### United States: Expatriation Tax (IRC §877A)
-
-| Element | Rule |
-|---------|------|
-| **Who is caught** | "Covered expatriates" - citizens renouncing, long-term residents terminating |
-| **Covered expatriate tests** | Net worth >$2M OR average tax liability >$206,000 (2025) OR failure to certify 5-year compliance |
-| **Mechanism** | Mark-to-market: deemed sale at FMV day before expatriation |
-| **Exclusion amount** | First $866,000 (2024) of gain excluded |
-| **Deferred compensation** | Subject to 30% withholding when paid |
-
-**US Exit Tax Example**:
-```
-US CITIZEN RENOUNCING - EXIT TAX CALCULATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Assets:
-  House (FMV $1.5M, basis $400K)    Gain: $1,100,000
-  Portfolio (FMV $3M, basis $2M)    Gain: $1,000,000
-  Retirement accounts               EXCLUDED from mark-to-market
-                                    (taxed on distribution)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total deemed gain:                  $2,100,000
-Less: Exclusion amount              ($866,000)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Taxable gain:                       $1,234,000
-Tax @ 23.8% (max LTCG + NIIT):      $293,692
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-#### Canada: Departure Tax
-
-| Element | Rule |
-|---------|------|
-| **Trigger** | Ceasing to be Canadian tax resident |
-| **Mechanism** | Deemed disposition at FMV on departure date |
-| **Exceptions** | Canadian real property, business property used in Canada, pension plans |
-| **Relief** | Can elect to defer tax with security; "unwind" election if returning |
-| **Step-up** | Deemed reacquisition at FMV (fresh basis going forward) |
-
-**Key Canada Feature**: On return to Canada, taxpayer can elect to "unwind" the departure tax, reversing the deemed disposition. This is particularly relevant for temporary assignments abroad.
-
-#### Australia: CGT on Residency Change
-
-| Element | Rule |
-|---------|------|
-| **Default rule** | Deemed disposal of non-Australian assets at FMV |
-| **Election available** | Can choose to remain subject to Australian CGT on worldwide assets |
-| **Effect of election** | No deemed disposal; Australian CGT applies on eventual sale |
-| **Main residence** | Exempt from deemed disposal (6-year absence rule) |
-
-**Australia Choice**:
-```
-AUSTRALIAN EMIGRANT OPTIONS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Option 1: DEFAULT                   Option 2: ELECTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Deemed disposal at departure        No deemed disposal
-
-CGT payable now on non-             Assets remain "taxable
-Australian assets                   Australian property"
-
-No future Australian CGT            Future CGT on eventual sale
-liability                           (from original cost base)
-
-Good if: Assets will appreciate     Good if: Returning to
-significantly; lower tax in         Australia; expect lower
-new country                         gains; want to defer tax
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-#### European Examples
-
-| Country | Key Features |
-|---------|--------------|
-| **France** | Exit tax on >€800K shareholdings or >50% ownership; applies if resident 6/10 years before departure; deferred if moving within EU/EEA |
-| **Germany** | Exit tax on >1% shareholdings in corporations; 10-year look-back for returning emigrants |
-| **Norway** | 2024 reforms: must settle tax within 12 years regardless of sale; €3M NOK exemption |
-| **Spain** | Exit tax if resident 10/15 years; extended 5-year tax on worldwide income if moving to tax haven |
-| **Netherlands** | Conservative tax claim on substantial shareholdings (>5%); deferred within EU |
-
-#### United Kingdom: No General Exit Tax
-
-**Key Point**: The UK does **not** impose a general exit tax on individuals ceasing UK residence.
-
-| What UK Does | What UK Does NOT Do |
-|--------------|---------------------|
-| Temporary non-residence rules | General deemed disposal on departure |
-| Extended CGT on UK residential property | Exit tax on worldwide assets |
-| Remittance basis charge for non-doms | Mark-to-market on emigration |
-
-### 3. Double Taxation Issues
-
-**The Core Problem**:
-```
-DOUBLE TAXATION ON RESIDENCE CHANGE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                        DEPARTURE        ARRIVAL          ACTUAL
-                        STATE            STATE            SALE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Asset value:            $100,000         $100,000         $150,000
-Cost base:              $60,000          ???              ???
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Scenario A: No step-up in arrival state
-  Departure tax: $100K - $60K = $40K gain (taxed)
-  On sale: $150K - $60K = $90K gain (taxed)
-  TOTAL TAX BASE: $130K (exceeds actual $90K gain)
-
-Scenario B: Step-up to FMV in arrival state
-  Departure tax: $100K - $60K = $40K gain (taxed)
-  On sale: $150K - $100K = $50K gain (taxed)
-  TOTAL TAX BASE: $90K (equals actual gain)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**Solutions**:
-1. **Step-up provision** in arrival state
-2. **Foreign tax credit** for exit tax paid
-3. **Treaty provisions** allocating exclusive taxing rights
-4. **Mutual Agreement Procedure** for unrelieved double taxation
-
----
-
-## 3. DUAL RESIDENCE AND TREATY TIE-BREAKERS
-
-### 1. When Dual Residence Arises
-
-Dual residence occurs when an individual is **simultaneously resident** in two states under their respective domestic laws:
-
-| Common Scenarios | State A Basis | State B Basis |
-|------------------|---------------|---------------|
-| **Relocation mid-year** | Domicile retained | Physical presence met |
-| **Cross-border commuter** | Family home | Employment location |
-| **Extended assignment** | Ties maintained | Days threshold exceeded |
-| **Student abroad** | Home maintained | Presence for studies |
-| **Retirement migration** | Home country ties | New permanent residence |
-
-### 2. Article 4 OECD MTC Tie-Breaker Rules
-
-**The Sequential Tests** (Article 4(2)):
-
-```
-TREATY TIE-BREAKER SEQUENCE - INDIVIDUALS (ARTICLE 4(2))
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1: PERMANENT HOME TEST
-         → If home in ONE state only: Resident there (STOP)
-         → If home in BOTH states: Apply CVI sub-test
-              └─ CENTRE OF VITAL INTERESTS (sub-test)
-                 → Closer personal AND economic relations
-                 → If CVI resolves: Resident there (STOP)
-                 → If CVI indeterminate: Go to Step 2
-         → If home in NEITHER state: Go to Step 2
-
-STEP 2: HABITUAL ABODE
-         ↓ If in both states or neither...
-STEP 3: NATIONALITY
-         ↓ If national of both or neither...
-STEP 4: MUTUAL AGREEMENT PROCEDURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## Chapter 3.5: Tax Issues Arising from a Change of Residence
 
-### 3. Detailed Analysis of Each Test
+### 1. The Tax Implications of Residence Changes
 
-#### Test 1: Permanent Home
+#### 1.1. Competing State Interests
 
-**Definition**: A dwelling available to the individual on a continuous basis (not occasional), which they maintain and use regularly.
+When an individual or company changes tax residence, fundamental tensions arise between the departure state's interest in taxing gains accrued during residence and the arrival state's interest in establishing an appropriate basis for future taxation. The departure state faces potential erosion of its tax base if appreciated assets leave its jurisdiction untaxed, while the arrival state must determine whether to provide a stepped-up cost basis reflecting the value at immigration or to carry over the historical basis from the departure state.
 
-| Permanent Home | NOT Permanent Home |
-|----------------|-------------------|
-| Owned house maintained while abroad | Hotel room during assignment |
-| Rented apartment retained long-term | Short-term rental |
-| Family home available for use | House rented out to third parties |
-| Dwelling always available | Accommodation provided by employer term-by-term |
-
-**Exam Application** (June 2022 Mykola, June 2025 Amelie):
-- Look for owned property retained in departure state
-- Consider whether property remains "available" (not rented out)
-- Temporary accommodation in arrival state often not "permanent"
+These competing interests produce several categories of tax issues. Exit taxes or deemed dispositions may trigger immediate taxation in the departure state. The arrival state's treatment of the immigrant's cost basis affects future capital gains calculations. Dual residence during transitional periods creates potential double taxation requiring treaty resolution. Anti-avoidance rules may apply to temporary absences specifically designed to exploit residence changes for tax advantage.
 
-#### Test 2: Centre of Vital Interests
+#### 1.2. Key Issues on Emigration and Immigration
 
-**Factors Considered**:
+The departure state typically seeks to preserve its taxing rights over gains accrued during residence through exit taxation mechanisms. These may take the form of actual realisation requirements, deemed dispositions treating assets as sold at fair market value, or extended taxing rights over certain asset categories after emigration.
 
-| Personal Relations | Economic Relations |
-|--------------------|-------------------|
-| Family location (spouse, children) | Employment location |
-| Social connections | Business interests |
-| Cultural/religious ties | Bank accounts |
-| Political activities | Investment location |
-| Club memberships | Professional registrations |
+The arrival state faces different considerations. If it provides a stepped-up cost basis equal to fair market value at immigration, it forgoes tax on pre-arrival appreciation but avoids double taxation. If it requires the immigrant to use the historical cost basis, it captures full appreciation but creates potential double taxation where the departure state has already taxed pre-departure gains.
 
-**Key Principle**: Look at the **totality of circumstances** - where is the individual's life truly centred?
+### 2. Exit Taxation
 
-**Common Exam Scenario**:
-```
-TYPICAL CENTRE OF VITAL INTERESTS ANALYSIS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                        COUNTRY U           COUNTRY X
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Family:                 Spouse + children   None
-Employment:             Long-term employer  Temporary project
-Property:               Family home owned   Rented apartment
-Bank accounts:          Main accounts       Expense account
-Social ties:            15 years residence  Recently arrived
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONCLUSION: Centre of vital interests in Country U
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 2.1. Policy Rationale and Concerns
 
-#### Test 3: Habitual Abode
+States impose exit taxes to protect their domestic tax base from erosion through emigration. Without such provisions, taxpayers could accrue substantial gains during residence, emigrate to a jurisdiction with lower or no capital gains taxation, and realise those gains without either state collecting tax on the appreciation.
 
-**When Applied**: Only if permanent home in both states or neither, AND centre of vital interests cannot be determined.
+Exit taxes remain controversial for several reasons. They impose tax on unrealised gains, potentially creating liquidity difficulties where the taxpayer has no cash proceeds from which to pay the liability. They may result in double taxation if the arrival state does not provide corresponding relief. Within the European Union, they raise concerns about compatibility with fundamental freedoms, particularly the free movement of persons and establishment. They may also deter legitimate mobility and create administrative complexity.
 
-**Meaning**: Where does the individual have the **habit of living**? Looks at pattern of presence over time, not just a single year.
+#### 2.2. United States: Expatriation Tax
 
-**Exam Tip**: This test is rarely determinative in exam scenarios - most cases resolve at permanent home or centre of vital interests.
+The United States imposes an expatriation tax under IRC §877A on "covered expatriates"—US citizens renouncing citizenship or long-term residents terminating their status. An individual becomes a covered expatriate by meeting any of three tests: net worth exceeding $2 million; average annual net income tax liability exceeding approximately $200,000 (indexed annually) over the five preceding years; or failure to certify five-year tax compliance.
 
-#### Test 4: Nationality
+The mechanism is mark-to-market: covered expatriates are treated as having sold all worldwide property at fair market value on the day before expatriation. The resulting gain is taxable, though an exclusion amount (approximately $866,000 in 2024, indexed for inflation) reduces the taxable portion. Deferred compensation items, such as retirement accounts, are not subject to immediate mark-to-market taxation but face 30% withholding when distributions occur. *(covered in December 2023)*
 
-**Application**: Only if habitual abode doesn't resolve, individual is a national of one state only.
+The US approach is particularly stringent because it combines citizenship-based taxation during residence with exit taxation on departure, creating what practitioners sometimes describe as a comprehensive departure penalty.
 
-**Exam Note**: Rarely reached in practice. If mentioned in exam facts, may be a red herring or relevant if previous tests inconclusive.
+#### 2.3. Canada: Departure Tax
 
-#### Test 5: Mutual Agreement Procedure
+Canada imposes departure tax through a deemed disposition mechanism. When an individual ceases Canadian tax residence, they are treated as having disposed of most property at fair market value on the departure date, triggering capital gains tax on appreciation accrued during Canadian residence.
 
-**When Reached**: If dual national or national of neither state, and previous tests inconclusive.
+Significant exceptions apply. Canadian real property is excluded from deemed disposition—it remains subject to Canadian taxation on actual sale regardless of the owner's residence. Registered pension plans, RRSPs, and similar tax-deferred accounts are also excluded from the deemed disposition. Individuals resident in Canada for fewer than sixty months are subject to departure tax only on assets acquired during their Canadian residence, protecting short-term residents from tax on pre-immigration appreciation.
 
-**Consequence**: States must agree; taxpayer faces uncertainty pending resolution.
+Canada provides a corresponding deemed reacquisition at fair market value, establishing a stepped-up basis for the departing taxpayer's future reference. Taxpayers may elect to defer payment by providing security to the Canada Revenue Agency, and those who return to Canadian residence may elect to unwind the departure tax, reversing the deemed disposition and its tax consequences.
 
-### 4. Corporate Dual Residence
+#### 2.4. Australia: CGT Election
 
-**Article 4(3)** provides tie-breaker for companies:
+Australia's approach offers taxpayers a choice upon ceasing residence. The default rule treats the taxpayer as having disposed of non-Australian assets at fair market value, triggering capital gains tax on pre-departure appreciation. However, taxpayers may elect to remain subject to Australian CGT on worldwide assets, avoiding the deemed disposal.
 
-| Pre-2017 Rule | Post-2017 Rule (MLI Article 4) |
-|---------------|-------------------------------|
-| Place of Effective Management (POEM) | Case-by-case MAP determination |
+The election has significant implications. Choosing deemed disposal provides finality—no future Australian CGT obligation arises on those assets. Choosing continued Australian taxation defers any immediate liability but means the taxpayer remains subject to Australian CGT on eventual actual disposal, calculated from the original cost base. The optimal choice depends on expected future appreciation, the taxpayer's likely return to Australia, and comparative tax rates.
 
-**POEM Factors**:
-- Where board meetings held
-- Where key management decisions made
-- Where strategic direction determined
-- NOT merely where day-to-day operations occur
+The main residence exemption provides additional protection: the principal residence is generally exempt from deemed disposal, with a six-year absence rule permitting continued exemption for temporary departures.
 
----
+#### 2.5. European Approaches
 
-## 4. SPLIT-YEAR TREATMENT
+European jurisdictions have developed varied exit tax regimes, increasingly harmonised through EU directives but retaining national variations.
 
-### 1. The Concept
+France imposes exit taxation on individuals holding shareholdings exceeding €800,000 or representing more than 50% ownership in a company, provided the individual was French resident for at least six of the ten years preceding departure. Payment may be deferred for moves within the EU or EEA.
 
-**Split-year treatment** divides a tax year into:
-- **Resident portion**: Taxed on worldwide income
-- **Non-resident portion**: Taxed only on source income
+Germany applies exit taxation to shareholdings exceeding 1% in corporations, with a ten-year look-back period affecting returning emigrants who previously triggered exit taxation.
 
-**Without Split-Year**: Individual is resident for entire year OR non-resident for entire year based on status at particular point (often year-end).
+The EU Anti-Tax Avoidance Directive (ATAD), adopted in 2016 with implementation required by 2020, has harmonised exit taxation across member states. The directive requires taxation of unrealised gains on asset transfers while mandating that member states permit payment deferral over five years for intra-EU relocations. This reflects European Court of Justice jurisprudence in cases such as *de Lasteyrie du Saillant* (C-9/02) and *N v. Inspecteur* (C-470/04), which found immediate exit tax collection incompatible with EU fundamental freedoms. The ATAD also requires member states to provide step-up relief to prevent double taxation, though implementation details vary across jurisdictions.
 
-### 2. UK Split-Year Rules
+### 3. United Kingdom: Specific Rules
 
-The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatment:
+#### 3.1. No General Exit Tax
 
-**Leaving the UK** (Cases 1-3):
-| Case | Description |
-|------|-------------|
-| Case 1 | Starting full-time work overseas |
-| Case 2 | Partner starting full-time work overseas |
-| Case 3 | Ceasing to have UK home |
+The United Kingdom does not impose a general exit tax on individuals ceasing UK residence. There is no deemed disposal of worldwide assets on emigration, distinguishing the UK from most other developed economies.
 
-**Arriving in the UK** (Cases 4-8):
-| Case | Description |
-|------|-------------|
-| Case 4 | Starting full-time work in UK |
-| Case 5 | Ceasing full-time work overseas |
-| Case 6 | Partner ceasing full-time work overseas |
-| Case 7 | Starting to have UK home only |
-| Case 8 | Starting to have UK home (various) |
+This approach reflects historical policy choices rather than inability to tax emigrants. The UK does impose CGT on non-residents disposing of UK residential property (and, since 2019, certain commercial property), maintaining source-state taxation on immovable assets. However, portfolio investments, foreign property, and other assets may be removed from the UK tax base through emigration without triggering immediate taxation. The temporary non-residence rules, discussed below, provide partial protection against short-term departures designed to realise gains outside UK taxation.
 
-**Exam Relevance**: UK split-year is domestic law, not treaty-based. Most exam questions focus on treaty tie-breakers rather than domestic split-year rules.
+#### 3.2. Split-Year Treatment
 
-### 3. Interaction with Treaties
+The UK Statutory Residence Test provides split-year treatment in specified circumstances, dividing a tax year into resident and non-resident portions rather than applying whole-year residence or non-residence.
 
-**Important Distinction**:
-- **Domestic split-year**: Determines residence under internal law
-- **Treaty residence**: Determined under Article 4, may differ from domestic position
-- **Result**: Can be treaty-resident in one state while domestically non-resident in part of year
+Eight cases qualify for split-year treatment. For departures, these include starting full-time work overseas, accompanying a partner starting full-time work overseas, or ceasing to have a UK home. For arrivals, qualifying cases include starting full-time UK work, ceasing full-time overseas work, or starting to have a UK home as sole residence.
 
----
+During the overseas portion of a split year, the individual is treated as non-resident for most purposes, meaning only UK-source income and gains are taxable. During the UK portion, worldwide income and gains are taxable. This treatment operates under domestic law; treaty residence may differ depending on tie-breaker application. *(covered in June 2022)*
 
-## 5. TEMPORARY NON-RESIDENCE RULES
+#### 3.3. Temporary Non-Residence Rules
 
-### 1. UK Temporary Non-Residence (TNR) Rules
+UK temporary non-residence rules prevent individuals from exploiting short periods of non-residence to realise gains outside UK taxation and then returning. The rules apply where an individual was solely UK resident for at least four of the seven tax years preceding departure, the period of non-residence comprises fewer than five complete tax years, and relevant gains or income arise during the non-residence period.
 
-**Purpose**: Prevent individuals leaving the UK for short periods to realise gains/income outside UK tax net, then returning.
+Where these conditions are met, specified gains and income become chargeable in the year of return to UK residence. The rules capture gains on assets held before departure but not assets acquired during non-residence. To avoid the rules, an individual must remain non-resident for at least five complete tax years before returning. *(covered in June 2024)*
 
-**Conditions for TNR Rules to Apply**:
-1. "Sole UK residence" for at least 4 of 7 years preceding departure
-2. Period of non-residence less than 5 complete tax years
-3. Gains/income arose during non-residence period
+### 4. Resolving Double Taxation
 
-**Effect**: Specified gains and income become chargeable in **year of return**.
+#### 4.1. The Step-Up Problem
 
-### 2. What Is Caught by TNR Rules
+Exit taxation creates potential double taxation where the departure state taxes pre-departure appreciation and the arrival state subsequently taxes the same appreciation on actual disposal. This occurs when the arrival state uses historical cost basis rather than fair market value at immigration.
 
-| Caught | Not Caught |
-|--------|------------|
-| Gains on assets held before departure | Gains on assets acquired during non-residence |
-| Certain dividend income | Employment income earned abroad |
-| Distributions from close companies | Interest income |
-| Gains on assets connected to pre-departure period | Trading profits |
+Consider an asset acquired for $60,000, worth $100,000 at emigration, and ultimately sold for $150,000. If the departure state imposes exit tax on the $40,000 pre-departure gain and the arrival state taxes gain calculated from the $60,000 original basis (producing a $90,000 gain), total taxation applies to $130,000—exceeding the actual $90,000 economic gain by $40,000.
 
-### 3. Planning Implications
+The solution is a step-up: the arrival state should use fair market value at immigration ($100,000) as the cost basis, producing a $50,000 gain on sale. Combined with the $40,000 departure state gain, total taxation applies to $90,000—matching the actual economic gain.
 
-**To Avoid TNR Rules**:
-- Remain non-resident for **5 complete tax years**
-- Dispose of appreciated assets before leaving (realise gains as resident)
-- Defer return until 5-year period satisfied
+#### 4.2. Relief Mechanisms
 
-**Exam Application**: If UK resident leaves briefly, realises gains, and returns within 5 years, TNR rules likely apply.
+Several mechanisms may prevent or relieve double taxation arising from residence changes. Arrival state step-up provisions, where available, directly prevent double taxation by adjusting the cost basis. Foreign tax credits in the arrival state for exit tax paid to the departure state provide relief where the same gain is taxed twice. Treaty provisions may allocate exclusive taxing rights, though few treaties specifically address exit taxation. The Mutual Agreement Procedure allows competent authorities to resolve cases of unrelieved double taxation through negotiated solutions.
 
----
+The OECD Commentary encourages states to provide relief mechanisms and discourages exit taxation that results in unrelieved double taxation. However, implementation varies significantly across jurisdictions, and taxpayers changing residence must carefully analyse both departure and arrival state rules to understand their combined effect.
 
-## 6. GLOBAL TRENDS AND POLICY DEVELOPMENTS
-
-### The Global Trend Toward Exit Taxation
-
-**Historical Development**:
-Exit taxes have proliferated significantly since 2000, driven by:
-1. **Capital mobility**: Easier to relocate with wealth intact
-2. **BEPS concerns**: Fear of losing tax base to low-tax jurisdictions
-3. **Aging populations**: Wealthy retirees moving to tax-favourable locations
-4. **Revenue pressures**: Governments seeking to protect domestic tax claims
-
-**European Union Developments**:
-
-The EU has grappled with tension between exit taxes and free movement:
-
-| Case | Outcome |
-|------|---------|
-| *de Lasteyrie du Saillant* (C-9/02) | French exit tax violated freedom of establishment |
-| *N v. Inspecteur* (C-470/04) | Dutch rules disproportionate due to security requirement |
-| **ATAD (2016)** | Harmonised exit tax rules with payment deferral within EU |
-
-**Anti-Tax Avoidance Directive (ATAD)** provisions:
-- Exit taxation required on transfer of assets between states
-- Payment may be deferred over 5 years for intra-EU moves
-- Step-up provisions to prevent double taxation
-
-### The US Unique Position
-
-The US is unique in combining:
-1. **Citizenship-based taxation** (ongoing obligation)
-2. **Exit tax on renunciation** (departure penalty)
-3. **No arrival step-up** for incoming residents on foreign assets
-
-This creates "Hotel California" effect - difficult to leave US tax system cleanly.
-
-### Corporate Inversions and Anti-Inversion Rules
-
-**What Is a Corporate Inversion?**
-Restructuring where a US parent becomes subsidiary of foreign parent, typically in low-tax jurisdiction, while maintaining US operations.
-
-**US Anti-Inversion Rules (IRC §7874)**:
-
-| Foreign Ownership | Treatment |
-|-------------------|-----------|
-| <60% | Inversion respected |
-| 60-80% | "Surrogate foreign corporation" - some US tax continues |
-| >80% | Foreign corporation treated as US corporation for tax |
-
-**Post-TCJA (Tax Cuts and Jobs Act, 2017)**: Corporate inversions have declined significantly due to:
-- Reduced US corporate rate (35% → 21%)
-- GILTI (Global Intangible Low-Taxed Income) provisions taxing foreign subsidiary income
-- BEAT (Base Erosion and Anti-Abuse Tax) provisions limiting deductions to foreign related parties
-
-### Treaty Implications of Residence Changes
-
-**Article 4 Commentary Developments**:
-
-The 2017 OECD MTC update modified the corporate tie-breaker (Article 4(3)):
-- Pre-2017: POEM determined treaty residence
-- Post-2017: Case-by-case determination through MAP
-
-**Rationale**: POEM too easily manipulated; case-by-case allows consideration of all factors including where incorporated, where managed, where shareholders located.
-
-### Double Taxation Relief Mechanisms
-
-When exit taxes create double taxation, relief may come from:
-
-| Mechanism | How It Works |
-|-----------|--------------|
-| **Step-up in arrival state** | Arrival state uses FMV at immigration as cost base |
-| **FTC for exit tax** | Arrival state credits exit tax against its CGT (Capital Gains Tax) |
-| **Treaty override** | Treaty may allocate exclusive taxing right, preventing exit tax |
-| **MAP (Mutual Agreement Procedure) resolution** | Competent authorities agree allocation of taxing rights |
-| **Domestic credit** | Exit state credits future foreign tax against exit tax |
-
-**OECD Commentary Position**: Exit taxes should not result in double taxation; states encouraged to provide relief mechanisms.
-
----
-
-## 7. WORKED EXAMPLE: CHANGE OF RESIDENCE SCENARIO
-
-**Based on June 2022 Q7 Pattern (Mykola)**
-
-```
-SCENARIO FACTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-• Petra, resident of Country A, sent to Country B for 8-month project
-• Lives with partner and children in Country A (owned home)
-• Country A: Non-resident after 8 months consecutive absence
-• Country B: Resident if present >183 days (backdated to arrival)
-• Petra present in Country B: January 1 - September 5 (248 days)
-• Rental apartment in Country B provided by employer
-• Bank account and investment property in Country B from prior visits
-• Returns to Country A September 5
-• DTA mirrors OECD MTC 2017
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ANALYSIS
-
-Step 1: Domestic Residence Status
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Country A: Absent January 1 - September 5 = 8 months exactly
-           Non-resident status requires 8+ months absence
-           BORDERLINE - arguably still resident
-
-Country B: Present 248 days > 183 days
-           Backdated to January 1
-           RESIDENT of Country B for Year One
-
-Result: Likely DUAL RESIDENT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Step 2: Treaty Tie-Breaker Analysis (Article 4(2))
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Test 1 - Permanent Home:
-  Country A: Owned home with family - PERMANENT HOME ✓
-  Country B: Employer-provided rental apartment - likely NOT permanent
-             (temporary, tied to project duration)
-             Investment property rented out - NOT available to Petra
-
-  RESULT: Permanent home in Country A only
-  → Country A is treaty residence; no need for further tests
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Step 3: Tax Consequences
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-• Petra is treaty resident of Country A
-• Employment income: Article 15 applies
-  - Exercised in Country B, so Country B has source right
-  - Country A taxes as residence state but must give credit
-• Investment property income (Country B): Article 6
-  - Country B taxes (situs of property)
-  - Country A taxes worldwide, gives credit
-• Bank interest (Country B): Article 11
-  - Taxable only in Country A (residence state) under OECD MTC
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CONCLUSION
-Petra is treaty resident of Country A throughout Year One. Despite
-meeting Country B's 183-day threshold, the tie-breaker resolves in
-favour of Country A due to permanent home with family. Country A taxes
-worldwide income with credit for Country B source taxes.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
+The increasing prevalence of exit taxation reflects broader trends in international tax policy. States facing mobile capital and wealthy individuals have sought to protect their tax bases while balancing concerns about free movement and legitimate migration. The tension between these objectives continues to shape the development of exit tax regimes and the treaty framework addressing residence changes.
