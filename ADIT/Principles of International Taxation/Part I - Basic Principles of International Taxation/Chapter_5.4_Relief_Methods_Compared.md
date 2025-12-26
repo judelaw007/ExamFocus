@@ -500,6 +500,50 @@ MISTAKES TO AVOID
 
 ---
 
+## K. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. CAPITAL EXPORT NEUTRALITY (CEN):
+   • Same effective rate regardless of investment LOCATION
+   • Achieved by CREDIT method (Article 23B)
+   • Favored by capital-EXPORTING countries
+   • Promotes efficient global capital allocation
+
+2. CAPITAL IMPORT NEUTRALITY (CIN):
+   • Same effective rate for all investors in one MARKET
+   • Achieved by EXEMPTION method (Article 23A)
+   • Favored by capital-IMPORTING countries
+   • Promotes competitive equality
+
+3. THE IMPOSSIBILITY THEOREM:
+   • If rates differ, CEN and CIN CANNOT both be achieved
+   • Countries must choose based on national interests
+   • This is a MATHEMATICAL not policy limitation
+
+4. GLOBAL TRENDS (2025):
+   • 27/38 OECD countries now use territorial (exemption)
+   • Shift accelerated post-US TCJA 2017
+   • Only 4 OECD countries remain fully worldwide
+
+5. PILLAR TWO IMPACT:
+   • 15% global minimum limits "race to bottom"
+   • Introduces CEN-like elements (IIR top-up)
+   • But exemption countries retain advantage above 15%
+   • Changes but doesn't eliminate the CEN/CIN trade-off
+
+6. EXAM APPROACH:
+   • Define CEN and CIN clearly with which method achieves each
+   • Demonstrate mathematical impossibility of achieving both
+   • Analyze based on country's economic position
+   • Discuss modern developments (territorial shift, Pillar Two)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
 ## References
 
 **Primary Sources**:

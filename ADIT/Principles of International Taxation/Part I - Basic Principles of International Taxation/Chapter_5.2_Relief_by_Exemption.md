@@ -665,6 +665,52 @@ ERROR 6: Calculation-heavy answers when policy is asked
 
 ---
 
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL POINTS TO REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. EXEMPTION METHOD PRINCIPLE (Article 23A):
+   • Foreign income excluded from residence state tax base
+   • Effective rate = SOURCE state rate only
+   • Reflects TERRITORIAL philosophy
+   • Achieves CAPITAL IMPORT NEUTRALITY (CIN)
+
+2. FULL vs EXEMPTION WITH PROGRESSION:
+   • Full: Foreign income ignored for base AND rate → unfair
+   • With progression: Ignored for base, included for rate
+   • Article 23A(3) authorises exemption with progression
+   • Most modern systems use exemption with progression
+
+3. PARTICIPATION EXEMPTION:
+   • Specific exemption for qualifying subsidiary dividends
+   • Prevents economic double taxation on corporate profits
+   • Common conditions: 5-25% shareholding, holding period,
+     substance, subject-to-tax
+   • Often extends to capital gains on participations
+
+4. DOUBLE NON-TAXATION SAFEGUARDS:
+   • Subject-to-tax clauses: Exemption requires source taxation
+   • Switch-over clauses: Credit method applies if abuse detected
+   • Pillar Two STTR: 9% minimum on certain intra-group payments
+
+5. CREDIT vs EXEMPTION:
+   • Credit → CEN (same tax regardless of investment location)
+   • Exemption → CIN (same tax for all investors in a market)
+   • Cannot achieve both—countries must choose
+   • Global trend toward exemption (US 2017, UK 2009)
+
+6. PILLAR TWO IMPACT:
+   • 15% global minimum tax changes the calculus
+   • Participation exemption still applies to dividends
+   • But underlying income "topped up" to 15% via IIR
+   • Reduced but not eliminated competition on exemption rules
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
 ## References
 
 **Primary Sources**:

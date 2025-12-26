@@ -31,7 +31,7 @@ Examiner Focus:
   • Practical consequences of characterisation conflicts
 
 Strategic Priority: ★★★★☆ HIGH
-  → Direct testing in hybrid mismatch questions (December 2024)
+  → Direct testing in hybrid mismatch questions (Dec 2024)
   → Essential foundation for treaty and CFC analysis
   → Integrates with multiple high-frequency topics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -503,6 +503,48 @@ STEP 6: DETERMINE TREATY APPLICATION
 | **Interest payment through hybrid** | D/NI analysis; linking rules application |
 | **CFC in low-tax jurisdiction** | Transparent vs opaque CFC treatment; attribution mechanics |
 | **Pillar Two computation** | Flow-through entity classification; owner-by-owner analysis |
+
+---
+
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL CONCEPTS FOR EXAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. TRANSPARENT vs OPAQUE:
+   • Transparent: income flows to members; entity not taxed
+   • Opaque: entity taxed separately; members taxed on distribution
+   • Same entity can be classified differently by different states
+
+2. HYBRID ENTITIES ARISE FROM CLASSIFICATION CONFLICTS:
+   • Not a characteristic of the entity itself
+   • Result of different state characterisations
+   • Create D/NI or DD mismatches
+
+3. KEY STATE PRACTICES:
+   • US: Check-the-box (elective)
+   • UK: Generally follows legal form
+   • Germany: Structural comparison approach
+   • Each approach can produce different results for same entity
+
+4. BEPS ACTION 2 LINKING RULES:
+   • Primary rule: deny deduction if no inclusion
+   • Defensive rule: require inclusion if deduction allowed
+   • Hierarchy prevents both rules applying simultaneously
+
+5. TREATY APPLICATION:
+   • Article 1(2) addresses transparent entity treatment
+   • Partners (not partnership) may claim treaty benefits
+   • "Liable to tax" does not require actual payment
+
+6. EXAM APPLICATION:
+   • Identify entity type and characterisation in each jurisdiction
+   • Analyse mismatch consequences
+   • Apply anti-avoidance rules where relevant
+   • Consider treaty access for transparent entities
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 

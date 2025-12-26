@@ -25,9 +25,9 @@ individuals moving between countries, requiring systematic analysis.
 
 ---
 
-## 1. Concept Foundation
+## A. CONCEPT FOUNDATION
 
-### 1.1. Why Change of Residence Creates Tax Issues
+### 1. Why Change of Residence Creates Tax Issues
 
 When an individual or company changes tax residence, several competing claims arise:
 
@@ -50,7 +50,7 @@ Anti-avoidance:     Temporary non-          CFC rules on
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 1.2. Key Tax Issues on Change of Residence
+### 2. Key Tax Issues on Change of Residence
 
 | Issue | Description | Exam Relevance |
 |-------|-------------|----------------|
@@ -63,9 +63,9 @@ Anti-avoidance:     Temporary non-          CFC rules on
 
 ---
 
-## 2. Exit Taxes and Deemed Disposal
+## B. EXIT TAXES AND DEEMED DISPOSAL
 
-### 2.1. The Policy Rationale
+### 1. The Policy Rationale
 
 **Why States Impose Exit Taxes**:
 - Protect tax base on gains accrued during residence
@@ -78,14 +78,14 @@ Anti-avoidance:     Temporary non-          CFC rules on
 - May deter legitimate mobility
 - EU law concerns (freedom of movement)
 
-### 2.2. Country-Specific Exit Tax Regimes
+### 2. Country-Specific Exit Tax Regimes
 
 #### United States: Expatriation Tax (IRC §877A)
 
 | Element | Rule |
 |---------|------|
 | **Who is caught** | "Covered expatriates" - citizens renouncing, long-term residents terminating |
-| **Covered expatriate tests** | Net worth >$2M OR average tax liability >$206,000 (2024) OR failure to certify 5-year compliance |
+| **Covered expatriate tests** | Net worth >$2M OR average tax liability >$206,000 (2025) OR failure to certify 5-year compliance |
 | **Mechanism** | Mark-to-market: deemed sale at FMV day before expatriation |
 | **Exclusion amount** | First $866,000 (2024) of gain excluded |
 | **Deferred compensation** | Subject to 30% withholding when paid |
@@ -155,7 +155,7 @@ new country                         gains; want to defer tax
 |---------|--------------|
 | **France** | Exit tax on >€800K shareholdings or >50% ownership; applies if resident 6/10 years before departure; deferred if moving within EU/EEA |
 | **Germany** | Exit tax on >1% shareholdings in corporations; 10-year look-back for returning emigrants |
-| **Norway** | 2024 reforms: must settle tax within 12 years regardless of sale; 3M NOK exemption |
+| **Norway** | 2024 reforms: must settle tax within 12 years regardless of sale; €3M NOK exemption |
 | **Spain** | Exit tax if resident 10/15 years; extended 5-year tax on worldwide income if moving to tax haven |
 | **Netherlands** | Conservative tax claim on substantial shareholdings (>5%); deferred within EU |
 
@@ -169,7 +169,7 @@ new country                         gains; want to defer tax
 | Extended CGT on UK residential property | Exit tax on worldwide assets |
 | Remittance basis charge for non-doms | Mark-to-market on emigration |
 
-### 2.3. Double Taxation Issues
+### 3. Double Taxation Issues
 
 **The Core Problem**:
 ```
@@ -202,9 +202,9 @@ Scenario B: Step-up to FMV in arrival state
 
 ---
 
-## 3. Dual Residence and Treaty Tie-Breakers
+## C. DUAL RESIDENCE AND TREATY TIE-BREAKERS
 
-### 3.1. When Dual Residence Arises
+### 1. When Dual Residence Arises
 
 Dual residence occurs when an individual is **simultaneously resident** in two states under their respective domestic laws:
 
@@ -216,7 +216,7 @@ Dual residence occurs when an individual is **simultaneously resident** in two s
 | **Student abroad** | Home maintained | Presence for studies |
 | **Retirement migration** | Home country ties | New permanent residence |
 
-### 3.2. Article 4 OECD MTC Tie-Breaker Rules
+### 2. Article 4 OECD MTC Tie-Breaker Rules
 
 **The Sequential Tests** (Article 4(2)):
 
@@ -240,7 +240,7 @@ STEP 4: MUTUAL AGREEMENT PROCEDURE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 3.3. Detailed Analysis of Each Test
+### 3. Detailed Analysis of Each Test
 
 #### Test 1: Permanent Home
 
@@ -308,7 +308,7 @@ CONCLUSION: Centre of vital interests in Country U
 
 **Consequence**: States must agree; taxpayer faces uncertainty pending resolution.
 
-### 3.4. Corporate Dual Residence
+### 4. Corporate Dual Residence
 
 **Article 4(3)** provides tie-breaker for companies:
 
@@ -324,9 +324,9 @@ CONCLUSION: Centre of vital interests in Country U
 
 ---
 
-## 4. Split-Year Treatment
+## D. SPLIT-YEAR TREATMENT
 
-### 4.1. The Concept
+### 1. The Concept
 
 **Split-year treatment** divides a tax year into:
 - **Resident portion**: Taxed on worldwide income
@@ -334,7 +334,7 @@ CONCLUSION: Centre of vital interests in Country U
 
 **Without Split-Year**: Individual is resident for entire year OR non-resident for entire year based on status at particular point (often year-end).
 
-### 4.2. UK Split-Year Rules
+### 2. UK Split-Year Rules
 
 The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatment:
 
@@ -356,7 +356,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 **Exam Relevance**: UK split-year is domestic law, not treaty-based. Most exam questions focus on treaty tie-breakers rather than domestic split-year rules.
 
-### 4.3. Interaction with Treaties
+### 3. Interaction with Treaties
 
 **Important Distinction**:
 - **Domestic split-year**: Determines residence under internal law
@@ -365,9 +365,9 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 ---
 
-## 5. Temporary Non-Residence Rules
+## E. TEMPORARY NON-RESIDENCE RULES
 
-### 5.1. UK Temporary Non-Residence (TNR) Rules
+### 1. UK Temporary Non-Residence (TNR) Rules
 
 **Purpose**: Prevent individuals leaving the UK for short periods to realise gains/income outside UK tax net, then returning.
 
@@ -378,7 +378,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 **Effect**: Specified gains and income become chargeable in **year of return**.
 
-### 5.2. What Is Caught by TNR Rules
+### 2. What Is Caught by TNR Rules
 
 | Caught | Not Caught |
 |--------|------------|
@@ -387,7 +387,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 | Distributions from close companies | Interest income |
 | Gains on assets connected to pre-departure period | Trading profits |
 
-### 5.3. Planning Implications
+### 3. Planning Implications
 
 **To Avoid TNR Rules**:
 - Remain non-resident for **5 complete tax years**
@@ -398,7 +398,7 @@ The UK Statutory Residence Test (SRT) provides **8 cases** for split-year treatm
 
 ---
 
-## 6. Global Trends and Policy Developments
+## F. GLOBAL TRENDS AND POLICY DEVELOPMENTS
 
 ### The Global Trend Toward Exit Taxation
 
@@ -477,7 +477,7 @@ When exit taxes create double taxation, relief may come from:
 
 ---
 
-## 7. Exam Application
+## G. EXAM APPLICATION
 
 ### Systematic Approach to Change of Residence Questions
 
@@ -510,7 +510,7 @@ Test 3 - Habitual Abode (if needed):
 Test 4 - Nationality (if needed):
   RESULT: National of [State A/State B/Both/Neither]
 
-CONCLUSION: Treaty resident of [State] for purposes of DTC
+CONCLUSION: Treaty resident of [State] for purposes of DTA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -542,7 +542,7 @@ SCENARIO FACTS
 • Rental apartment in Country B provided by employer
 • Bank account and investment property in Country B from prior visits
 • Returns to Country A September 5
-• DTC mirrors OECD MTC 2017
+• DTA mirrors OECD MTC 2017
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ANALYSIS
@@ -595,7 +595,7 @@ worldwide income with credit for Country B source taxes.
 
 ---
 
-## 8. Common Errors to Avoid
+## H. COMMON ERRORS TO AVOID
 
 ```
 ERROR PREVENTION CHECKLIST
@@ -629,3 +629,71 @@ ERROR PREVENTION CHECKLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+---
+
+## I. KEY TAKEAWAYS
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHANGE OF RESIDENCE - EXAM ESSENTIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. EXIT TAXES: Several countries tax accrued gains on departure
+   (US, Canada, Australia, France, Germany, Netherlands); UK
+   does NOT have general exit tax
+
+2. DEEMED DISPOSAL: Fiction of selling assets at FMV creates
+   immediate tax liability; watch for double taxation issues
+
+3. DUAL RESIDENCE: Apply domestic rules of EACH state first;
+   only use treaty tie-breakers if resident in BOTH
+
+4. TIE-BREAKER SEQUENCE: Permanent home test (with CVI as
+   sub-test if home in both states) → Habitual abode →
+   Nationality → MAP
+
+5. PERMANENT HOME: Requires dwelling available continuously,
+   maintained and used regularly - not temporary accommodation
+
+6. CENTRE OF VITAL INTERESTS: Sub-test within permanent home
+   test; balance personal and economic relations; only
+   applied when permanent home exists in BOTH states
+
+7. UK TNR RULES: Anti-avoidance catches gains realised during
+   non-residence <5 years; taxed in year of return
+
+8. SPLIT-YEAR: Domestic concept (especially UK); treaty
+   residence determined separately under Article 4
+
+9. DOUBLE TAXATION: Exit tax + arrival state CGT = potential
+   double tax; look for step-up, FTC, or treaty relief
+
+10. EXAM APPROACH: Systematic analysis - domestic status,
+    treaty tie-breaker, exit tax, relief mechanisms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention 2017, Article 4
+- Commentary on Article 4 OECD MTC (paragraphs 8-21)
+- US IRC §877A (Expatriation Tax)
+- Canadian Income Tax Act, §128.1 (Departure Tax)
+- UK TCGA 1992, ss 1M-1N (Temporary Non-Residence)
+- EU Anti-Tax Avoidance Directive (ATAD) 2016/1164
+
+**Web Resources**:
+- [IRS Expatriation Tax](https://www.irs.gov/individuals/international-taxpayers/expatriation-tax)
+- [Canada Departure Tax](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/dispositions-property.html)
+- [Australian CGT and Residency](https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/foreign-residents-and-capital-gains-tax/how-changing-residency-affects-cgt)
+- [UK Temporary Non-Residence Rules (HS278)](https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2025)
+- [Treaty Tie-Breaker Rules Explained](https://www.cummings.law/how-to-work-with-tax-treaty-tie-breaker-rules-for-dual-residents/)
+- [Global Exit Tax Trends](https://outboundinvestment.com/leaving-isnt-free-anymore-how-exit-taxes-are-redrawing-global-wealth-boundaries/)
+
+---
+
+*Chapter 3.5 | Exam Focus: Principles of International Taxation*

@@ -201,8 +201,8 @@ June 2023 Q3 discussed Article 3(2) in context of treaty override.
 
 KEY POINT from suggested solution:
 "Article 3(2) is considered by some to be a vivid treaty-based
-reminder of the connection between the DTC and the two contracting
-states' domestic legal systems, which allows the DTC to link into
+reminder of the connection between the DTA and the two contracting
+states' domestic legal systems, which allows the DTA to link into
 the relevant CS's taxing rights that are established in its
 domestic legislation."
 
@@ -312,7 +312,7 @@ EXAM FOCUS: December 2022 Q4 - Article 13 and Distributive Rules
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 QUESTION STRUCTURE:
-Part 1 (13 marks): Domestic tax law applying a DTC
+Part 1 (13 marks): Domestic tax law applying a DTA
 Part 2 (12 marks): Interaction between Article 13 and other
                    distributive rules
 
@@ -453,6 +453,49 @@ As discussed in Chapter 6.2, hybrid instruments create qualification conflicts:
 | Convertible bond | Interest (debt) | Dividend (equity) |
 | Profit-participating loan | Interest | Dividend |
 | Perpetual debt | Debt (interest) | Equity (dividend) |
+
+---
+
+## I. KEY TAKEAWAYS
+
+```
+ESSENTIAL CONCEPTS FOR EXAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. QUALIFICATION CONFLICTS DEFINED:
+   • Arise when states apply different distributive rules
+   • To same income and taxpayer
+   • Due to different interpretation of treaty terms
+
+2. ARTICLE 3(2) IS CENTRAL:
+   • Undefined terms → domestic law meaning
+   • "Unless the context otherwise requires"
+   • Ambulatory reference (at time of application)
+   • Tax law meaning prevails over general law
+
+3. THREE INTERPRETIVE APPROACHES:
+   • Lex fori: each state's own domestic law
+   • Lex causae: source state's domestic law
+   • Autonomous: derived from treaty context
+
+4. OECD SOLUTION:
+   • Residence state should follow source state characterisation
+   • Provide relief based on source state's taxation
+   • Limitations: not binding; may not work in all cases
+
+5. LINKS TO CHAPTERS 6.1 AND 6.2:
+   • Entity recognition differences → qualification conflicts
+   • Transparent/opaque characterisation → different taxpayers
+   • Hybrid entities/instruments → different income categories
+
+6. EXAM APPLICATION:
+   • Identify the income and each state's characterisation
+   • Determine applicable treaty articles
+   • Consider "context otherwise requires" exception
+   • Apply OECD solution where relevant
+   • Identify double taxation or non-taxation outcomes
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 

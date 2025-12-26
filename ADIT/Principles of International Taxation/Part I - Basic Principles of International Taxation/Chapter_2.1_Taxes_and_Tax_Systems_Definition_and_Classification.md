@@ -27,9 +27,9 @@ INDIRECT RELEVANCE:
 
 ---
 
-## 1. Concept Foundation
+## A. CONCEPT FOUNDATION
 
-### 1.1. What is a Tax?
+### 1. What is a Tax?
 
 **Definition**: A tax is a **compulsory financial charge or levy** imposed by a governmental organization on individuals or entities to fund government expenditure and public services.
 
@@ -81,7 +81,7 @@ For ADIT purposes, the legal/formal approach prevails when analyzing treaty cove
 
 ---
 
-### 1.2. Classification of Taxes
+### 2. Classification of Taxes
 
 Taxes can be classified in multiple ways. Understanding these classifications is essential for analyzing treaty provisions and domestic tax systems.
 
@@ -95,9 +95,9 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 | **Examples**: Income tax, corporate tax, wealth tax | **Examples**: VAT, sales tax, customs duties, excise |
 
 **International Tax Relevance**:
-- Double Taxation Conventions (DTCs) primarily cover **direct taxes** on income and capital
-- Article 2(2) OECD MTC: "There shall be regarded as taxes on income and on capital all taxes imposed on total income, on total capital, or on elements of income or of capital"
-- Indirect taxes (VAT, customs) are generally **NOT covered** by DTCs
+- Double Tax Agreements primarily cover **direct taxes** on income and capital
+- Article 2(2) OECD MTC: "taxes on income and on capital shall be deemed to be all taxes imposed on total income, on total capital, or on elements of income or of capital"
+- Indirect taxes (VAT, customs) are generally **NOT covered** by DTAs
 
 #### B. By Rate Structure: Progressive, Proportional, Regressive
 
@@ -122,7 +122,7 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 
 ---
 
-### 1.3. Major Types of Taxes
+### 3. Major Types of Taxes
 
 #### Income Taxes
 
@@ -133,7 +133,7 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 | **Capital Gains Tax** | Individuals/entities | Tax on asset appreciation |
 | **Withholding Tax** | Non-residents | Deducted at source on payments (dividends, interest, royalties) |
 
-**Treaty Relevance**: Income taxes are the primary focus of DTCs. Article 2(3) typically lists specific income taxes covered.
+**Treaty Relevance**: Income taxes are the primary focus of DTAs. Article 2(3) typically lists specific income taxes covered.
 
 #### Consumption Taxes
 
@@ -145,7 +145,7 @@ Taxes can be classified in multiple ways. Understanding these classifications is
 | **Excise Duties** | Specific goods/services | Alcohol, tobacco, fuel |
 | **Customs Duties** | Border levies | Imports/exports |
 
-**Treaty Relevance**: Generally **excluded** from DTC scope - not "taxes on income or capital."
+**Treaty Relevance**: Generally **excluded** from DTA scope - not "taxes on income or capital."
 
 #### Property and Wealth Taxes
 
@@ -173,15 +173,15 @@ Global tax systems have evolved significantly over recent decades, with importan
 | 2020s onwards | Digital levies emerging | New challenges for classification |
 
 **Why This Matters**:
-1. **Treaty coverage**: DTCs cover income taxes but NOT consumption taxes - as income tax share falls, the proportion of taxation outside treaty scope rises
-2. **Tax competition**: Corporate income tax rates have declined globally (average statutory rate: ~47% in 1980 → ~24% in 2024), while VAT rates have risen
+1. **Treaty coverage**: DTAs cover income taxes but NOT consumption taxes - as income tax share falls, the proportion of taxation outside treaty scope rises
+2. **Tax competition**: Corporate income tax rates have declined globally (average statutory rate: 50%+ in 1980 → ~23% in 2024), while VAT rates have risen
 3. **Base erosion**: Mobile income (corporate profits, capital gains) is more easily shifted than consumption, creating pressure for consumption-based alternatives
 
 **Policy Implications**: Some scholars argue for destination-based cash flow taxes (DBCFT) that would tax consumption at destination while exempting exports - potentially eliminating many transfer pricing and base erosion issues. However, such fundamental reform faces significant political and practical obstacles.
 
 ---
 
-### 1.4. Characteristics of a Good Tax System
+### 4. Characteristics of a Good Tax System
 
 Adam Smith's four "Canons of Taxation" (1776) remain foundational principles:
 
@@ -203,7 +203,7 @@ Adam Smith's four "Canons of Taxation" (1776) remain foundational principles:
 
 ---
 
-## 2. International Tax Application
+## B. INTERNATIONAL TAX APPLICATION
 
 ### How Tax Classification Affects Treaty Analysis
 
@@ -211,7 +211,7 @@ Understanding tax classification is essential for several aspects of internation
 
 #### 1. Treaty Coverage (Article 2)
 
-**Question**: Is this charge a "tax on income or capital" covered by the DTC?
+**Question**: Is this charge a "tax on income or capital" covered by the DTA?
 
 ```
 Analysis Framework:
@@ -234,7 +234,7 @@ The classification of a tax affects how double taxation relief is provided:
 
 Withholding taxes (WHT) on passive income (dividends, interest, royalties) are:
 - Direct taxes (on income)
-- Covered by DTCs (Articles 10, 11, 12)
+- Covered by DTAs (Articles 10, 11, 12)
 - Subject to rate limitations under treaties
 
 #### 4. Classification Challenges in the Digital Economy
@@ -265,7 +265,7 @@ These mechanisms may require specific treaty provisions to clarify their treatme
 
 ---
 
-## 3. Quick Reference Summary
+## C. QUICK REFERENCE SUMMARY
 
 ### Tax Classification Matrix
 
@@ -293,3 +293,68 @@ These mechanisms may require specific treaty provisions to clarify their treatme
 | Customs duties | **No** | Outside scope |
 | Social security contributions | **Depends** | May be excluded |
 
+---
+
+## D. KEY VOCABULARY
+
+| Term | Definition |
+|------|------------|
+| **Tax** | Compulsory levy imposed by government |
+| **Tax base** | What is being measured for tax (income, value, wealth) |
+| **Tax rate** | Percentage applied to tax base |
+| **Tax liability** | Amount of tax owed |
+| **Marginal rate** | Rate on next unit of income |
+| **Average rate** | Total tax / Total income |
+| **Effective rate** | Actual tax paid / Economic income |
+| **Taxable income** | Income subject to tax after deductions |
+| **Withholding** | Tax deducted at source by payer |
+| **Assessment** | Determination of tax liability |
+
+---
+
+## E. KEY TAKEAWAYS
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEFINITION AND CLASSIFICATION OF TAXES - ESSENTIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. TAX DEFINED: Compulsory, unrequited levy imposed by
+   government - distinguishes from fees, fines, and other charges
+
+2. DIRECT vs INDIRECT: Direct taxes (income, profit) covered
+   by DTAs; indirect taxes (VAT, sales) generally NOT covered
+
+3. RATE STRUCTURES: Progressive (rate rises with income),
+   proportional (flat rate), regressive (effective rate falls)
+
+4. TREATY SCOPE: Article 2 OECD MTC covers "taxes on income
+   and capital" - must determine if a charge qualifies
+
+5. ADAM SMITH'S CANONS: Equity, Certainty, Convenience,
+   Economy - remain foundational for tax system design
+
+6. EXAM APPLICATION: Not directly tested, but understanding
+   is assumed when analyzing treaty coverage questions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## References
+
+**Primary Sources**:
+- OECD Model Tax Convention on Income and on Capital (2017), Article 2
+- UN Model Double Taxation Convention (2017), Article 2
+- Adam Smith, *The Wealth of Nations* (1776), Book V, Chapter II
+
+**Web Sources**:
+- [Taxation - Britannica Money](https://www.britannica.com/money/taxation)
+- [Tax - Wikipedia](https://en.wikipedia.org/wiki/Tax)
+- [The Three Basic Tax Types - Tax Foundation](https://taxfoundation.org/taxedu/primers/primer-the-three-basic-tax-types/)
+- [Four Canons of Taxation - Tax Project Institute](https://taxproject.org/four-canons-of-taxation/)
+
+---
+
+*Chapter 2.1 | Exam Focus: Principles of International Taxation*
