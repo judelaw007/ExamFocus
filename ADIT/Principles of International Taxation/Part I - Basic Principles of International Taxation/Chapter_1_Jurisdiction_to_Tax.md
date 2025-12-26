@@ -438,24 +438,6 @@ Structure (25 marks, 48 minutes):
 
 ---
 
-**Question Analysis**:
-- Tests knowledge of Article 27 (assistance in collection)
-- Requires understanding of the revenue rule (why Article 27 needed)
-- Focus on temporal scope - is it truly "unlimited"?
-- Must reference OECD MTC and Commentary
-- "Critically examine" = weigh arguments for and against the statement
-
-**Answer Planning** (3 minutes):
-```
-Introduction: Revenue rule context
-Part 1: Article 27 overview - what it does
-Part 2: "Unlimited temporal reach" - arguments supporting
-Part 3: Limitations - why not truly unlimited
-Conclusion: Qualified statement - broad but not unlimited
-```
-
----
-
 **Model Answer**:
 
 #### 7.1.1. Introduction
@@ -506,34 +488,6 @@ The more accurate characterization is that Article 27 provides **broad** but not
 
 ---
 
-**Mark Scheme Mapping**:
-
-| Component | Marks | Achieved By |
-|-----------|-------|-------------|
-| Revenue rule explanation | 4 | Government of India v. Taylor, sovereignty rationale |
-| Article 27 purpose and mechanism | 5 | 2003 introduction, equivalence principle, scope |
-| Arguments for "unlimited" reach | 5 | No express limit, Commentary para 11, Art 27(1) scope |
-| Arguments against "unlimited" reach | 7 | Enforceability, domestic limitations, conservancy, public policy |
-| Critical analysis and balance | 2 | Weighing both sides fairly |
-| Conclusion | 2 | "Broad but not unlimited" reasoned position |
-| **Total** | **25** | |
-
----
-
-**Common Errors** (from examiner expectations):
-- ❌ Failing to explain the revenue rule first - loses context marks
-- ❌ Simply stating "yes" or "no" without balanced analysis
-- ❌ Not referencing the OECD Commentary when question requires it
-- ❌ Confusing Article 26 (information exchange) with Article 27 (collection assistance)
-- ❌ Missing the equivalence principle as key mechanism
-
-**Time Management**: 48 minutes total
-- Reading/Planning: 5 minutes
-- Writing: 40 minutes
-- Review: 3 minutes
-
----
-
 ### 7.2. Worked Example 2: Residence as Tax Nexus
 
 **Source**: December 2024, Question 1 (25 marks)
@@ -542,25 +496,6 @@ The more accurate characterization is that Article 27 provides **broad** but not
 > "In view of the increasing globalisation of business and the mobility of individuals, 'residence' for tax purposes is no longer an effective or meaningful connecting factor and should be abandoned in favour of something better."
 >
 > On the basis of the statement above, and with reference to the OECD MTC and its Commentary, consider whether 'residence' for tax purposes remains an effective nexus, or connecting factor, for tax purposes.
-
----
-
-**Question Analysis**:
-- Tests foundational understanding of residence as jurisdiction basis
-- Requires evaluation of alternatives
-- Must engage with globalisation/digitisation challenges
-- "Consider" = examine arguments on both sides
-- Reference to OECD MTC required
-
-**Answer Planning** (3 minutes):
-```
-Introduction: Define residence, its role in tax jurisdiction
-Part 1: Traditional rationale for residence-based taxation
-Part 2: Challenges from globalisation and digitisation
-Part 3: Arguments for retaining residence
-Part 4: Possible alternatives and their limitations
-Conclusion: Residence remains relevant but requires adaptation
-```
 
 ---
 
@@ -624,29 +559,6 @@ The statement's call to "abandon" residence overstates the case. Residence shoul
 
 ---
 
-**Mark Scheme Mapping**:
-
-| Component | Marks | Achieved By |
-|-----------|-------|-------------|
-| Definition and role of residence | 3 | Article 4, jurisdiction basis, worldwide taxation |
-| Traditional rationale | 5 | Benefits principle, ability to pay, administration, treaty coherence |
-| Globalisation challenges | 6 | Manipulation, digital nomads, POEM difficulties, digital economy |
-| Arguments for retention | 6 | Alternatives worse, workable, adaptable, global consensus |
-| Evaluation of alternatives | 3 | Citizenship, source, formulary, consumption |
-| Conclusion | 2 | Balanced, reasoned position |
-| **Total** | **25** | |
-
----
-
-**Common Errors**:
-- ❌ One-sided answer (only challenges OR only benefits)
-- ❌ Failing to discuss alternatives
-- ❌ Not engaging with the specific quote in the question
-- ❌ Missing Article 4 tie-breaker reference
-- ❌ Vague generalities without specific examples
-
----
-
 ## 8. Pattern Variations
 
 ### 8.1. How Examiners Vary Jurisdiction Questions
@@ -683,40 +595,9 @@ The statement's call to "abandon" residence overstates the case. Residence shoul
 
 ---
 
-## 9. Error Prevention
+## 9. Bilateral vs. Multilateral Approaches to Jurisdiction
 
-### 9.1. Top 10 Candidate Mistakes
-
-| # | Mistake | Prevention | Marks at Risk |
-|---|---------|------------|---------------|
-| 1 | Confusing residence and source jurisdictions | Define both clearly at outset | 3-4 |
-| 2 | Forgetting the revenue rule exists | Always mention *Government of India v. Taylor* for enforcement questions | 4-5 |
-| 3 | Mixing up Article 26 (information) and Article 27 (collection) | Note: 26 = information, 27 = collection | 3-4 |
-| 4 | Claiming treaties CREATE taxing rights | Treaties LIMIT/ALLOCATE existing domestic rights | 2-3 |
-| 5 | One-sided evaluation answers | Always address both sides of "evaluate/consider" questions | 4-6 |
-| 6 | Missing the saving clause | Check if Article 1(3) preserves domestic taxing rights | 2-3 |
-| 7 | Vague discussion of "globalisation" | Give specific examples (digital nomads, POEM issues) | 3-4 |
-| 8 | Forgetting equivalence principle | Key to Article 27 - requested state treats as own claim | 2-3 |
-| 9 | Not citing OECD Commentary when required | Question explicitly requires it - marks lost | 2-4 |
-| 10 | Running out of time on foundational questions | These questions reward breadth - don't over-elaborate single points | 5-8 |
-
-### 9.2. Pre-Answer Checklist
-
-Before writing your answer on jurisdiction/enforcement questions:
-
-- [ ] Have I identified the type of jurisdiction being tested (prescriptive vs. enforcement)?
-- [ ] Have I distinguished residence from source jurisdiction?
-- [ ] For enforcement questions: Have I mentioned the revenue rule?
-- [ ] Have I identified relevant treaty provisions (Article 4, 26, 27)?
-- [ ] For "evaluate/consider" questions: Am I addressing both sides?
-- [ ] Have I planned time allocation across all required elements?
-- [ ] Have I included specific examples/cases where helpful?
-
----
-
-## 10. Bilateral vs. Multilateral Approaches to Jurisdiction
-
-### 10.1. The Evolution from Bilateral to Multilateral Solutions
+### 9.1. The Evolution from Bilateral to Multilateral Solutions
 
 Historically, international tax cooperation has relied on bilateral treaties. This approach has both strengths and limitations:
 
