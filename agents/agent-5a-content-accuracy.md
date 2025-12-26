@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `sonnet` |
+| **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `WebSearch`, `WebFetch`, `Edit` |
 | **Position** | 5a of 8 (First Quality Agent) |
 | **Input** | Agent 4 (Drafted Chapter) |

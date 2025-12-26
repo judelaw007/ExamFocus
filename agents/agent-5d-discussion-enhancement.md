@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `opus` |
+| **Model** | `claude-opus-4-5-20251101` |
 | **Tools** | `Read`, `Edit` |
 | **Position** | 5d of 8 (Final Quality Agent) |
 | **Input** | Agent 5c (Structurally Refined Chapter) |

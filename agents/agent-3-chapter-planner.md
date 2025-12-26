@@ -4,7 +4,7 @@
 
 | Setting | Value |
 |---------|-------|
-| **Model** | `opus` |
+| **Model** | `claude-opus-4-5-20251101` |
 | **Tools** | `Read` |
 | **Position in Pipeline** | 3 of 8 |
 | **Receives Input From** | Agent 1 (Exam Intelligence) + Agent 2 (Research) |
