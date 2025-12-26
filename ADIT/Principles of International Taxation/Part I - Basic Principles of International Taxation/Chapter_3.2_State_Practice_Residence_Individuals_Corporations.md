@@ -1,536 +1,87 @@
-# Chapter 3.2: State Practice in Determining Residence of Individuals and Corporations
+## Chapter 3.2: State Practice in Determining Residence of Individuals and Corporations
 
-## How Countries Actually Determine Who Is "Resident" for Tax Purposes
+### 1. The Domestic Law Primacy Principle
 
----
+Tax residence is fundamentally a matter of domestic law. There is no universal international definition of residence; each jurisdiction applies its own criteria to determine who qualifies as a resident taxpayer. This principle is reflected in Article 4(1) of the OECD Model Tax Convention, which defines a "resident of a Contracting State" as any person who, under the laws of that State, is liable to tax therein by reason of domicile, residence, place of management, or any other criterion of a similar nature.
 
-```
-EXAM INTELLIGENCE: Residence Determination
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frequency: 80%+ (8/10 papers 2020-2025)
-Mark Range: 15-25 marks per question
-Syllabus Level: 2 (detailed knowledge required)
+The domestic law primacy principle creates the potential for conflicting outcomes. A person may be resident in one country under its domestic law while being non-resident in another, or—more problematically—may be treated as resident in both countries simultaneously. Dual residence triggers potential double taxation, which treaties then seek to resolve through tie-breaker provisions.
 
-Key Question Patterns:
-  • June 2025 Q4: Student residence changes (Amelie case - 25 marks)
-  • Dec 2024 Q1: Residence as effective nexus (25 marks)
-  • Dec 2023 Q7: Residence status determination (Zara/Maryam - 25 marks)
-  • Dec 2022 Q6: Corporate residence/POEM (Algero - 25 marks)
-  • June 2022 Q7: Residence determination and changes (Mykola - 25 marks)
+#### 1.1. Categories of Residence Tests
 
-Strategic Priority: ★★★★★ CRITICAL - HIGH FREQUENCY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHY THIS MATTERS: Residence determination is tested in almost every
-exam sitting. You MUST be able to apply domestic residence tests to
-factual scenarios and resolve dual residence using Article 4 OECD MTC.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+States generally employ one or more of the following approaches to determine residence. Physical presence tests focus on the number of days spent within the jurisdiction, with 183 days being the most common threshold. Permanent home tests examine whether the individual maintains available accommodation. Centre of vital interests analysis considers the totality of personal and economic ties. Domicile-based tests, still used in some jurisdictions, look to the individual's permanent home and intention to remain. For corporations, the primary tests are place of incorporation and place of effective management.
 
----
+The choice of test reflects policy priorities. Bright-line rules such as day-counting provide certainty but are susceptible to manipulation through careful planning. Subjective tests based on ties and connections are harder to avoid but create administrative complexity and potential disputes.
 
-## 1. Concept Foundation
+### 2. Individual Residence: State Practice
 
-### 1.1. The Domestic Law Primacy Principle
+#### 2.1. Physical Presence Tests
 
-**Key Principle**: Tax residence is determined under **domestic law** of each jurisdiction. There is no universal international definition of residence.
+The most widespread approach uses physical presence as the primary determinant of residence. The 183-day rule—treating anyone present for more than half the year as resident—appears in numerous domestic tax codes. However, the precise application varies significantly across jurisdictions.
 
-**Article 4(1) OECD MTC** states:
-> "The term 'resident of a Contracting State' means any person who, under the **laws of that State**, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature."
+Most countries count a day of presence when the individual is present at midnight, though some count arrival and departure days separately. The United States employs a more sophisticated approach through its Substantial Presence Test, which applies a weighted three-year formula: days in the current year count fully, days in the prior year count at one-third, and days in the second prior year count at one-sixth. An individual meeting the 183-day threshold under this formula, with at least 31 days in the current year, is treated as a US tax resident unless an exception applies.
 
-**Critical Implication**: A person may be:
-- Resident in one country under its domestic law
-- Non-resident in another country under its domestic law
-- **Dual resident** if both countries' domestic laws treat them as resident
+Exceptions to presence-based residence include closer connection tests (for individuals maintaining stronger ties elsewhere), treaty tie-breakers, and exemptions for specific categories such as students and diplomats.
 
-**Why This Creates Problems**:
-- Different countries use different tests (physical presence, domicile, incorporation, management)
-- Tests may produce conflicting results
-- Dual residence leads to double taxation unless resolved by treaty
+#### 2.2. The UK Statutory Residence Test
 
-### 1.2. Types of Residence Tests
+The United Kingdom introduced the Statutory Residence Test in 2013, replacing the previous case law-based approach that had become difficult to apply in an era of increased international mobility. The SRT represents the most sophisticated domestic residence test currently in operation, using a three-tier structure that combines objective criteria with subjective assessments. *(covered in June 2022)*
 
-States generally use one or more of the following approaches:
+The first tier comprises automatic overseas tests. An individual meeting any of these tests is automatically non-resident regardless of other factors. The tests cover scenarios including: resident in one or more of the previous three years but present fewer than 16 days; not resident in any of the previous three years and present fewer than 46 days; and working full-time overseas with limited UK presence and work days.
 
-| Test Category | Basis | Example Countries |
-|--------------|-------|-------------------|
-| **Physical presence** | Days spent in country | USA (183-day), Australia, many others |
-| **Permanent home** | Available accommodation | UK (SRT), Germany |
-| **Centre of vital interests** | Personal/economic ties | France, Switzerland |
-| **Domicile** | Permanent home + intention | UK (for certain purposes) |
-| **Incorporation** | Place of legal formation | USA, UK, Ireland |
-| **Place of management** | Where decisions made | Germany, India, many civil law countries |
+The second tier provides automatic UK tests establishing residence. These include presence for 183 or more days, having a home in the UK for more than 90 days with no overseas home (or limited presence at any overseas home), and working sufficient hours in the UK with more than 75% of working days in the country.
 
----
+Where neither automatic test applies, the third tier—the sufficient ties test—determines residence through a combination of days present and connections to the UK. The five ties considered are: family (spouse or minor children resident in UK); accommodation (available for at least 91 days, used at least one night); work (40 or more UK working days); 90-day tie (more than 90 days in UK in either of prior two years); and country tie (for leavers only, where UK is the country of greatest presence). The number of ties required for residence decreases as days of presence increase, ranging from four ties for 16-45 days down to one tie for 121-182 days.
 
-## 2. Individual Residence: State Practice
+#### 2.3. Other State Practice
 
-### 2.1. Physical Presence Tests
+France determines residence through a combination of tests, treating an individual as resident if any of the following applies: their primary home (foyer) is in France; their principal place of abode is in France; they exercise a non-ancillary professional activity in France; or France is the centre of their economic interests.
 
-The most common approach uses **number of days** present in the country.
+Germany applies a simpler approach based on maintaining a dwelling (*Wohnung*) in Germany or having a habitual abode through more than six months of continuous presence. The dwelling need not be owned; any accommodation available for use suffices. Australia uses a combination approach examining ordinary residence under the common law meaning, domicile (unless a permanent place of abode is established outside Australia), and the 183-day presence test. An individual satisfying any of these tests becomes an Australian resident for tax purposes.
 
-#### The 183-Day Rule
+These variations in domestic law create the potential for simultaneous residence in multiple jurisdictions—a problem that tax treaties seek to resolve but cannot eliminate at the domestic law level.
 
-Many countries use 183 days (half a year) as a threshold:
+### 3. Corporate Residence: State Practice
 
-| Jurisdiction | 183-Day Rule Details |
-|-------------|---------------------|
-| **Most countries** | Present ≥183 days in tax year = resident |
-| **OECD MTC Art. 15** | 183-day threshold for employment income taxation |
-| **USA (SPT)** | Modified: weighted average over 3 years |
-| **UK** | 183 days = automatic UK residence under SRT |
+#### 3.1. Place of Incorporation Test
 
-**How Days Are Counted**:
-- Generally: Present at **midnight** = 1 day counted
-- Some countries count arrival/departure days
-- "Exceptional circumstances" days may be excluded (UK: up to 60 days)
+Under the incorporation test, a company is resident in the jurisdiction where it is legally formed and registered. This provides maximum certainty—the certificate of incorporation definitively establishes residence. The United States uses incorporation as its primary test, and the UK applies it alongside the management test for companies incorporated in the UK.
 
-#### US Substantial Presence Test (SPT)
+The simplicity of this test is also its weakness. Companies can easily incorporate in jurisdictions with favourable tax regimes while conducting all substantive activities elsewhere. This form-over-substance approach facilitated the creation of "letterbox companies" with no genuine presence in their country of incorporation, prompting many jurisdictions to adopt management-based tests either as alternatives or supplements.
 
-The US uses a sophisticated **3-year weighted formula**:
+#### 3.2. Place of Effective Management
 
-```
-SUBSTANTIAL PRESENCE TEST CALCULATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Formula:
-  Current year days × 1.0
-+ Prior year days × 1/3
-+ Second prior year days × 1/6
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-≥ 183 days = Meets SPT (potentially US resident)
+The place of effective management test determines corporate residence based on where key management and commercial decisions are made in substance. This approach focuses on the reality of how a company operates rather than its formal legal registration.
 
-PLUS: Must have ≥31 days in current year
+The foundational authority is *De Beers Consolidated Mines Ltd v Howe* [1906] AC 455, where the House of Lords held that a company incorporated in South Africa was resident in London because its board of directors met and made all key decisions there. Lord Loreburn LC stated that "a company resides for purposes of income tax where its real business is carried on... and the real business is carried on where the central management and control actually abides." The case established that residence follows substance over form, looking to where decisions are actually made rather than where the company is registered. *(covered in December 2022)*
 
-Example:
-Year 2024: 120 days × 1.0 = 120
-Year 2023: 120 days × 1/3 = 40
-Year 2022: 120 days × 1/6 = 20
-                    Total = 180 days
+Subsequent cases refined this principle. *Unit Construction Co Ltd v Bullock* [1959] examined where vital business decisions were made, emphasising highest-level control over operational decisions. *Wood v Holden* [2006] confirmed that board meeting location is significant but not determinative. *Laerstate BV v HMRC* [2009] emphasised actual management activities over formal control.
 
-Result: Does NOT meet SPT (below 183)
-```
+The OECD Commentary provides guidance on determining POEM, directing examination of where the board meets, where senior management makes decisions, where day-to-day management occurs, where business records are kept, and where strategic decisions are formulated. The fundamental principle is that there can be only one POEM at any given time.
 
-**Exceptions to SPT**:
-- Closer connection exception (tax home + closer ties elsewhere)
-- Treaty tie-breaker (if dual resident under SPT + other country's test)
-- Exempt individuals (F-1 students for 5 years, J-1 scholars for 2 years)
+#### 3.3. The Seat Test
 
-### 2.2. UK Statutory Residence Test (SRT)
+Continental European jurisdictions commonly apply the seat test, which examines where the company's head office or registered office is located. Unlike the central management and control test, which focuses on where decisions are actually made, the seat test considers where day-to-day management and operational control are exercised. France and Germany both use seat-based criteria, which may produce different results from the UK's central management and control approach when a company's formal seat differs from where its highest-level decisions are taken.
 
-The UK's SRT (introduced 2013) is the most sophisticated domestic residence test globally. It uses a **three-tier structure**:
+### 4. Treaty Tie-Breaker Rules
 
-#### Tier 1: Automatic Overseas Tests (Non-Residence)
+#### 4.1. Individual Tie-Breakers
 
-Meet **any one** of these = automatically non-resident:
+When an individual is resident in both contracting states under their respective domestic laws, Article 4(2) of the OECD Model provides a sequential hierarchy to determine treaty residence. The tests are applied in order until one resolves the issue.
 
-| Test | Requirement |
-|------|-------------|
-| **First automatic overseas** | UK resident in ≥1 of prior 3 years AND <16 days in UK in current year |
-| **Second automatic overseas** | NOT UK resident in any of prior 3 years AND <46 days in UK in current year |
-| **Third automatic overseas** | Work full-time overseas, <91 days in UK, <31 UK work days |
+The first test examines permanent home. If the individual has a permanent home available in only one state, they are resident there. If homes exist in both states, residence is determined by the centre of vital interests—the state with which personal and economic relations are closer. Relevant factors include family location, social connections, employment, business activities, investments, and administrative ties.
 
-#### Tier 2: Automatic UK Tests (Residence)
+If the centre of vital interests cannot be determined or no permanent home exists in either state, the second test considers habitual abode—where the individual stays more regularly over time. Failing this, the third test looks to nationality. If none of these tests resolves the matter, or if the individual is a national of both or neither state, the competent authorities must settle the question by mutual agreement. *(covered in December 2023)*
 
-If no automatic overseas test met, meet **any one** of these = automatically UK resident:
+#### 4.2. Corporate Tie-Breakers
 
-| Test | Requirement |
-|------|-------------|
-| **183-day test** | ≥183 days in UK |
-| **UK home test** | Home in UK for >90 days + no overseas home (or present <30 days in overseas home) |
-| **Full-time UK work** | Work sufficient hours in UK (average 35/week), >75% UK work days |
+For entities other than individuals, the 2017 update to the OECD Model Tax Convention fundamentally changed the tie-breaker approach. Previously, Article 4(3) specified that dual-resident entities would be treated as resident only in the state where their place of effective management was situated.
 
-#### Tier 3: Sufficient Ties Test
+The revised Article 4(3) replaced this automatic rule with a case-by-case determination through the Mutual Agreement Procedure. The competent authorities must endeavour to determine residence by mutual agreement, having regard to the place of effective management, place of incorporation, and any other relevant factors.
 
-If neither automatic test applies, residence depends on **combination of days + ties**:
+#### 4.3. Implications of the 2017 Changes
 
-**UK Ties** (5 possible):
-1. **Family tie**: Spouse/civil partner or minor child resident in UK
-2. **Accommodation tie**: UK accommodation available ≥91 days, used ≥1 night
-3. **Work tie**: ≥40 UK work days in year
-4. **90-day tie**: >90 days in UK in either of prior 2 years
-5. **Country tie** (leavers only): Present in UK at midnight more days than any other country
+The shift to MAP for corporate residence reflects recognition that POEM alone may be inadequate for determining residence in an era of virtual meetings, distributed management teams, and algorithmic decision-making. The change also addresses concerns about POEM manipulation through carefully staged board meetings.
 
-**Days/Ties Matrix for Leavers** (resident in ≥1 of prior 3 years):
+However, the MAP approach introduces uncertainty. If the competent authorities cannot reach agreement, the entity is not entitled to any treaty relief or exemption except to the extent specifically agreed between the authorities. This creates significant practical consequences for companies facing genuine dual residence situations, as their treaty entitlement becomes contingent on administrative resolution rather than application of objective criteria.
 
-| Days in UK | Ties Needed for Residence |
-|------------|---------------------------|
-| <16 | Automatic non-resident |
-| 16-45 | 4+ ties |
-| 46-90 | 3+ ties |
-| 91-120 | 2+ ties |
-| 121-182 | 1+ ties |
-| ≥183 | Automatic resident |
-
-### 2.3. Other State Practice Examples
-
-#### France
-
-**Resident if ANY of**:
-- Primary home (*foyer*) in France
-- Principal place of abode in France
-- Professional activity in France (unless ancillary)
-- Centre of economic interests in France
-
-#### Germany
-
-**Resident if**:
-- Dwelling (*Wohnung*) in Germany, OR
-- Habitual abode in Germany (>6 months continuous presence)
-
-#### Australia
-
-Uses a **combination approach**:
-- Resides in Australia (ordinary meaning)
-- Domiciled in Australia (unless permanent place of abode outside)
-- Present ≥183 days (unless usual place of abode outside)
-- Commonwealth superannuation fund member
-
----
-
-## 3. Corporate Residence: State Practice
-
-### 3.1. The Two Primary Tests
-
-Corporate residence is determined by one of two main tests:
-
-| Test | Basis | Advantages | Disadvantages |
-|------|-------|------------|---------------|
-| **Incorporation** | Where legally formed | Simple, certain, objective | Easy to manipulate |
-| **Place of Effective Management (POEM)** | Where key decisions made | Substance-based, harder to manipulate | Uncertain, subjective |
-
-### 3.2. Place of Incorporation Test
-
-**How It Works**: A company is resident where it is legally incorporated/registered.
-
-**Countries Using This Test**:
-- United States (primary test)
-- United Kingdom (as one of two tests)
-- Ireland, Netherlands (alongside management tests)
-
-**Advantages**:
-- Simple and certain
-- Easy to determine
-- Provides planning certainty
-
-**Disadvantages**:
-- Easily manipulated (incorporate in tax haven, manage elsewhere)
-- Form over substance
-- Facilitates stateless income structures
-
-### 3.3. Place of Effective Management (POEM)
-
-**Definition**: POEM is where key management and commercial decisions necessary for the conduct of business are **in substance made**.
-
-**Leading Case**: ***De Beers Consolidated Mines Ltd v Howe*** [1906] AC 455 (House of Lords)
-
-This foundational case established the "central management and control" test for corporate residence that underpins the modern POEM concept. De Beers was incorporated in South Africa but its board of directors met and made all key decisions in London.
-
-**Lord Loreburn LC held**:
-> "A company resides for purposes of income tax where its real business is carried on... and the real business is carried on where the central management and control actually abides."
-
-The case established that:
-- A company can only have **one** residence at any given time
-- The test looks to **substance over form** - where decisions are actually made, not where the company is registered
-- **Central management and control** means the highest level of strategic decision-making, typically by the board of directors
-
-This principle remains good law and is reflected in the OECD Commentary's approach to POEM.
-
-**OECD Commentary Guidance on POEM**:
-
-> "The place of effective management is the place where key management and commercial decisions that are necessary for the conduct of the entity's business as a whole are in substance made. All relevant facts and circumstances must be examined to determine the place of effective management."
-
-**Factors to Consider**:
-
-| Factor | Questions to Ask |
-|--------|------------------|
-| **Board meetings** | Where are they held? Who attends? |
-| **Senior management** | Where do they live and work? |
-| **Day-to-day management** | Where are operational decisions made? |
-| **Business records** | Where are books and records kept? |
-| **Bank accounts** | Where are they operated from? |
-| **Strategic decisions** | Where are major business decisions made? |
-
-**Key Principle**: There can be **only one POEM** at any given time. The test looks for where decisions are made **in substance**, not just where formal meetings occur.
-
-#### India's POEM Rules (Illustrative Example)
-
-India introduced detailed POEM guidance in 2017:
-
-**For companies with turnover ≤₹50 crore in any financial year** (active business outside India):
-- POEM presumed to be outside India if majority of board meetings held outside India
-
-**For other companies**, POEM determined by examining:
-1. Where board decisions taken and board meetings held
-2. Where senior management decisions taken
-3. Where executive decisions taken
-4. Where company's head office located
-5. Where main and substantial activity carried out
-
-### 3.4. Dual Corporate Residence Scenarios
-
-**Problem**: A company incorporated in Country A may be managed from Country B, creating dual residence.
-
-**Example**:
-```
-ALGERO CORPORATION (Dec 2022 Q6 Pattern)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Country A: Incorporation test
-  → Algero incorporated in Country A = Resident
-
-Country B: POEM test
-  → Management team in Country B
-  → Key decisions made in Country B
-  → Board meetings sometimes in Country B
-  = Potentially Resident
-
-Result: Dual residence requiring treaty resolution
-```
-
-### 3.5. 2017 OECD MTC Changes for Corporate Residence
-
-**Pre-2017**: Article 4(3) used POEM as the tie-breaker for dual-resident companies
-
-**Post-2017**: Article 4(3) replaced POEM tie-breaker with **Mutual Agreement Procedure (MAP)**:
-
-> "Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, the competent authorities of the Contracting States shall endeavour to determine by mutual agreement the Contracting State of which such person shall be deemed to be a resident..."
-
-**Factors for MAP determination**:
-- Place of effective management
-- Place of incorporation
-- Any other relevant factors
-
-**Critical Point**: If no agreement reached, the company is **not entitled to treaty benefits** (except as agreed between competent authorities).
-
----
-
-## 4. Treaty Tie-Breaker Rules (Article 4 OECD MTC)
-
-### 4.1. Individual Tie-Breaker Rules (Article 4(2))
-
-When an individual is resident in both states under domestic law, Article 4(2) provides a **sequential hierarchy**:
-
-```
-INDIVIDUAL TIE-BREAKER HIERARCHY (ARTICLE 4(2) OECD MTC)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Step 1: PERMANENT HOME TEST
-  (a) Home in ONE state only → Resident of that state (STOP)
-  (b) Home in BOTH states → Apply Centre of Vital Interests (sub-test)
-      → CVI = state with closer personal AND economic relations
-      → Consider: family, social ties, business, investments
-      → If CVI resolves → Resident of that state (STOP)
-      → If CVI cannot be determined → Go to Step 2
-  (c) Home in NEITHER state → Go to Step 2
-
-Step 2: HABITUAL ABODE
-  → Resident of state where individual habitually lives
-  → Based on frequency, duration, regularity of stays over time
-  → If habitual abode in both/neither, go to Step 3
-
-Step 3: NATIONALITY
-  → Resident of state of which individual is national
-  → If national of both/neither, go to Step 4
-
-Step 4: MUTUAL AGREEMENT PROCEDURE
-  → Competent authorities must resolve by agreement
-  → Individual not entitled to treaty benefits until resolved
-```
-
-### 4.2. Applying the Tie-Breaker: Worked Example
-
-```
-SCENARIO: Maria's Dual Residence
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Facts:
-- Portuguese national
-- Employed in UK, spends 200 days/year in UK
-- House available in both UK and Portugal
-- Spouse and children live in Portugal
-- Bank accounts in both countries
-- UK employer, Portuguese property investments
-
-ANALYSIS:
-
-Step 1: Permanent Home Test
-→ Home available in UK (rented apartment) ✓
-→ Home available in Portugal (family house) ✓
-→ BOTH have permanent homes → Apply CVI sub-test
-
-Step 1 (CVI sub-test): Centre of Vital Interests
-Personal relations:
-  → Spouse and children in Portugal (+Portugal)
-  → Social life primarily in Portugal (+Portugal)
-Economic relations:
-  → Employment in UK (+UK)
-  → Investments primarily in Portugal (+Portugal)
-→ On balance, CLOSER TIES TO PORTUGAL
-→ CVI resolves the issue → STOP (no need for Step 2)
-
-RESULT: Maria is treated as resident ONLY of Portugal
-for treaty purposes, despite spending more time in UK.
-```
-
----
-
-## 5. Evolution of Residence Tests and Policy Debates
-
-### Historical Development
-
-The concept of tax residence has evolved significantly over time:
-
-**19th Century**: Simple domicile/presence tests sufficient for relatively immobile populations
-
-**20th Century**: 183-day rules became standard as international travel increased
-
-**21st Century**: Sophisticated multi-factor tests (like UK SRT) needed to address:
-- Digital nomads and remote workers
-- Frequent travellers
-- International families
-- Mobile entrepreneurs
-
-### The Policy Tension: Certainty vs. Substance
-
-Residence tests face an inherent trade-off:
-
-| Approach | Certainty | Manipulation Risk | Example |
-|----------|-----------|-------------------|---------|
-| **Bright-line rules** (183 days) | High | High | Day-counting to stay under threshold |
-| **Subjective tests** (CVI) | Low | Low | Genuine ties harder to fake |
-| **Hybrid** (UK SRT) | Medium | Medium | Complexity creates own manipulation opportunities |
-
-The UK's 2013 shift to SRT reflects recognition that purely day-count rules were insufficient—but the complexity created new planning opportunities.
-
-### Corporate Residence in the Digital Age
-
-Traditional POEM concepts assume physical board meetings and identifiable management locations. Modern business reality challenges these assumptions:
-
-**Virtual Board Meetings**: Directors participate from multiple jurisdictions simultaneously—where is the "place" of meeting?
-
-**Distributed Management**: Senior executives work remotely across different countries—no single POEM location exists.
-
-**Algorithmic Decision-Making**: Some business decisions made by automated systems located on servers in data centres—is that the POEM?
-
-**Policy Responses**:
-- 2017 OECD MTC moved to MAP for corporate tie-breakers (acknowledging POEM difficulties)
-- Some countries considering "significant people functions" tests
-- Pillar One effectively bypasses residence for largest MNEs
-
-#### The Arbitrage Problem
-
-Differences in domestic residence rules create arbitrage opportunities:
-
-**Example**: "Nowhere" Residence
-```
-Country A: Residence based on presence (183+ days)
-Country B: Residence based on domicile (intention to remain)
-
-Individual Strategy:
-- Spend 180 days in Country A (below threshold)
-- Present in Country B but claim no intention to remain
-- Potentially resident in neither country
-```
-
-**Example**: "Double" Residence
-```
-Country A: Resident based on home availability
-Country B: Resident based on 90+ days presence
-
-Individual could be resident in both simultaneously,
-accessing treaty benefits of both countries with
-third parties while potentially abusing Common Reporting
-Standard (CRS) and Foreign Account Tax Compliance Act (FATCA)
-classifications.
-```
-
-These arbitrage opportunities explain why information exchange (CRS) requires residence self-certification and why treaty anti-abuse provisions have expanded.
-
----
-
-## 6. Exam Application Framework
-
-### Recognition Triggers
-
-| Trigger Phrase | Analysis Required |
-|----------------|-------------------|
-| "spent X days in Country Y" | Physical presence test |
-| "home in both countries" | Permanent home + CVI analysis |
-| "employed in X, family in Y" | CVI analysis |
-| "incorporated in A, managed from B" | Corporate residence, POEM |
-| "dual resident" | Article 4 tie-breaker |
-| "board meets in various locations" | POEM uncertainty |
-
-### Answer Structure for Residence Determination Questions
-
-**For 25-mark scenario questions** (e.g., Mykola, Zara/Maryam patterns):
-
-```
-1. IDENTIFY DOMESTIC LAW TESTS (6 marks, 10 min)
-   - State Country A's residence test
-   - State Country B's residence test
-   - Apply facts to each test
-
-2. DETERMINE DOMESTIC LAW RESULTS (6 marks, 10 min)
-   - Is person resident in Country A?
-   - Is person resident in Country B?
-   - Is there dual residence?
-
-3. APPLY TREATY TIE-BREAKER IF NEEDED (8 marks, 15 min)
-   - Article 4(2) hierarchy for individuals
-   - Article 4(3) MAP for companies
-   - Apply facts to each step sequentially
-
-4. CONCLUSION (5 marks, 8 min)
-   - State treaty residence
-   - Explain tax implications
-   - Note any uncertainties
-```
-
----
-
-## 7. Worked Exam Example
-
-### June 2022, Question 7 - Mykola Case (25 marks)
-
-**Scenario Summary**:
-- Mykola moves from Country U to Country X for work
-- Initially 3-month assignment, extended to 18 months
-- Country U: 8-month absence test (absent >8 months = non-resident)
-- Country X: 183-day presence test (present >183 days = resident)
-- Owns home in Country U, rents apartment in Country X
-- Family remains in Country U initially
-
-**Model Answer Structure**:
-
-**Part 1: Country U Residence Status**
-
-Under Country U domestic law, Mykola becomes non-resident if absent for more than 8 continuous months.
-
-*Year 1*: Initially present for first part of year, then absent from [date]. If absence continues >8 months, non-resident from start of absence.
-
-*Year 2*: If absence continues, remains non-resident.
-
-However, continuing ownership of home in Country U may be relevant if Country U has secondary residence tests based on home availability.
-
-**Part 2: Country X Residence Status**
-
-Under Country X domestic law, Mykola becomes resident if present for more than 183 days in a tax year.
-
-*Year 1*: If starts July, maximum 184 days (July-December) = potentially resident if present throughout.
-
-*Year 2*: Full year present = clearly >183 days = resident.
-
-**Part 3: Dual Residence Analysis**
-
-If Mykola is resident in both countries (Country U not yet treating as non-resident while Country X treats as resident), Article 4(2) tie-breaker applies:
-
-*Step 1: Permanent Home Test*
-- Country U: Owned home remains available ✓
-- Country X: Rented apartment available ✓
-- Both have permanent homes → Apply CVI sub-test
-
-*Step 1 (CVI sub-test): Centre of Vital Interests*
-- Personal: Family in Country U (+U)
-- Economic: Employment in Country X (+X)
-- Need to weigh factors...
-
-**Conclusion**: Result depends on how tribunal weighs personal vs. economic ties. If family location considered paramount, Country U residence. If employment location considered more significant, Country X residence.
-
+The Multilateral Instrument implements this change for countries that have opted in, though empirical analysis indicates that place of effective management remains predominant in actual treaty practice, with MAP adoption increasing only marginally following MLI implementation. For practitioners, this means that the traditional POEM analysis remains relevant both for domestic law purposes and for understanding how competent authorities are likely to approach residence determinations under the new regime.
