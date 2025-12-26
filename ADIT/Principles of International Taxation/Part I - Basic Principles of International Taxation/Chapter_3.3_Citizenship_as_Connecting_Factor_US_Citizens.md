@@ -4,31 +4,7 @@
 
 ---
 
-```
-EXAM INTELLIGENCE: Citizenship-Based Taxation
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frequency: 0% direct testing (2020-2025) | Indirectly relevant: 20%
-Mark Range: N/A - foundational background knowledge
-Syllabus Level: 1 (broad understanding required)
-
-Exam Relevance:
-  • Not directly examined in recent papers
-  • Background knowledge for treaty saving clause analysis
-  • Relevant when scenarios involve US persons
-  • Supports understanding of double taxation causes
-
-Strategic Priority: ★★☆☆☆ AWARENESS LEVEL
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHY THIS MATTERS: While not directly tested, understanding citizenship-
-based taxation explains why US treaties include saving clauses and why
-US persons face unique international tax challenges. Essential context
-for any cross-border scenario involving Americans.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. CONCEPT FOUNDATION
+## 1. CONCEPT FOUNDATION
 
 ### 1. What Is Citizenship-Based Taxation?
 
@@ -55,7 +31,7 @@ Only **two countries** in the world tax based on citizenship:
 
 ---
 
-## B. THE US SYSTEM: HOW IT WORKS
+## 2. THE US SYSTEM: HOW IT WORKS
 
 ### 1. Who Is Subject to US CBT?
 
@@ -65,7 +41,7 @@ Only **two countries** in the world tax based on citizenship:
 |----------|-------------|
 | **US Citizens** | Anyone with US citizenship, including dual citizens |
 | **Green Card Holders** | Lawful permanent residents |
-| **Substantial Presence** | Non-citizens meeting the 183-day SPT test |
+| **Substantial Presence** | Non-citizens meeting the 183-day SPT (Substantial Presence Test) test |
 
 **Critical Point**: A US citizen living abroad for 30 years, earning only foreign income, with no US assets, must still file US tax returns and potentially pay US tax.
 
@@ -74,8 +50,8 @@ Only **two countries** in the world tax based on citizenship:
 | Requirement | Threshold | Form |
 |-------------|-----------|------|
 | **Tax Return** | Income exceeds filing threshold (~$14,600 single, 2024) | Form 1040 |
-| **FBAR** | Foreign accounts >$10,000 aggregate at any time | FinCEN 114 |
-| **FATCA** | Foreign financial assets >$200,000 (single abroad) | Form 8938 |
+| **FBAR (Foreign Bank Account Report)** | Foreign accounts >$10,000 aggregate at any time | FinCEN 114 |
+| **FATCA (Foreign Account Tax Compliance Act)** | Foreign financial assets >$200,000 (single abroad) | Form 8938 |
 | **Foreign Corporations** | Own >10% of foreign corporation | Form 5471 |
 | **Foreign Trusts** | Beneficiary/transferor to foreign trust | Forms 3520/3520-A |
 
@@ -109,7 +85,7 @@ The US provides relief to prevent double taxation:
 
 ---
 
-## C. THE TREATY SAVING CLAUSE
+## 3. THE TREATY SAVING CLAUSE
 
 ### 1. What Is the Saving Clause?
 
@@ -157,7 +133,7 @@ Most US treaties list specific articles **exempt** from the saving clause:
 
 ---
 
-## D. IMPLICATIONS AND PROBLEMS
+## 4. IMPLICATIONS AND PROBLEMS
 
 ### 1. Double Taxation Exposure
 
@@ -209,13 +185,13 @@ US citizens considering renunciation face:
 | Issue | Requirement |
 |-------|-------------|
 | **Exit Tax** | Mark-to-market on unrealized gains (covered expatriates) |
-| **Covered Expatriate** | Net worth >$2M OR average tax liability >$190,000 (2024) |
+| **Covered Expatriate** | Net worth >$2M OR average tax liability >$201,000 (2024) |
 | **Tax Compliance** | Must certify 5 years tax compliance |
 | **Administrative** | State Department fee of $2,350 |
 
 ---
 
-## E. HISTORICAL AND POLICY CONTEXT
+## 5. HISTORICAL AND POLICY CONTEXT
 
 ### Historical Origins of US Citizenship-Based Taxation
 
@@ -270,92 +246,3 @@ CBT affects international tax planning involving US persons:
 - Non-US children may become "accidental Americans" through birth
 - Inheritance from US citizen has different implications
 
----
-
-## F. EXAM APPLICATION
-
-### When Citizenship-Based Taxation Is Relevant
-
-Look for these triggers in exam questions:
-
-| Trigger | Analysis Required |
-|---------|-------------------|
-| "US citizen" mentioned | Consider CBT implications |
-| "Saving clause" referenced | Explain how it preserves US taxing right |
-| "American living abroad" | Note FTC/FEIE relief mechanisms |
-| "Dual citizen including US" | US retains taxing right regardless of residence |
-| "Treaty benefits for US person" | Saving clause may block benefits |
-
-### If Tested: Answer Structure
-
-**For scenario involving US citizen abroad**:
-
-1. **State the CBT rule** (2 marks)
-   - US taxes citizens on worldwide income regardless of residence
-
-2. **Explain treaty position** (3 marks)
-   - Saving clause preserves US taxing right
-   - Most treaty benefits unavailable to US citizens
-
-3. **Identify relief mechanisms** (4 marks)
-   - FEIE ($126,500 exclusion for 2024)
-   - FTC (credit for foreign taxes paid)
-
-4. **Apply to facts** (remaining marks)
-   - Identify income types and applicable relief
-   - Note compliance requirements
-
----
-
-## G. KEY TAKEAWAYS
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CITIZENSHIP-BASED TAXATION - EXAM ESSENTIALS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. ONLY TWO COUNTRIES: USA and Eritrea use citizenship-based
-   taxation; all others use residence or territorial systems
-
-2. US CITIZENS: Taxed on worldwide income regardless of where
-   they live or earn income
-
-3. SAVING CLAUSE: Preserves US right to tax citizens; renders
-   most treaty benefits unavailable to Americans
-
-4. RELIEF MECHANISMS: FEIE ($126,500 exclusion 2024) and FTC
-   (foreign tax credit) prevent double taxation
-
-5. COMPLIANCE BURDEN: US citizens abroad must file returns,
-   FBAR, FATCA even if no US tax owed
-
-6. BANKING ISSUES: FATCA causes foreign banks to refuse US
-   persons, creating practical difficulties
-
-7. EXIT TAX: Renouncing citizenship triggers exit tax for
-   covered expatriates (>$2M net worth)
-
-8. EXAM RELEVANCE: Level 1 awareness topic; not directly
-   tested but relevant background for treaty analysis
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- US Internal Revenue Code §§1, 61, 901, 911
-- FATCA (IRC §§1471-1474)
-- US Model Tax Convention
-
-**Web Resources**:
-- [IRS - US Citizens Abroad](https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad)
-- [FEIE Requirements (IRS)](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion)
-- [Citizenship-Based Taxation (Greenback)](https://www.greenbacktaxservices.com/knowledge-center/difference-residency-based-taxation-citizenship-based-taxation/)
-- [Saving Clause Explained (Bright!Tax)](https://brighttax.com/blog/do-tax-treaties-protect-us-expats-from-double-taxation/)
-
----
-
-*Chapter 3.3 | Exam Focus: Principles of International Taxation*
