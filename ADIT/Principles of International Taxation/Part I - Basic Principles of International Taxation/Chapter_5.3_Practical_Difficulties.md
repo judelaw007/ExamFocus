@@ -1,714 +1,135 @@
-# Chapter 5.3: Practical Difficulties in Applying Relief by Credit and Relief by Exemption
-
-## Implementation Challenges in the Real World
-
----
-
-```
-EXAM INTELLIGENCE: Practical Difficulties
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Reference: E.3 - Practical difficulties in applying
-                    relief by credit and relief by exemption
-Syllabus Level: 3 (Advanced knowledge, interpretive analysis)
-
-Past Exam Occurrences (2022-2025):
-  • June 2025 Q5 (25 marks): FTC policy under Article 23B -
-    whether Country X must grant FTC for "Market Presence
-    Adjustment" that may not qualify as creditable tax
-  • December 2024 Q5 (25 marks): Linking rules vs tax
-    harmonisation for hybrid mismatches - practical difficulties
-    when exemption creates double non-taxation
-  • December 2022 Q2 (25 marks): Systems of relief - practical
-    considerations in choosing between credit and exemption
-
-Frequency: Practical difficulties appear in ~50% of relief
-           method questions; directly examined 2 times in 8 exams
-
-Key Question Patterns:
-  • "What qualifies as a creditable foreign tax?"
-  • "Discuss practical difficulties in claiming relief"
-  • "When does exemption create double non-taxation?"
-  • Part B scenarios with timing, currency, or hybrid issues
-
-Examiner Focus:
-  • Foreign tax qualification (the "is it a tax?" question)
-  • Timing mismatches between jurisdictions
-  • Excess credit limitations and basket rules
-  • Subject-to-tax and switch-over complications
-  • Hybrid mismatch outcomes and linking rules
-
-Strategic Priority: ★★★★★ CRITICAL - Often the differentiating
-                   factor in Part B scenario questions
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. THE GAP BETWEEN THEORY AND PRACTICE
-
-### 1. Why This Topic Matters
-
-The theoretical operation of relief methods appears elegant in treaty articles:
-- **Credit (Article 23B)**: "Credit shall be allowed equal to the tax paid"
-- **Exemption (Article 23A)**: "Shall exempt such income from tax"
-
-In practice, these simple statements mask extraordinary complexity. This chapter examines what happens when theory meets reality across 200+ sovereign tax jurisdictions, each with different rules on timing, currency, income classification, and administration.
-
-**Exam Relevance**: Practical difficulties often transform straightforward Part A questions into challenging policy discussions. In Part B scenarios, identifying practical difficulties demonstrates sophisticated understanding that earns top marks.
-
-### 2. Categories of Practical Difficulty
-
-```
-PRACTICAL DIFFICULTIES: OVERVIEW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CREDIT METHOD DIFFICULTIES:
-┌─────────────────────────────────────────────────────────────┐
-│ • What qualifies as a creditable "tax"?                     │
-│ • How to handle timing mismatches between jurisdictions?    │
-│ • What exchange rate for currency conversion?               │
-│ • What to do with excess credits?                           │
-│ • How to apply limitation rules (baskets, per-country)?    │
-│ • How to prove foreign tax was paid?                        │
-└─────────────────────────────────────────────────────────────┘
-
-EXEMPTION METHOD DIFFICULTIES:
-┌─────────────────────────────────────────────────────────────┐
-│ • How to calculate exemption with progression?              │
-│ • What if source state doesn't actually tax the income?    │
-│ • When do switch-over clauses apply?                        │
-│ • How to treat foreign losses?                              │
-│ • What about hybrid mismatches?                             │
-│ • How to verify source state taxation occurred?             │
-└─────────────────────────────────────────────────────────────┘
-
-COMMON TO BOTH METHODS:
-┌─────────────────────────────────────────────────────────────┐
-│ • Income classification differences between countries       │
-│ • Documentation and verification requirements               │
-│ • Administrative delays and audit cycles                    │
-│ • Treaty interpretation disputes                            │
-└─────────────────────────────────────────────────────────────┘
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## Chapter 5.3: Practical Difficulties in Applying Relief Methods
 
----
+### 1. The Gap Between Theory and Practice
 
-## B. CREDIT METHOD: WHAT IS A CREDITABLE "TAX"?
+The theoretical operation of relief methods appears straightforward in treaty provisions. Article 23B of the OECD Model provides that credit shall be allowed equal to the tax paid; Article 23A states that the residence state shall exempt foreign income from tax. These simple formulations mask extraordinary practical complexity when applied across more than two hundred sovereign tax jurisdictions, each maintaining different rules on timing, currency, income classification, and administrative procedure.
 
-### 1. The Fundamental Question
+Understanding practical difficulties matters because these challenges determine whether relief actually achieves its purpose of eliminating double taxation. A taxpayer may be entitled to relief in principle yet find that entitlement impossible to realise due to timing mismatches, documentation requirements, or limitation structures. The gap between theoretical entitlement and practical relief represents one of the most significant sources of residual double taxation in the modern international tax system. *(covered in December 2022)*
 
-Not every payment to a foreign government qualifies for credit. The residence state must determine whether the foreign levy is actually an **income tax** entitled to relief.
+Practical difficulties affect both the credit and exemption methods, though they manifest differently. Credit method difficulties centre on determining what qualifies for credit, applying limitation rules, and addressing timing and currency issues. Exemption method difficulties relate to calculating progression, treating foreign losses, and applying subject-to-tax conditions. Both methods share challenges around documentation, verification, and dealing with classification mismatches between jurisdictions.
 
-**Concept-Focused Example: June 2025 Q5 Scenario**
+### 2. Credit Method: The Creditability Question
 
-The June 2025 exam asked whether a residence state must grant FTC for a foreign "Market Presence Adjustment" (MPA) that:
-- Applies to non-residents based on user activity
-- Is calculated on gross receipts (no deductions)
-- Operates outside the source state's corporate income tax system
-- Is called a "market-based contribution" in domestic law
+#### 2.1. Determining Whether a Foreign Levy Qualifies
 
-This exemplifies the core exam question: **Is this payment a creditable tax?**
+Not every payment to a foreign government qualifies for foreign tax credit. The residence state must determine whether the foreign levy constitutes an income tax entitled to relief under its domestic law and applicable treaty. This creditability determination represents one of the most contested areas in international taxation, with significant consequences for taxpayers and revenue authorities alike.
 
-### 2. The Creditability Test
+Most countries apply a multi-factor test for creditability. The first consideration is whether the levy is compulsory. Voluntary payments or contributions, even if made to a government, do not qualify for credit. The payment must be required by law rather than made by choice.
 
-Most countries apply a multi-factor test for creditability:
+The second and most significant factor is whether the levy constitutes an income tax or its equivalent. This requires analysis of whether the tax applies to realised net gain or profit, whether the taxpayer can deduct costs and expenses in computing the tax base, and whether the calculation bears a reasonable relationship to net income rather than gross receipts. Taxes on turnover, property, or transactions generally fail this test and do not qualify for credit.
 
-```
-IS THE FOREIGN LEVY CREDITABLE?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The third consideration is whether the levy is final. If the taxpayer can obtain a refund of the foreign payment, credit should only be available for the non-refundable portion. Some systems allow credit for the full amount initially, with adjustments required if refunds are subsequently claimed.
 
-STEP 1: Is it COMPULSORY?
-        │
-        No → Not creditable (voluntary contributions excluded)
-        │
-        Yes ↓
+The fourth factor addresses whether the foreign tax relates to the same income being taxed by the residence state. Where the tax base differs significantly between jurisdictions, apportionment may be required to match the credit to the relevant income.
 
-STEP 2: Is it an INCOME tax (or equivalent)?
-        │
-        │   Key factors:
-        │   • Based on realised net gain/profit?
-        │   • Allows deduction of expenses?
-        │   • Applies to gross income without deductions? (caution)
-        │
-        No → Not creditable (property tax, VAT, stamp duty excluded)
-        │
-        Yes ↓
+#### 2.2. Problematic Categories
 
-STEP 3: Is the levy FINAL (non-refundable)?
-        │
-        No → Credit only for non-refundable portion
-        │
-        Yes ↓
+Digital services taxes present significant creditability challenges. Many countries introduced these levies on gross revenues of digital businesses, typically applying to digital advertising, online marketplaces, or data monetisation activities. These taxes commonly apply to gross turnover without deduction for costs, target specific business sectors rather than income generally, and operate outside the regular corporate income tax system. Most digital services taxes fail the income tax character test and do not qualify for credit, creating potential double taxation for taxpayers operating in jurisdictions that have introduced them. *(covered in June 2025)*
 
-STEP 4: Does it relate to the SAME INCOME being taxed?
-        │
-        No → Apportionment required
-        │
-        Yes ↓
+Gross-basis withholding taxes create related difficulties. When withholding applies to gross payments without allowance for deductible expenses, the effective rate on net income may substantially exceed the nominal rate. A twenty-five percent withholding tax on gross royalty payments where deductible expenses represent sixty percent of gross receipts produces an effective rate on net profit exceeding sixty percent. Some countries apply reasonableness tests in such circumstances, limiting credit to what would apply if the tax were calculated on net income.
 
-POTENTIALLY CREDITABLE (subject to limitation)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+The United States Treasury's 2022 foreign tax credit regulations tightened creditability requirements significantly, introducing tests based on net gain with cost recovery, attribution requirements linking the foreign tax to the residence state's income calculation, and source requirements. These changes meant that many foreign taxes previously credited may no longer qualify, creating compliance complexity and potential unrelieved double taxation. Transitional relief through administrative notices has allowed continued reliance on prior standards in specific areas, but the regulatory framework remains more restrictive than before.
 
-### 3. Problematic Categories
+### 3. Credit Method: Limitation Structures
 
-**Digital Services Taxes (DSTs)**: Many countries introduced DSTs on gross revenues of digital businesses. These typically:
-- Apply to gross turnover, not net income
-- Target specific sectors (digital advertising, online marketplaces)
-- May not allow deductions
+#### 3.1. Why Limitations Exist
 
-**Result**: Most DSTs fail the "income tax" test and are not creditable. This was a hot topic in OECD Pillar One discussions—countries using credit systems faced potential double taxation on DST-covered income.
+Credit limitations prevent foreign taxes from reducing residence-state tax on domestic income. Without limitations, excess foreign tax could absorb not just the residence state tax attributable to foreign income but also tax on purely domestic income. This would allow foreign governments to effectively determine domestic tax burdens by setting high foreign rates.
 
-**Gross-Basis Withholding Taxes**: When withholding applies to gross payments without deductions, the effective rate on net income may exceed 100%:
+The basic limitation formula restricts credit to the residence state's tax on the foreign income. If the foreign tax exceeds this amount, the excess cannot offset domestic-source tax liability. The taxpayer bears the excess as unrelieved double taxation—foreign tax that cannot be recovered through the credit mechanism.
 
-*Example*: A 25% withholding tax on gross royalty payments where deductible expenses are 60% of gross:
-- Gross royalty: €100
-- Withholding (25%): €25
-- Net profit after expenses: €40
-- Effective rate on net: €25/€40 = **62.5%**
+#### 3.2. Types of Limitation Systems
 
-Some countries apply "reasonableness" tests, limiting credit to what would apply if the tax were on net income.
+Countries employ different limitation structures reflecting varying policy choices about how strictly to contain the credit.
 
-**Taxes with Refund Rights**: If shareholders can claim refunds of dividend withholding tax, is the full amount creditable initially?
+Overall limitation calculates a single credit limit based on all foreign income combined. This approach permits cross-crediting, allowing excess credits from high-tax countries to offset the limitation shortfall from low-tax countries. The simplicity and flexibility of overall limitation makes it attractive, but critics argue it undermines residence-state tax on low-tax foreign income.
 
-*General rule*: Credit available only for the **non-refundable** portion. If refund is merely optional, full credit may be available until refund is claimed.
+Per-country limitation calculates separate limits for each source country. This prevents excess credits from one country offsetting the domestic tax otherwise due on income from another country. Per-country systems are more restrictive but maintain the residence state's claim to tax low-tax foreign income at the differential rate.
 
-### 4. Current Development: US FTC Regulations
+Basket or category systems apply separate limits by income type, creating categories for passive income, active business income, and other classifications. This prevents mixing of income characters—ensuring, for example, that excess credits on highly-taxed active business income cannot absorb the domestic tax on lightly-taxed passive income. The United States employs a basket system with categories including general limitation income, passive income, foreign branch income, and income subject to the global intangible low-taxed income regime.
 
-The US Treasury's 2022 final FTC regulations (with transitional relief through 2023-2024) tightened creditability requirements:
+#### 3.3. Excess Credit Treatment
 
-- Foreign tax must be based on "net gain" with allowance for cost recovery
-- Must meet "attribution" requirements (linked to residence state's income)
-- Must satisfy "source" requirements
+When foreign tax exceeds the applicable limitation, countries handle the excess differently. Many jurisdictions permit carryforward of excess credits to future years, allowing credits to be absorbed when foreign income faces lower taxation or domestic income increases the limitation ceiling. The United Kingdom permits unlimited carryforward; the United States allows ten-year carryforward. Some countries also permit carryback, allowing excess credits to recover prior-year domestic tax.
 
-**Practical Impact**: Many foreign taxes previously credited may no longer qualify, creating compliance complexity and potential double taxation.
+Other jurisdictions forfeit excess credits, creating permanent unrelieved double taxation. This approach maximises domestic revenue protection but disadvantages taxpayers operating in high-tax foreign jurisdictions.
 
----
+Where excess credit positions persist, taxpayers may consider restructuring to use exemption-method jurisdictions for high-tax foreign operations, accelerating low-tax foreign income to absorb accumulated credits, or deferring high-tax foreign income to spread the credit burden across periods.
 
-## C. CREDIT METHOD: LIMITATION STRUCTURES
+### 4. Credit Method: Timing and Currency Issues
 
-### 1. Why Limitations Exist
+#### 4.1. Different Tax Year-Ends
 
-Credit limitations prevent foreign taxes from reducing residence-state tax on **domestic** income:
+Source and residence states frequently use different fiscal years, creating mismatches between when income arises and when relief is available. A branch operating on an April-to-March fiscal year in the source country will have its profits split across two residence-state tax years if the parent operates on a calendar year basis.
 
-```
-WHY CREDIT MUST BE LIMITED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+These timing differences generate allocation questions: how to apportion branch profits between residence-state years, when to claim credit for source-country tax that straddles residence-state periods, and how to handle source-country assessments issued after residence-state filing deadlines.
 
-WITHOUT LIMITATION:
-  • Domestic income: €1,000,000 at 25% = €250,000 domestic tax
-  • Foreign income: €100,000 at 60% = €60,000 foreign tax
-  • Total pre-credit tax: €250,000 + €25,000 = €275,000
-  • Credit claimed: €60,000
-  • Tax payable: €215,000
+Common solutions include accrual-basis treatment where credit is claimed when the liability arises rather than when paid, provisional claims based on estimates with subsequent adjustment, amended returns filed when final figures become available, and carryback or carryforward provisions that match credits to income across periods. Each approach involves administrative burden and potential for dispute between taxpayers and tax authorities.
 
-  PROBLEM: €35,000 excess credit reduced tax on domestic income!
+#### 4.2. Currency Conversion
 
-WITH LIMITATION:
-  • Credit limited to residence-state tax on foreign income
-  • Maximum credit: €100,000 × 25% = €25,000
-  • Excess credit: €35,000 (cannot offset domestic-source tax)
+Foreign income and tax typically arise in foreign currency while residence-state returns require domestic currency figures. The exchange rate selected for conversion affects both the income subject to residence-state tax and the credit available to offset that tax.
 
-  RESULT: Foreign tax doesn't erode domestic tax base
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Using different rates for income conversion and tax credit conversion can produce distorted results. If income is converted at an earlier rate when the foreign currency was stronger and the tax credit is converted at a later rate when it was weaker, the effective foreign tax rate as calculated for credit purposes may significantly understate the actual burden. Conversely, opposite rate movements can overstate the foreign rate.
 
-### 2. Types of Limitation Systems
+Most residence-state systems require consistent treatment to prevent manipulation, but specific rules vary considerably. Some countries require conversion at the rate when income was earned, others at the rate when tax was paid, and still others at average rates for the relevant period. Taxpayers must navigate these varying requirements, maintaining appropriate documentation of rates applied and ensuring consistent methodology across periods.
 
-| System | Description | Policy Rationale |
-|--------|-------------|-----------------|
-| **Overall limitation** | Single limit based on all foreign income combined | Simple; allows cross-crediting between high/low-tax countries |
-| **Per-country limitation** | Separate limit for each source country | Prevents high-tax country credits offsetting low-tax country income |
-| **Basket/category system** | Separate limits by income type (passive, active, etc.) | Prevents "mixing" of different income characters |
+### 5. Exemption Method: Progression and Loss Issues
 
-**Concept-Focused Example: Basket Limitation Effect**
+#### 5.1. Calculating Exemption with Progression
 
-US taxpayer has:
-- **Passive basket**: €100,000 foreign dividends taxed at 5% (€5,000 foreign tax)
-- **General basket**: €100,000 foreign active business income taxed at 40% (€40,000 foreign tax)
+Exemption with progression, the standard form of exemption under Article 23A(3), requires the residence state to exclude foreign income from the tax base while including it when calculating the applicable tax rate. This mechanism preserves progressive rate structures while exempting foreign income from residence-state taxation.
 
-US tax rate: 21%
+Implementation requires the residence state to value foreign income for rate calculation purposes even though that income will not be taxed. Different valuation methods—using residence-state concepts versus accepting source-state figures—can produce varying results. The residence state must also determine how to treat foreign income that would be classified differently under its own rules, such as income treated as capital gains at source but as ordinary income under residence-state law.
 
-| Without Baskets | With Baskets |
-|-----------------|--------------|
-| Combined foreign income: €200,000 | Passive: €100,000 × 21% = €21,000 limit |
-| Combined foreign tax: €45,000 | General: €100,000 × 21% = €21,000 limit |
-| US tax on €200,000: €42,000 | Passive credit: €5,000 (no excess) |
-| Credit allowed: €42,000 | General credit: €21,000 (€19,000 excess) |
-| Excess: €3,000 | Total excess: €19,000 |
+#### 5.2. Treatment of Foreign Losses
 
-**Policy Insight**: Without baskets, excess credits from high-tax active income would absorb the domestic tax on low-tax passive income. Baskets prevent this "cross-crediting."
+The treatment of foreign losses under exemption with progression presents a policy choice. If foreign operations generate losses rather than profits, should those losses reduce the average rate applied to domestic income?
 
-### 3. Excess Credit Treatment
+Allowing negative progression would mean that foreign losses reduce the tax rate on domestic income, providing residence-state tax relief for foreign losses even though the residence state would not share in foreign profits when operations become profitable. Most countries deny negative progression on this basis, requiring the rate calculation to ignore foreign losses. The taxpayer cannot use foreign losses to obtain a more favourable rate on domestic income while simultaneously benefiting from exemption when foreign operations generate profits.
 
-When foreign tax exceeds the limitation, countries handle the excess differently:
+#### 5.3. Subject-to-Tax Complications
 
-| Treatment | Countries | Practical Impact |
-|-----------|-----------|-----------------|
-| **Carry forward** | UK (unlimited), US (10 years) | Credits eventually used if future foreign income taxed lower |
-| **Carry back** | US (1 year) | Can recover prior-year domestic tax |
-| **Forfeit** | Some developing countries | Permanent double taxation |
-| **Per-country pools** | Germany | Excess in one country can't offset another |
+Subject-to-tax clauses condition residence-state exemption on actual taxation at source. If the source state does not exercise its taxing right—whether due to domestic incentives, classification differences, or structural features—the residence state is not obliged to provide exemption.
 
-**Planning Insight**: In excess credit positions, taxpayers may:
-- Accelerate low-tax foreign income to absorb excess credits
-- Defer high-tax foreign income to spread credits over time
-- Restructure to use exemption-method jurisdictions instead
+These clauses create verification burdens. The residence state must determine whether and at what rate the source state taxed the income. This requires documentation proving foreign taxation occurred, analysis of whether partial exemptions or incentives reduced the source rate below the threshold, application of minimum rate thresholds that trigger denial or switch-over, and resolution of classification differences where states characterise the same payment differently.
 
----
+Classification mismatches produce particular difficulties. The residence state may classify a payment as business profits and provide exemption on the assumption that the source state will tax under its permanent establishment rules. The source state may classify the same payment as royalties subject to zero withholding under the treaty. Neither state taxes the income, producing double non-taxation that the subject-to-tax clause should theoretically prevent—but only if the residence state has the information and legal framework to identify and respond to the mismatch.
 
-## D. CREDIT METHOD: TIMING AND CURRENCY ISSUES
+### 6. Hybrid Mismatches and Linking Rules
 
-### 1. Different Tax Year-Ends
+#### 6.1. The Double Non-Taxation Problem
 
-**The Problem**: Source and residence states often use different fiscal years.
+Hybrid mismatches arise when the same arrangement receives different tax treatment in two jurisdictions, creating outcomes that neither jurisdiction would permit if acting alone. The most common pattern is deduction without inclusion: the payment is deductible in the source state while exempt or not recognised in the residence state. *(covered in December 2024)*
 
-```
-TIMING MISMATCH ILLUSTRATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Hybrid financial instruments exemplify this problem. An instrument treated as debt in the source state generates deductible interest payments for the payer. The same instrument, treated as equity in the residence state, generates exempt dividend income for the recipient under participation exemption. The payment reduces taxable income at source without creating corresponding income at residence.
 
-UK Parent (December year-end)
-Indian Branch (April-March fiscal year)
+Hybrid entity arrangements produce similar results. An entity treated as transparent in one jurisdiction and opaque in the other can generate deductions that are not matched with inclusions, or allow income to escape both jurisdictions' tax nets through conflicting residence and source claims.
 
-INDIAN FISCAL YEAR: April 2024 → March 2025
-                         │
-         ┌───────────────┴───────────────┐
-         │                               │
-    Apr-Dec 2024                    Jan-Mar 2025
-    (UK Tax Year 2024)              (UK Tax Year 2025)
-         │                               │
-      9 months                        3 months
+The exemption method contributes to these outcomes when residence states exempt payments that source states have treated as deductible expenses. The credit method avoids this particular difficulty since credit is only available for foreign tax actually paid—but classification mismatches can still create double non-taxation where the source state does not impose tax.
 
-QUESTIONS ARISING:
-  1. How to allocate Indian profits between UK years?
-  2. When can UK claim credit for Indian tax?
-  3. What if Indian assessment issued after UK filing deadline?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 6.2. BEPS Action 2 Responses
 
-**Solutions Used**:
-- **Accrual basis**: Credit when liability arises (not when paid)
-- **Provisional claims**: Estimate credit, adjust when final
-- **Amended returns**: File based on estimates, amend later
-- **Carryback/forward**: Match credits to income across periods
+The OECD's Base Erosion and Profit Shifting Action 2 introduced linking rules to neutralise hybrid mismatch outcomes. These rules operate hierarchically to ensure that at least one jurisdiction taxes the income without creating double taxation through both jurisdictions acting simultaneously.
 
-### 2. Currency Conversion
+The primary rule applies in the source state and denies deduction for payments that produce a deduction-without-inclusion outcome. If the recipient does not include the payment in taxable income, the payer cannot deduct it. This approach addresses the mismatch at its origin by removing the source-state benefit.
 
-**The Problem**: Which exchange rate to use when foreign income and tax are in different currencies?
+The secondary rule applies in the residence state as a defensive measure when the source state has not applied the primary rule. The residence state requires inclusion of the payment in taxable income, overriding participation exemption or other provisions that would otherwise exclude it. This ensures taxation even where the source state has not acted.
 
-**Concept-Focused Example: Currency Impact**
+The rule hierarchy prevents both jurisdictions acting simultaneously, which would create double taxation. Only if the primary rule has not neutralised the mismatch does the secondary rule apply. This ordering requires coordination and information exchange between jurisdictions—the residence state must know whether the source state has denied deduction before determining whether to require inclusion.
 
-UK company earns XCU 1,000,000 in Country X, pays XCU 250,000 tax (25% rate).
+Linking rules preserve domestic sovereignty in that each country maintains its own classification rules. Unlike tax harmonisation, which would require uniform treatment across jurisdictions, linking rules accept classification differences but neutralise their adverse consequences. This pragmatic approach recognises that political agreement on harmonised treatment is unlikely while still addressing the revenue concerns that hybrid mismatches create.
 
-Exchange rates during the year:
-- When income earned: £1 = XCU 1.50
-- When tax assessed: £1 = XCU 1.60
-- When tax paid: £1 = XCU 1.80
+### 7. Documentation and Verification Burdens
 
-| Conversion Method | Income (£) | Tax Credit (£) | Effective Foreign Rate |
-|-------------------|-----------|----------------|----------------------|
-| All at earning rate (1.50) | 666,667 | 166,667 | 25.0% |
-| All at payment rate (1.80) | 555,556 | 138,889 | 25.0% |
-| Income at earning, tax at payment | 666,667 | 138,889 | **20.8%** |
-| Income at average, tax at payment | 606,061 | 138,889 | **22.9%** |
+Both credit and exemption methods impose documentation requirements on taxpayers seeking relief. For credit claims, the taxpayer must demonstrate the source of income, the foreign tax paid, treaty eligibility through residence certificates, and timing of when liabilities accrued and payments were made. For exemption claims, particularly where subject-to-tax conditions apply, the taxpayer must prove that source-state taxation occurred at the required rate.
 
-**Key Insight**: Using **different rates** for income and tax can artificially inflate or deflate the effective foreign tax rate, creating phantom excess credits or undertaxation.
+Language and format differences create practical obstacles. A foreign tax assessment in Korean, Arabic, or Portuguese provides limited utility to a tax authority unfamiliar with those languages and administrative formats. Translation and certification requirements add cost and delay.
 
-**Policy Consideration**: Most countries require **consistent** treatment, but specific rules vary significantly.
+Time constraints compound these difficulties. Obtaining certified documentation from foreign authorities may take months, while domestic filing deadlines proceed regardless. Taxpayers may need to file provisional claims and amend subsequently, creating administrative burden for both taxpayer and authority.
 
----
+Audit risk extends beyond initial filing. If the residence state audits relief claims years later, the taxpayer must produce documentation that may be difficult to retrieve from foreign jurisdictions operating different retention requirements and responding to requests on their own timelines.
 
-## E. EXEMPTION METHOD: PROGRESSION AND LOSS ISSUES
+The OECD Common Reporting Standard and bilateral exchange agreements increasingly allow tax authorities to verify foreign tax information directly through automatic exchange of financial account information, spontaneous exchange of tax rulings, and request-based exchange for specific taxpayers. These developments reduce documentation burden on taxpayers but simultaneously increase transparency and audit exposure, as authorities gain access to information that taxpayers might previously have failed to volunteer.
 
-### 1. Exemption with Progression Complexity
-
-While theoretically simpler than credit, exemption with progression creates its own difficulties:
-
-**Issue 1: Calculating the Average Rate**
-
-To apply the average worldwide rate to domestic income, the residence state must **value** foreign income even though it won't tax it. Different valuation methods produce different results.
-
-**Issue 2: Treatment of Foreign Losses**
-
-What if the foreign operation generates a **loss**?
-
-```
-FOREIGN LOSS UNDER EXEMPTION WITH PROGRESSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SCENARIO:
-  • Domestic income: €300,000
-  • Foreign loss: (€100,000)
-  • Progressive rates: 20% up to €200,000; 40% above
-
-OPTION A: Ignore foreign loss for progression
-  • Tax calculated on €300,000 only
-  • €200,000 × 20% + €100,000 × 40% = €80,000
-
-OPTION B: Include foreign loss in progression ("negative progression")
-  • Worldwide "income": €300,000 - €100,000 = €200,000
-  • Average rate on €200,000: 20%
-  • Tax on €300,000 at 20% = €60,000
-
-DIFFERENCE: €20,000 less tax under Option B
-
-POLICY QUESTION: Should taxpayer benefit from foreign losses
-                 while residence state can't tax foreign profits?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**Country Approaches**: Most countries **deny** negative progression benefits (Option A), preventing taxpayers from using foreign losses to reduce domestic tax rates while exempting foreign profits.
-
-### 2. Subject-to-Tax Complications
-
-Subject-to-tax clauses make exemption conditional on actual source-state taxation. This creates verification burdens:
-
-**Practical Difficulties**:
-- How to prove foreign tax was paid?
-- What if source state provides partial exemption (holiday, incentive)?
-- What rate threshold triggers switch-over?
-- What if classification differs between states?
-
-**Concept-Focused Example: Classification Mismatch**
-
-Country R (residence) classifies a payment as "business profits" → exempt under Article 7
-Country S (source) classifies the same payment as "royalties" → 0% withholding under treaty
-
-**Result**:
-- Country R exempts because "source state may tax business profits"
-- Country S doesn't tax because "royalties" have 0% withholding
-- **Double non-taxation** results
-
-This is precisely the situation BEPS Action 2 linking rules address.
-
----
-
-## F. HYBRID MISMATCHES AND LINKING RULES
-
-### 1. When Credit and Exemption Create Double Non-Taxation
-
-**December 2024 Q5** directly tested this topic—comparing linking rules to tax harmonisation as solutions to hybrid mismatch double non-taxation.
-
-```
-HYBRID MISMATCH: D/NI OUTCOME
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-D/NI = Deduction/No Inclusion
-
-STRUCTURE:
-  Parent Co (Country P) ←─── Dividend ───── Sub Co (Country S)
-                            (Hybrid
-                             Instrument)
-
-Country S treatment: Payment is deductible INTEREST
-  → Sub Co deducts payment, reducing taxable income
-
-Country P treatment: Payment is exempt DIVIDEND
-  → Parent Co applies participation exemption
-
-RESULT:
-  • Deduction at source (S): Reduces tax
-  • No inclusion at residence (P): No tax
-  • NET: Income escapes taxation in BOTH countries
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. BEPS Action 2 Linking Rules
-
-BEPS Action 2 introduced **linking rules** to neutralise hybrid mismatches:
-
-| Rule Type | Application | Effect |
-|-----------|-------------|--------|
-| **Primary rule** | Source state (payer jurisdiction) | Deny deduction for payment causing D/NI |
-| **Secondary rule** | Residence state (payee jurisdiction) | Include payment in income if primary rule not applied |
-
-**How They Work**:
-
-```
-LINKING RULES IN OPERATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-STEP 1: Does hybrid mismatch exist?
-        (Deduction at source + No inclusion at residence)
-        │
-        No → Normal rules apply
-        │
-        Yes ↓
-
-STEP 2: Has source state applied PRIMARY RULE?
-        (Denied deduction)
-        │
-        Yes → Mismatch neutralised; no further action
-        │
-        No ↓
-
-STEP 3: Residence state applies SECONDARY RULE
-        → Include payment in taxable income
-        → Deny participation exemption for this payment
-
-OUTCOME: One layer of taxation assured
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 3. Linking Rules vs Tax Harmonisation (December 2024 Q5 Theme)
-
-**Linking Rules**:
-- Preserve domestic sovereignty—each country keeps its own rules
-- React to mismatches when they occur
-- Require coordination but not uniform rules
-- Can be complex to administer
-
-**Tax Harmonisation**:
-- Uniform classification across all countries
-- Eliminates mismatches at source
-- Requires surrender of sovereignty
-- Politically difficult to achieve
-
-**Exam Insight**: A strong answer recognises that linking rules are the **practical** solution because tax harmonisation is politically unrealistic. However, linking rules create their own complexity (which rule applies? who goes first?).
-
----
-
-## G. DOCUMENTATION AND VERIFICATION BURDENS
-
-### 1. Proving Entitlement to Relief
-
-Both credit and exemption methods require taxpayers to **prove** their entitlement:
-
-| Requirement | Credit Method | Exemption Method |
-|-------------|--------------|------------------|
-| **Income source** | Must show income is foreign-source | Must show treaty applies |
-| **Tax paid** | Documentary proof of foreign tax | Proof of source-state taxation (for subject-to-tax) |
-| **Treaty status** | Residence certificate from both states | Same |
-| **Timing** | When tax accrued/paid | When income earned |
-
-### 2. Practical Challenges
-
-**Language and Format**: Foreign tax documents may be in unfamiliar languages. A Korean tax assessment looks nothing like a UK assessment.
-
-**Time Delays**: Obtaining certified documents from foreign authorities can take months. Filing deadlines often pass before documentation arrives.
-
-**Audit Risk**: If the residence state audits the relief claim years later, the taxpayer must produce documentation that may be difficult to retrieve from foreign jurisdictions.
-
-### 3. Current Development: Tax Information Exchange
-
-The **OECD Common Reporting Standard** and **bilateral exchange agreements** increasingly allow tax authorities to verify foreign tax directly:
-
-- Automatic exchange of financial account information
-- Spontaneous exchange of tax rulings
-- Request-based exchange for specific taxpayers
-
-**Impact**: Reduces documentation burden on taxpayers but increases transparency and audit risk.
-
----
-
-## H. PILLAR TWO AND RELIEF METHOD INTERACTIONS
-
-### 1. How GloBE Rules Affect FTC Treatment
-
-The OECD's June 2024 Administrative Guidance clarified how Pillar Two's GloBE rules interact with foreign tax credit limitations:
-
-**Key Clarification**: When a parent entity suffers additional tax due to FTC limitation (i.e., excess credits that can't be used), that additional tax should be included in the parent's **covered tax** figure—not allocated to the subsidiary that generated the underlying income.
-
-**Practical Impact**: This affects ETR calculations for GloBE purposes, potentially reducing top-up tax liability.
-
-### 2. Exemption Method Under Pillar Two
-
-Pillar Two creates an interesting tension with exemption systems:
-
-| Traditional Exemption | Pillar Two Effect |
-|----------------------|-------------------|
-| Foreign profits exempt at residence | IIR may require top-up tax if foreign ETR < 15% |
-| Participation exemption for dividends | Excluded dividends rule (10% threshold) differs from domestic rules |
-| No residence-state interest in foreign taxation | Residence state now monitors foreign ETR |
-
-**Policy Shift**: Pillar Two effectively moves exemption countries **toward** credit-like outcomes for low-taxed income, while maintaining exemption for adequately-taxed income.
-
----
-
-## I. WORKED EXAM EXAMPLE: JUNE 2025 Q5 STYLE
-
-### Question (25 marks)
-
-*Country X is reviewing its foreign tax credit policy following Country Y's introduction of a "Market Presence Adjustment" (MPA) on non-resident enterprises. The MPA:*
-- *Applies to non-residents with gross revenue from Country Y users exceeding a threshold*
-- *Is calculated using a formula based on user numbers, engagement, and transaction volumes*
-- *Is levied on gross receipts (no deductions)*
-- *Is collected by Country Y's tax authority and paid into general revenue*
-- *Operates outside Country Y's corporate income tax system*
-
-*Countries X and Y have a DTA identical to the OECD MTC 2017, with Article 23B (credit method) applying.*
-
-*Required:*
-*(1) Whether Country X must grant FTC for MPA amounts paid to Country Y (18 marks)*
-*(2) Wider treaty policy considerations (7 marks)*
-
-### Model Answer Framework
-
-**Part 1: FTC Creditability Analysis (18 marks)**
-
-**Issue Identification (3 marks)**
-The central question is whether Country Y's MPA qualifies as a "tax" for which Country X must grant credit under Article 23B. This requires analysis of:
-- Whether MPA is covered by Article 2 (Taxes Covered)
-- Whether it satisfies domestic creditability requirements
-- Treaty interaction with domestic characterisation
-
-**Article 2 Analysis (5 marks)**
-
-Article 2(1) covers "taxes on income." The MPA presents difficulties:
-- **Gross receipts basis**: Unlike income taxes, MPA allows no deductions for costs. This resembles a turnover tax more than an income tax.
-- **Separate from income tax system**: Country Y explicitly operates MPA outside its corporate income tax, suggesting it's not an "income tax."
-- **Label vs substance**: Country Y calls it a "market-based contribution"—nomenclature suggests non-tax character.
-
-Article 2(4) extends coverage to "identical or substantially similar" taxes introduced after the DTA. The MPA's novel character (user-based, gross receipts) makes "substantially similar" argument weak.
-
-**Domestic Creditability Test (5 marks)**
-
-Most countries require foreign levies to have the "predominant character" of an income tax:
-- **Net income requirement**: MPA on gross receipts fails this—no deduction for costs means effective rate on net income could exceed 100%
-- **Compulsory character**: MPA is compulsory—satisfies this element
-- **Income relation**: MPA relates to revenue derived from users, not necessarily the same income Country X taxes—attribution concerns
-
-**Conclusion on Creditability (2 marks)**
-
-On balance, Country X would likely **not** be required to grant FTC for MPA:
-- MPA is not listed in Article 2(3)
-- Not "substantially similar" to listed taxes
-- Fails domestic "income tax" character tests
-- However, this creates **double taxation** for Country X residents
-
-**Alternative Approaches (3 marks)**
-
-Country X could consider:
-- **Deduction** instead of credit (reduces income, provides partial relief)
-- **Treaty amendment** to specifically address MPA
-- **MAP procedure** to resolve characterisation bilaterally
-- **Domestic unilateral relief** outside the treaty
-
-**Part 2: Treaty Policy Considerations (7 marks)**
-
-**Preventing Treaty Abuse (2 marks)**
-If Country X must credit any foreign levy called a "tax," countries could game the system by labelling turnover taxes as income taxes. Limiting credit to genuine income taxes prevents abuse.
-
-**Reciprocity Concerns (2 marks)**
-If Country Y's MPA doesn't qualify for credit, Country Y residents paying Country X taxes should expect reciprocal treatment. This creates incentive for both countries to maintain creditability standards.
-
-**OECD Pillar One Context (2 marks)**
-The MPA resembles Pillar One Amount A concepts (market-based allocation). Countries negotiating Pillar One addressed relief for Amount A—similar mechanisms may evolve for DSTs and MPAs.
-
-**Policy Recommendation (1 mark)**
-Country X should engage Country Y through MAP to clarify MPA's treatment and potentially negotiate treaty protocol addressing novel taxes.
-
----
-
-## J. COMMON EXAM ERRORS TO AVOID
-
-```
-EXAMINER INSIGHTS: WHAT LOSES MARKS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ERROR 1: Assuming all foreign taxes are creditable
-  ✗ "Country X must credit the foreign tax paid"
-  ✓ Always analyse whether the levy qualifies as a creditable
-    income tax using the multi-factor test
-
-ERROR 2: Ignoring limitation rules
-  ✗ "The credit equals the foreign tax"
-  ✓ Credit is limited to residence-state tax on foreign income;
-    excess creates practical difficulties
-
-ERROR 3: Treating exemption as simple
-  ✗ "Foreign income is exempt, so there's no difficulty"
-  ✓ Exemption with progression requires valuing exempt income;
-    subject-to-tax clauses require verification; foreign losses
-    create complications
-
-ERROR 4: Missing hybrid mismatch issues
-  ✗ Discussing credit/exemption without noting D/NI risks
-  ✓ Always consider whether classification mismatches create
-    double non-taxation—this is a key examiner focus post-BEPS
-
-ERROR 5: Calculation focus over concept focus
-  ✗ Spending time on detailed numerical workings
-  ✓ For policy questions, use illustrative numbers only;
-    focus on explaining WHY difficulties arise and HOW
-    countries address them
-
-ERROR 6: Ignoring current developments
-  ✗ Discussing relief methods without Pillar Two context
-  ✓ Modern exam answers should reference GloBE interactions,
-    DST creditability debates, and linking rules
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## K. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CREDITABILITY OF FOREIGN TAXES:
-   • Not all foreign levies qualify for credit
-   • Must be compulsory income tax on net gain
-   • DSTs, gross-basis levies, and novel charges problematic
-   • June 2025 Q5 exemplifies this analysis
-
-2. CREDIT LIMITATIONS:
-   • Prevent foreign tax offsetting domestic-source income
-   • Overall, per-country, and basket systems exist
-   • Excess credits may carry forward/back or forfeit
-   • Creates planning opportunities and compliance burden
-
-3. TIMING AND CURRENCY:
-   • Different year-ends create allocation difficulties
-   • Currency conversion methods affect effective credit
-   • Provisional claims and amendments common solutions
-
-4. EXEMPTION COMPLICATIONS:
-   • Progression calculation requires valuing exempt income
-   • Foreign losses: negative progression usually denied
-   • Subject-to-tax clauses require verification
-
-5. HYBRID MISMATCHES:
-   • Classification differences create D/NI outcomes
-   • BEPS Action 2 linking rules neutralise mismatches
-   • Primary rule (deny deduction) vs secondary rule (include)
-   • December 2024 Q5 tested this directly
-
-6. DOCUMENTATION:
-   • Both methods require proof of foreign tax/status
-   • Language, format, timing challenges common
-   • Exchange of information increasingly helps verification
-
-7. PILLAR TWO INTERACTIONS:
-   • GloBE rules affect FTC treatment in ETR calculations
-   • Exemption systems face IIR top-up for low-taxed income
-   • Policy convergence between credit and exemption outcomes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Articles 23A, 23B and Commentary
-- OECD BEPS Action 2: Neutralising the Effects of Hybrid Mismatch Arrangements (2015)
-- OECD Administrative Guidance on GloBE Rules (June 2024)
-
-**Country-Specific**:
-- US: Treasury Regulations on Foreign Tax Credit (2022, with transitional relief)
-- UK: TIOPA 2010 Part 2 (double taxation relief)
-- Germany: AStG Section 8 (foreign tax credit rules)
-
-**Current Developments**:
-- [Short-term relief for foreign tax credit woes | The Tax Adviser](https://www.thetaxadviser.com/issues/2024/feb/short-term-relief-for-foreign-tax-credit-woes/)
-- [Foreign Tax Credit Limitation | iTaxa](https://www.itaxa.it/blog/en/dizionario/foreign-tax-credit-limitation/)
-- [BEPS Action 2 Linking Rules | Kluwer International Tax Blog](https://legalblogs.wolterskluwer.com/international-tax-law-blog/hybrid-financial-instruments-double-non-taxation-and-linking-rules-only-some-issues-stemming-from-the-apparent-solution/)
-- [Key updates in latest OECD guidance package | Grant Thornton](https://www.grantthornton.com/insights/alerts/tax/2024/insights/key-updates-in-latest-oecd-guidance-package)
-
----
-
-*Next Chapter: 5.4 - Relief by Exemption and Relief by Credit Compared (Capital Import Neutrality vs Capital Export Neutrality)*
+The practical difficulties examined in this chapter explain why relief from international double taxation often falls short of its theoretical promise. Understanding these obstacles helps practitioners anticipate problems, structure arrangements to minimise difficulties, and advise on whether credit or exemption methods may prove more workable in particular circumstances.
