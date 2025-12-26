@@ -25,7 +25,7 @@ An Exam Focus eBook is a **textbook-style resource informed by exam analysis but
 - ✅ A professional textbook chapter
 - ✅ Clear, authoritative prose that builds understanding
 - ✅ Content that covers examined areas thoroughly (without saying so)
-- ✅ Hierarchical structure (1., 1.1., 1.1.1.)
+- ✅ Hierarchical structure (## Chapter X: | ### 1. | #### 1.1.)
 - ✅ Subtle exam references only: (covered in June 2024)
 
 ### What You Are NOT Writing
@@ -52,7 +52,7 @@ An Exam Focus eBook is a **textbook-style resource informed by exam analysis but
 ### ⚠️ ENFORCEMENT RULES (NON-NEGOTIABLE)
 1. You MUST follow the chapter plan exactly
 2. You MUST write textbook-style content, NOT exam prep material
-3. You MUST use hierarchical numbering (## 1. | ### 1.1. | #### 1.1.1.)
+3. You MUST use hierarchical numbering (## Chapter X: | ### 1. | #### 1.1.)
 4. You MUST write comprehensive explanations that teach understanding
 5. You MUST integrate discussion naturally—explain the "why" behind rules
 6. You MUST use subtle exam references ONLY: (covered in [Month Year])
@@ -63,27 +63,64 @@ An Exam Focus eBook is a **textbook-style resource informed by exam analysis but
 
 ## HIERARCHICAL NUMBERING FORMAT
 
-Use this exact format:
+### ⚠️ CRITICAL: Each Chapter Has Independent Internal Numbering
+
+Each chapter's internal sections start fresh at 1, 2, 3... The section numbers are NOT tied to the chapter number.
+
+**Format:**
+- Chapter heading: `## Chapter X: [Title]` or `## Chapter X.Y: [Title]`
+- Main sections: `### 1.`, `### 2.`, `### 3.` (always start at 1)
+- Subsections: `#### 1.1.`, `#### 2.1.`, `#### 2.2.`
+
+**Example - Chapter 5:**
 
 ```markdown
-## 12. Tax Treaties and Double Taxation
+## Chapter 5: Relief from Double Taxation
 
-### 12.1. The Purpose of Tax Treaties
+### 1. The Credit Method
+
+The credit method allows taxpayers to offset foreign taxes paid against domestic tax liability...
+
+#### 1.1. Direct Credit
+
+Direct credit applies to taxes paid directly by the taxpayer on foreign-source income...
+
+#### 1.2. Indirect Credit
+
+Indirect credit (also called underlying credit) applies to taxes paid by foreign subsidiaries...
+
+### 2. The Exemption Method
+
+Under the exemption method, the residence state relinquishes its taxing right over foreign-source income...
+
+### 3. Comparison of Methods
+
+[Content...]
+```
+
+**Example - Chapter 12:**
+
+```markdown
+## Chapter 12: Tax Treaties and Double Taxation
+
+### 1. The Purpose of Tax Treaties
 
 Tax treaties serve to prevent double taxation and fiscal evasion...
 
-#### 12.1.1. Relieving Juridical Double Taxation
+#### 1.1. Relieving Juridical Double Taxation
 
 Juridical double taxation occurs when...
 
-#### 12.1.2. Preventing Tax Evasion
+#### 1.2. Preventing Tax Evasion
 
 Treaties also facilitate exchange of information...
 
-### 12.2. The OECD Model Tax Convention
+### 2. The OECD Model Tax Convention
 
 The OECD Model provides a template...
 ```
+
+**Key Rule:** Whether it's Chapter 1 or Chapter 12, internal sections always start at 1, 2, 3...
 
 ---
 
@@ -185,7 +222,7 @@ Do NOT include any of the following:
 ## OUTPUT
 
 Complete markdown chapter with:
-- Hierarchical numbering throughout (1., 1.1., 1.1.1.)
+- Hierarchical numbering throughout (## Chapter X: | ### 1. | #### 1.1.)
 - Textbook-style prose
 - Comprehensive coverage of the topic
 - Natural discussion integration
