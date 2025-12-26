@@ -1,340 +1,111 @@
-# Chapter 3.4: State Practice in Determining the Source of Income and Gains
+## Chapter 3.4: State Practice in Determining the Source of Income and Gains
 
-## How Countries Decide Where Income "Arises"
+### 1. The Concept of Source in International Taxation
 
----
+#### 1.1. Source as a Connecting Factor
 
-## 1. CONCEPT FOUNDATION
+The source of income refers to the geographic location where income is deemed to originate or arise. Unlike residence, which establishes a personal connection between a taxpayer and a state, source creates a territorial connection between income and a state. Source-based taxation allows a jurisdiction to tax income arising within its territory regardless of the taxpayer's residence, reflecting the principle that states have a legitimate interest in taxing economic activity occurring within their borders.
 
-### 1. What Is "Source" of Income?
+Source rules serve several critical functions in international taxation. They determine whether a state can impose tax on non-residents, identify which state qualifies as the "source state" for treaty allocation purposes, define the scope of foreign-source income eligible for foreign tax credit relief, and establish the basis for withholding taxes on cross-border payments.
 
-**Definition**: The **source** of income refers to the geographic location where income is deemed to originate or arise. It determines which state has the territorial connection to tax that income.
+#### 1.2. The Interaction of Source and Residence
 
-**Key Principle**: Source-based taxation allows a state to tax income arising within its territory, **regardless of the taxpayer's residence**.
+The fundamental challenge of international taxation arises from the interaction between source and residence principles. Different states apply different source rules, and income that one country treats as arising within its territory may not be so treated by another. This creates potential for both double taxation—where two states each claim the income as sourced within their jurisdiction—and double non-taxation, where neither state treats the income as sourced there.
 
-### 2. Why Source Matters
+Tax treaties address these conflicts by establishing uniform allocation rules that override domestic source classifications between treaty partners. However, treaties operate bilaterally; they cannot resolve source conflicts involving third states or situations where no treaty exists.
 
-| Purpose | Application |
-|---------|-------------|
-| **Non-resident taxation** | Determines if state can tax non-residents |
-| **Treaty allocation** | Identifies which state is "source" vs "residence" |
-| **Double taxation relief** | FTC (Foreign Tax Credit) limited to tax on foreign-source income |
-| **WHT (Withholding Tax)** | Source state withholds tax at source on payments to non-residents |
+### 2. Source Rules by Income Type
 
-### 3. The Fundamental Problem
+#### 2.1. Employment Income
 
-**Different states use different source rules**. Income that is "sourced" in Country A under its domestic law may not be "sourced" there under Country B's rules—creating potential:
-- **Double source taxation**: Two countries both claim income as sourced there
-- **Nowhere taxation**: Neither country claims the income
+Employment income is generally sourced where the services are physically performed, regardless of where the employer is located or where payment is made. This principle applies whether the employee works for a domestic or foreign employer.
 
-**Treaties resolve this** by providing uniform allocation rules that override domestic source rules between treaty partners.
+Article 15 of the OECD Model Tax Convention confirms this approach, providing that employment income may be taxed in the state where the employment is exercised. When an employee works in multiple countries, the income is typically apportioned based on working days in each jurisdiction.
 
----
+The 183-day exception under Article 15(2) modifies this general rule. Employment income remains taxable only in the residence state if three conditions are satisfied: the employee is present in the source state for no more than 183 days in any twelve-month period; the remuneration is paid by an employer not resident in the source state; and the remuneration is not borne by a permanent establishment in the source state. This exception facilitates short-term cross-border assignments without triggering source-state taxation.
 
-## 2. SOURCE RULES BY INCOME TYPE
+Article 17 provides a notable exception for entertainers and sportspersons. Income from personal activities exercised in a state may be taxed there regardless of the normal employment or business profit rules, reflecting the policy that performers earning substantial fees from brief appearances should be subject to source taxation. *(covered in June 2023)*
 
-### 1. Employment Income (Services)
+#### 2.2. Business Profits
 
-**General Rule**: Income from employment is sourced where the **services are performed**.
+Business profits are sourced where the enterprise conducts its activities, but the treaty framework imposes a significant threshold: under Article 7 of the OECD Model, business profits are taxable only in the enterprise's residence state unless the business is carried on through a permanent establishment in the source state.
 
-**OECD MTC Article 15**: Employment income taxable in state where employment exercised.
+The permanent establishment concept thus becomes the gateway for source-state taxation of business profits. Without a PE, a foreign enterprise can conduct substantial commercial activity—selling goods, providing services remotely, licensing intellectual property—without creating taxable presence. This principle, established in the 1920s framework, assumed that meaningful economic activity required physical presence. *(covered in June 2024)*
 
-| Scenario | Source State | Basis |
-|----------|--------------|-------|
-| Work performed in Country X | Country X | Place of performance |
-| Work performed in multiple countries | Apportioned by days worked | Pro-rata allocation |
-| Remote work from Country A for Country B employer | Country A | Where services performed |
+When a PE exists, the source state may tax profits attributable to that establishment. The profit attribution rules under Article 7 treat the PE as if it were a separate enterprise dealing at arm's length with other parts of the same legal entity, ensuring that source-state taxation corresponds to genuine economic activity rather than mere formal presence.
 
-**The 183-Day Exception (Article 15(2))**:
-Income remains taxable **only** in residence state if ALL conditions met:
-1. Recipient present in source state ≤183 days in any 12-month period
-2. Remuneration paid by employer NOT resident in source state
-3. Remuneration NOT borne by PE in source state
+#### 2.3. Passive Income: Dividends, Interest, and Royalties
 
-```
-EXAMPLE: Employment Income Sourcing
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Employee resident in France
-Works for French employer
-Sent to Germany for 120 days (within 12 months)
-Salary €100,000
+For passive income categories, source is typically determined by reference to the payer's characteristics rather than where economic activity occurs.
 
-Source Analysis:
-  Work in France: 245 days → €67,123 French-source
-  Work in Germany: 120 days → €32,877 German-source
+Dividends are sourced in the state where the paying company is resident. Article 10 of the OECD Model permits limited source-state taxation through withholding, typically at 5% for substantial corporate shareholders and 15% for other recipients, while preserving the residence state's primary taxing right.
 
-BUT Article 15(2) applies to German portion:
-  ✓ <183 days in Germany
-  ✓ Paid by French employer (not German resident)
-  ✓ Not borne by German PE
+Interest follows a similar pattern: it is sourced where the borrower is resident, or where a permanent establishment bearing the interest expense is located. Article 11 permits limited source withholding, though many bilateral treaties reduce or eliminate this, particularly between developed economies. The UK-US and UK-Germany treaties, for example, provide for zero withholding on interest.
 
-Result: ALL €100,000 taxable only in France
-(Germany waives source taxation under treaty)
-```
+Royalties present greater variation in state practice. The OECD Model Article 12 provides that royalties are taxable only in the residence state, eliminating source-state withholding entirely. However, this represents an OECD-country perspective; the UN Model permits source taxation, and many bilateral treaties—particularly those involving developing countries—include withholding provisions. Domestic law approaches also vary: some states source royalties based on where the intellectual property is used, while others focus on the payer's residence.
 
-### 2. Business Profits
+#### 2.4. Capital Gains
 
-**General Rule**: Business profits sourced where **PE (Permanent Establishment)** located.
+Article 13 of the OECD Model establishes a hierarchy of source rules for capital gains that reflects the nature of the underlying asset.
 
-**OECD MTC Article 7**: Business profits taxable only in residence state UNLESS carried on through PE in source state.
+Gains from immovable property are sourced where the property is situated, following the situs principle. This includes not only direct sales but also sales of shares deriving more than 50% of their value from immovable property in a state, preventing avoidance through corporate structures. *(covered in December 2022)*
 
-| Scenario | Source Taxation? |
-|----------|-----------------|
-| Sales to foreign customers (no PE) | No source taxation |
-| PE in Country X | Profits attributable to PE taxable in X |
-| Services performed via PE | PE state can tax |
+Gains from movable property forming part of a permanent establishment's business assets may be taxed where the PE is located, extending source-state rights to business-related disposals. Gains from ships and aircraft in international traffic are sourced at the enterprise's place of effective management.
 
-**Key Principle**: Without PE, no source-state taxation of business profits under treaties.
+For all other property—including portfolio shares and most financial instruments—gains are taxable only in the seller's residence state. This residual rule means that pure investment gains generally escape source taxation, concentrating taxing rights in the investor's home jurisdiction.
 
-### 3. Dividends
+### 3. Domestic Source Rules: State Practice
 
-**General Rule**: Dividends sourced in state where **paying company is resident**.
+#### 3.1. United States
 
-**OECD MTC Article 10**: Limited source taxation (WHT) permitted:
-- 5% if beneficial owner is company holding ≥25% (direct dividends)
-- 15% in other cases
+The United States maintains the most detailed statutory source rules in its Internal Revenue Code, sections 861 through 865. These provisions specify source for each major income category with considerable precision.
 
-| Dividend Payer | Source | WHT under Treaty |
-|---------------|--------|------------------|
-| UK company | UK | UK can withhold (typically 0-15%) |
-| US company | USA | US can withhold (typically 0-15%) |
-| Foreign subsidiary of UK parent | Foreign country | That country can withhold |
+Interest is US-source if paid by a US person or by a foreign person's US permanent establishment. Dividends are US-source if paid by domestic corporations or by foreign corporations with substantial effectively connected income. Compensation for services is sourced where the services are performed. Royalties are sourced where the property generating them is used.
 
-### 4. Interest
+For sales of personal property, section 865 applies a residence-of-seller rule as the general principle, with exceptions for inventory property (sourced based on title passage or production location) and depreciable property (sourced based on prior depreciation deductions). Sales of real property follow the situs principle.
 
-**General Rule**: Interest sourced in state where **payer is resident** (or where PE bearing interest located).
+The comprehensiveness of US source rules creates both clarity and potential for mismatches with treaty partner classifications, requiring careful analysis of both domestic law and applicable treaty provisions.
 
-**OECD MTC Article 11**: Limited source taxation permitted (typically 10% WHT or lower).
+#### 3.2. United Kingdom
 
-**Special Rules**:
-- Interest paid by PE → sourced where PE located
-- Many treaties provide 0% WHT (UK-US, UK-Germany)
+The United Kingdom takes a less codified approach, with source rules developed through case law and statutory provisions specific to each income category. Employment income is UK-source when duties are performed in the UK. Trading income is UK-source when the trade is carried on in the UK, determined by examining where contracts are concluded and operations conducted.
 
-### 5. Royalties
+Interest and dividends are generally sourced based on the payer's residence, though specific rules apply to UK permanent establishments of foreign entities. Rental income follows the situs of the property. Capital gains on UK assets may be taxable for non-residents, with the scope of UK-situs assets having been narrowed over time—particularly since April 2019, when the charge on non-residents disposing of UK shares was largely removed except for property-rich companies.
 
-**General Rule**: Royalties sourced where **IP is used** or where **payer is resident** (varies by jurisdiction).
+#### 3.3. Civil Law Jurisdictions
 
-**OECD MTC Article 12**: Royalties taxable ONLY in residence state (no source WHT).
+Germany exemplifies the continental European approach, with comprehensive source rules in section 49 of the Income Tax Act (Einkommensteuergesetz). German-source income includes employment performed in Germany, business conducted through a German PE, investment income from German debtors, and gains from German-situs property.
 
-**BUT many actual treaties** permit source taxation:
-- UN Model: 10-15% WHT permitted
-- US treaties: Often permit source taxation
-- Many bilateral treaties: Vary widely
+France and other civil law jurisdictions follow similar patterns, though with variations in specific categories. The interaction between domestic source rules and treaty provisions requires careful analysis in each case, as domestic characterisation may differ from treaty classification.
 
-| State Practice | Royalty Source Rule |
-|----------------|-------------------|
-| **OECD Model** | Residence only |
-| **UN Model** | Source can tax (limited WHT) |
-| **US domestic** | Place of use |
-| **UK domestic** | Payer residence |
+### 4. Treaty Modification of Source Rules
 
-### 6. Capital Gains
+#### 4.1. The Treaty Framework
 
-**General Rules** (Article 13 OECD MTC):
+Tax treaties fundamentally modify the operation of domestic source rules between contracting states. A treaty does not change whether income is "sourced" in a state as a matter of domestic law; rather, it allocates taxing rights and may require the source state to reduce or eliminate taxation that domestic law would otherwise permit.
 
-| Asset Type | Source Rule | Treaty Article |
-|------------|-------------|----------------|
-| **Immovable property** | Where property located (situs) | Art. 13(1) |
-| **PE business property** | Where PE located | Art. 13(2) |
-| **Ships/aircraft (international)** | POEM of enterprise | Art. 13(3) |
-| **Shares >50% immovable** | Where immovable located | Art. 13(4) |
-| **Other property** | Residence only | Art. 13(5) |
+For example, domestic law may treat all interest paid by residents as locally sourced and subject to withholding tax. A treaty may reduce the permitted withholding rate or eliminate it entirely, but the income remains domestic-source for other purposes such as foreign tax credit calculations.
 
-**Immovable Property Rule** (Article 13(1)):
-Gains from alienation of immovable property may be taxed in the state where the property is **situated** (situs rule).
+#### 4.2. Resolving Source Conflicts
 
-```
-EXAMPLE: Capital Gains Sourcing
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-German resident sells:
-  1. UK warehouse → UK-source (Art 13(1))
-  2. Shares in UK Co owning UK land (70% value) → UK-source (Art 13(4))
-  3. Shares in UK trading company → German-source only (Art 13(5))
-  4. US shares → German-source only (Art 13(5))
+Source conflicts between states take several forms. Both states may claim income as sourced within their territory—common where one applies a payer-residence test and another applies a place-of-use test for the same payment. Neither state may claim the income, creating potential for under-taxation. Domestic characterisation may conflict with treaty classification.
 
-UK can tax gains 1 and 2
-Germany can tax all gains (residence)
-Relief: Germany credits UK tax paid
-```
+Treaties resolve bilateral conflicts through their allocation provisions. However, triangular situations involving third states, or situations where treaties provide different results depending on which state's treaty is applied, require careful analysis of each applicable instrument.
 
----
+### 5. Evolving Concepts of Source
 
-## 3. STATE PRACTICE: DOMESTIC SOURCE RULES
+#### 5.1. The Digital Economy Challenge
 
-### 1. United States (IRC §§861-865)
+Traditional source rules assume that meaningful economic activity requires physical presence in a jurisdiction. Digital business models challenge this assumption fundamentally. An enterprise can generate substantial revenue from customers in a country without any physical presence there—no employees, no office, no warehouse—conducting its entire business through digital platforms and remote service delivery.
 
-**Detailed statutory source rules**:
+Under traditional rules, such an enterprise would have no taxable presence in the market country despite substantial economic engagement with its consumers. This disconnect between economic activity and taxable presence has driven significant reform efforts.
 
-| Income Type | US Source If... |
-|-------------|----------------|
-| **Interest** | Paid by US person (or US PE) |
-| **Dividends** | Paid by US corporation |
-| **Employment** | Services performed in US |
-| **Royalties** | Property used in US |
-| **Sales of goods** | Title passage test (negotiable) |
-| **Capital gains** | Generally residence (but real property = situs) |
+#### 5.2. Market-Based Approaches
 
-**Significance**: US source rules are highly detailed and can create mismatches with treaty partner classifications.
+The OECD/G20 Pillar One framework represents a partial departure from traditional source concepts toward market-based taxation. For the largest and most profitable multinational enterprises, Pillar One would allocate a portion of residual profits to market jurisdictions based on revenue sourced to those markets, regardless of physical presence.
 
-### 2. United Kingdom
+This approach redefines source for a subset of income, treating market presence as a sufficient connection for taxation. While Pillar One applies only to enterprises exceeding substantial revenue and profitability thresholds, it signals a conceptual shift that may influence broader developments in source-based taxation.
 
-**Less codified approach**:
+The UN Model has long provided broader source-state rights than the OECD Model, reflecting developing country perspectives. Article 12A on technical services fees and expanded PE definitions for services demonstrate alternative approaches to creating source-state taxing rights where traditional concepts would deny them.
 
-| Income Type | UK Source If... |
-|-------------|----------------|
-| **Employment** | Duties performed in UK |
-| **Trading profits** | Trade carried on in UK |
-| **Interest** | Paid by UK resident (generally) |
-| **Dividends** | Paid by UK company |
-| **Rent** | UK property |
-| **Gains** | UK assets (including UK shares pre-April 2019) |
-
-**Key Point**: UK has narrow territorial source rules for non-residents, focusing on UK-situs property and UK-performed activities.
-
-### 3. Germany
-
-**Comprehensive domestic source rules** (§49 EStG):
-
-| Income Type | German Source If... |
-|-------------|---------------------|
-| **Employment** | Work performed in Germany |
-| **Business** | PE in Germany |
-| **Investment income** | German debtor/payer |
-| **Real property** | Property in Germany |
-| **Gains** | German-situs property |
-
----
-
-## 4. TREATY MODIFICATION OF SOURCE RULES
-
-### 1. How Treaties Override Domestic Source Rules
-
-**Principle**: Treaties allocate taxing rights based on agreed source rules that may differ from either state's domestic law.
-
-**Example**:
-- Domestic law: Royalties sourced where IP used
-- Treaty: Royalties taxable only in residence state
-- Result: Treaty overrides domestic source taxation
-
-### 2. Re-Sourcing Under Treaties
-
-Some treaties explicitly **re-source** income for treaty purposes:
-
-**US Practice**: If income is US-source under domestic law but foreign-source under treaty, taxpayer can elect treaty treatment. This affects Foreign Tax Credit calculations.
-
-### 3. Source Conflicts and Resolution
-
-| Conflict Type | Example | Resolution |
-|--------------|---------|------------|
-| **Both claim source** | Both states say interest sourced there | Treaty allocation determines |
-| **Neither claims source** | Royalties: payer test vs. use test | May lead to under-taxation |
-| **Domestic vs. treaty** | Domestic says source, treaty says not | Treaty prevails |
-
----
-
-## 5. POLICY PERSPECTIVES: RESIDENCE VS SOURCE TAXATION
-
-### The Historical Compromise
-
-The current international tax framework, developed in the 1920s under the League of Nations, represents a **compromise** between capital-exporting countries (favouring residence taxation) and capital-importing countries (favouring source taxation):
-
-**1923 Economists' Report**: Recommended primary residence-state taxation with limited source-state rights
-
-**1928 Model Conventions**: Established framework that:
-- Business profits: Source only if PE exists
-- Passive income: Limited source WHT, primary residence taxation
-- Immovable property: Full source-state rights
-
-This compromise has persisted for nearly a century but faces increasing challenges.
-
-### Challenges to Traditional Source Rules
-
-**Digital Economy**: Traditional source rules assume physical presence creates economic nexus. Digital businesses can generate substantial revenue without physical presence:
-
-| Traditional Source | Digital Reality |
-|-------------------|-----------------|
-| Services sourced where performed | Services delivered remotely |
-| PE required for business profits | Value created by users/data |
-| Sales sourced at title passage | Digital goods have no "location" |
-
-**Pillar One's Market-Based Approach**: Represents a partial shift from traditional source to market/destination taxation for largest MNEs (Multinational Enterprises).
-
-### Developing Country Perspectives
-
-The UN Model Convention provides broader source-state taxation rights, reflecting developing country interests:
-
-| Issue | OECD Model | UN Model |
-|-------|------------|----------|
-| **Services PE** | No specific provision | Article 5(3)(b) - services PE |
-| **Royalties** | Residence only | Source can tax (Art. 12) |
-| **Technical fees** | No separate article | Article 12A - source can tax |
-| **Capital gains** | Limited source rights | Broader source rights (Art. 13) |
-
-#### The Source Erosion Problem
-
-Aggressive tax planning has exploited source rule gaps:
-
-**Stateless Income**: Structures where income has no taxable source:
-```
-Structure Example:
-  IP held by Irish subsidiary
-  Royalties paid to Ireland → low Irish tax
-  Irish sub has no real substance
-  Income escapes meaningful taxation
-
-BEPS Response:
-  Substance requirements
-  PE anti-avoidance rules
-  Interest deduction limits
-```
-
----
-
-## 6. WORKED EXAM EXAMPLE
-
-### June 2023, Question 7 - Azurian Music Festival (25 marks)
-
-**Scenario Summary**:
-- Non-resident musicians perform at festival in Azuria
-- Receive: (a) Performance fee from festival organizers, (b) TV appearance fee from Azurian TV network
-- Azuria has OECD-based treaty with musicians' residence states
-
-**Model Answer**:
-
-**Part 1: Taxing Rights under OECD MTC (15 marks)**
-
-**Article 17 (Entertainers and Sportspersons)**
-
-Article 17 provides that income derived by an entertainer from personal activities as such exercised in a Contracting State may be taxed in that State, notwithstanding Articles 7 and 15.
-
-This is an **exception** to the normal source rules:
-- Article 7: Business profits require PE
-- Article 15: Employment income subject to 183-day exception
-- Article 17: No exceptions—source state can ALWAYS tax performers
-
-**Application to Scenario**:
-
-*Festival Performance Fee*:
-- Personal activity as entertainer exercised in Azuria
-- Article 17 applies
-- Azuria (source state) has **unrestricted taxing right**
-- No PE or 183-day exception applies
-
-*TV Appearance Fee*:
-- Also personal activity as entertainer in Azuria
-- Paid by Azurian TV network (Azurian-source)
-- Article 17 applies equally
-- Azuria has **unrestricted taxing right**
-
-**Rationale for Article 17**:
-- Entertainers often highly paid for short performances
-- Without special rule, 183-day exception would exempt most performer income
-- Source states want to tax value created by performances in their territory
-
-**Part 2: Information Exchange (10 marks)**
-
-[Analysis of Article 26 exchange of information provisions...]
-
-**Conclusion**:
-Azuria has full taxing rights over both income streams under Article 17. The non-resident performers' residence states must provide relief (typically FTC) to prevent double taxation.
-
+These developments suggest that source concepts will continue to evolve, with increasing tension between the historical framework developed for industrial economies and the realities of globalised, digitalised commerce.
