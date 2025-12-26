@@ -4,37 +4,7 @@
 
 ---
 
-```
-EXAM INTELLIGENCE: Conflicting Definitions of Connecting Factors
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frequency: HIGH (40%+ of papers include residence determination issues)
-Mark Range: 12-25 marks when directly tested
-Syllabus Level: 2 (detailed knowledge required)
-
-Key Question Patterns:
-  • June 2022 Q7: Dual residence tie-breaker application (25 marks)
-  • Dec 2022 Q6: Corporate residence - POEM vs incorporation (25 marks)
-  • June 2024: Article 4(2) tie-breaker hierarchy
-  • Dec 2020 Q7: Multiple connecting factors creating conflicts
-
-Examiner Focus:
-  • Understanding WHY conflicts arise from domestic law differences
-  • Applying Article 4(2) tie-breaker rules IN CORRECT ORDER
-  • Distinguishing domestic law residence from treaty residence
-  • Explaining when MAP becomes necessary
-
-Strategic Priority: ★★★★★ CRITICAL
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHY THIS MATTERS: Questions on dual residence and conflicting definitions
-are popular because they test both conceptual understanding AND practical
-application of treaty rules. The June 2022 Q7 was worth 25 marks and
-required systematic application of the Article 4(2) hierarchy.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. CONCEPT FOUNDATION: THE DEFINITIONAL PROBLEM
+## 1. CONCEPT FOUNDATION: THE DEFINITIONAL PROBLEM
 
 ### 1. Why Definitions Conflict
 
@@ -57,7 +27,7 @@ Definitional conflicts can arise in relation to any connecting factor:
 
 ---
 
-## B. INDIVIDUAL RESIDENCE: THE MOST COMMON CONFLICT
+## 2. INDIVIDUAL RESIDENCE: THE MOST COMMON CONFLICT
 
 ### 1. Variations in Domestic Residence Tests
 
@@ -113,7 +83,7 @@ Consider an individual who:
 
 ### 3. The Treaty Solution: Article 4(2) Tie-Breaker
 
-Article 4(1) OECD MTC explicitly defers to domestic law: a person is a resident of a Contracting State if they are "liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature."
+Article 4(1) OECD Model Tax Convention (MTC) explicitly defers to domestic law: a person is a resident of a Contracting State if they are "liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature."
 
 However, Article 4(2) provides tie-breaker rules for individuals who are **dual residents** under both states' domestic laws. These rules determine residence **for treaty purposes only**—they do not change domestic law status.
 
@@ -122,7 +92,7 @@ However, Article 4(2) provides tie-breaker rules for individuals who are **dual 
 
 ---
 
-## C. THE ARTICLE 4(2) TIE-BREAKER HIERARCHY (INDIVIDUALS)
+## 3. THE ARTICLE 4(2) TIE-BREAKER HIERARCHY (INDIVIDUALS)
 
 ### Correct Structure (Per OECD MTC 2017)
 
@@ -243,7 +213,7 @@ The "last resort" when all preceding tests fail. Competent authorities of both s
 
 ---
 
-## D. CORPORATE RESIDENCE: CONFLICTING DEFINITIONS
+## 4. CORPORATE RESIDENCE: CONFLICTING DEFINITIONS
 
 ### 1. The Two Primary Tests
 
@@ -284,7 +254,7 @@ This change reflects concerns about aggressive tax planning using mobile POEM an
 
 ---
 
-## E. SOURCE DEFINITION CONFLICTS
+## 5. SOURCE DEFINITION CONFLICTS
 
 ### 1. The Problem
 
@@ -312,30 +282,7 @@ Distributive rules (Articles 6-21) effectively **define source for treaty purpos
 
 ---
 
-## F. EXAM APPLICATION FRAMEWORK
-
-### Question Recognition
-
-| Trigger Words | Likely Topic | Key Framework |
-|---------------|-------------|---------------|
-| "Resident in both countries" | Dual residence | Article 4(2) tie-breaker |
-| "Determine residence for treaty purposes" | Treaty vs domestic residence | Article 4(1) → 4(2) analysis |
-| "Permanent home," "centre of vital interests" | Tie-breaker application | Step 1 analysis (including CVI sub-test) |
-| "Place of effective management" | Corporate residence | Article 4(3), pre/post 2017 distinction |
-| "Conflicting claims" | Any definitional conflict | Identify type, apply treaty rules |
-
-### Answer Structure: DITA Framework
-
-For definitional conflict questions:
-
-1. **D**omestic Law Analysis: Identify each state's domestic definition
-2. **I**dentify Conflict: Explain why both states claim taxing rights
-3. **T**reaty Application: Apply relevant treaty article (usually Article 4)
-4. **A**llocate Residence: Conclude on which state has taxing rights for treaty purposes
-
----
-
-## G. WORKED EXAM EXAMPLE
+## 6. WORKED EXAM EXAMPLE
 
 ### Worked Example: Dual Residence Tie-Breaker (Based on June 2022 Q7)
 
@@ -421,69 +368,3 @@ Mr. Patel is **resident of Country U for treaty purposes** based on:
 As a Country U resident for treaty purposes, Country U retains the right to tax his worldwide income. Country X may only tax income in accordance with the treaty's distributive rules (e.g., employment income for services performed in Country X under Article 15). Country U must provide relief for any double taxation under Article 23.
 
 **Important Note**: Mr. Patel remains a domestic law resident of Country X. This may create compliance obligations and potential issues for income not covered by the treaty.
-
----
-
-## H. COMMON ERRORS AND HOW TO AVOID THEM
-
-| Error | Why It Happens | Prevention |
-|-------|---------------|------------|
-| **Treating CVI as Step 2** | Misreading Article 4(2) structure | Remember: CVI is a SUB-TEST within Step 1, applied when permanent home exists in BOTH states |
-| **Applying all tests regardless** | Not understanding hierarchy | Stop when a test resolves—subsequent tests are irrelevant |
-| **Confusing domestic and treaty residence** | Similar terminology | Treaty residence ONLY affects treaty rights; domestic status unchanged |
-| **Ignoring "availability" for permanent home** | Focusing only on ownership | A home rented to others is NOT available |
-| **Counting days for CVI** | Confusing CVI with habitual abode | CVI is qualitative (ties); habitual abode is quantitative (days) |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CONFLICTING DEFINITIONS arise because each state sets its own
-   criteria for residence, source, etc. under domestic law
-
-2. DUAL RESIDENCE occurs when different domestic law tests result
-   in a person being resident in two states simultaneously
-
-3. ARTICLE 4(2) TIE-BREAKER resolves dual residence FOR TREATY
-   PURPOSES ONLY—does not change domestic law status
-
-4. THE HIERARCHY (individuals):
-   Step 1: Permanent Home (with CVI as sub-test if home in BOTH)
-   Step 2: Habitual Abode
-   Step 3: Nationality
-   Step 4: MAP
-
-5. CVI IS A SUB-TEST of permanent home—applied ONLY when person
-   has permanent home in BOTH states
-
-6. PERMANENT HOME requires:
-   - Any form of dwelling
-   - Arranged and retained for permanent use
-   - Available continuously (NOT rented to others)
-
-7. CORPORATE RESIDENCE conflicts resolved by:
-   - Pre-2017: POEM tie-breaker
-   - Post-2017: MAP on case-by-case basis
-
-8. TREATY RESIDENCE determines which state has primary taxing
-   rights—the other state must provide relief under Article 23
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References and Further Reading
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017) - Article 4 and Commentary
-- Commentary on Article 4, paragraphs 10-21 (tie-breaker rules)
-
-**Key Web Resources**:
-- [AIFTP - Conflicts of Definition of Residence](https://aiftponline.org/journal/conflicts-of-definition-of-residence-between-jurisdictions/)
-- [DLA Piper - Dual Tax Residence](https://www.dlapiper.com/en/insights/publications/2021/05/agefi-dual-tax-residence-when-the-tie-does-not-break)
-- [Centre of Vital Interests Analysis](https://www.fieldtax.com/wp-content/uploads/2015/09/The-Expression-Centre-of-Vital-Interests-in-Article-42-OECD-Model-Convention.pdf)
-- [UN Model Double Taxation Convention](https://www.un.org/esa/ffd/wp-content/uploads/2014/10/2STM_Taxation-EC18-2006-7-part2-R.pdf)

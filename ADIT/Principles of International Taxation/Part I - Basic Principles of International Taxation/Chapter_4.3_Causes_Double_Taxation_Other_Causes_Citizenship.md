@@ -4,37 +4,7 @@
 
 ---
 
-```
-EXAM INTELLIGENCE: Other Causes of Double Taxation
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Frequency: MODERATE (20-30% of papers touch on these topics)
-Mark Range: 8-15 marks when directly tested
-Syllabus Level: 1 (awareness required, not detailed knowledge)
-
-Key Question Patterns:
-  • June 2022 Q7: US citizenship impact on residence analysis
-  • Dec 2021 Q6: Transfer pricing adjustments causing double taxation
-  • June 2024: Hybrid instruments and classification conflicts
-  • Part of broader questions on causes of double taxation
-
-Examiner Focus:
-  • Awareness that citizenship creates additional taxation layer (US/Eritrea)
-  • Understanding economic vs juridical double taxation distinction
-  • Recognition of transfer pricing disputes as double taxation cause
-  • Knowledge of hybrid mismatches and triangular cases (basic awareness)
-
-Strategic Priority: ★★★☆☆ MODERATE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHY THIS MATTERS: While residence-source conflicts are the primary cause
-of double taxation, examiners expect awareness of other causes,
-particularly US citizenship-based taxation and economic double taxation.
-These topics often appear as subsidiary points worth 3-5 marks.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. OVERVIEW: THE FULL PICTURE OF DOUBLE TAXATION CAUSES
+## 1. OVERVIEW: THE FULL PICTURE OF DOUBLE TAXATION CAUSES
 
 ### 1. Expanding Beyond R-S Conflicts
 
@@ -53,7 +23,7 @@ Understanding these additional causes is essential because they often **compound
 
 ---
 
-## B. CITIZENSHIP-BASED TAXATION
+## 2. CITIZENSHIP-BASED TAXATION
 
 ### 1. The US Anomaly
 
@@ -171,7 +141,7 @@ The proposed legislation would allow US citizens abroad to elect treatment as no
 
 ---
 
-## C. ECONOMIC DOUBLE TAXATION
+## 3. ECONOMIC DOUBLE TAXATION
 
 ### 1. Definition and Distinction from Juridical Double Taxation
 
@@ -229,7 +199,7 @@ Unlike juridical double taxation, economic double taxation is primarily addresse
 
 ---
 
-## D. TRANSFER PRICING AND DOUBLE TAXATION
+## 4. TRANSFER PRICING AND DOUBLE TAXATION
 
 ### 1. How Transfer Pricing Creates Double Taxation
 
@@ -262,22 +232,22 @@ transfer pricing interpretations.
 
 ### 2. Treaty Relief: Article 9(2) Corresponding Adjustments
 
-Article 9(2) OECD MTC addresses this by requiring the other state to make a **corresponding adjustment** when one state adjusts profits under the arm's length principle:
+Article 9(2) OECD Model Tax Convention (MTC) addresses this by requiring the other state to make a **corresponding adjustment** when one state adjusts profits under the arm's length principle:
 
 > "Where a Contracting State includes in the profits of an enterprise of that State... profits on which an enterprise of the other Contracting State has been charged to tax in that other State... the other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits."
 
 **Limitations**:
 - Only applies if the first adjustment was "in accordance with" the arm's length principle
 - States may disagree on whether adjustment was appropriate
-- Often requires MAP to resolve disputes (can take 2-3 years)
+- Often requires Mutual Agreement Procedure (MAP) to resolve disputes (can take 2-3 years)
 
-### 3. BEPS Impact
+### 3. Base Erosion and Profit Shifting (BEPS) Impact
 
 BEPS Actions 8-10 enhanced transfer pricing documentation requirements and guidance, but disputes persist. The MAP statistics show that transfer pricing cases constitute the majority of disputes and take the longest to resolve.
 
 ---
 
-## E. TRIANGULAR CASES
+## 5. TRIANGULAR CASES
 
 ### 1. What Are Triangular Cases?
 
@@ -334,7 +304,7 @@ Article 24(3) OECD MTC (non-discrimination for PEs) provides some protection, bu
 
 ---
 
-## F. HYBRID MISMATCHES
+## 6. HYBRID MISMATCHES
 
 ### 1. Definition
 
@@ -362,7 +332,7 @@ BEPS Action 2 addresses hybrid mismatch arrangements through recommendations to:
 
 ---
 
-## G. TIMING DIFFERENCES
+## 7. TIMING DIFFERENCES
 
 ### 1. The Problem
 
@@ -376,83 +346,3 @@ States may recognize income and expenses in **different tax periods**, creating 
 ### 2. Resolution
 
 Timing differences usually resolve over time (the mismatch reverses), but create cash flow burdens and compliance complexity. Treaties generally do not address timing differences directly.
-
----
-
-## H. EXAM APPLICATION
-
-### Question Recognition
-
-| Trigger Words | Topic | Key Points |
-|---------------|-------|------------|
-| "US citizen living abroad" | Citizenship taxation | Saving clause, FEIE, FTC, triple taxation potential |
-| "Company and shareholder taxed" | Economic double taxation | Juridical vs economic distinction, domestic law solutions |
-| "Transfer pricing adjustment" | TP double taxation | Article 9(2), MAP, corresponding adjustments |
-| "PE receives income from third country" | Triangular case | Bilateral treaty limitations |
-| "Different treatment in each state" | Hybrid mismatch | BEPS Action 2 awareness |
-
-### Model Answer Component: Citizenship Issue
-
-When a question involves a US person, include analysis such as:
-
-> "Additionally, if [taxpayer] is a US citizen, the United States will tax their worldwide income based on citizenship, regardless of residence status or treaty tie-breaker results. The US saving clause (Article 1(4) US Model) preserves this right in all US treaties. While relief mechanisms exist (Foreign Earned Income Exclusion up to $126,500, Foreign Tax Credit), these may not fully eliminate US tax, creating potential triple taxation."
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-ESSENTIAL POINTS TO REMEMBER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CITIZENSHIP-BASED TAXATION:
-   • Only USA and Eritrea tax based on citizenship
-   • US citizens taxed on worldwide income regardless of residence
-   • US saving clause preserves this in ALL US treaties
-   • Relief via FEIE ($126,500 exclusion) and Foreign Tax Credit
-   • Creates potential TRIPLE taxation scenarios
-
-2. ECONOMIC VS JURIDICAL DOUBLE TAXATION:
-   • Juridical: Same taxpayer taxed twice
-   • Economic: Same income taxed in different hands
-   • Treaties primarily address JURIDICAL double taxation
-   • Economic DT addressed through domestic law (participation
-     exemptions, imputation systems)
-
-3. TRANSFER PRICING DOUBLE TAXATION:
-   • Conflicting adjustments by different states
-   • Article 9(2) requires corresponding adjustments
-   • Often requires MAP to resolve
-
-4. TRIANGULAR CASES:
-   • Three-country situations
-   • Bilateral treaties may not provide complete relief
-   • Requires careful structuring or MAP
-
-5. HYBRID MISMATCHES:
-   • Different classification of same entity/instrument
-   • Can cause double taxation OR double non-taxation
-   • BEPS Action 2 addresses these issues
-
-6. EXAM APPROACH:
-   • Always check for US citizenship in fact pattern
-   • Distinguish economic from juridical double taxation
-   • Recognize when bilateral treaty relief is insufficient
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## References and Further Reading
-
-**Primary Sources**:
-- US Model Tax Convention (2016) - Article 1(4) Saving Clause
-- OECD Model Tax Convention - Articles 9, 23A, 23B
-- BEPS Action 2: Neutralising the Effects of Hybrid Mismatch Arrangements
-
-**Key Web Resources**:
-- [American Citizens Abroad - Taxation](https://www.americansabroad.org/taxation)
-- [Tax Fairness for Americans Abroad](https://www.taxfairnessabroad.org/blog/american-citizens-abroad-are-victims-of-a-lot-more-than-double-taxation)
-- [KPMG - US Bill on Overseas Taxation](https://kpmg.com/xx/en/our-insights/gms-flash-alert/flash-alert-2024-257.html)
-- [The Tax Adviser - Proposal to End Citizenship-Based Taxation](https://www.thetaxadviser.com/issues/2025/jun/a-proposal-to-end-citizenship-based-taxation-for-us-citizens-living-overseas/)
-- [UN Double Taxation Convention Part I](https://www.un.org/esa/ffd/wp-content/uploads/2014/10/2STM_Taxation-EC18-2006-7-part1-R.pdf)
