@@ -1,0 +1,134 @@
+Section,Topic_Code,Topic_Description,Level,Min_Words,Max_Words
+I - Basic principles of international taxation (20%),I.A,Jurisdiction to tax including limits to tax jurisdiction arising from public international law and cross-border enforcement of taxes,1,900,1100
+I - Basic principles of international taxation (20%),I.B.1,Definition and classification of taxes,1,900,1100
+I - Basic principles of international taxation (20%),I.B.2,Federal systems and local-level taxes,1,900,1100
+I - Basic principles of international taxation (20%),I.C.1,Concepts of source and situs; use of residence domicile and citizenship as connecting factors,2,1800,2200
+I - Basic principles of international taxation (20%),I.C.2,State practice in determining residence of individuals and corporations,2,1800,2200
+I - Basic principles of international taxation (20%),I.C.3,Implications of the use of citizenship as a connecting factor (especially particular issues for US citizens),1,900,1100
+I - Basic principles of international taxation (20%),I.C.4,State practice in determining the source of income and gains,2,1800,2200
+I - Basic principles of international taxation (20%),I.C.5,Tax issues arising from a change of residence/citizenship,2,1800,2200
+I - Basic principles of international taxation (20%),I.D.1,Conflicts of residence and source,2,1800,2200
+I - Basic principles of international taxation (20%),I.D.2,Conflicting definitions of connecting factors,2,1800,2200
+I - Basic principles of international taxation (20%),I.D.3,Other causes of international double taxation (including particular issues for using citizenship as a connecting factor for taxation),1,900,1100
+I - Basic principles of international taxation (20%),I.E.1,Relief by credit - including indirect/underlying credit and tax sparing credit,3,2700,3300
+I - Basic principles of international taxation (20%),I.E.2,Relief by exemption - including participation exemption,3,2700,3300
+I - Basic principles of international taxation (20%),I.E.3,Practical difficulties in applying relief by credit and relief by exemption,3,2700,3300
+I - Basic principles of international taxation (20%),I.E.4,Relief by exemption and relief by credit compared - capital import neutrality vs capital export neutrality,2,1800,2200
+I - Basic principles of international taxation (20%),I.E.5,Other methods of relief from international double taxation - relief by deduction of foreign tax; relief by deferral,2,1800,2200
+I - Basic principles of international taxation (20%),I.F.1,Recognition of foreign legal entities,2,1800,2200
+I - Basic principles of international taxation (20%),I.F.2,Characterisation of entities as transparent or opaque - state practice,2,1800,2200
+I - Basic principles of international taxation (20%),I.F.3,The issue of qualification and international tax,2,1800,2200
+I - Basic principles of international taxation (20%),I.G.1,Work under the League of Nations,1,900,1100
+I - Basic principles of international taxation (20%),I.G.2,Work of the G20 and OECD,2,1800,2200
+I - Basic principles of international taxation (20%),I.G.3,Work of the UN Group of Experts,2,1800,2200
+I - Basic principles of international taxation (20%),I.H.1,The European Convention on Human Rights,2,1800,2200
+I - Basic principles of international taxation (20%),I.H.2,The International Covenant on Civil and Political Rights,2,1800,2200
+I - Basic principles of international taxation (20%),I.I,State responsibility in international tax - the development of the concept of harmful tax competition,2,1800,2200
+II - Double taxation conventions (30%),II.A,Types of DTCs (limited multilateral etc.) and negotiation of DTCs,3,2700,3300
+II - Double taxation conventions (30%),II.B.1,Incorporation of DTCs into domestic law,3,2700,3300
+II - Double taxation conventions (30%),II.B.2,Treaty override,3,2700,3300
+II - Double taxation conventions (30%),II.C.1,The OECD Model Tax Convention (OECD MTC) and the Commentaries to the OECD MTC - the work of the OECD Committee on Fiscal Affairs,3,2700,3300
+II - Double taxation conventions (30%),II.C.2,The UN Model Double Taxation Convention 2021 (UN MDTC),3,2700,3300
+II - Double taxation conventions (30%),II.C.3,Specific states models: the US MTC; the Dutch MTC,1,900,1100
+II - Double taxation conventions (30%),II.C.4,The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS (MLI),3,2700,3300
+II - Double taxation conventions (30%),II.D,Approach to the application of a DTC - applying a DTC to a concrete scenario,3,2700,3300
+II - Double taxation conventions (30%),II.E.1,General approach to interpretation,3,2700,3300
+II - Double taxation conventions (30%),II.E.2,Vienna Convention on the Law of Treaties,3,2700,3300
+II - Double taxation conventions (30%),II.E.3,Use of external aids for interpretation - the status and use of the OECD Commentaries,3,2700,3300
+II - Double taxation conventions (30%),II.E.4,Application of Article 3(2) OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.E.5,Resolving interpretation issues by competent authority proceedings,3,2700,3300
+II - Double taxation conventions (30%),II.F.1,Article 1: Persons covered,3,2700,3300
+II - Double taxation conventions (30%),II.F.2,Article 2: Taxes covered,3,2700,3300
+II - Double taxation conventions (30%),II.F.3,Article 29: Entitlement to benefits,3,2700,3300
+II - Double taxation conventions (30%),II.F.4,Article 30 OECD MTC: Territorial extension; Articles 30 and 31 OECD MTC and UN MDTC: Entry into force; Article 32 OECD MTC and Article 31 UN MDTC: Termination,2,1800,2200
+II - Double taxation conventions (30%),II.G.1,Meaning of resident and resolution of cases of dual residence - Article 4 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.G.2,Permanent establishment concept: determining the existence of a permanent establishment - Article 5 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.G.3,BEPS Action 7 - Preventing the artificial avoidance of a permanent establishment,3,2700,3300
+II - Double taxation conventions (30%),II.H.1,Business profits (with or without a permanent establishment) - Article 7 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.H.2,Shipping and air transport profits - Article 8 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.H.3,Associated enterprises - Article 9 OECD MTC and UN MDTC - status of Article 9 and link to transfer pricing legislation,3,2700,3300
+II - Double taxation conventions (30%),II.I,DTC provisions relating to independent personal services - Article 14 UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.J.1,Employment income - Article 15 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.J.2,Directors fees - Article 16 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.J.3,Entertainers and sportspersons - Article 17 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.J.4,Pensions - Article 18 OECD MTC and UN MDTC,2,1800,2200
+II - Double taxation conventions (30%),II.J.5,Government service - Article 19 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.J.6,Students - Article 20 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.K.1,Income from immovable property - Article 6 OECD MTC,3,2700,3300
+II - Double taxation conventions (30%),II.K.2,Dividends - Article 10 OECD MTC and UN MDTC (including forms of dividend article used by key states eg US UK France Germany),3,2700,3300
+II - Double taxation conventions (30%),II.K.3,Interest - Article 11 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.K.4,Royalties - Article 12 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.K.5,Fees for Technical Services - Article 12A UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.K.6,Income from Automated Digital Services - Article 12B UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.K.7,Capital gains - Article 13 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.L,Taxation of capital - Article 22 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.M,Relevance of the other income Article - Article 21 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.N.1,Approaches to the misuse of DTCs,3,2700,3300
+II - Double taxation conventions (30%),II.N.2,Abuse of law doctrines and DTCs,3,2700,3300
+II - Double taxation conventions (30%),II.N.3,State practice with respect to limitation of benefit provisions,3,2700,3300
+II - Double taxation conventions (30%),II.N.4,BEPS Action 6 - treaty abuse,3,2700,3300
+II - Double taxation conventions (30%),II.N.5,Persons covered and entitlement to benefits - Articles 1 and 29 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.O,Methods of elimination of double taxation - Articles 23A and 23B OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.P,The impact of the non-discrimination article - Article 24 OECD MTC and UN MDTC,3,2700,3300
+II - Double taxation conventions (30%),II.Q.1,Competent authority/mutual agreement procedures - Article 25 OECD MTC and UN MDTC,2,1800,2200
+II - Double taxation conventions (30%),II.Q.2,Alternative means of resolving international tax disputes,2,1800,2200
+II - Double taxation conventions (30%),II.Q.3,BEPS Action 14 - Making dispute resolution mechanisms more effective,2,1800,2200
+II - Double taxation conventions (30%),II.Q.4,BEPS Action 15 - Developing a multilateral instrument to modify bilateral tax treaties,2,1800,2200
+II - Double taxation conventions (30%),II.R.1,Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS (MLI) - all provisions,3,2700,3300
+II - Double taxation conventions (30%),II.R.2,Explanatory Statement,3,2700,3300
+II - Double taxation conventions (30%),II.S.1,BEPS Action 1 - Tax challenges of the digital economy,3,2700,3300
+II - Double taxation conventions (30%),II.S.2,VAT/GST issues,2,1800,2200
+II - Double taxation conventions (30%),II.S.3,Nexus issues,2,1800,2200
+II - Double taxation conventions (30%),II.S.4,Definition of permanent establishments,3,2700,3300
+II - Double taxation conventions (30%),II.T,The work of the Platform for Collaboration on Tax,2,1800,2200
+II - Double taxation conventions (30%),II.U,The work of the UN Committee of Experts on International Cooperation in Tax Matters,2,1800,2200
+II - Double taxation conventions (30%),II.V,Work towards a draft UN Framework Tax Convention and Protocols,3,2700,3300
+III - BEPS 2.0: Pillar One and Pillar Two,III.A.1,Pillar One - Amount A Amount B and the Multilateral Convention to Implement Amount A of Pillar One,3,2700,3300
+III - BEPS 2.0: Pillar One and Pillar Two,III.A.2,Pillar Two - Income inclusion rule; under taxed profit rule the subject to tax rule and the Multilateral Convention to Facilitate the Implementation of the Pillar Two Subject to Tax Rule,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.A.1,Unitary taxation/global formulary apportionment,2,1800,2200
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.A.2,Arm's length approaches,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.B.1,Consideration of examples of domestic transfer pricing legislation (US UK Germany Australia),2,1800,2200
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.C,Transfer pricing and DTCs - Article 9 OECD MTC,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.D,Advanced pricing agreements,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.E.1,Background to the introduction of the 2022 Guidelines,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.E.2,Amendments to the 1995 and 2017 Guidelines,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.E.3,Transfer pricing methodologies,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.E.4,Special topics - hard to value intangibles; low value adding intra-group services; cost contribution/sharing agreements; revised safe harbour guidance; documentation; Annex to Chapter IV,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.E.5,Resolution of transfer pricing disputes and advance pricing agreements (APAs),3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.E.6,Attribution of profits to permanent establishments,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.F.1,Awareness of the impact of BEPS on transfer pricing,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.F.2,BEPS Actions 8-10 - Aligning transfer pricing outcomes with value creation,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.F.3,BEPS Action 13 - Documentation and country-by-country reporting,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.G.1,The UN Practical Manual on Transfer Pricing for Developing Countries 2021,3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.H,State practice with respect to restrictions on interest deductibility (including thin capitalisation rules),3,2700,3300
+IV - Transfer pricing and restrictions on interest deductibility (20%),IV.I.1,BEPS Action 4 - Interest Deductions,3,2700,3300
+V - International tax avoidance (25%),V.A.1,Work of the OECD Forum on Harmful Tax Practices,3,2700,3300
+V - International tax avoidance (25%),V.A.2,Approaches to identification of harmful tax practices including preferential regimes and substantial activity requirements,3,2700,3300
+V - International tax avoidance (25%),V.B.1,CFC and other controlled foreign entity legislation - examples from state practice,2,1800,2200
+V - International tax avoidance (25%),V.B.2,Foreign personal holding company legislation - examples from state practice,2,1800,2200
+V - International tax avoidance (25%),V.B.3,CFC and equivalent legislation and DTCs,2,1800,2200
+V - International tax avoidance (25%),V.C.1,Application of money-laundering legislation to foreign fiscal offences,1,900,1100
+V - International tax avoidance (25%),V.D.1,Exchange of information - Article 26 OECD MTC and UN MDTC,3,2700,3300
+V - International tax avoidance (25%),V.D.2,Tax information exchange agreements,3,2700,3300
+V - International tax avoidance (25%),V.D.3,The Global Forum on Transparency and the Exchange of Information for Tax Purposes,3,2700,3300
+V - International tax avoidance (25%),V.D.4,Country by Country Reporting,2,1800,2200
+V - International tax avoidance (25%),V.D.5,Common Reporting Standard,2,1800,2200
+V - International tax avoidance (25%),V.D.6,Assistance in collection - Article 27 OECD MTC and UN MDTC,2,1800,2200
+V - International tax avoidance (25%),V.D.7,Developments in transparency eg beneficial ownership digital currencies and environmental social and governance policies,3,2700,3300
+V - International tax avoidance (25%),V.E.1,The OECD/Council of Europe Convention,1,900,1100
+V - International tax avoidance (25%),V.E.2,Regional arrangements for cooperation in tax administration,1,900,1100
+V - International tax avoidance (25%),V.F.1,Awareness of the scope and details of the OECD BEPS Project,3,2700,3300
+V - International tax avoidance (25%),V.F.2,Overview of all BEPS Actions (1-15),2,1800,2200
+V - International tax avoidance (25%),V.F.3,BEPS Action 2 - Hybrid mismatches,3,2700,3300
+V - International tax avoidance (25%),V.F.4,BEPS Action 3 - CFC rules,3,2700,3300
+V - International tax avoidance (25%),V.F.5,BEPS Action 5 - Harmful tax practices,3,2700,3300
+V - International tax avoidance (25%),V.F.6,BEPS Action 11 - Measuring and monitoring BEPS,3,2700,3300
+V - International tax avoidance (25%),V.F.7,BEPS Action 12 - Mandatory disclosure rules,3,2700,3300
+V - International tax avoidance (25%),V.F.8,BEPS Action 15 - Multilateral convention to implement tax treaty-related measures to prevent BEPS,3,2700,3300
+VI - Miscellaneous topics (5%),VI.A.1,The origin and destination bases for indirect taxes,2,1800,2200
+VI - Miscellaneous topics (5%),VI.A.2,GATT and GATS rules and the limitation on border tax adjustment,2,1800,2200
+VI - Miscellaneous topics (5%),VI.A.3,WTO rules and taxes - the WTO dispute resolution regime and taxation,2,1800,2200
+VI - Miscellaneous topics (5%),VI.B,Cross-border mergers - examination of some of the issues and solutions,2,1800,2200
+VI - Miscellaneous topics (5%),VI.C,OECD Secretariat analysis of tax treaties and the impact of the COVID-19 pandemic,1,900,1100
+VI - Miscellaneous topics (5%),VI.D.1,Digital currencies and blockchain,2,1800,2200
+VI - Miscellaneous topics (5%),VI.D.2,Artificial intelligence and taxation,2,1800,2200
