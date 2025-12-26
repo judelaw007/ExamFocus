@@ -1,248 +1,55 @@
 # Chapter 3.3: Implications of the Use of Citizenship as a Connecting Factor
 
-## Especially Particular Issues for US Citizens
+## 1. Citizenship-Based Taxation as an Exception
 
----
+Citizenship-based taxation imposes tax liability on individuals based on their nationality, regardless of where they reside or where their income originates. This approach stands in marked contrast to the residence-based systems employed by virtually all other countries, where tax liability attaches to the place a person lives rather than their formal legal status.
 
-## 1. CONCEPT FOUNDATION
+Only two countries in the world currently practice citizenship-based taxation. The **United States** operates a comprehensive system taxing citizens on worldwide income at full domestic rates. **Eritrea** imposes a more limited 2% diaspora tax on citizens abroad, though enforcement capacity remains constrained and collection typically occurs through consular services.
 
-### 1. What Is Citizenship-Based Taxation?
+The overwhelming majority of states reject citizenship as a connecting factor for taxation. The prevailing international view holds that tax obligations should correspond to the jurisdiction where a person actually resides and benefits from public services. A person's nationality represents a formal legal status that may bear little relationship to their current circumstances—a citizen may have emigrated decades ago and maintain no meaningful connection with their country of nationality. Residence-based taxation better aligns tax obligations with the benefits received from government services and the ability of tax authorities to administer and enforce tax laws.
 
-**Definition**: Citizenship-based taxation (CBT) imposes tax liability on individuals based on their citizenship or nationality, **regardless of where they live or where their income is earned**.
+## 2. The United States System
 
-**Key Distinction**:
+### 2.1. Worldwide Taxation of Citizens
 
-| Tax System | Basis for Tax | Who Is Taxed on Worldwide Income |
-|------------|--------------|----------------------------------|
-| **Residence-based** | Where you live | Residents only |
-| **Territorial** | Where income arises | No one (only source income taxed) |
-| **Citizenship-based** | Nationality | All citizens, regardless of residence |
+The United States taxes its citizens on worldwide income under the Internal Revenue Code. This obligation applies regardless of where citizens reside or where their income arises. A US citizen living abroad for decades, earning only foreign income, and maintaining no US assets remains subject to US tax on worldwide income throughout their life.
 
-### 2. Countries Using Citizenship-Based Taxation
+The US definition of taxable persons extends beyond citizens to include lawful permanent residents (green card holders) and individuals meeting the Substantial Presence Test based on physical presence in the United States. For citizenship-based taxation specifically, the obligation attaches at birth to anyone born in the United States or born abroad to US citizen parents meeting statutory requirements.
 
-Only **two countries** in the world tax based on citizenship:
+### 2.2. Filing and Compliance Requirements
 
-| Country | System | Key Features |
-|---------|--------|--------------|
-| **United States** | Full CBT | Citizens taxed on worldwide income at normal rates |
-| **Eritrea** | Diaspora tax | 2% flat tax on citizens abroad (limited enforcement) |
+US citizens abroad face substantial compliance obligations. Annual tax return filing is required regardless of whether any US tax is ultimately owed. Beyond the basic return, citizens must file the Report of Foreign Bank and Financial Accounts (FBAR) if foreign accounts exceed $10,000 in aggregate at any point during the year. The Foreign Account Tax Compliance Act (FATCA), enacted in 2010, requires disclosure of foreign financial assets exceeding specified thresholds on Form 8938.
 
-**Every other country** uses residence-based or territorial taxation. Citizenship is irrelevant for tax purposes in the UK, Germany, France, and virtually all other jurisdictions.
+Additional information returns apply to interests in foreign corporations, partnerships, and trusts. Failure to file these forms triggers substantial penalties—FBAR violations can result in penalties of $10,000 or more per account, with willful violations attracting significantly higher penalties and potential criminal prosecution.
 
----
+### 2.3. Relief Mechanisms
 
-## 2. THE US SYSTEM: HOW IT WORKS
+The United States provides mechanisms to prevent double taxation of citizens abroad. The **Foreign Tax Credit** allows citizens to offset foreign taxes paid against US tax liability on foreign-source income. The credit is limited to the US tax attributable to foreign income, preventing foreign taxes from reducing US tax on domestic income. Excess credits may be carried back one year or forward ten years.
 
-### 1. Who Is Subject to US CBT?
+The **Foreign Earned Income Exclusion** permits qualifying citizens abroad to exclude a substantial portion of foreign earned income from US taxation—the amount exceeded $120,000 for recent tax years. Qualification requires either physical presence abroad for at least 330 days in a twelve-month period or establishment of bona fide residence in a foreign country. The exclusion applies only to earned income such as wages and self-employment income, not to passive income, pensions, or investment returns.
 
-**US "tax persons"** subject to worldwide US taxation:
+## 3. The Treaty Saving Clause
 
-| Category | Description |
-|----------|-------------|
-| **US Citizens** | Anyone with US citizenship, including dual citizens |
-| **Green Card Holders** | Lawful permanent residents |
-| **Substantial Presence** | Non-citizens meeting the 183-day SPT (Substantial Presence Test) test |
+US tax treaties contain a distinctive provision known as the **saving clause** that preserves the United States' right to tax its citizens and residents as if the treaty did not exist. The typical formulation provides that the treaty "shall not affect the taxation by a Contracting State of its residents and its citizens."
 
-**Critical Point**: A US citizen living abroad for 30 years, earning only foreign income, with no US assets, must still file US tax returns and potentially pay US tax.
+The practical effect is significant. Without the saving clause, treaty provisions allocating taxing rights exclusively to one contracting state would prevent the other state from taxing that income. A US citizen working in Germany might argue that Article 15 allocates taxing rights over employment income to Germany alone. The saving clause defeats this argument—the United States retains its citizenship-based taxing right regardless of treaty allocation provisions.
 
-### 2. US Filing Requirements for Citizens Abroad
+Most US treaties enumerate specific articles exempt from the saving clause, typically including non-discrimination, mutual agreement procedures, and certain provisions regarding students and trainees. However, the core distributive articles remain subject to the saving clause, meaning US citizens cannot use treaty provisions to escape US tax on foreign income.
 
-| Requirement | Threshold | Form |
-|-------------|-----------|------|
-| **Tax Return** | Income exceeds filing threshold (~$14,600 single, 2024) | Form 1040 |
-| **FBAR (Foreign Bank Account Report)** | Foreign accounts >$10,000 aggregate at any time | FinCEN 114 |
-| **FATCA (Foreign Account Tax Compliance Act)** | Foreign financial assets >$200,000 (single abroad) | Form 8938 |
-| **Foreign Corporations** | Own >10% of foreign corporation | Form 5471 |
-| **Foreign Trusts** | Beneficiary/transferor to foreign trust | Forms 3520/3520-A |
+## 4. Practical Implications and Criticisms
 
-### 3. Relief Mechanisms
+### 4.1. Compliance Challenges
 
-The US provides relief to prevent double taxation:
+US citizenship-based taxation creates significant practical difficulties. The FATCA regime requires foreign financial institutions to report accounts held by US persons or face withholding on US-source payments. Many foreign banks have responded by refusing to open accounts for US citizens, creating banking access difficulties for Americans abroad. This "de-banking" phenomenon has contributed to a significant increase in citizenship renunciations.
 
-#### Foreign Earned Income Exclusion (FEIE)
+The system particularly affects "accidental Americans"—individuals born in the United States who left as infants and may be unaware of their citizenship status. Such persons face substantial compliance obligations and potential penalties despite having no meaningful connection to the United States.
 
-| Aspect | Details |
-|--------|---------|
-| **Amount (2024)** | Up to $126,500 excludable |
-| **Qualification** | Physical Presence Test (330 days abroad) OR Bona Fide Residence Test |
-| **Scope** | Only **earned income** (wages, self-employment) |
-| **Exclusions** | Does NOT apply to passive income, pensions, Social Security |
-| **Form** | Form 2555 |
+### 4.2. Policy Debate
 
-#### Foreign Tax Credit (FTC)
+The United States position attracts substantial international criticism. Opponents argue that citizenship-based taxation violates the fundamental principle that tax should follow residence, imposes unfair burdens on citizens who derive minimal benefit from US government services, and creates impossible compliance requirements for individuals living ordinary lives abroad.
 
-| Aspect | Details |
-|--------|---------|
-| **Mechanism** | Dollar-for-dollar credit for foreign taxes paid |
-| **Limitation** | Credit limited to US tax on foreign-source income |
-| **Carryover** | Excess credits can be carried back 1 year, forward 10 years |
-| **Form** | Form 1116 |
+Defenders of the US approach point to revenue protection—preventing tax-motivated emigration by high-net-worth individuals—and the benefits citizenship provides, including consular protection and political rights. The equity argument suggests US citizens should not escape their share of taxation merely by relocating.
 
-**Choice Between FEIE and FTC**:
-- **FEIE**: Better when foreign tax rate < US rate (excludes income entirely)
-- **FTC**: Better when foreign tax rate > US rate (credit eliminates US tax)
-- Can use both for different income types
+Article 24 of the OECD Model Tax Convention addresses non-discrimination based on nationality, prohibiting contracting states from treating nationals of the other state less favourably than their own nationals in similar circumstances (covered in December 2023). However, this provision protects foreign nationals from discrimination by the host state rather than limiting a state's taxation of its own nationals. Citizenship-based taxation by a state of its own citizens falls outside the scope of Article 24 protection.
 
----
-
-## 3. THE TREATY SAVING CLAUSE
-
-### 1. What Is the Saving Clause?
-
-The **saving clause** in US tax treaties preserves the US right to tax its citizens and residents as if the treaty did not exist.
-
-**Standard US Treaty Saving Clause Language**:
-> "This Convention shall not affect the taxation by a Contracting State of its residents (as determined under Article 4) and its citizens."
-
-### 2. Effect of the Saving Clause
-
-**Without Saving Clause**:
-- Treaty allocates taxing rights between states
-- US citizens could use treaty to reduce US tax on foreign income
-
-**With Saving Clause**:
-- US retains full right to tax its citizens
-- Most treaty benefits unavailable to US citizens
-- Treaty primarily benefits **foreign persons** earning US income
-
-**Example**:
-```
-US CITIZEN WORKING IN UK
-━━━━━━━━━━━━━━━━━━━━━━━━
-Without Saving Clause:
-  UK employment income taxable only in UK (Article 15)
-  US would provide exemption
-
-With Saving Clause (Reality):
-  UK taxes employment income (source)
-  US ALSO taxes employment income (citizenship)
-  US must provide relief via FTC (not exemption)
-```
-
-### 3. Exceptions to the Saving Clause
-
-Most US treaties list specific articles **exempt** from the saving clause:
-
-| Common Exceptions | Effect |
-|-------------------|--------|
-| **Pensions (some treaties)** | May reduce US tax on foreign pensions |
-| **Students/Trainees** | May provide tax exemption |
-| **Non-Discrimination** | US citizens can't be treated worse |
-| **Relief from Double Taxation** | FTC provisions apply |
-| **MAP** | Competent authority assistance available |
-
----
-
-## 4. IMPLICATIONS AND PROBLEMS
-
-### 1. Double Taxation Exposure
-
-US citizens abroad face potential **triple taxation**:
-
-```
-TRIPLE TAX SCENARIO
-━━━━━━━━━━━━━━━━━━━
-Layer 1: Source State (where income earned)
-Layer 2: Residence State (where living)
-Layer 3: Citizenship State (USA)
-
-Example: US citizen resident in Germany earning French income
-  France (source): WHT on French dividends
-  Germany (residence): Income tax on worldwide income
-  USA (citizenship): Income tax on worldwide income
-
-Must coordinate 3 countries' taxes via credits
-```
-
-### 2. Compliance Burden
-
-**Annual US Filing Requirements** for citizens abroad:
-- Tax return (even if no US tax owed)
-- FBAR (if foreign accounts >$10,000)
-- FATCA Form 8938 (if substantial foreign assets)
-- Various information returns (foreign companies, trusts, gifts)
-
-**Penalties for Non-Compliance**:
-
-| Violation | Penalty |
-|-----------|---------|
-| Failure to file FBAR | $10,000-$100,000+ per violation |
-| FATCA non-filing | $10,000+ per form |
-| Willful violations | Criminal penalties possible |
-
-### 3. Banking Access Challenges
-
-**FATCA's Impact on US Citizens Abroad**:
-- Foreign banks must report US account holders to IRS
-- Many foreign banks refuse to open accounts for US persons
-- Compliance costs lead to "de-banking" of Americans abroad
-- Some Americans renounce citizenship due to banking difficulties
-
-### 4. Renunciation Considerations
-
-US citizens considering renunciation face:
-
-| Issue | Requirement |
-|-------|-------------|
-| **Exit Tax** | Mark-to-market on unrealized gains (covered expatriates) |
-| **Covered Expatriate** | Net worth >$2M OR average tax liability >$201,000 (2024) |
-| **Tax Compliance** | Must certify 5 years tax compliance |
-| **Administrative** | State Department fee of $2,350 |
-
----
-
-## 5. HISTORICAL AND POLICY CONTEXT
-
-### Historical Origins of US Citizenship-Based Taxation
-
-The US adopted citizenship-based taxation during the **Civil War (1861)** when Congress was concerned that wealthy Americans would move abroad to avoid financing the war effort. The policy was intended as a temporary wartime measure but was never repealed.
-
-**Key Historical Points**:
-- 1861: First US income tax included citizenship provision
-- 1894: Income tax struck down but CBT concept established
-- 1913: 16th Amendment enables permanent income tax, CBT continued
-- 1962: Kennedy administration expanded foreign income reporting
-- 2010: FATCA enacted, dramatically increasing enforcement
-
-### The International Outlier Position
-
-The US position is increasingly criticized internationally:
-
-**Arguments Against CBT**:
-1. **Violates residence principle**: Tax should follow where benefits received
-2. **Unfair burden**: Citizens abroad don't use US public services
-3. **Compliance impossibility**: Complex rules create inadvertent non-compliance
-4. **Banking discrimination**: FATCA causes foreign banks to reject US persons
-5. **Affects "accidental Americans"**: Born in US but left as infants
-
-**US Government Defense**:
-1. **Revenue protection**: Prevents tax-motivated emigration
-2. **Benefits of citizenship**: US passport, consular services, political rights
-3. **Equity argument**: US citizens shouldn't avoid tax by moving
-4. **Enforcement mechanism**: FATCA succeeds where voluntary compliance fails
-
-### Policy Reform Discussions
-
-Various reform proposals have been suggested:
-
-| Proposal | Description | Status |
-|----------|-------------|--------|
-| **Residency-based reform** | Switch to residence-based taxation | Bills introduced but not passed |
-| **Territorial for individuals** | Tax only US-source income | Discussed, no action |
-| **Same country exception** | No US tax if paying full tax in high-tax country | Proposed |
-| **FATCA reform** | Reduce reporting burden | Limited modifications |
-
-### Practical Impact on International Structures
-
-CBT affects international tax planning involving US persons:
-
-**Investment Structures**: US citizens face different tax consequences than non-US persons for:
-- Offshore funds (PFIC rules apply to US persons)
-- Foreign companies (CFC rules more burdensome)
-- Foreign trusts (complex reporting requirements)
-
-**Multinational Families**: Mixed-citizenship families face planning challenges:
-- Joint accounts trigger US reporting for non-US spouse
-- Non-US children may become "accidental Americans" through birth
-- Inheritance from US citizen has different implications
-
+Reform proposals—including conversion to residence-based taxation for individuals—have been introduced in Congress but have not progressed. The compliance burden, particularly FATCA's extraterritorial reach, continues to generate international diplomatic friction and advocacy from Americans abroad.
