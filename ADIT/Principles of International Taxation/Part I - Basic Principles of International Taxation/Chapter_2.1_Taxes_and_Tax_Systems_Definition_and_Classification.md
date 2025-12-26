@@ -1,6 +1,6 @@
-## 2. Definition and Classification of Taxes
+## 2.1. Definition and Classification of Taxes
 
-### 2.1. What is a Tax?
+### 2.1.1. What is a Tax?
 
 A tax is a compulsory financial charge imposed by a governmental organisation on individuals or entities to fund government expenditure and public services. Understanding what constitutes a "tax" is essential for determining whether a charge falls within the scope of tax treaties.
 
@@ -24,11 +24,11 @@ A tax is a compulsory financial charge imposed by a governmental organisation on
 
 Article 2 of the OECD Model Tax Convention defines which taxes are "covered" by the treaty. Understanding what constitutes a "tax" helps determine whether a particular charge qualifies for treaty benefits.
 
-### 2.2. Classification of Taxes
+### 2.1.2. Classification of Taxes
 
 Taxes can be classified in multiple ways. These classifications are important for analysing treaty provisions and understanding how different taxes operate within domestic and international tax systems.
 
-#### 2.2.1. Direct and Indirect Taxes
+#### 2.1.2.1. Direct and Indirect Taxes
 
 The distinction between direct and indirect taxes is fundamental to understanding treaty coverage.
 
@@ -41,7 +41,7 @@ The distinction between direct and indirect taxes is fundamental to understandin
 
 Double Tax Conventions primarily cover direct taxes on income and capital. Article 2(2) of the OECD MTC specifies that covered taxes include "all taxes imposed on total income, on total capital, or on elements of income or of capital." Indirect taxes such as VAT and customs duties are generally not covered by DTCs.
 
-#### 2.2.2. Rate Structures
+#### 2.1.2.2. Rate Structures
 
 Taxes can also be classified by how rates change with the tax base:
 
@@ -53,7 +53,7 @@ Taxes can also be classified by how rates change with the tax base:
 
 In a progressive system, the marginal tax rate exceeds the average tax rate. In a proportional system, they are equal. In a regressive system, the marginal rate is lower than the average rate.
 
-#### 2.2.3. Tax Bases
+#### 2.1.2.3. Tax Bases
 
 The tax base determines what is measured and taxed:
 
@@ -63,11 +63,11 @@ The tax base determines what is measured and taxed:
 | **Consumption** | Spending on goods and services | VAT, GST, sales tax, excise duties |
 | **Property/Wealth** | Assets owned | Real property tax, wealth tax, inheritance tax |
 
-### 2.3. Major Types of Taxes
+### 2.1.3. Major Types of Taxes
 
 Understanding the major categories of taxes provides the foundation for analysing how different charges are treated under domestic law and international agreements.
 
-#### 2.3.1. Income Taxes
+#### 2.1.3.1. Income Taxes
 
 Income taxes form the primary focus of Double Tax Conventions. They are imposed on the earnings of individuals and entities:
 
@@ -78,7 +78,7 @@ Income taxes form the primary focus of Double Tax Conventions. They are imposed 
 | **Capital Gains Tax** | Individuals/entities | Tax on asset appreciation |
 | **Withholding Tax** | Non-residents | Deducted at source on dividends, interest, royalties |
 
-#### 2.3.2. Consumption Taxes
+#### 2.1.3.2. Consumption Taxes
 
 Consumption taxes operate differently from income taxes:
 
@@ -90,7 +90,7 @@ Consumption taxes operate differently from income taxes:
 | **Excise Duties** | Specific goods such as alcohol, tobacco, fuel |
 | **Customs Duties** | Border levies on imports and exports |
 
-#### 2.3.3. Property and Wealth Taxes
+#### 2.1.3.3. Property and Wealth Taxes
 
 | Type | Tax Base |
 |------|----------|
@@ -100,7 +100,7 @@ Consumption taxes operate differently from income taxes:
 | **Gift Tax** | Transfers during lifetime |
 | **Stamp Duty** | Documents and transactions |
 
-### 2.4. Treaty Relevance
+### 2.1.4. Treaty Relevance
 
 The classification of taxes directly affects treaty application:
 
