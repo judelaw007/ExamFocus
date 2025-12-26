@@ -712,19 +712,6 @@ Before writing your answer on jurisdiction/enforcement questions:
 - [ ] Have I planned time allocation across all required elements?
 - [ ] Have I included specific examples/cases where helpful?
 
-### 9.3. Quick Self-Review Questions
-
-Test your understanding before the exam:
-
-1. What is the difference between prescriptive and enforcement jurisdiction?
-2. Why can't a state simply seize assets located in another country?
-3. What case established the revenue rule and what was its holding?
-4. How does Article 27 overcome the revenue rule?
-5. What is the "equivalence principle" in Article 27?
-6. What limitations exist on Article 27's temporal scope?
-7. Why might residence-based taxation be challenged by digitisation?
-8. What is the saving clause and why does it exist?
-
 ---
 
 ## 10. Bilateral vs. Multilateral Approaches to Jurisdiction
