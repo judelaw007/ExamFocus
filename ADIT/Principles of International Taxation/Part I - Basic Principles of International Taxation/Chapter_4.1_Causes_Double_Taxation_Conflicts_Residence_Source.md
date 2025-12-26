@@ -1,381 +1,89 @@
-# Chapter 4.1: Causes of International Double Taxation - Conflicts of Residence and Source
-
-## The Primary Engine of International Double Taxation
-
----
-
-## 1. CONCEPT FOUNDATION: WHAT IS INTERNATIONAL DOUBLE TAXATION?
+## Chapter 4.1: Causes of International Double Taxation - Conflicts of Residence and Source
 
 ### 1. Defining International Double Taxation
 
-**International juridical double taxation** arises when the same income or capital is taxed in the hands of **the same taxpayer** by **two or more states** for the **same period** in respect of the **same subject matter**.
+#### 1.1. The Four Essential Elements
 
-This definition, derived from the OECD Model Tax Convention Commentary, contains four essential elements that must all be present:
+International juridical double taxation arises when the same income or capital is taxed in the hands of the same taxpayer by two or more states for the same period in respect of the same subject matter. This definition, derived from the OECD Model Tax Convention Commentary, contains four essential elements that must all be present: the same taxpayer must be subject to tax; the same item of income or capital must be taxed; taxation must occur in respect of the same taxable period; and two or more states must impose the tax.
 
-| Element | Description | Example |
-|---------|-------------|---------|
-| **Same taxpayer** | Identical legal person taxed | Ms. Chen (individual) |
-| **Same income** | Identical item of income | Salary of £100,000 |
-| **Same period** | Same tax year/period | Year 2024 |
-| **Two or more states** | Multiple jurisdictions claiming tax | UK (residence) + Singapore (source) |
+The phenomenon occurs because no rule of public international law prevents states from asserting overlapping tax claims. Each sovereign state determines its own tax jurisdiction independently, defining residence, source, and other connecting factors according to its domestic law. These independently determined claims frequently overlap in cross-border situations. The absence of a supranational tax authority means there is no automatic mechanism to eliminate these overlapping claims, which explains why bilateral tax treaties and unilateral relief measures developed as the primary tools for addressing double taxation.
 
-The phenomenon occurs because no universal rule of international law prevents states from asserting overlapping tax claims. Each sovereign state determines its own tax jurisdiction independently, and these claims frequently overlap in cross-border situations. The absence of a supranational tax authority means there is no automatic mechanism to eliminate these overlapping claims—hence the development of bilateral tax treaties and unilateral relief measures.
+#### 1.2. Juridical and Economic Double Taxation Distinguished
 
-### 2. Juridical vs Economic Double Taxation
+The distinction between juridical and economic double taxation is fundamental to understanding how treaty relief mechanisms operate.
 
-The distinction between **juridical** and **economic** double taxation is fundamental and frequently tested:
+Juridical double taxation occurs when the same person is taxed on the same income by two states. The classic example is a UK resident earning rental income from property in Germany: the UK taxes the income under its worldwide taxation principle, while Germany taxes the same income as arising from German-situs property. The same taxpayer faces two tax liabilities on identical income.
 
-| Type | Definition | Example |
-|------|------------|---------|
-| **Juridical Double Taxation** | Same person taxed on same income by two states | UK resident earns German rental income; UK taxes worldwide income, Germany taxes source income |
-| **Economic Double Taxation** | Same income taxed in hands of different persons | Parent company receives dividend from subsidiary; both the subsidiary's profits AND the dividend are taxed |
+Economic double taxation occurs when the same income is taxed in the hands of different persons. The paradigm case is dividend income: a subsidiary company pays corporate tax on its profits, and the shareholder then pays personal tax on dividends received from those already-taxed profits. Two different taxpayers bear tax, but on economically identical income.
 
-**Key Point for Exams**: The OECD Model Tax Convention and bilateral treaties primarily address **juridical double taxation**. Economic double taxation (such as corporate profits being taxed at both company and shareholder levels) is addressed through domestic participation exemptions or specific treaty provisions, but is not the main focus of Articles 23A and 23B.
+The OECD Model Tax Convention and bilateral treaties primarily address juridical double taxation. The Commentary on Articles 23A and 23B explicitly states that these provisions deal with juridical double taxation, "which is to be distinguished from so-called economic double taxation." While some treaty provisions and domestic participation exemptions address economic double taxation, the treaty relief framework focuses on eliminating situations where the same taxpayer pays tax twice on the same income.
 
-The Commentary on Articles 23A and 23B explicitly states that these provisions deal with juridical double taxation, "which is to be distinguished from so-called economic double taxation." This distinction matters because treaty relief mechanisms are designed specifically to eliminate juridical double taxation—where the same taxpayer pays tax twice—rather than the economic burden of multiple levels of taxation on related parties.
+### 2. Types of Jurisdictional Conflicts
 
----
+International double taxation arises from three distinct types of jurisdictional conflicts, each requiring different resolution mechanisms.
 
-## 2. THE THREE TYPES OF JURISDICTIONAL CONFLICTS
+#### 2.1. Residence-Source Conflicts
 
-International double taxation arises from three distinct types of jurisdictional conflicts. Understanding which type applies helps identify the appropriate relief mechanism.
+The residence-source conflict is the most common cause of international double taxation. It arises when a residence state claims the right to tax a person's worldwide income while a source state simultaneously claims the right to tax income arising within its territory.
 
-### 1. Residence-Source Conflict (R-S)
+Most developed countries assert worldwide taxation over their residents based on the benefit theory—residents benefit from state services wherever they earn income and should therefore contribute to state revenue on their total economic gains. These same countries also claim source-based taxation over income arising within their borders based on the origin theory—income should be taxed where the economic activity generating it occurs, reflecting the contribution of local infrastructure, markets, and legal systems to income production.
 
-**The Most Common Cause of Double Taxation**
+When a taxpayer resident in one state earns income with its source in another, both claims overlap. A German resident performing consulting services in Japan illustrates this conflict: Germany taxes the income as part of the resident's worldwide earnings, while Japan taxes it as income from services performed on Japanese territory. The same income faces taxation twice, creating juridical double taxation. *(covered in June 2022)*
 
-A residence-source conflict occurs when:
-- The **residence state** claims the right to tax a person's **worldwide income**
-- The **source state** claims the right to tax income **arising within its territory**
+The treaty framework addresses this conflict through a two-step mechanism. First, distributive rules in Articles 6-22 allocate taxing rights between states, determining which may tax each income category and whether that right is exclusive or shared. Second, where both states retain taxing rights, the residence state must provide relief under Articles 23A or 23B.
 
-```
-VISUAL: RESIDENCE-SOURCE CONFLICT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#### 2.2. Residence-Residence Conflicts
 
-                     INCOME GENERATED
-                           │
-           ┌───────────────┴───────────────┐
-           │                               │
-           ▼                               ▼
-    ┌──────────────┐               ┌──────────────┐
-    │ SOURCE STATE │               │RESIDENCE STATE│
-    │  (Country S) │               │  (Country R)  │
-    │              │               │               │
-    │ "Income arose│               │ "Taxpayer is  │
-    │  here—we can │               │  our resident—│
-    │  tax it"     │               │  we tax world-│
-    │              │               │  wide income" │
-    └──────────────┘               └───────────────┘
-           │                               │
-           │     DOUBLE TAX ON SAME        │
-           │       INCOME RESULTS          │
-           └───────────────┬───────────────┘
-                           │
-                    TREATY SOLUTION:
-              Allocate rights (Arts 6-22)
-              Relief for residence state
-                   (Arts 23A/23B)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+A residence-residence conflict arises when two states both consider the same person to be their tax resident. This typically occurs because states use different domestic law definitions of residence.
 
-**Example**: A German resident (Country R) performs consulting services in Japan (Country S) and earns ¥10,000,000.
+One state may determine individual residence based on physical presence, treating anyone present for more than 183 days as resident. Another may focus on the location of a permanent home or centre of vital interests. A third may use citizenship or domicile as connecting factors. A person may satisfy the residence tests of multiple states simultaneously, with each claiming the right to tax worldwide income.
 
-| State | Taxing Claim | Basis |
-|-------|--------------|-------|
-| Germany | Worldwide income (including Japanese fees) | Residence-based taxation |
-| Japan | Income sourced in Japan | Source-based taxation (services performed in Japan) |
+Corporate residence conflicts arise similarly. Some states determine corporate residence by place of incorporation, others by place of effective management, and still others by a combination of factors. A company incorporated in one state but managed from another may be resident in both under their respective domestic laws. *(covered in June 2024)*
 
-**Result**: Same income (¥10,000,000) taxed twice in the same period to the same person.
+Article 4(2) of the OECD Model provides tie-breaker rules for individuals to determine a single residence for treaty purposes. The tie-breaker operates hierarchically: permanent home; centre of vital interests (if homes in both states); habitual abode; nationality; and finally mutual agreement procedure if none of these tests resolves the matter. For companies, Article 4(3) originally specified place of effective management as the tie-breaker, though the 2017 update replaced this with case-by-case determination through competent authority agreement.
 
-**Why This Conflict Arises**: This is the fundamental tension in international taxation. Most developed countries assert worldwide taxation over their residents (based on the benefit theory—residents benefit from state services wherever they earn income), while also claiming source-based taxation over income arising within their borders (based on the origin theory—income should be taxed where economic activity occurs). When these two legitimate but conflicting claims overlap, double taxation results.
+#### 2.3. Source-Source Conflicts
 
-### 2. Residence-Residence Conflict (R-R)
+A source-source conflict occurs when two states both consider the same income to have its source within their territory. This arises because there is no universally agreed definition of source, and states apply different sourcing rules to the same income types.
 
-A residence-residence conflict occurs when **two states both consider the same person to be their tax resident**.
+Interest may be sourced where the debtor is resident, where the capital is employed, or where the loan agreement was concluded. Royalties may be sourced where the payer is resident, where the intellectual property is used, or where the licence was granted. Services income may be sourced where services are performed, where the payer is located, or where the benefit of services is received.
 
-This typically happens because states use different domestic law definitions of residence:
+These conflicting source rules create situations where the same income is treated as domestically sourced by multiple states, each asserting source-state taxing rights. Treaty distributive rules typically define source for treaty purposes, overriding conflicting domestic definitions between treaty partners and establishing which state's source claim prevails.
 
-| State A Definition | State B Definition | Conflict Result |
-|--------------------|-------------------|-----------------|
-| Physical presence (183 days) | Permanent home test | Person may satisfy both |
-| Central management (companies) | Place of incorporation | Company may be resident in both |
+### 3. The Treaty Framework for Resolution
 
-**Example**: Mr. Patel has:
-- A home in France where his family lives (183+ days)
-- Employment in Belgium where he works (permanent office)
+#### 3.1. Distributive Rules: Allocating Taxing Rights
 
-Both France and Belgium may consider him tax resident under their domestic laws, each claiming the right to tax his worldwide income.
+The OECD Model Tax Convention addresses jurisdictional conflicts through distributive rules in Articles 6-22. These provisions determine which state may tax each category of income and whether that right is exclusive or shared with the other state.
 
-**Treaty Solution**: Article 4(2) OECD MTC provides tie-breaker rules to determine a **single residence** for treaty purposes. The tie-breaker operates hierarchically:
+Some articles allocate exclusive taxing rights. Article 7 provides that business profits are taxable only in the residence state unless the enterprise carries on business through a permanent establishment in the source state. Article 12 (in the OECD Model) provides that royalties are taxable only in the residence state. Article 21 similarly allocates other income exclusively to the residence state.
 
-**Step 1: PERMANENT HOME TEST**
-- (a) Permanent home in ONE state only → Resident of that state (STOP)
-- (b) Permanent home in BOTH states → Apply Centre of Vital Interests (sub-test)
-  - If CVI resolves → Resident of that state (STOP)
-  - If CVI indeterminate → Go to Step 2
-- (c) Permanent home in NEITHER state → Go to Step 2
+Other articles permit shared taxation with limits. Article 10 provides that dividends may be taxed in both residence and source states, but limits source-state taxation to 5% for substantial corporate shareholders and 15% for other recipients. Article 11 permits source-state taxation of interest but typically limits it to 10%. Article 6 permits the source state to tax immovable property income without limitation. *(covered in December 2023)*
 
-**Step 2: HABITUAL ABODE** → Where does the person usually stay?
+The treaty language "may be taxed" is permissive rather than mandatory. When an article states that income may be taxed in a particular state, it allocates the right to tax under the treaty but does not compel that state to exercise the right. Whether taxation actually occurs depends on the state's domestic legislation.
 
-**Step 3: NATIONALITY** → Of which state is the person a national?
+#### 3.2. Relief Methods: Exemption and Credit
 
-**Step 4: MUTUAL AGREEMENT PROCEDURE** → Competent authorities must agree
+Where both states retain taxing rights after applying the distributive rules, the residence state must provide relief to eliminate remaining double taxation. Articles 23A and 23B offer two principal methods.
 
-### 3. Source-Source Conflict (S-S)
-
-A source-source conflict occurs when **two states both consider the same income to have its source within their territory**.
+Under the exemption method (Article 23A), the residence state excludes foreign income from its tax base. The income taxed at source is not taxed again in the residence state. Most countries using exemption apply it "with progression"—the exempt income is included when calculating the applicable tax rate on remaining income but is not itself taxed. This prevents taxpayers from benefiting from lower marginal rates on their domestic income by excluding foreign income from rate calculations.
 
-This arises because there is no universally agreed definition of "source" and states apply different sourcing rules:
+Under the credit method (Article 23B), the residence state taxes worldwide income but allows a credit for foreign tax paid. The residence state calculates tax on total income, then deducts the foreign tax, typically limited to the residence state's own tax on that foreign income. This "ordinary credit" ensures the residence state receives at least its normal tax rate while preventing double taxation. Some treaties provide "full credit" without limitation, though this is rare as it may result in negative effective tax on domestic income.
 
-| Income Type | State A Source Rule | State B Source Rule |
-|-------------|--------------------|--------------------|
-| **Interest** | Where debtor resident | Where capital used |
-| **Services** | Where performed | Where payer resident |
-| **Royalties** | Where payer resident | Where IP used |
+The choice between methods reflects different policy priorities. The exemption method promotes capital import neutrality: foreign and domestic investors in a source country face the same tax rate, as the foreign investor bears only source-state tax. The credit method promotes capital export neutrality: a country's residents face the same effective tax burden regardless of where they invest, as the residence state ensures its rate applies even when foreign rates are lower. Neither approach fully eliminates distortions, and hybrid approaches combining elements of both methods are common in practice.
 
-**Example**: A Brazilian company pays royalties to a Swiss licensor for technology used in manufacturing goods ultimately sold in the US.
-- Brazil: Source = where payer is resident
-- US: Source = where technology used in economic activity (US sales)
-- Switzerland: Potentially source = where IP legally owned
+### 4. Policy Considerations
 
-**Treaty Solution**: Distributive rules (Articles 6-22) typically define source for treaty purposes, overriding conflicting domestic definitions.
+#### 4.1. Historical Development
 
----
+The current framework for resolving residence-source conflicts emerged from international negotiations beginning in the 1920s. The League of Nations' 1927 Report established the principle that both residence and source states have legitimate taxing claims and proposed a system of shared allocation. The 1928 Model Conventions that followed remain the foundation of modern treaty practice.
 
-## 3. THE OECD SOLUTION: DISTRIBUTIVE RULES AND RELIEF METHODS
+Different drafts reflected different priorities. The 1943 Mexico Draft favoured source-state taxation, reflecting developing country interests in taxing economic activity within their borders. The 1946 London Draft shifted toward residence-state primacy, reflecting capital-exporting countries' preferences. The 1963 OECD Model represented a durable compromise, though critics note it favours residence-state taxation for most income types.
 
-The OECD Model Tax Convention addresses residence-source conflicts through a two-step mechanism that represents decades of international consensus-building on how to allocate taxing rights fairly between states.
+#### 4.2. Continuing Tensions
 
-### 1. Step One: Allocate Taxing Rights (Articles 6-22)
+The balance between residence and source taxation remains contested. The UN Model Tax Convention addresses developing country concerns by permitting higher withholding rates on passive income, providing for source taxation of technical service fees under Article 12A, and adopting broader permanent establishment definitions to increase source-state taxing rights.
 
-The **distributive rules** determine which state may tax each type of income, and whether that right is exclusive or shared:
+Digital economy developments have intensified these tensions. Traditional source rules assume physical presence creates economic nexus, but digital businesses can generate substantial revenue from customers in a country without any physical presence there. The OECD/G20 Pillar One framework responds by reallocating some taxing rights to market jurisdictions regardless of physical presence, representing a partial shift from traditional residence-source allocation toward market-based taxation for the largest multinational enterprises.
 
-| Article | Income Type | Allocation Rule |
-|---------|-------------|-----------------|
-| **Art 6** | Immovable property income | Source state may tax (where property located) |
-| **Art 7** | Business profits | Residence state only, UNLESS attributable to Permanent Establishment (PE) in source state |
-| **Art 8** | Shipping/air transport | Residence of Place of Effective Management (POEM) may tax exclusively |
-| **Art 10** | Dividends | Both may tax; source limited to 5%/15% |
-| **Art 11** | Interest | Both may tax; source limited to 10% |
-| **Art 12** | Royalties | Residence state only (OECD); source may tax (UN) |
-| **Art 13** | Capital gains | Various rules depending on asset type |
-| **Art 14** | Independent personal services | Deleted in 2000 (now under Art 7) |
-| **Art 15** | Employment income | Source state (where services performed) subject to exceptions |
-| **Art 16** | Directors' fees | Company's residence state may tax |
-| **Art 17** | Entertainers/sportspersons | Source state may tax (where activity performed) |
-| **Art 18** | Pensions | Residence state only (OECD model) |
-| **Art 19** | Government service | State paying (generally) |
-| **Art 20** | Students | Exempt in host state if from abroad |
-| **Art 21** | Other income | Residence state only |
-
-**Understanding "May Tax" Language**: When a treaty article states income "may be taxed" in a particular state, it does not compel that state to tax—it merely permits taxation under domestic law. The treaty allocates the *right* to tax; whether the state exercises that right depends on its domestic legislation.
-
-### 2. Step Two: Eliminate Remaining Double Taxation (Articles 23A/23B)
-
-Where both states retain taxing rights (as with dividends and interest), the **residence state** must provide relief:
-
-**Article 23A: Exemption Method**
-
-```
-EXEMPTION METHOD CALCULATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Step 1: Calculate total worldwide income
-Step 2: Exclude foreign income taxed at source
-Step 3: Apply residence state tax rate to domestic income only
-
-With Progression (most common):
-- Foreign income excluded from tax base
-- BUT included when calculating applicable tax rate
-- Prevents "rate jumping" to lower bracket
-
-Full Exemption:
-- Foreign income completely ignored
-- May result in lower effective rate on domestic income
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**Article 23B: Credit Method**
-
-```
-CREDIT METHOD CALCULATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Step 1: Calculate tax on worldwide income at residence state rates
-Step 2: Deduct foreign tax paid (limited to residence state tax on
-        that foreign income)
-
-Ordinary Credit (most common):
-- Credit limited to domestic tax attributable to foreign income
-- Excess foreign tax not refunded
-
-Full Credit (rare):
-- Full foreign tax credited regardless of domestic tax
-- May result in negative tax on domestic income
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 3. Comparison of Relief Methods
-
-| Feature | Exemption Method | Credit Method |
-|---------|-----------------|---------------|
-| **How it works** | Foreign income excluded from tax base | Foreign tax deducted from domestic tax liability |
-| **Residence state tax** | Zero on foreign income | Tax charged, then credit given |
-| **Capital Export Neutrality** | No (tax depends on source state rate) | Yes (same effective rate regardless of where income earned) |
-| **Capital Import Neutrality** | Yes (foreign investors face same rate as locals) | No |
-| **Typical users** | Netherlands, Belgium, Luxembourg | USA, UK, Japan |
-| **Effect on taxpayer** | Effective rate = source state rate | Effective rate = higher of source or residence rate |
-
-The choice between exemption and credit methods reflects different policy priorities. The exemption method promotes **capital import neutrality** (foreign and domestic investors in a country face the same tax rate), while the credit method promotes **capital export neutrality** (a country's residents face the same tax burden regardless of where they invest). Neither approach fully eliminates the distortions caused by international taxation, which is why hybrid approaches are common in practice.
-
----
-
-## 4. WORKED EXAM EXAMPLES
-
-### Worked Example 1: Basic Residence-Source Conflict (Employment Income)
-
-**Scenario** (adapted from past exam patterns):
-
-Ms. Garcia is tax resident in Country A. During the year, she works for 4 months in Country B as an employee of a Country A company. She earns €80,000 for this work. The Country A/B tax treaty follows the OECD Model. Country A tax rate is 30%. Country B tax rate is 25%.
-
-**Question**: Explain how double taxation arises and how the treaty resolves it. (12 marks)
-
-**Model Answer**:
-
-**1. Identification of Double Taxation (3 marks)**
-
-This scenario presents a classic **residence-source conflict**:
-- Country A (residence state) claims the right to tax Ms. Garcia's worldwide income, including the €80,000 earned in Country B, based on her residence status
-- Country B (source state) claims the right to tax the €80,000 because the employment services were physically performed within its territory
-
-Both claims are legitimate under each state's domestic law, resulting in **juridical double taxation**—the same taxpayer (Ms. Garcia) being taxed on the same income (€80,000) for the same period by two states.
-
-**2. Application of Article 15 - Employment Income (4 marks)**
-
-Article 15(1) OECD MTC provides that employment income "may be taxed" in the state where the employment is exercised. Since Ms. Garcia performed her duties in Country B, Country B has the right to tax under Article 15(1).
-
-The 183-day exception in Article 15(2) does not apply here because Ms. Garcia was present for 4 months (approximately 120 days), which is less than 183 days. However, we would need to verify whether:
-- The remuneration is paid by or on behalf of an employer who is NOT a resident of Country B
-- The remuneration is NOT borne by a PE in Country B
-
-Assuming the employer is resident in Country A and has no PE in Country B, Article 15(2) would apply, giving Country A **exclusive** taxing rights.
-
-However, if Article 15(2) conditions are not met, Country B may tax, and Country A must provide relief under Article 23.
-
-**3. Relief Under Article 23 (5 marks)**
-
-Assuming Country A uses the **credit method** (Article 23B):
-
-```
-Calculation:
-Worldwide income:                    €80,000
-Country A tax (30%):                 €24,000
-Country B tax paid (25%):            €20,000
-
-Credit limited to Country A tax on foreign income:
-€80,000 × 30% = €24,000 maximum credit
-
-Credit allowed: €20,000 (actual foreign tax, lower than limit)
-Country A tax after credit: €24,000 - €20,000 = €4,000
-
-Total tax burden: €20,000 (B) + €4,000 (A) = €24,000
-Effective rate: 30% (the higher of the two rates)
-```
-
-**Conclusion**: The treaty eliminates double taxation by giving Country B primary taxing rights (as source state) while requiring Country A to provide a credit for the foreign tax paid. Ms. Garcia pays an effective rate of 30%, which is the higher of the two states' rates under the credit method.
-
----
-
-### Worked Example 2: Dividend Taxation Under Article 10 (From June 2022 Q4 Pattern)
-
-**Scenario**:
-
-A UK-resident individual (Mr. Brown) holds 30% of shares in a German company (GermanCo). GermanCo declares a dividend of €100,000 to Mr. Brown. The UK-Germany treaty follows the OECD Model. Germany's domestic Withholding Tax (WHT) rate is 26.375%. UK income tax rate for dividends is 39.35% (additional rate).
-
-**Question**: Explain the allocation of taxing rights and calculate the tax position. (15 marks)
-
-**Model Answer**:
-
-**1. Nature of Conflict (3 marks)**
-
-This is a residence-source conflict involving passive investment income:
-- **UK** (residence state): Claims right to tax Mr. Brown's worldwide income including foreign dividends
-- **Germany** (source state): Claims right to tax dividends paid by a German-resident company to non-residents
-
-The OECD MTC recognizes the legitimacy of both claims and provides for **shared taxing rights** with limits on source state taxation.
-
-**2. Application of Article 10 (5 marks)**
-
-Article 10(1) provides that dividends "may be taxed" in the residence state (UK).
-
-Article 10(2) provides that dividends "may also be taxed" in the source state (Germany) but limits the tax:
-- **5%** of gross dividend if beneficial owner is a company holding at least 25% of capital
-- **15%** in all other cases
-
-Since Mr. Brown is an individual (not a company), the 15% limit applies regardless of his 30% holding.
-
-**Treaty limitation**: Germany may only withhold 15% (€15,000), not its full domestic rate of 26.375%.
-
-**3. Relief Calculation Under Article 23 (5 marks)**
-
-```
-UK Tax Position:
-Gross dividend:                      €100,000
-UK tax at 39.35%:                    €39,350
-
-German WHT (limited to 15%):         €15,000
-
-Credit method (Article 23B):
-Maximum credit = UK tax on dividend = €39,350
-Actual foreign tax = €15,000
-Credit allowed = €15,000
-
-UK tax after credit:
-€39,350 - €15,000 = €24,350
-
-Total tax burden:
-Germany: €15,000
-UK:      €24,350
-Total:   €39,350
-
-Effective rate: 39.35% (UK rate as higher)
-```
-
-**4. Alternative: If Exemption Method Applied (2 marks)**
-
-If the UK used the exemption method, the €100,000 dividend would be excluded from the UK tax base entirely. Mr. Brown would pay only €15,000 German WHT (effective rate 15%).
-
-**Key Conclusion**: The treaty **does not eliminate** all double taxation on dividends—it **limits** double taxation by:
-1. Capping source state taxation at 15%
-2. Requiring residence state to credit that tax
-
-The economic rationale is that both states have legitimate claims: Germany hosts the economic activity generating the profits, while the UK has a fiscal relationship with Mr. Brown as its resident.
-
----
-
-## 5. POLICY PERSPECTIVES: THE ONGOING DEBATE
-
-### 1. Historical Evolution of Allocation Rules
-
-The current framework for addressing residence-source conflicts emerged from nearly a century of international negotiation. The League of Nations' 1927 Report first established the principle that both residence and source states have legitimate taxing claims, proposing a system of "shared allocation" that remains the foundation of modern treaty practice.
-
-The 1943 Mexico Draft favored source-state taxation (reflecting developing country interests), while the 1946 London Draft shifted toward residence-state primacy (reflecting capital-exporting countries' preferences). The 1963 OECD Model represented a compromise that has proved remarkably durable, though it clearly favors residence-state taxation for most income types.
-
-### 2. Developing Country Perspectives
-
-The balance struck by the OECD Model has been criticized as favoring capital-exporting (residence) states over capital-importing (source) states. The UN Model Tax Convention addresses this by:
-
-- Allowing higher withholding rates on dividends, interest, and royalties
-- Providing for source taxation of technical service fees (Article 12A)
-- Permitting broader PE definitions to increase source-state taxing rights
-
-For capital-importing countries, residence-source conflicts often result in revenue flowing to developed countries where investors are resident, even though the economic activity generating the income occurred domestically. This has renewed interest in source-based taxation, particularly in the context of the digital economy.
-
-### 3. Modern Challenges
-
-Traditional residence-source allocation rules struggle with:
-
-- **Digital services**: Where is the "source" of income from online advertising or streaming services?
-- **Remote work**: Post-pandemic, employees may work from different countries than their employers
-- **Intangible assets**: Highly mobile IP can be located in low-tax jurisdictions
-- **Pillar One (Amount A)**: The OECD's new framework reallocates some taxing rights to market jurisdictions regardless of physical presence
-
-These developments suggest that the residence-source framework, while still foundational, is evolving to address the limitations of traditional connecting factors in a globalized, digitized economy.
+These developments suggest that while the residence-source framework remains foundational, it continues to evolve as the limitations of traditional connecting factors become more apparent in a globalised, digitalised economy.
