@@ -220,6 +220,20 @@ Corporate residence is determined by one of two main tests:
 
 **Definition**: POEM is where key management and commercial decisions necessary for the conduct of business are **in substance made**.
 
+**Leading Case**: ***De Beers Consolidated Mines Ltd v Howe*** [1906] AC 455 (House of Lords)
+
+This foundational case established the "central management and control" test for corporate residence that underpins the modern POEM concept. De Beers was incorporated in South Africa but its board of directors met and made all key decisions in London.
+
+**Lord Loreburn LC held**:
+> "A company resides for purposes of income tax where its real business is carried on... and the real business is carried on where the central management and control actually abides."
+
+The case established that:
+- A company can only have **one** residence at any given time
+- The test looks to **substance over form** - where decisions are actually made, not where the company is registered
+- **Central management and control** means the highest level of strategic decision-making, typically by the board of directors
+
+This principle remains good law and is reflected in the OECD Commentary's approach to POEM.
+
 **OECD Commentary Guidance on POEM**:
 
 > "The place of effective management is the place where key management and commercial decisions that are necessary for the conduct of the entity's business as a whole are in substance made. All relevant facts and circumstances must be examined to determine the place of effective management."
