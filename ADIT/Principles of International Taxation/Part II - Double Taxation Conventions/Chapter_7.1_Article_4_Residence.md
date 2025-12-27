@@ -1,475 +1,157 @@
 # Chapter 7.1: Key Definitional Provisions – Article 4: Meaning of "Resident" and Dual Residence
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Topic: Article 4: Meaning of "Resident" and Resolution of Dual Residence
-Syllabus Level: 3 (Advanced)
-Syllabus Reference: II.G.1
-Exam Frequency: HIGH – Fundamental to DTC application; appears in most scenarios
-Past Appearances: June 2025 Q5 (residence/tie-breaker); June 2023 Q6 (residence);
-                  December 2023 Q6, Q7 (residence in context)
-Mark Range: 10-25 marks (standalone or integrated in scenarios)
-Time Allocation: 15-30 minutes
-Strategic Priority: ★★★★★ CRITICAL – Gateway provision; must master tie-breaker rules
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## 1. The Concept of Treaty Residence
 
-## 1. INTRODUCTION: THE RESIDENCE CONCEPT
+### 1.1. Purpose and Function
 
-### 1.1 Purpose of Article 4
+Article 4 defines "resident of a Contracting State" for treaty purposes. This definition is fundamental to the operation of double taxation conventions because Article 1 limits treaty benefits to residents of the Contracting States. Without a clear definition of residence, the personal scope of the treaty would be uncertain, and the distributive rules allocating taxing rights would lack a foundation.
 
-Article 4 defines **"resident of a Contracting State"** for treaty purposes. This definition is fundamental because:
-- Article 1 limits treaty benefits to **residents** of Contracting States
-- The residence State typically has **unlimited taxing rights** (worldwide income)
-- The source State typically has **limited taxing rights** (source income only)
-- Dual residence must be resolved to apply distributive rules
+The residence concept serves multiple functions within the treaty framework. It identifies which State has the primary taxing right over a person's worldwide income—the residence State—and which State has secondary, limited taxing rights over income arising within its territory—the source State. The residence determination also establishes which State bears the obligation to provide relief from double taxation under Article 23.
 
-### 1.2 Relationship with Article 1
+### 1.2. Relationship with Article 1
 
-As covered in Chapter 6.1, Article 1 establishes that the treaty applies to **persons who are residents**. Article 4 provides the definition of "resident" that makes Article 1 operational.
+As discussed in Chapter 6.1, Article 1 establishes that the Convention applies to persons who are residents of one or both Contracting States. Article 4 makes this provision operational by defining what constitutes residence for treaty purposes. A person who is not a resident of at least one Contracting State under Article 4 cannot access treaty benefits, regardless of any other connection to either State.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            ARTICLE 1 AND ARTICLE 4 RELATIONSHIP                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ARTICLE 1: Treaty applies to "residents"                       │
-│       ↓                                                         │
-│  ARTICLE 4(1): Defines "resident" for treaty purposes           │
-│       ↓                                                         │
-│  ARTICLE 4(2): Resolves dual residence for INDIVIDUALS          │
-│       ↓                                                         │
-│  ARTICLE 4(3): Resolves dual residence for OTHER PERSONS        │
-│       ↓                                                         │
-│  Result: Single residence State determined for treaty purposes  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+The relationship is sequential: Article 4(1) determines whether a person qualifies as a resident under domestic law criteria; Articles 4(2) and 4(3) resolve situations where a person qualifies as resident of both States. Only after applying Article 4 can the distributive rules in Articles 6 through 22 be applied to allocate taxing rights between the residence and source States.
 
----
+## 2. Article 4(1): Definition of Resident
 
-## 2. ARTICLE 4 TEXT AND STRUCTURE
+### 2.1. The Provision Text
 
-### 2.1 Article 4(1): Definition of Resident
+Article 4(1) of the OECD Model Tax Convention 2017 provides: "For the purposes of this Convention, the term 'resident of a Contracting State' means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein."
 
-**Article 4(1) OECD MTC**:
-> *"For the purposes of this Convention, the term 'resident of a Contracting State' means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein."*
+This definition contains several important elements that require separate analysis.
 
-### 2.2 Key Elements of Article 4(1)
+### 2.2. "Liable to Tax" Requirement
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         ARTICLE 4(1) - KEY ELEMENTS                             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  POSITIVE REQUIREMENTS:                                         │
-│  ─────────────────────────────────────────────────────────────  │
-│  • "Under the laws of that State"                               │
-│    → Domestic law determines initial residence                  │
-│                                                                 │
-│  • "Liable to tax therein"                                      │
-│    → Must be subject to full tax liability                      │
-│    → "Liable to tax" = potential liability, not actual payment  │
-│                                                                 │
-│  • "By reason of domicile, residence, place of management       │
-│    or any other criterion of a similar nature"                  │
-│    → Comprehensive personal connection required                 │
-│    → Not just source-based taxation                             │
-│                                                                 │
-│  EXCLUSION:                                                     │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Does NOT include persons liable to tax "only of income       │
-│    from sources in that State or capital situated therein"      │
-│    → Excludes non-residents taxed only on source income         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+The phrase "liable to tax" refers to comprehensive tax liability based on a personal connection to the State, not merely source-based taxation. Commentary paragraph 4 confirms that what matters is the potential for taxation based on residence-type criteria, not whether tax is actually paid.
 
-### 2.3 "Liable to Tax" Interpretation
+This interpretation has significant implications. Tax-exempt entities may still be "liable to tax" if they satisfy the formal criteria for residence; the exemption affects the amount of tax but not the underlying liability. Commentary paragraph 8.6 confirms this position: entities exempt from tax may nonetheless be residents if they are subject to the tax regime in principle.
 
-**Commentary [4]**: The term "liable to tax" refers to **comprehensive liability** based on personal connection, not merely source-based taxation.
+The "liable to tax" requirement also excludes persons who, while physically present in a jurisdiction, are not subject to its tax regime. Diplomats enjoying immunity from taxation, for example, are not "liable to tax" in their host State and therefore are not residents under Article 4(1).
 
-**Key issues**:
-- Actual payment not required—potential liability suffices
-- Tax-exempt entities may still be "liable to tax" (Commentary [8.6])
-- Persons claiming treaty benefits must demonstrate residence status
+### 2.3. Criteria of Similar Nature
 
----
+The provision enumerates domicile, residence, and place of management as residence criteria but includes "any other criterion of a similar nature." This open-ended language accommodates the diversity of domestic law concepts. Citizenship in the United States context, for example, creates comprehensive tax liability and qualifies under this language, even though citizenship is not expressly mentioned.
 
-## 3. ARTICLE 4(2): TIE-BREAKER FOR INDIVIDUALS
+The key characteristic uniting these criteria is that they establish a comprehensive personal connection to the State, creating liability to tax on worldwide income rather than merely on income arising within the State's territory. The final sentence of Article 4(1) makes this distinction explicit by excluding persons liable to tax only on source income.
 
-### 3.1 The Provision
+## 3. Article 4(2): Individual Tie-Breaker Rules
 
-**Article 4(2)**:
-> *"Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:*
-> *(a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);*
-> *(b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;*
-> *(c) if he has an habitual abode in both States or in neither of them, he shall be deemed to be a resident only of the State of which he is a national;*
-> *(d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement."*
+### 3.1. The Structure
 
-### 3.2 The Tie-Breaker Structure
+Where an individual is resident of both Contracting States under Article 4(1), Article 4(2) provides tie-breaker rules to determine single residence for treaty purposes. The structure is hierarchical, with each test applied only if the preceding test fails to produce a single-residence determination.
 
-**Important**: Article 4(2) is NOT five independent sequential tests. The structure is:
+The provision establishes four tests in sequence: first, the permanent home test with centre of vital interests as a sub-test; second, habitual abode; third, nationality; and fourth, mutual agreement procedure. A common examination error is treating centre of vital interests as an independent test, when it is properly understood as a sub-test within Article 4(2)(a), applicable only when the individual has a permanent home in both States.
 
-- **Article 4(2)(a)**: Permanent home test, with centre of vital interests as a **sub-test** (only if permanent home in BOTH states)
-- **Article 4(2)(b)**: Habitual abode (if permanent home in NEITHER state, or if centre of vital interests inconclusive)
-- **Article 4(2)(c)**: Nationality
-- **Article 4(2)(d)**: MAP
+### 3.2. Permanent Home Test
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│      ARTICLE 4(2) - TIE-BREAKER STRUCTURE (INDIVIDUALS)         │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ARTICLE 4(2)(a): PERMANENT HOME TEST                           │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Dwelling continuously available (owned, rented, etc.)        │
-│  • Must be "permanent" not temporary or occasional              │
-│                                                                 │
-│  ┌───────────────────────────────────────────────────────────┐  │
-│  │ Permanent home in ONE State only?                         │  │
-│  │ → YES: Resident of that State (RESOLVED - STOP HERE)      │  │
-│  │ → Permanent home in BOTH States? → Apply sub-test below   │  │
-│  │ → Permanent home in NEITHER State? → Skip to Art 4(2)(b)  │  │
-│  └───────────────────────────────────────────────────────────┘  │
-│                                                                 │
-│  SUB-TEST (within 4(2)(a)): CENTRE OF VITAL INTERESTS           │
-│  ─────────────────────────────────────────────────────────────  │
-│  Only applies if permanent home available in BOTH States        │
-│  • Where personal AND economic relations are closer             │
-│  • Personal: family, social activities, cultural ties           │
-│  • Economic: employment, business, investments, bank accounts   │
-│  • Consider circumstances as a whole                            │
-│  • If determinable → Resident of that State (RESOLVED)          │
-│                                                                 │
-│          ↓ If centre of vital interests CANNOT be determined    │
-│            OR if permanent home in NEITHER State                │
-│                                                                 │
-│  ARTICLE 4(2)(b): HABITUAL ABODE                                │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Where individual customarily lives                           │
-│  • Not simply number of days (frequency, duration, regularity)  │
-│  • Consider stays over sufficient period                        │
-│  • If habitual abode in ONE State → Resident of that State      │
-│                                                                 │
-│          ↓ If habitual abode in BOTH or NEITHER State           │
-│                                                                 │
-│  ARTICLE 4(2)(c): NATIONALITY                                   │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Citizenship of one Contracting State                         │
-│  • Objective, easily determined                                 │
-│  • If national of ONE State → Resident of that State            │
-│                                                                 │
-│          ↓ If national of BOTH or NEITHER State                 │
-│                                                                 │
-│  ARTICLE 4(2)(d): MUTUAL AGREEMENT PROCEDURE (MAP)              │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Competent authorities settle by agreement                    │
-│  • Article 25 procedure                                         │
-│  • Last resort                                                  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+Article 4(2)(a) provides that an individual shall be deemed resident of the State in which a permanent home is available. If a permanent home is available in only one State, residence is determined in favour of that State, and no further analysis is required.
 
-### 3.3 The Three Paths Through Article 4(2)(a)
+Commentary paragraph 13 explains that "any form of home may be taken into account (house or apartment belonging to or rented by the individual, rented furnished room)." The form of the home is irrelevant; what matters is that the dwelling is continuously available to the individual and is permanent in nature rather than arranged for a temporary stay. A hotel room occupied for an extended period might qualify, but accommodation retained only for a brief visit would not.
 
-```
-PERMANENT HOME ANALYSIS - THREE POSSIBLE OUTCOMES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The "available" requirement means that the individual must have the home at their disposal at all times. A property that is let to third parties without retained access would not be "available" in the relevant sense. This requirement distinguishes the permanent home test from mere ownership of property.
 
-PATH 1: Permanent home in ONE State only
-┌─────────────────────────────────────────────────────────────────┐
-│  Individual has permanent home in State A only                  │
-│  → Deemed resident of State A                                   │
-│  → RESOLVED (no need to consider centre of vital interests)     │
-└─────────────────────────────────────────────────────────────────┘
+If the individual has a permanent home in both States, the permanent home test itself is inconclusive, and the centre of vital interests sub-test must be applied. If the individual has a permanent home in neither State, the permanent home test fails entirely, and the analysis proceeds directly to Article 4(2)(b)—habitual abode. The centre of vital interests sub-test is not applied in this scenario.
 
-PATH 2: Permanent home in BOTH States
-┌─────────────────────────────────────────────────────────────────┐
-│  Individual has permanent home in BOTH State A and State B      │
-│  → Apply centre of vital interests sub-test                     │
-│  → If determinable: Deemed resident where relations closer      │
-│  → If NOT determinable: Proceed to Article 4(2)(b) habitual abode│
-└─────────────────────────────────────────────────────────────────┘
+### 3.3. Centre of Vital Interests
 
-PATH 3: Permanent home in NEITHER State
-┌─────────────────────────────────────────────────────────────────┐
-│  Individual has no permanent home in either State               │
-│  → SKIP centre of vital interests entirely                      │
-│  → Proceed directly to Article 4(2)(b) habitual abode           │
-└─────────────────────────────────────────────────────────────────┘
+Where an individual has a permanent home in both Contracting States, residence is determined in favour of the State with which personal and economic relations are closer. Commentary paragraph 15 requires examination of family and social relations, occupations, political and cultural activities, place of business administration, and place from which the individual's property is administered.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+The analysis considers personal and economic relations together, but Commentary paragraph 15 indicates that personal relations should be given particular weight where they conflict with economic relations. An individual whose family resides in State A but whose business is conducted in State B would likely be determined resident of State A under this approach.
 
-### 3.4 Commentary Guidance on Each Test
+Recent case law confirms the importance of personal ties. In February 2025, the Austrian Federal Fiscal Court addressed a taxpayer receiving director's remuneration from Slovakia while maintaining employment and residence in Austria, where his wife lived. The Court determined that the centre of vital interests was in Austria based on the strength of personal ties, notwithstanding the Slovak business connection.
 
-**Permanent Home (Commentary [13])**:
-> *"As regards the concept of home, it should be observed that any form of home may be taken into account (house or apartment belonging to or rented by the individual, rented furnished room)."*
+If the centre of vital interests cannot be determined—perhaps because personal and economic relations are evenly distributed—the sub-test fails, and analysis proceeds to habitual abode.
 
-The home must be:
-- **Available** to the individual at all times
-- **Permanent** (not for short duration)
-- Arranged and retained for permanent use
+### 3.4. Habitual Abode
 
-**Centre of Vital Interests (Commentary [15])**:
-> *"If the individual has a permanent home in both Contracting States, it is necessary to look at the facts in order to ascertain with which of the two States his personal and economic relations are closer."*
+Article 4(2)(b) provides that if the centre of vital interests cannot be determined, or if the individual has no permanent home in either State, residence shall be determined by habitual abode. The test asks where the individual "customarily lives" rather than where they spend the most days.
 
-Consider:
-- Family and social relations
-- Occupations
-- Political, cultural activities
-- Place of business/administration
-- **Personal relations given more weight** if in conflict with economic
+Commentary paragraph 19 emphasises that the comparison must cover a sufficient length of time to determine "the frequency, duration and regularity of stays." Mechanical day-counting is insufficient; the inquiry concerns the pattern of the individual's life and where they habitually reside when in the relevant jurisdictions.
 
-**Habitual Abode (Commentary [19])**:
-> *"The comparison must cover a sufficient length of time for it to be possible to determine the frequency, duration and regularity of stays..."*
+### 3.5. Nationality and Mutual Agreement
 
-Not merely counting days—look at pattern and regularity of stays.
+If habitual abode exists in both States or neither, Article 4(2)(c) provides that residence follows nationality. This objective criterion is easily determined but rarely reached in practice, as most cases are resolved at earlier stages.
 
-### 3.5 June 2025 Exam Application
+Article 4(2)(d) provides the final residual rule: if the individual is a national of both States or neither, the competent authorities shall settle the question by mutual agreement. This invokes the Article 25 procedure as a last resort.
 
-The June 2025 Q5 tested residence determination for a student (Amelie) moving between States A and B:
-- University accommodation: Term-by-term allocation, had to vacate between terms
-- State A apartment: Owned, continuously available, cousin as caretaker
-- Analysis required application of permanent home, centre of vital interests tests
+## 4. Article 4(3): Non-Individual Tie-Breaker
+
+### 4.1. The 2017 BEPS-Driven Change
+
+Prior to 2017, Article 4(3) provided a simple rule: a dual-resident entity was deemed resident of the State in which its place of effective management was situated. This automatic test provided certainty but was perceived as vulnerable to manipulation.
+
+BEPS Action 6 identified concerns that dual-resident company cases "often involve tax avoidance arrangements." The 2017 OECD Model replaced the automatic POEM test with a competent authority determination process. The revised Article 4(3) provides that competent authorities "shall endeavour to determine" single residence having regard to place of effective management, place of incorporation, and "any other relevant factors."
+
+This change creates a multi-factor analysis rather than a single determinative test. Place of effective management remains important—the provision mentions it first—but is no longer automatically decisive. Competent authorities have discretion to weigh factors according to the circumstances of each case.
+
+### 4.2. Place of Effective Management
+
+Commentary paragraph 24 defines place of effective management as "the place where key management and commercial decisions that are necessary for the conduct of the entity's business as a whole are in substance made." Relevant factors include where board meetings are held, where senior executives perform their activities, where day-to-day management decisions are made, and where accounting records are maintained.
+
+The concept focuses on top-level decision-making rather than routine operations. A company may have extensive operational activities in one State while its strategic direction is determined in another; the place of effective management would typically be the latter.
+
+### 4.3. Haworth v HMRC
+
+The UK case of Haworth v HMRC provides significant recent guidance on the place of effective management concept. In the Upper Tribunal decision of 2024 and the Court of Appeal judgment of July 2025, the courts clarified that the POEM test is distinct from the UK domestic law concept of central management and control.
+
+The case concerned Jersey trustees who participated in a scheme designed to avoid UK capital gains tax by resigning in favour of Mauritian-resident trustees before a share disposal. The UK-Mauritius treaty provided that dual residence would be resolved in favour of the State where the entity's place of effective management was situated.
+
+The Court of Appeal found that the trust was effectively managed in the UK despite the formal residence of the trustees in Mauritius. The UK settlors and their advisors "devised, decided upon, facilitated, orchestrated and superintended" the arrangements throughout the relevant period. The Court held that POEM looks at where overall management actually occurs, not merely where the trustees are resident at any particular time.
+
+This decision has significant practical implications for international trust planning and demonstrates that courts will examine the substance of management arrangements rather than accepting formal structural changes at face value.
+
+### 4.4. Consequences of Unresolved Dual Residence
+
+Where competent authorities fail to reach agreement, Article 4(3) provides that the entity "shall not be entitled to any relief or exemption from tax provided by this Convention except to the extent and in such manner as may be agreed upon by the competent authorities." This consequence is severe: the dual-resident entity loses treaty benefits unless the competent authorities grant relief on a case-by-case basis.
+
+This approach has been criticised as converting a tie-breaker rule into an anti-avoidance provision. An entity with legitimate commercial reasons for dual residence may find itself without treaty protection through no fault of its own, simply because competent authorities cannot agree.
+
+## 5. UN Model Differences
+
+### 5.1. Retention of POEM Test
+
+The UN Model Double Taxation Convention 2021 did not adopt the BEPS-driven change to Article 4(3). The UN Model retains the pre-2017 approach: a dual-resident entity shall be deemed resident "only of the State in which its place of effective management is situated."
+
+This divergence reflects different policy priorities. The OECD approach prioritises flexibility and anti-avoidance, accepting reduced certainty as a trade-off. The UN approach prioritises certainty and predictability, reflecting that developing countries may lack the administrative capacity for case-by-case competent authority determinations.
+
+### 5.2. Developing Country Perspective
+
+For developing countries negotiating tax treaties, the choice between the OECD and UN approaches to Article 4(3) involves weighing competing considerations. The automatic POEM test provides certainty for taxpayers and tax authorities alike, reducing the administrative burden of case-by-case determinations. However, it may be more vulnerable to manipulation by sophisticated taxpayers who can engineer the location of board meetings and management functions.
+
+The UN approach represents a preference for workable rules over flexible standards—a preference that may serve developing countries' interests better than the BEPS-influenced approach designed primarily for developed economies.
+
+## 6. Recent Developments and Case Law
+
+### 6.1. European Court Decisions
+
+Recent European cases continue to refine the application of Article 4 tie-breaker rules. The Spanish Supreme Court in July 2025 addressed the relationship between tax residence certificates and tie-breaker rules, confirming that Spanish authorities cannot simply disregard a residence certificate issued by another Contracting State. Where both States' criteria are met, the conflict must be resolved through Article 4(2) tie-breaker rules rather than by rejecting the other State's determination.
+
+Austrian courts have produced several decisions emphasising the priority of personal ties in centre of vital interests determinations. Beyond the February 2025 decision discussed above, the Federal Fiscal Court in May 2024 addressed a taxpayer with residences in both Austria and Switzerland, applying similar principles regarding the weight to be given to personal relationships.
+
+### 6.2. Legislative Developments
+
+Italy's reform of fiscal residence rules through Legislative Decree 209/2023, clarified by Revenue Agency Circular 20/E of November 2024, aligned Italian domestic law more closely with OECD principles. The reform updated Italian residence criteria and confirmed the application of treaty tie-breaker rules in cross-border situations. The Italian approach illustrates a broader trend of domestic legislation being reformed to reduce friction with treaty definitions, ensuring that domestic residence determinations do not automatically conflict with treaty outcomes.
+
+These legislative developments reflect ongoing harmonisation between domestic residence concepts and treaty standards. As States modernise their domestic residence rules, consistency with OECD Model concepts reduces administrative complexity and provides greater certainty for taxpayers operating across borders.
+
+### 6.3. Implementation Challenges
+
+The implementation of the revised Article 4(3) through the Multilateral Instrument has created a transitional landscape. Not all treaty partners have adopted the competent authority approach; many existing treaties continue to apply the automatic POEM test. Taxpayers and advisors must therefore determine which version of Article 4(3) applies to any particular treaty relationship, which requires examination of whether both States have ratified the MLI and whether both have made the relevant elections.
+
+## 7. Practical Implications and Discussion
+
+The operation of Article 4 raises several issues of practical and theoretical significance. The 2017 change to Article 4(3) has been criticised by commentators who argue that replacing an objective rule with competent authority discretion introduces uncertainty without clear anti-avoidance benefits. An entity may legitimately become dual-resident through corporate reorganisation, acquisition, or changes in management structure; denying treaty benefits until competent authorities agree seems disproportionate.
+
+The Haworth decision demonstrates that POEM determinations involve complex factual inquiries that may extend beyond the formal location of decision-making bodies. Taxpayers cannot assume that arranging board meetings offshore will establish foreign POEM; courts will examine the entire decision-making process, including the role of advisors and underlying principals.
+
+For individual residence, the tie-breaker rules generally function effectively, though the centre of vital interests test creates uncertainty where an individual's personal and economic lives are genuinely distributed across borders. The increasing prevalence of remote work arrangements may exacerbate this uncertainty, as individuals can maintain substantial professional activities in one State while residing personally in another.
+
+The divergence between OECD and UN approaches to corporate dual residence reflects broader tensions in international tax policy between flexibility and certainty, between anti-avoidance and predictability. The BEPS project's influence on Article 4(3) illustrates how anti-avoidance concerns have reshaped even basic definitional provisions, though whether this produces better outcomes than the simpler pre-2017 rule remains contested.
 
 ---
 
-## 4. ARTICLE 4(3): TIE-BREAKER FOR NON-INDIVIDUALS
-
-### 4.1 The 2017 Change
-
-**Pre-2017**: Dual resident companies deemed resident where **place of effective management (POEM)** located.
-
-**Post-2017 (Article 4(3))**:
-> *"Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, the competent authorities of the Contracting States shall endeavour to determine by mutual agreement the Contracting State of which such person shall be deemed to be a resident for the purposes of the Convention, having regard to its place of effective management, the place where it is incorporated or otherwise constituted and any other relevant factors. In the absence of such agreement, such person shall not be entitled to any relief or exemption from tax provided by this Convention except to the extent and in such manner as may be agreed upon by the competent authorities of the Contracting States."*
-
-### 4.2 Key Elements of Article 4(3)
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│      ARTICLE 4(3) - DUAL RESIDENCE (NON-INDIVIDUALS)            │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  STEP 1: COMPETENT AUTHORITY DETERMINATION                      │
-│  ─────────────────────────────────────────────────────────────  │
-│  CAs "shall endeavour" to determine single residence            │
-│                                                                 │
-│  FACTORS TO CONSIDER:                                           │
-│  • Place of effective management (POEM)                         │
-│  • Place of incorporation/constitution                          │
-│  • Any other relevant factors                                   │
-│                                                                 │
-│  STEP 2: IF NO AGREEMENT REACHED                                │
-│  ─────────────────────────────────────────────────────────────  │
-│  Person NOT entitled to treaty relief/exemption                 │
-│  EXCEPT to extent CAs agree                                     │
-│                                                                 │
-│  KEY CHANGE FROM PRE-2017:                                      │
-│  • No longer automatic POEM determination                       │
-│  • Case-by-case CA consideration required                       │
-│  • BEPS Action 6 driven change                                  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 4.3 Place of Effective Management (POEM)
-
-**Commentary [24]**:
-> *"The place of effective management is the place where key management and commercial decisions that are necessary for the conduct of the entity's business as a whole are in substance made."*
-
-**Factors indicating POEM**:
-- Where board meetings held
-- Where CEO/senior executives carry on activities
-- Where day-to-day management occurs
-- Where headquarters located
-- Where accounting records kept
-
-### 4.4 Consequences of Unresolved Dual Residence
-
-**June 2025 exam reference**: *"Where under Article 4(3), an entity is treated as a dual resident, the competent authorities are only required to '[…] endeavour to determine […]' a single residence. If they fail to reach agreement, the person may lose DTA benefits."*
-
-This can result in:
-- Loss of all treaty benefits
-- Double taxation
-- Need for separate negotiations with each State
-
----
-
-## 5. UN MDTC DIFFERENCES
-
-### 5.1 Comparison
-
-| Element | OECD MTC | UN MDTC |
-|---------|----------|---------|
-| **Article 4(1)** | Definition of resident | Identical |
-| **Article 4(2)** | Individual tie-breaker | Identical |
-| **Article 4(3)** | CA determination (2017) | Retains POEM as primary test |
-
-### 5.2 UN Model Article 4(3)
-
-The UN Model retains the **pre-2017 OECD approach**:
-> *"...it shall be deemed to be a resident only of the State in which its place of effective management is situated."*
-
-**Rationale**: Developing countries prefer the certainty of the POEM test over case-by-case CA determination.
-
----
-
-## 6. EXAM APPLICATION
-
-### 6.1 How Article 4 Appears in Exams
-
-Article 4 appears in:
-1. **Residence determination scenarios** (June 2025 Q5)
-2. **As part of DTC application methodology** (Step 3 in Chapter 4 framework)
-3. **Treaty shopping questions** (residence as gateway)
-4. **Employment income questions** (Article 15 requires residence determination)
-
-### 6.2 Answer Framework for Individual Tie-Breaker
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        ARTICLE 4(2) EXAM FRAMEWORK                              │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. ESTABLISH DUAL RESIDENCE EXISTS (2 marks)                   │
-│     "Under Article 4(1), [X] is resident of both States         │
-│     under their domestic laws because..."                       │
-│                                                                 │
-│  2. APPLY ARTICLE 4(2)(a) - PERMANENT HOME TEST (3-4 marks)     │
-│     • Identify homes in each State                              │
-│     • Is each "permanent" and "available"?                      │
-│     • THREE OUTCOMES:                                           │
-│       - Home in ONE State only → RESOLVED (stop here)           │
-│       - Home in BOTH States → Apply centre of vital interests   │
-│       - Home in NEITHER State → Skip to habitual abode          │
-│                                                                 │
-│  3. IF HOME IN BOTH STATES—CENTRE OF VITAL INTERESTS (3-4 marks)│
-│     (Sub-test within Article 4(2)(a))                           │
-│     • Personal relations (family, social ties)                  │
-│     • Economic relations (employment, business, investments)    │
-│     • Weigh circumstances as a whole                            │
-│     • Personal relations given priority if conflict             │
-│     • If determinable → RESOLVED                                │
-│                                                                 │
-│  4. ARTICLE 4(2)(b)—HABITUAL ABODE (2-3 marks)                  │
-│     (If centre cannot be determined OR home in neither state)   │
-│     • Frequency, duration, regularity of stays                  │
-│     • Consider sufficient time period                           │
-│                                                                 │
-│  5. ARTICLE 4(2)(c)—NATIONALITY (1-2 marks)                     │
-│                                                                 │
-│  6. ARTICLE 4(2)(d)—MAP (1 mark)                                │
-│                                                                 │
-│  7. CONCLUDE (1-2 marks)                                        │
-│     "[X] is deemed resident of State [Y] for treaty purposes"   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 6.3 Common Exam Errors
-
-| Error | Correction |
-|-------|------------|
-| Treating centre of vital interests as independent test | Centre of vital interests is a SUB-TEST within Art 4(2)(a) - only applies if permanent home in BOTH states |
-| Applying centre of vital interests when home in NEITHER state | If no permanent home in either state, skip directly to habitual abode (Art 4(2)(b)) |
-| Counting days for habitual abode | Commentary emphasizes frequency, duration, regularity—not just days |
-| Ignoring "available" requirement | Permanent home must be continuously available, not just owned |
-| Assuming POEM still determines corporate residence | Post-2017: CA determination required; POEM is one factor |
-| Not distinguishing personal from economic relations | Personal relations given priority if conflict with economic |
-
----
-
-## 7. KEY TAKEAWAYS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           ARTICLE 4 - ESSENTIAL POINTS FOR EXAM                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. ARTICLE 4(1) - DEFINITION OF RESIDENT:                      │
-│     • "Liable to tax" by reason of personal connection          │
-│     • Domicile, residence, place of management, etc.            │
-│     • Excludes persons taxed only on source income              │
-│                                                                 │
-│  2. ARTICLE 4(2) - INDIVIDUAL TIE-BREAKER:                      │
-│     (a) Permanent home - if in ONE state → RESOLVED             │
-│         If in BOTH states → Centre of vital interests sub-test  │
-│         If in NEITHER state → Skip to (b)                       │
-│     (b) Habitual abode (frequency, duration, regularity)        │
-│     (c) Nationality                                             │
-│     (d) MAP (last resort)                                       │
-│                                                                 │
-│  3. ARTICLE 4(3) - NON-INDIVIDUAL TIE-BREAKER (POST-2017):      │
-│     • CA determination required                                 │
-│     • Consider POEM + incorporation + other factors             │
-│     • If no agreement → May lose treaty benefits                │
-│     • UN Model still uses POEM as primary test                  │
-│                                                                 │
-│  4. PERMANENT HOME:                                             │
-│     • Continuously available                                    │
-│     • Permanent nature (not temporary)                          │
-│     • Any form (owned, rented, etc.)                            │
-│                                                                 │
-│  5. CENTRE OF VITAL INTERESTS:                                  │
-│     • Personal: family, social, cultural ties                   │
-│     • Economic: employment, business, investments               │
-│     • Personal relations given priority                         │
-│                                                                 │
-│  6. HABITUAL ABODE:                                             │
-│     • Not merely counting days                                  │
-│     • Frequency, duration, regularity                           │
-│     • Sufficient time period for comparison                     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 8. CONNECTIONS TO OTHER TOPICS
-
-### 8.1 Within Topic 7 (Definitional Provisions)
-
-| Chapter | Connection to Article 4 |
-|---------|------------------------|
-| **7.2 Article 5** | PE is an alternative nexus to residence |
-| **7.3 BEPS Action 7** | Artificial PE avoidance may involve residence manipulation |
-
-### 8.2 Broader DTC Framework
-
-| Topic | Connection |
-|-------|------------|
-| **Article 1** | Residence determines treaty access |
-| **Article 29** | Entitlement may depend on residence |
-| **Articles 6-22** | Distributive rules require residence determination |
-| **Article 23** | Residence State provides relief |
-| **Article 15** | Employment income allocation requires residence |
-
----
-
-## REFERENCES
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Article 4 and Commentary
-- UN Model Double Taxation Convention (2021), Article 4 and Commentary
-- OECD, Preventing the Granting of Treaty Benefits in Inappropriate Circumstances, Action 6 (2015)
-
-**Secondary Sources**:
-- Vogel, K. on residence and dual residence (5th ed.)
-- De Broe on treaty residence (2022)
-- Rust on Article 4 interpretation (2022)
-- Lang, M. on tie-breaker rules
-
-**Key Cases**:
-- Various national court decisions on permanent home, habitual abode
-
-**Exam Resources**:
-- June 2025 Module 1 Q5—Residence determination for student
-- June 2023 Module 1 Q6—Residence in employment context
-- December 2023 Module 1 Q7—Residence analysis
-
----
-
-*This note covers syllabus topic II.G.1: Meaning of "resident" and resolution of cases of dual residence – Article 4 (Level 3). Article 4(1) defines residence based on comprehensive tax liability under domestic law. Article 4(2) provides tie-breaker rules for dual-resident individuals: Article 4(2)(a) applies the permanent home test (with centre of vital interests as a sub-test only if permanent home exists in BOTH states); if permanent home in neither state or centre of vital interests inconclusive, Article 4(2)(b) applies habitual abode; then nationality; then MAP. Article 4(3), revised in 2017, requires competent authority determination for dual-resident non-individuals, with potential loss of treaty benefits if no agreement is reached.*
+*Part II - Double Taxation Conventions*
+*Previous Chapter: 6.4 - Entry into Force and Termination*
+*Next Chapter: 7.2 - Article 5: Permanent Establishment*
