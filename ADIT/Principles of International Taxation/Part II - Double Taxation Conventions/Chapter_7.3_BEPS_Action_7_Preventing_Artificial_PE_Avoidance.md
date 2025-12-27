@@ -1,492 +1,161 @@
 # Chapter 7.3: BEPS Action 7 – Preventing the Artificial Avoidance of Permanent Establishment
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Area: II.G.3 - BEPS Action 7 – Preventing the artificial avoidance of a
-               permanent establishment
-Syllabus Level: 3 (Advanced Knowledge)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Exam Frequency: HIGH - Often combined with Article 5 questions
-Recent Appearances:
-  • December 2022 Q8: Explicitly referenced "BEPS Action 7 (Preventing the
-    Artificial Avoidance of Permanent Establishment Status, Final Report 2015)"
-    as context for 25-mark Article 5 question
+## 1. The Policy Context
 
-Strategic Priority: ★★★★★ CRITICAL
-- Contemporary BEPS topic
-- Foundation for understanding 2017 Article 5 changes
-- Examiner expects candidates to connect policy to technical changes
-- MLI implementation is examinable
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### 1.1. The Problem Identified
 
-## 1. INTRODUCTION: THE PE PROBLEM IN BEPS
+The permanent establishment concept operates as the threshold for source State taxation of business profits under Article 7. An enterprise resident in one Contracting State is taxable in the other State only if it carries on business through a permanent establishment situated there. This threshold creates a powerful incentive: enterprises that can conduct substantial economic activity in a country without triggering permanent establishment status avoid source State taxation entirely.
 
-### 1.1 Why Action 7 Was Needed
+The BEPS Project identified that multinational enterprises had developed sophisticated strategies to avoid permanent establishment status artificially. These strategies exploited technical features of the permanent establishment definition to disconnect the location of economic activity from the location of taxation. The result was that enterprises could make substantial sales in a country, employ local personnel, and maintain significant physical presence while remaining outside that country's taxing jurisdiction.
 
-The permanent establishment (PE) definition is a cornerstone of international taxation. Under tax treaties, an enterprise's business profits are taxable in a source state **only if** the enterprise has a PE there. This creates a powerful incentive: if an enterprise can conduct substantial business activities in a country without triggering PE status, it can avoid source country taxation entirely.
+### 1.2. The Action 7 Mandate
 
-The BEPS Project identified that MNEs had developed sophisticated strategies to avoid PE status artificially. These strategies allowed enterprises to:
-- Make sales in a country through intermediaries without creating taxable presence
-- Fragment operations to exploit specific activity exemptions
-- Split contracts to avoid duration thresholds
+The BEPS Action Plan of 2013 defined Action 7 as developing changes to the permanent establishment definition to prevent artificial avoidance, specifically addressing commissionaire arrangements and specific activity exemptions. The mandate was deliberately narrow, focusing on strategies that lacked genuine commercial substance rather than expanding permanent establishment definitions generally.
 
-The result was a fundamental disconnect between where economic activities occurred and where profits were taxed - one of the core problems the entire BEPS Project aimed to address.
+The distinction between artificial avoidance and legitimate tax planning was central to Action 7's approach. The concern was not that enterprises minimised taxes through efficient structures, but that certain arrangements existed primarily for tax reasons while lacking commercial justification beyond tax savings.
 
-### 1.2 Action 7 Mandate
+## 2. Targeted Avoidance Strategies
 
-The BEPS Action Plan (2013) defined Action 7 as:
+### 2.1. Commissionaire Arrangements
 
-> "Develop changes to the definition of PE to prevent the artificial avoidance of PE status in relation to BEPS, including through the use of **commissionaire arrangements** and the **specific activity exemptions**."
+A commissionaire is a civil law concept where an agent sells goods or services in their own name but on behalf of a principal. The commissionaire concludes contracts with customers, taking legal title briefly before transferring it to the customer, while the principal retains beneficial ownership of goods until sale. The commissionaire earns a commission; the principal receives the sale proceeds.
 
-This mandate was deliberately narrow - focused on preventing *artificial* avoidance, not expanding PE definitions generally. The concern was strategies that lacked genuine commercial substance and existed primarily for tax reasons.
+Under pre-2017 Article 5(5), an agency permanent establishment existed only where the agent concluded contracts "in the name of" the enterprise. Because commissionaires concluded contracts in their own names—binding themselves rather than the principal—no permanent establishment arose for the principal. The economic substance of the arrangement was equivalent to a subsidiary distributor, but the tax consequences differed dramatically.
 
----
+Two landmark cases confirmed this interpretation. In Zimmer (France, 2010), the Conseil d'État held that a French commissionaire distributing products for a UK principal did not create a permanent establishment because the commissionaire could not legally bind the principal. In Dell (Norway, 2011), the Norwegian Supreme Court reached the same conclusion, finding that Dell Products (Ireland) had no permanent establishment through Dell AS (Norway) operating as its commissionaire.
 
-## 2. THE THREE TARGETED STRATEGIES
+These decisions were technically correct under existing treaty language but highlighted a policy gap. The Spanish Supreme Court took a different approach in Dell (Spain, 2016), finding that a permanent establishment existed even under the pre-2017 language, interpreting "on behalf of" to include economic rather than purely legal representation. This divergence among jurisdictions demonstrated the uncertainty surrounding commissionaire treatment.
 
-### 2.1 Strategy 1: Commissionaire Arrangements
+### 2.2. Exploitation of Specific Activity Exemptions
 
-**What is a commissionaire?**
+Article 5(4) provided exemptions for activities deemed preparatory or auxiliary in character. The listed activities—storage, display, delivery of goods, maintenance of stock, purchasing, and information collection—were automatically exempt under the pre-2017 formulation without requiring analysis of whether they were genuinely preparatory or auxiliary to the enterprise's core business.
 
-A commissionaire is a civil law concept where an agent:
-- Sells goods or services in their own name
-- Acts on behalf of a principal (the foreign enterprise)
-- Takes legal title briefly before transferring to customer
-- The principal retains beneficial ownership until sale
+This automatic exemption created opportunities for fragmentation. An enterprise could divide its operations into multiple facilities, each claiming a separate exemption: a warehouse for "storage," another for "delivery," an office for "information collection." While each facility might satisfy the literal requirements for exemption, the combined operation represented a core business function rather than preparatory or auxiliary activity.
 
-```
-COMMISSIONAIRE STRUCTURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The problem was particularly acute in e-commerce. Large fulfilment centres processing thousands of orders daily were characterised as mere "delivery" facilities, escaping permanent establishment status despite performing core distribution functions. The disconnect between the technical characterisation and economic reality undermined source State taxation of substantial business operations.
 
-     COUNTRY R (Residence)          COUNTRY S (Source)
-    ┌─────────────────────┐        ┌─────────────────────┐
-    │                     │        │                     │
-    │  PRINCIPAL          │        │  COMMISSIONAIRE     │
-    │  (MNE Parent)       │◄───────│  (Local Agent)      │
-    │                     │ Agency │                     │
-    │                     │ Agree. │  Sells in OWN name  │
-    │  Retains profits    │        │  but for Principal  │
-    │  (no PE in S)       │        │                     │
-    │                     │        │          │          │
-    └─────────────────────┘        └──────────┼──────────┘
-                                              │
-                                              ▼
-                                         CUSTOMER
-                                   (Contract with
-                                    Commissionaire)
+### 2.3. Contract Splitting
 
-PRE-2017 RESULT: No PE because contracts not "in the name of" Principal
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Article 5(3) provides that construction sites and installation projects constitute permanent establishments only if they exceed specified duration thresholds—twelve months under the OECD Model, six months under the UN Model. Enterprises could avoid these thresholds by dividing projects into multiple contracts, each falling below the threshold, or by using related enterprises to perform sequential portions of the work.
 
-**Why this was a problem:**
+A single eighteen-month project might be divided between two related companies, each performing work for less than twelve months. While the combined activity represented a continuous presence exceeding the threshold, no single enterprise triggered permanent establishment status.
 
-Under pre-2017 Article 5(5), an agency PE only existed if the agent concluded contracts "in the name of" the foreign enterprise. Because commissionaires concluded contracts in their own name (legally binding themselves, not the principal), no PE was created - even though the principal's goods were being sold and the economic substance of the arrangement was equivalent to a subsidiary distributor.
+## 3. The Action 7 Final Report
 
-**Key cases confirming the loophole:**
-- **Zimmer (France, 2010)**: French Supreme Court held commissionaire did not create PE
-- **Dell (Norway, 2011)**: Norwegian court reached same conclusion
+### 3.1. Recommendations Overview
 
-These decisions were technically correct under the existing treaty language but highlighted a policy gap that allowed economically identical arrangements to have vastly different tax consequences.
+The Action 7 Final Report, published in October 2015, recommended changes addressing all three identified strategies. The recommendations modified Article 5(5) on agency permanent establishments, Article 5(4) on specific activity exemptions, and Article 5(6) on independent agents, while adding new provisions on anti-fragmentation and closely related enterprises.
 
-### 2.2 Strategy 2: Exploitation of Specific Activity Exemptions
+### 3.2. Agency Permanent Establishment Reforms
 
-**The pre-2017 problem:**
+The most significant change addressed commissionaire arrangements. The pre-2017 requirement that agents conclude contracts "in the name of" the enterprise was replaced with a broader formulation. Under the revised Article 5(5), an enterprise has a permanent establishment where a person acting on its behalf habitually concludes contracts or habitually plays the principal role leading to the conclusion of contracts that are routinely concluded without material modification.
 
-Article 5(4) provided automatic exemptions for certain activities:
-- Storage, display, delivery of goods
-- Maintaining stock for storage/display/delivery
-- Purchasing goods or collecting information
-- Any activity of a "preparatory or auxiliary" character
+The "principal role" language specifically targets commissionaire arrangements. Even where contracts are formally concluded in the agent's name, if the agent plays the principal role in bringing about contracts that the enterprise routinely approves, a permanent establishment exists. The focus shifts from formal contract conclusion to substantive involvement in the contracting process.
 
-The listed activities (a)-(d) were **automatically** deemed preparatory or auxiliary - no further analysis required. This enabled MNEs to:
+The phrase "routinely concluded without material modification" addresses arrangements where the enterprise nominally reviews contracts but in practice approves them as negotiated by the agent. If the enterprise's review is a formality rather than substantive evaluation, the agent's role in bringing about the contract is what matters.
 
-```
-FRAGMENTATION STRATEGY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 3.3. Specific Activity Exemption Reforms
 
-SINGLE ENTERPRISE operates multiple "exempt" facilities:
+The 2017 revision eliminated automatic exemptions for the listed activities. All activities in Article 5(4)(a) through (e) must now satisfy the preparatory or auxiliary character test. A large-scale distribution warehouse can no longer claim exemption simply because "delivery" appears in subparagraph (a); the enterprise must demonstrate that the warehouse's activities are genuinely preparatory or auxiliary to its core business.
 
-  ┌─────────────────────────────────────────────────────┐
-  │                    COUNTRY S                        │
-  │                                                     │
-  │  ┌──────────┐   ┌──────────┐   ┌──────────────┐    │
-  │  │Warehouse │   │Warehouse │   │ Information  │    │
-  │  │"Delivery"│   │"Storage" │   │  Office      │    │
-  │  │ Art 5(4) │   │ Art 5(4) │   │  Art 5(4)    │    │
-  │  │   (a)    │   │   (a)    │   │    (d)       │    │
-  │  └──────────┘   └──────────┘   └──────────────┘    │
-  │                                                     │
-  │  Each facility → Auto-exempt → No PE               │
-  │                                                     │
-  │  COMBINED = Major distribution operation           │
-  │  BUT technically: No PE                            │
-  └─────────────────────────────────────────────────────┘
+A new anti-fragmentation rule in Article 5(4.1) prevents enterprises from exploiting exemptions by dividing operations among multiple locations or related entities. Where an enterprise or a closely related enterprise carries on activities at the same place or different places in the same State, and either the combination constitutes a permanent establishment or the combined activities are not preparatory or auxiliary, the exemptions do not apply.
 
-Problem: Core business functions performed, but no PE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### 3.4. Independent Agent Exception
 
-This was particularly problematic in e-commerce, where large fulfillment warehouses could be characterized as mere "delivery" facilities.
+The 2017 reforms narrowed the independent agent exception in Article 5(6). An agent who acts exclusively or almost exclusively for one or more closely related enterprises cannot qualify as independent, regardless of other indicia of independence. This prevents enterprises from claiming the exception for captive intermediaries whose sole function is serving the enterprise group.
 
-### 2.3 Strategy 3: Contract Splitting
+The "closely related enterprise" concept, defined in Article 5(8), applies a more-than-50-percent ownership or control threshold. This definition supports both the anti-fragmentation rule and the narrowed independent agent exception.
 
-**The construction PE threshold:**
+## 4. Implementation Through the MLI
 
-Article 5(3) provides that construction sites are PEs only if they last more than 12 months (OECD) or 6 months (UN). MNEs could avoid this by:
+### 4.1. MLI Articles 12-15
 
-- Splitting a single project into multiple contracts
-- Using related enterprises to perform sequential work
-- Structuring contracts to stay just under the threshold
+The Multilateral Instrument implements Action 7 recommendations through four articles. Article 12 addresses commissionaire arrangements, implementing the expanded agency permanent establishment concept. Article 13 addresses specific activity exemptions, offering options for implementing the preparatory or auxiliary requirement. Article 14 addresses contract splitting for construction projects. Article 15 defines "closely related person," which must be adopted if any of Articles 12-14 are adopted.
 
-**Example:**
-```
-PROJECT: 18-month construction contract
+### 4.2. Optional Status
 
-WITHOUT SPLITTING:
-  Single contract: 18 months → Exceeds threshold → PE
+Action 7 is not a BEPS minimum standard. Unlike Actions 5, 6, 13, and 14, which require compliance by Inclusive Framework members, Action 7 adoption is voluntary. Countries may choose which articles to adopt, which options to select, or may opt out entirely.
 
-WITH SPLITTING:
-  Contract 1 (Company A): Months 1-11 → No PE
-  Contract 2 (Company B): Months 12-18 → No PE
+This optional status reflects the contentious nature of permanent establishment expansion. Residence States, whose enterprises might face new permanent establishment findings abroad, have less incentive to adopt expansive definitions. Source States, seeking to tax economic activity within their borders, favour broader definitions. The optional approach allows each jurisdiction to balance these interests according to its circumstances.
 
-  Combined work: Same project, but technically no PE
-```
+### 4.3. Country Positions
 
----
+Country positions on MLI permanent establishment provisions vary significantly. As of late 2025, 105 jurisdictions have signed the MLI, with 88 having deposited ratification instruments. However, adoption of the permanent establishment provisions differs markedly.
 
-## 3. BEPS ACTION 7 FINAL REPORT (OCTOBER 2015)
+For Article 13 on specific activity exemptions, Australia, India, Japan, and New Zealand have adopted Option A, which requires all listed activities to satisfy the preparatory or auxiliary test. France, Ireland, Singapore, and Luxembourg have adopted Option B, which applies the anti-fragmentation rule but maintains per se exemptions for the listed activities. The United Kingdom has adopted neither option, preserving the pre-2017 approach in its treaty network. Canada and Finland have opted out of Article 13 entirely.
 
-### 3.1 Key Recommendations
+Research indicates that capital-importing countries, typically in the Global South, are significantly more likely to adopt the permanent establishment provisions than capital-exporting countries. This pattern reflects the provisions' effect of shifting taxing rights from residence to source States.
 
-The Action 7 Final Report recommended changes in three main areas:
+## 5. Profit Attribution Guidance
 
-| Area | Problem Addressed | Solution |
-|------|-------------------|----------|
-| **Agency PE** | Commissionaire escape | Expand "conclude contracts" to include "principal role" |
-| **Specific exemptions** | Automatic exemption abuse | Require prep/aux character for ALL activities |
-| **Anti-fragmentation** | Splitting operations | New rules to aggregate related activities |
-| **Contract splitting** | Avoiding duration thresholds | Aggregate related enterprise contracts |
+### 5.1. The Attribution Challenge
 
-### 3.2 Changes to Article 5(5): Agency PE
+The expanded permanent establishment definitions create new taxable presences, but determining what profits are attributable to these permanent establishments presents challenges. A commissionaire-arrangement permanent establishment does not have traditional assets or employees of its own; the commissionaire entity holds the assets and employs the personnel. The permanent establishment is a deemed presence rather than a physical operation.
 
-**Old wording:**
-> Agent who "habitually exercises... authority to **conclude contracts in the name of** the enterprise"
+### 5.2. The March 2018 Guidance
 
-**New wording (2017 MTC):**
-> Agent who habitually:
-> - Concludes contracts, OR
-> - **Plays the principal role leading to the conclusion of contracts** that are routinely concluded without material modification
+The OECD published Additional Guidance on the Attribution of Profits to Permanent Establishments under BEPS Action 7 in March 2018. This guidance applies the Authorised OECD Approach (AOA) to permanent establishments arising from the revised definitions, requiring functional analysis of activities performed, assets used, and risks assumed.
 
-**Key additions:**
-- Contracts need not be "in the name of" the principal
-- "Principal role" captures negotiations even where formal conclusion is elsewhere
-- "Routinely concluded without material modification" targets rubber-stamp approvals
+The guidance includes detailed examples addressing commissionaire structures for sale of goods, online advertising sales structures, and procurement structures. Each example demonstrates how to identify significant people functions and attribute profits accordingly.
 
-### 3.3 Changes to Article 5(4): Specific Exemptions
+### 5.3. Limited Functions, Limited Profits
 
-**Key change:**
+A key principle in the 2018 guidance is that expanded permanent establishment definitions do not justify expanded profit attribution. These permanent establishments typically perform limited functions—primarily the negotiation or facilitation of contracts—while the enterprise's core functions remain elsewhere. Profit attribution should reflect this reality.
 
-Added requirement that ALL activities in Article 5(4)(a)-(e) must be of a "preparatory or auxiliary character" - no more automatic exemptions.
+For a commissionaire-arrangement permanent establishment, the attributable profits would typically be a commission-type return for contract negotiation, not the full distribution margin. The commissionaire entity itself receives arm's length remuneration under transfer pricing principles; the permanent establishment receives an attribution reflecting any additional functions not compensated through that remuneration.
 
-**New Article 5(4.1) - Anti-fragmentation:**
+Coordination between Article 7 (permanent establishment profit attribution) and Article 9 (transfer pricing) is essential to avoid double counting. The total profits attributed to the permanent establishment and paid to the commissionaire entity should not exceed what the combined activities would generate.
 
-Where an enterprise (or closely related enterprise) carries on activities at the same or different locations, and either:
-- That location constitutes a PE of the enterprise, OR
-- The **overall activity** resulting from the combination is not preparatory or auxiliary
+## 6. Relationship to Other BEPS Actions
 
-Then Article 5(4) exemptions do not apply.
+### 6.1. Digital Economy Connections
 
-### 3.4 Changes to Article 5(6): Independent Agent
+Action 7 connects closely with Action 1 on the digital economy. Digital businesses often avoided permanent establishment status by conducting sales through online platforms without physical presence in customer jurisdictions. While Action 7's reforms address some digital economy concerns—particularly regarding local personnel who facilitate online sales—they do not fully address highly digitalised business models that operate entirely remotely.
 
-**Narrowed the exception:**
+The relationship between Action 7 and subsequent Pillar One developments is significant. Pillar One proposes new taxing rights based on market presence rather than physical establishment, representing a more fundamental departure from traditional permanent establishment concepts than Action 7's targeted reforms.
 
-An agent acting "exclusively or almost exclusively" for one or more **closely related enterprises** cannot qualify as an independent agent.
+### 6.2. Transfer Pricing Integration
 
-**"Closely related" defined (Art 5(8)):**
-- More than 50% ownership or control
-- Same person owns >50% of both enterprises
+Actions 8-10 on transfer pricing complement Action 7. Where a permanent establishment exists, profit attribution applies transfer pricing principles. The functional analysis required for profit attribution mirrors the analysis required for pricing transactions between associated enterprises. Consistency between permanent establishment attribution and transfer pricing ensures coherent treatment of enterprise profits.
+
+### 6.3. Country-by-Country Reporting
+
+Action 13 on country-by-country reporting supports Action 7 implementation by increasing transparency about where enterprises conduct activities. Tax authorities with access to country-by-country reports can identify potential permanent establishment situations more readily, comparing reported presence with permanent establishment filings.
+
+## 7. Practical Implications
+
+### 7.1. Restructuring Responses
+
+Many enterprises have restructured operations in response to Action 7. Common responses include converting commissionaire arrangements to limited risk distributor structures, where the local entity takes title to goods and bears inventory risk, accepting permanent establishment status but managing attribution through transfer pricing.
+
+Other enterprises have increased substance in source countries, accepting that local presence will create permanent establishments but ensuring that profit attribution reflects genuine local functions. This approach aligns with the BEPS project's broader objective of taxing profits where economic activity occurs.
+
+### 7.2. Documentation Requirements
+
+Action 7 implementation has increased documentation burdens. Enterprises must document the preparatory or auxiliary character of activities claiming exemption, maintain evidence of agent independence where relevant, and justify construction contract structures where aggregation might apply.
+
+Functional analysis documentation for profit attribution purposes has become essential. Enterprises must identify significant people functions performed at permanent establishments and demonstrate that profit attribution reflects these functions appropriately.
+
+## 8. Critical Assessment and Discussion
+
+The Action 7 reforms represent a significant but incomplete response to permanent establishment avoidance. The commissionaire amendments address a genuine gap in the pre-2017 rules, closing an escape route that produced different tax consequences for economically equivalent arrangements. The Spanish Dell decision demonstrated that courts could reach the intended result even under the old language, but the amendments provide greater certainty.
+
+The anti-fragmentation rule addresses a real problem but creates implementation challenges. Determining when activities constitute "complementary functions of a cohesive business operation" requires judgment that may be applied inconsistently across jurisdictions. Enterprises face uncertainty about how aggregation principles will be applied in practice.
+
+The optional status of Action 7 has produced uneven implementation. Research indicates that only 29 countries opted to implement certain permanent establishment provisions through the MLI, limiting the reforms' practical impact. The divergence between capital-importing and capital-exporting countries' positions suggests that residence-source tensions continue to shape international tax outcomes.
+
+The 2018 profit attribution guidance appropriately limits the consequences of expanded permanent establishment definitions. Critics had worried that new permanent establishments would attract disproportionate profit attribution; the guidance's emphasis on limited functions and limited profits addresses this concern. However, some commentators argue that if profit attribution remains minimal, the expanded definitions achieve little beyond compliance costs.
+
+The relationship between Action 7 and digital economy taxation remains unresolved. The reforms address some digital economy concerns but do not fundamentally alter the requirement for physical presence. Highly digitalised businesses can still operate in jurisdictions without permanent establishments, generating revenue without taxable presence. Pillar One represents a more ambitious response to this challenge, though its implementation remains uncertain.
+
+The uneven implementation of Action 7 raises questions about the effectiveness of voluntary BEPS measures. Where minimum standards apply, compliance is monitored through peer review with real consequences for non-compliance. Action 7's optional status means that enterprises operating in jurisdictions that have not adopted the reforms can continue using structures that would trigger permanent establishment findings elsewhere. This creates arbitrage opportunities and perpetuates the very planning strategies Action 7 was designed to address.
+
+Looking forward, the permanent establishment concept faces pressure from multiple directions. The 2025 OECD update on home office permanent establishments demonstrates that new working arrangements require ongoing refinement of traditional concepts. The continuing debate about digital economy taxation suggests that more fundamental changes may be necessary to capture economic activity that occurs without traditional physical presence. Action 7's reforms, while valuable, represent evolutionary rather than revolutionary change to a concept that some commentators argue has outlived its utility in an increasingly digitalised global economy.
+
+The interaction between Action 7 and domestic anti-avoidance rules also warrants attention. Some jurisdictions apply domestic permanent establishment concepts that differ from treaty definitions, potentially creating permanent establishments under domestic law even where treaty protections would otherwise apply. The relationship between treaty-based and domestic approaches to permanent establishment avoidance remains an area of ongoing development in international tax jurisprudence.
 
 ---
 
-## 4. IMPLEMENTATION THROUGH THE MLI
-
-### 4.1 MLI Articles 12-15
-
-The Action 7 recommendations are implemented in the Multilateral Instrument (MLI) through four articles:
-
-| MLI Article | Subject | Corresponds to |
-|-------------|---------|----------------|
-| **Article 12** | Artificial Avoidance through Commissionnaire Arrangements | Art 5(5)-(6) changes |
-| **Article 13** | Artificial Avoidance through Specific Activity Exemptions | Art 5(4) changes |
-| **Article 14** | Splitting-up of Contracts | Art 5(3) aggregation |
-| **Article 15** | Definition of Closely Related Person | Art 5(8) |
-
-### 4.2 NOT a Minimum Standard
-
-**Important**: Action 7 is **NOT a BEPS minimum standard**. This means:
-- Adoption is voluntary (though recommended)
-- Countries can choose which articles to adopt
-- Countries can opt out entirely
-
-This contrasts with Actions 5, 6, 13, and 14, which are minimum standards requiring compliance for Inclusive Framework members.
-
-### 4.3 MLI Implementation Options
-
-**Article 12 (Commissionnaire):**
-- Jurisdictions choose whether to adopt
-- Covers expanded agency PE definition
-
-**Article 13 (Specific Activity Exemptions):**
-- **Option A**: All activities must be preparatory/auxiliary (broader)
-- **Option B**: Only applies where anti-fragmentation triggered (narrower)
-- Countries can opt out entirely
-
-**Article 14 (Contract Splitting):**
-- Optional adoption
-- Aggregates time periods for related enterprise contracts
-
-**Article 15 (Closely Related Definition):**
-- **Mandatory** if any of Articles 12, 13, or 14 adopted
-- Provides consistent 50% threshold definition
-
-### 4.4 Country Adoption Examples
-
-| Country | Article 12 | Article 13 | Article 14 |
-|---------|------------|------------|------------|
-| **Australia** | Adopted | Option A | Adopted |
-| **UK** | Adopted | Neither option | Adopted |
-| **France** | Adopted | Option B | Adopted |
-| **Canada** | Adopted | Opted out | Adopted |
-| **USA** | Not MLI signatory | - | - |
-
----
-
-## 5. PROFIT ATTRIBUTION GUIDANCE (2018)
-
-### 5.1 The Attribution Challenge
-
-The expanded PE definitions create new PEs, but how should profits be attributed to them? A commissionaire-arrangement PE doesn't have traditional assets or employees - the commissionaire does.
-
-The Action 7 Final Report mandated additional guidance on profit attribution, delivered in March 2018.
-
-### 5.2 The 2018 Additional Guidance
-
-**Report:** "Additional Guidance on the Attribution of Profits to Permanent Establishments under BEPS Action 7" (OECD, March 2018)
-
-**Key principles:**
-
-1. **Authorised OECD Approach (AOA) applies**: Same framework as traditional PEs
-2. **Functional analysis crucial**: Identify significant people functions
-3. **Limited profits to expanded PEs**: These PEs typically perform limited functions
-4. **Avoid double taxation**: Article 9 (transfer pricing) and Article 7 (PE attribution) must be coordinated
-
-### 5.3 Practical Application
-
-**For commissionnaire-arrangement PEs:**
-
-```
-PROFIT ATTRIBUTION - COMMISSIONNAIRE PE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-STEP 1: Identify functions, assets, risks of deemed PE
-  • Functions: Contract negotiation by agent
-  • Assets: Typically none (belong to agent entity)
-  • Risks: Limited (agent bears inventory/credit risk)
-
-STEP 2: Apply arm's length principle
-  • What would independent enterprise earn for these functions?
-  • Typically: Commission-type return
-
-STEP 3: Coordinate with Article 9
-  • Agent entity (Article 9): Arm's length remuneration
-  • Deemed PE (Article 7): Remaining attributable profit
-  • TOTAL should not exceed combined enterprise profit
-
-RESULT: Often minimal additional profit to deemed PE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 5.4 Key Examples in 2018 Guidance
-
-The guidance includes detailed examples:
-- **Example A**: Commissionnaire structure for sale of goods
-- **Example B**: Online advertising sales structure
-- **Example C**: Procurement structure
-
-Each demonstrates how to identify significant people functions and attribute profits accordingly.
-
----
-
-## 6. RELATIONSHIP TO OTHER BEPS ACTIONS
-
-### 6.1 Connection to Other Actions
-
-| Related Action | Connection to Action 7 |
-|----------------|------------------------|
-| **Action 1** (Digital Economy) | Digital businesses often avoid PE through online sales |
-| **Actions 8-10** (Transfer Pricing) | Profit attribution to new PEs uses TP principles |
-| **Action 13** (CbCR) | Increased transparency reveals PE avoidance |
-| **Action 15** (MLI) | Implementation vehicle for Action 7 changes |
-
-### 6.2 Action 7 in BEPS Context
-
-Action 7 addresses the "where to tax" question (nexus), while Actions 8-10 address "how much to tax" (profit allocation). Together, they aim to ensure profits are taxed where economic activity occurs.
-
----
-
-## 7. PRACTICAL IMPLICATIONS FOR BUSINESSES
-
-### 7.1 Structures at Risk
-
-MNEs should review arrangements where:
-- Sales representatives negotiate contracts approved elsewhere
-- Warehouses/fulfillment centers are characterized as "delivery" facilities
-- Multiple exempt activities are performed in one jurisdiction
-- Related companies perform sequential work on same projects
-
-### 7.2 Restructuring Considerations
-
-Many MNEs have responded by converting:
-- Commissionaire arrangements → Limited risk distributors (LRDs)
-- Principal structures → More substance in source countries
-- Split operations → Consolidated structures accepting PE status
-
-### 7.3 Documentation Needs
-
-Enhanced documentation required:
-- Functional analysis of local activities
-- Evidence of preparatory/auxiliary character
-- Agent independence evidence
-- Contract structure justification
-
----
-
-## 8. EXAM APPLICATION
-
-### 8.1 December 2022 Q8 - How to Use Action 7
-
-The December 2022 Q8 asked candidates to:
-1. Outline changes made to Article 5 in OECD MTC 2017
-2. Summarize impact on source state taxing rights
-3. Consider Article 5 as it relates to commissionaire arrangements
-
-**Examiner guidance**: "Candidates' answers could begin by setting the scene, which may include... providing some context to the 2017 changes i.e. **BEPS Action 7** (Preventing the Artificial Avoidance of Permanent Establishment Status, Final Report 2015)."
-
-### 8.2 Answer Framework
-
-```
-EXAM APPROACH: BEPS ACTION 7 QUESTIONS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. SET THE SCENE (2-3 marks)
-   • PE definition is gateway to source taxation of business profits
-   • MNEs had developed strategies to avoid PE artificially
-   • BEPS Action 7 mandate: Address commissionaire and specific exemptions
-
-2. IDENTIFY STRATEGIES TARGETED (3-4 marks)
-   • Commissionaire arrangements
-   • Fragmentation of activities
-   • Contract splitting
-
-3. EXPLAIN KEY CHANGES (5-8 marks)
-   • Article 5(5): Expanded agency PE ("principal role" test)
-   • Article 5(4): Prep/aux requirement for all activities
-   • Article 5(4.1): Anti-fragmentation rule
-   • Article 5(6): Narrowed independent agent exception
-
-4. DISCUSS IMPLEMENTATION (2-3 marks)
-   • MLI Articles 12-15
-   • NOT a minimum standard
-   • Variable country adoption
-
-5. CONSIDER PROFIT ATTRIBUTION (if asked) (2-3 marks)
-   • 2018 Additional Guidance
-   • AOA applies but limited functions = limited profits
-   • Coordinate Article 7 and Article 9
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 9. SUMMARY: KEY POINTS FOR EXAM
-
-```
-BEPS ACTION 7 - ESSENTIAL KNOWLEDGE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. MANDATE
-   • Prevent ARTIFICIAL avoidance of PE status
-   • Focus: Commissionaire arrangements + specific exemptions
-
-2. THREE TARGETED STRATEGIES
-   • Commissionaire arrangements (contract not "in name of" principal)
-   • Exploitation of Article 5(4) automatic exemptions
-   • Contract splitting to avoid duration thresholds
-
-3. KEY CHANGES (2015 Report → 2017 MTC)
-   • Art 5(5): "Principal role" expands agency PE
-   • Art 5(4): Prep/aux test now applies to ALL activities
-   • Art 5(4.1): Anti-fragmentation rule
-   • Art 5(6): Narrowed independent agent exception
-   • Art 5(8): "Closely related" definition (50% threshold)
-
-4. MLI IMPLEMENTATION
-   • Articles 12, 13, 14, 15
-   • NOT a minimum standard (voluntary)
-   • Options A and B for Article 13
-   • Variable country adoption
-
-5. PROFIT ATTRIBUTION (2018 Guidance)
-   • AOA applies to new PEs
-   • Limited functions = limited profits
-   • Coordinate with transfer pricing (Article 9)
-
-6. KEY CASES
-   • Zimmer (France, 2010) - commissionaire no PE pre-2017
-   • Dell (Norway, 2011) - same conclusion
-
-7. EXAM APPROACH
-   • Link policy context to technical changes
-   • Explain problem → solution → implementation
-   • Reference Final Report and 2018 Guidance
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 10. LINK TO OTHER CHAPTERS
-
-| Topic | Chapter | Connection |
-|-------|---------|------------|
-| Article 5 Technical Details | 7.2 | Detailed analysis of PE provisions |
-| Article 7 Business Profits | 8.1 | Profit attribution to PEs |
-| Transfer Pricing | Part IV | Actions 8-10, profit allocation |
-| MLI | 3.4 | Implementation vehicle |
-| BEPS Overview | Various | Context for all BEPS actions |
-
----
-
-## 11. REFERENCES
-
-### Primary Sources
-- OECD. **Preventing the Artificial Avoidance of Permanent Establishment Status, Action 7 - 2015 Final Report** (Paris: OECD, 2015)
-- OECD. **Additional Guidance on the Attribution of Profits to a Permanent Establishment under BEPS Action 7** (Paris: OECD, 2018)
-- OECD. **Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS** (Paris: OECD, 2016)
-- OECD. **Model Tax Convention on Income and on Capital** (Paris: OECD, 2017)
-
-### Web Sources (December 2025)
-- [OECD Action 7 Final Report](https://www.oecd.org/en/publications/2015/10/preventing-the-artificial-avoidance-of-permanent-establishment-status-action-7-2015-final-report_g1g58ce8.html)
-- [OECD 2018 Additional Guidance](https://www.oecd.org/en/publications/2018/03/additional-guidance-on-the-attribution-of-profits-to-a-permanent-establishment-under-beps-action-7_63ee620d.html)
-- [MLI Articles 12-15 Implementation](https://www.action15-mli.net/multilateral-convention/article-12-avoiding-p-e-status-commissionnaire-arrangements/article-12-avoidance-of-p-e-status-through-commissionnaire-arrangements.html)
-
-### Past Exam Questions
-- December 2022 Q8: Article 5 changes with BEPS Action 7 context (25 marks)
-
----
-
-*Chapter 7.3 covers syllabus area II.G.3 - BEPS Action 7 – Preventing the artificial avoidance of a permanent establishment. This is a Level 3 topic requiring advanced knowledge of the policy context, targeted strategies, recommended changes, and implementation through the MLI.*
+*Part II - Double Taxation Conventions*
+*Previous Chapter: 7.2 - Article 5: Permanent Establishment*
+*Next Chapter: 8.1 - Article 7: Business Profits*
