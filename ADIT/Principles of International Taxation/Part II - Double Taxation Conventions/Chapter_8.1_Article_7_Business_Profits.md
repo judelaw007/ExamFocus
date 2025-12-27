@@ -1,76 +1,28 @@
-# Chapter 8.1: Business Profits – Article 7, OECD MTC and UN MDTC
+### Article 7: Business Profits
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Area: II.H.1 - Business profits (with or without a permanent
-               establishment) – Article 7, OECD MTC and UN MDTC
-Syllabus Level: 3 (Advanced Knowledge)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Exam Frequency: HIGH - Fundamental provision; often tested with PE questions
-Recent Appearances:
-  • December 2023: Business profits in PE scenario (Angelica/Felicity)
-  • June 2023: Article 7 and Article 9 interaction (ALP vs GFA)
-  • December 2022: Source state taxing rights on business profits
-  • Multiple years: Article 7 referenced in context of other articles
+#### 1. Introduction
 
-Strategic Priority: ★★★★★ CRITICAL
-- Gateway provision for taxing active business income
-- Operates together with Article 5 (PE definition)
-- Authorised OECD Approach (AOA) is key examinable concept
-- UN Model "force of attraction" is distinguishing feature
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+##### 1.1. The Role of Article 7 in Treaty Architecture
 
-## 1. INTRODUCTION: THE ROLE OF ARTICLE 7
+Article 7 allocates taxing rights over business profits between the residence state and the source state. It establishes that business profits are taxable only in the residence state unless the enterprise carries on business in the source state through a permanent establishment (PE). This creates a direct connection between Article 5 (determining whether a PE exists) and Article 7 (determining taxable profit attribution).
 
-### 1.1 Purpose and Function
+The allocation operates on a binary basis: without a PE, the residence state has exclusive taxing rights; with a PE, the source state may tax profits attributable to that establishment.
 
-Article 7 allocates taxing rights over **business profits** between the residence state and the source state. It establishes the fundamental principle that:
+##### 1.2. The Permanent Establishment Threshold
 
-- **Without a PE**: Business profits are taxable **only** in the residence state
-- **With a PE**: The source state may tax profits **attributable to** that PE
+Article 5 first determines whether a PE exists through fixed place of business tests, building site duration thresholds, or dependent agent criteria. If no PE exists, Article 7(1) applies: profits are taxable only in the residence state. If a PE exists, Article 7(1) second sentence applies: profits attributable to the PE may be taxed in the source state.
 
-This creates a direct connection between Article 5 (PE definition - see Chapter 7.2) and Article 7 (profit allocation). Article 5 determines *whether* the source state can tax; Article 7 determines *how much* it can tax.
+This threshold mechanism ensures source states cannot tax foreign business income without substantial economic presence. The PE requirement serves as a jurisdictional gateway, limiting source taxation to situations where an enterprise has more than transitory connection to the source jurisdiction.
 
-### 1.2 The PE Threshold
+##### 1.3. Article 7 as a Residual Provision
 
-```
-THE ARTICLE 5/ARTICLE 7 RELATIONSHIP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  STEP 1: Does enterprise have a PE in Source State?
-          (Apply Article 5 - see Chapter 7.2)
-
-          ↓ NO                           ↓ YES
-
-  STEP 2a: No PE                  STEP 2b: PE exists
-           ↓                              ↓
-  Article 7(1) first sentence:    Article 7(1) second sentence:
-  "Profits...taxable ONLY in      "Profits...may be taxed in
-   [Residence] State"              [Source] State"
-           ↓                              ↓
-  Result: Residence state has     Result: Source state may tax
-  EXCLUSIVE taxing rights         profits ATTRIBUTABLE to PE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 1.3 Importance in Treaty Framework
-
-Article 7 is a **residual provision** for business income. It applies to business profits that are not covered by more specific articles:
-- Article 6: Income from immovable property
-- Article 8: Shipping and air transport
-- Articles 10-12: Dividends, interest, royalties
-- Article 13: Capital gains
-
-Where income falls under a specific article, that article takes precedence over Article 7.
+Article 7 functions as a residual provision for business income. It applies to business profits not covered by specific distributive articles: Article 6 (immovable property), Article 8 (shipping and air transport), Articles 10-12 (dividends, interest, royalties), and Article 13 (capital gains). Specific articles take precedence over Article 7, ensuring specialized rules govern particular income types while Article 7 captures remaining active business income.
 
 ---
 
-## 2. ARTICLE 7 TEXT AND STRUCTURE (OECD MTC 2017)
+#### 2. Text and Structure of Article 7
 
-### 2.1 Full Text
+##### 2.1. Treaty Text (OECD Model 2017)
 
 **Article 7(1):**
 > "Profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits that are attributable to the permanent establishment in accordance with the provisions of paragraph 2 may be taxed in that other State."
@@ -79,458 +31,206 @@ Where income falls under a specific article, that article takes precedence over 
 > "For the purposes of this Article and Article [23 A] [23 B], the profits that are attributable in each Contracting State to the permanent establishment referred to in paragraph 1 are the profits it might be expected to make, in particular in its dealings with other parts of the enterprise, if it were a separate and independent enterprise engaged in the same or similar activities under the same or similar conditions, taking into account the functions performed, assets used and risks assumed by the enterprise through the permanent establishment and through the other parts of the enterprise."
 
 **Article 7(3):**
-> "Where, in accordance with paragraph 2, a Contracting State adjusts the profits that are attributable to a permanent establishment of an enterprise of one of the Contracting States and taxes accordingly profits of the enterprise that have been charged to tax in the other State, the other State shall, to the extent necessary to eliminate double taxation on these profits, make an appropriate adjustment to the amount of the tax charged on those profits..."
+> "Where, in accordance with paragraph 2, a Contracting State adjusts the profits that are attributable to a permanent establishment of an enterprise of one of the Contracting States and taxes accordingly profits of the enterprise that have been charged to tax in the other State, the other State shall, to the extent necessary to eliminate double taxation on these profits, make an appropriate adjustment to the amount of the tax charged on those profits. In determining such adjustment, the competent authorities of the Contracting States shall if necessary consult each other."
 
 **Article 7(4):**
 > "No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise."
 
-### 2.2 Structure Overview
+##### 2.2. Overview of Article 7 Provisions
 
-| Paragraph | Content | Function |
-|-----------|---------|----------|
-| **7(1)** | Basic rule | Residence-only unless PE; source may tax PE profits |
-| **7(2)** | Attribution rule | Separate entity/arm's length basis |
-| **7(3)** | Corresponding adjustment | Eliminates double taxation |
-| **7(4)** | Purchasing exception | No profits from mere purchasing |
+Article 7(1) establishes the basic allocation rule between residence-only taxation (no PE) and shared jurisdiction (PE exists). Article 7(2) provides the attribution methodology using separate entity and arm's length principles based on functions, assets, and risks. Article 7(3) addresses corresponding adjustments to eliminate double taxation. Article 7(4) prevents profit attribution for mere purchasing activities.
 
 ---
 
-## 3. ARTICLE 7(1): THE BASIC RULE
+#### 3. The Basic Allocation Rule
 
-### 3.1 Two Limbs of Article 7(1)
+##### 3.1. Exclusive Residence Taxation Without PE
 
-**First Sentence (No PE):**
-> "Profits of an enterprise of a Contracting State shall be taxable **only in that State**..."
+Article 7(1) first sentence grants exclusive taxing rights to the residence state when no PE exists: "Profits of an enterprise of a Contracting State shall be taxable **only in that State**..." The term "only" prevents source taxation entirely, reflecting treaty policy that business profits require substantial presence for source taxation.
 
-This grants **exclusive** taxing rights to the residence state when there is no PE. The word "only" is critical - it prevents source taxation entirely.
+The source state must refrain from taxing business profits even if the enterprise conducts transactions within its territory. If a resident enterprise of State R makes direct sales to State S customers without a PE, State S cannot tax those profits despite source connection.
 
-**Second Sentence (PE exists):**
-> "...the profits that are attributable to the permanent establishment... **may be taxed** in that other State."
+##### 3.2. Source State Taxation With PE
 
-This grants the source state a **right** (not obligation) to tax. The phrase "may be taxed" indicates shared taxing rights - both states can tax, with double taxation relief under Article 23.
+When a PE exists, Article 7(1) second sentence grants source state taxing rights: "...the profits that are attributable to the permanent establishment... **may be taxed** in that other State." This creates shared taxing rights, with double taxation relief under Article 23.
 
-### 3.2 Key Concepts
+The source state's right extends only to profits "attributable to" the PE. This prevents taxing the enterprise's worldwide profits merely because a PE exists. Functional analysis is required to determine profit allocation to the PE.
 
-**"Enterprise of a Contracting State":**
-- Defined in Article 3(1)(c): "any business carried on by a resident of a Contracting State"
-- Includes companies, partnerships, sole traders
-- Must be a resident under Article 4
+##### 3.3. Definitional Elements
 
-**"Carries on business":**
-- Active engagement in commercial activities
-- Broader than merely holding investments
-- Distinguished from passive investment income
+**Enterprise of a Contracting State:** Article 3(1)(c) defines this as "any business carried on by a resident of a Contracting State," encompassing corporations, partnerships, and sole proprietorships that qualify as residents under Article 4.
 
-**"Profits":**
-- Broadly interpreted to include all business income
-- Not defined in the treaty - reference to domestic law under Article 3(2)
-- Includes trading profits, gains from disposal of business assets
+**Carries on business:** Active engagement in commercial activities, broader than passive investments. Encompasses trading, manufacturing, service provision, and other active operations. The distinction matters because passive income typically falls under Articles 10-12.
+
+**Profits:** Broadly interpreted to include all business income from commercial activities. Not treaty-defined, so domestic law applies under Article 3(2). Includes trading income, business receipts, and gains from business asset disposal, but excludes capital gains from non-business assets (Article 13).
 
 ---
 
-## 4. ARTICLE 7(2): PROFIT ATTRIBUTION - THE AUTHORISED OECD APPROACH (AOA)
+#### 4. Profit Attribution Under the Authorised OECD Approach
 
-### 4.1 The Separate Entity Fiction
+##### 4.1. The Functionally Separate Entity Approach
 
-Article 7(2) requires profits to be attributed to the PE as if it were:
-> "a **separate and independent enterprise** engaged in the same or similar activities under the same or similar conditions"
+Article 7(2) requires attributing profits to the PE as if it were "a **separate and independent enterprise** engaged in the same or similar activities under the same or similar conditions." This functionally separate entity approach treats the PE as hypothetically independent, even though legally it and the head office constitute one entity.
 
-This is the **functionally separate entity approach** - treating the PE as a hypothetically independent enterprise for profit attribution purposes.
+Profits are attributed based on what the PE would earn operating independently at arm's length with the head office. This differs from formulary apportionment, which mechanically divides profits by factors like assets or sales. Instead, it demands functional analysis of the PE's activities, assets, and risks.
 
-### 4.2 The Authorised OECD Approach (AOA)
+##### 4.2. The Two-Step AOA Methodology
 
-The AOA was developed in the **2010 OECD Report on the Attribution of Profits to Permanent Establishments** and incorporated into Article 7 in the 2010 revision of the OECD MTC.
+The **Authorised OECD Approach (AOA)**, developed in the 2010 OECD Report and incorporated into Article 7(2) in 2010, establishes a two-step process:
 
-```
-THE AUTHORISED OECD APPROACH (AOA) - TWO STEPS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Step 1: Functional and Factual Analysis.** Hypothesise the PE as separate and identify functions performed, assets used, and risks assumed. Central is "significant people functions" (SPFs)—economically significant activities and decision-making by personnel. Assets and risks are attributed based on which part exercises control through SPF analysis.
 
-STEP 1: FUNCTIONAL AND FACTUAL ANALYSIS
-────────────────────────────────────────────────────────────────
-• Hypothesise the PE as a separate enterprise
-• Identify:
-  - Functions performed by the PE
-  - Assets used by the PE
-  - Risks assumed by the PE
-• Identify "significant people functions" (SPFs)
-• Attribute assets, risks, and capital accordingly
+**Step 2: Determine Arm's Length Profits.** Apply transfer pricing principles to price "dealings" between PE and head office at arm's length. The OECD Transfer Pricing Guidelines apply by analogy, considering comparability factors including functions, assets, risks, contractual terms, and economic circumstances.
 
-STEP 2: DETERMINE ARM'S LENGTH PROFITS
-────────────────────────────────────────────────────────────────
-• Price "dealings" between PE and head office at arm's length
-• Apply OECD Transfer Pricing Guidelines by analogy
-• Determine profits PE would earn if independent
-• Consider comparability factors
+The result: profits attributable to the PE equal the arm's length return for attributed functions, assets, and risks.
 
-RESULT: Profits attributable to PE = Arm's length return for
-        functions, assets, and risks attributed in Step 1
+##### 4.3. Functions, Assets, and Risks Analysis
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**Functions performed:** Examines activities the PE carries out—sales, manufacturing, R&D, management, or support services. Focus is on significant people functions—value-creating activities by personnel. If the PE employs sales personnel who negotiate contracts, these sales functions are attributed to the PE.
 
-### 4.3 Key Elements of Article 7(2)
+**Assets used:** Determines economically owned assets—tangible (buildings, equipment), intangible (IP, customer relationships), and financial assets. Attribution is based on which part performs SPFs that create, acquire, maintain, or control assets.
 
-**"Functions performed":**
-- What activities does the PE carry out?
-- Sales, manufacturing, R&D, management?
-- Focus on significant people functions (SPFs)
+**Risks assumed:** Business risks (market, credit, operational, financial) are allocated based on control. Risks are attributed where personnel perform SPFs that assume and manage them. The Hyatt International case (India Supreme Court, 2025) illustrated that a PE can be attributed positive income based on functions and risks even when the enterprise reports global losses.
 
-**"Assets used":**
-- What assets are economically owned by the PE?
-- Tangible assets, intangibles, financial assets
-- Attribution based on SPFs that create, acquire, manage assets
+**Dealings:** Internal transactions between PE and head office must be recognised and priced at arm's length. These notional transactions have no legal effect but are priced for tax purposes—including services, intangible asset use, and goods transfers.
 
-**"Risks assumed":**
-- What business risks does the PE bear?
-- Market risk, credit risk, operational risk
-- Attribution based on SPFs that assume and manage risks
+##### 4.4. The OECD 2010 Attribution Report
 
-**"Dealings":**
-- Internal transactions between PE and head office
-- Notional transactions - no legal effect but priced for tax
-- Examples: Provision of services, use of assets, transfer of goods
+The OECD's 2010 Report provides comprehensive AOA guidance in four parts: general principles (Part I), banks (Part II), global trading (Part III), and insurance (Part IV). The Report confirms that OECD Transfer Pricing Guidelines apply **by analogy** to PE dealings. The five transfer pricing methods can be adapted, accounting for the fact that a PE and head office are one legal entity.
 
-### 4.4 The 2010 Report on Attribution of Profits
+##### 4.5. Attribution of Free Capital to Permanent Establishments
 
-The OECD's 2010 Report provides detailed guidance on applying the AOA. Key features:
+A crucial aspect is attributing appropriate **free capital** (equity) to the PE. A PE cannot have external debt with its head office legally—internal "loans" are not enforceable. Nevertheless, the PE must be attributed capital to support its functions and risks.
 
-- **Part I**: General principles
-- **Part II**: Banks
-- **Part III**: Global trading
-- **Part IV**: Insurance
+Capital attribution significantly affects taxable profits. More capital means less deductible interest (less debt funding), yielding higher profits. Less capital means more deductible interest and lower profits.
 
-The Report confirms that the OECD Transfer Pricing Guidelines apply **by analogy** to dealings between a PE and its head office.
+Methodologies include: (1) **capital allocation approach**—attributing proportional enterprise capital based on assets/risks; (2) **thin capitalisation approach**—attributing minimum capital required by comparable enterprises; (3) **safe harbour approach**—using fixed percentages for simplicity.
 
-### 4.5 Free Capital Attribution
+The connection to Base Erosion and Profit Shifting (BEPS) Action 4 (interest limitation) has gained importance. Action 4 earnings stripping rules limit interest deductions, requiring coordination with Article 7 capital attribution. The 2025 OECD guidance clarified that interest limitation rules apply at entity level and should coordinate with PE profit attribution to avoid double restriction.
 
-A crucial aspect of the AOA is attributing an appropriate amount of **free capital** to the PE:
+##### 4.6. Recent Developments and 2025 Updates
 
-```
-FREE CAPITAL ATTRIBUTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The OECD issued 2025 Commentary updates addressing remote work and digital business models. When employees work remotely from another jurisdiction, the remote location may constitute a PE if thresholds are met. For profit attribution, the location where significant people functions are performed remains determinative—if key decision-makers work remotely from State S, functions and risks should be attributed to a PE in State S.
 
-WHY IT MATTERS:
-• A PE cannot have external debt with its head office
-• Internal "loans" are not legally enforceable
-• PE must be attributed capital to support its functions/risks
-
-METHODS:
-1. Capital allocation approach
-   - Attribute proportion of enterprise's total capital
-   - Based on proportion of assets/risks
-
-2. Thin capitalisation approach
-   - Attribute minimum capital required
-   - Based on comparable independent enterprises
-
-3. Safe harbour approach
-   - Fixed percentage (e.g., regulatory minimum)
-   - Simpler but less precise
-
-EFFECT ON PROFITS:
-• More capital → Less deductible interest → Higher taxable profits
-• Less capital → More deductible interest → Lower taxable profits
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Updates also address digital PEs under revised Article 5 (BEPS Action 7), clarifying that profit attribution should focus on automated functions and platform value, considering where digital content is created and user engagement occurs. This evolves traditional FAR analysis for minimal physical but substantial economic presence (as covered in June 2023).
 
 ---
 
-## 5. ARTICLE 7(3): CORRESPONDING ADJUSTMENTS
+#### 5. Corresponding Adjustments to Eliminate Double Taxation
 
-### 5.1 Purpose
+##### 5.1. The Need for Adjustments
 
-Article 7(3) addresses double taxation that can arise when:
-- State A attributes profits to a PE and taxes them
-- State B (residence state) has already taxed those same profits as part of the enterprise's worldwide income
+Article 7(3) addresses double taxation when one state attributes profits to a PE and taxes them while the residence state has already taxed the same profits as part of worldwide income. Without adjustment, the enterprise faces economic double taxation.
 
-### 5.2 The Mechanism
+For example: enterprise resident in State R has PE in State S. State S taxes 100 PE profits. State R taxes 500 worldwide income (including the 100). Without Article 7(3), the 100 is taxed twice.
 
-```
-CORRESPONDING ADJUSTMENT UNDER ARTICLE 7(3)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+##### 5.2. Operation of the Adjustment Mechanism
 
-SCENARIO:
-Enterprise resident in State R has PE in State S
+Article 7(3) requires the residence state to adjust to eliminate double taxation on PE profits. Adjustment uses Article 23 mechanisms: exemption method (Article 23A) exempts PE profits from tax base; credit method (Article 23B) allows foreign tax credit for source state tax.
 
-State S:  "PE earned 100 → We tax 100"
-State R:  "Enterprise earned 500 globally (including 100 from PE)"
+This coordination ensures the source state's attribution is respected, preventing greater taxation than without treaty.
 
-WITHOUT ADJUSTMENT:
-  State S taxes: 100 (PE profits)
-  State R taxes: 500 (including the same 100)
-  → Double taxation on 100
+##### 5.3. Conditions and Limitations
 
-WITH ARTICLE 7(3):
-  State S taxes: 100 (PE profits)
-  State R must: Provide relief (exemption or credit per Art 23)
-  → Double taxation eliminated
+The adjustment obligation requires the source state's adjustment be "in accordance with paragraph 2"—complying with arm's length principle and AOA. If attribution is excessive or improper, the residence state need not provide full relief.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 5.3 Conditions for Adjustment
-
-The obligation to make a corresponding adjustment requires:
-- The initial adjustment is in accordance with Article 7(2)
-- The other state agrees the adjustment is appropriate
-- If states disagree, MAP under Article 25 may be invoked
+Where states disagree on attribution, Article 25 (Mutual Agreement Procedure) allows competent authorities to consult and agree on proper attribution. If agreed, both states adjust taxation to reflect the allocation.
 
 ---
 
-## 6. ARTICLE 7(4): PURCHASING EXCEPTION
+#### 6. The Purchasing Exception
 
-### 6.1 The Rule
+##### 6.1. Rationale and Scope
 
-> "No profits shall be attributed to a permanent establishment by reason of the **mere purchase** by that permanent establishment of goods or merchandise for the enterprise."
+Article 7(4) provides: "No profits shall be attributed to a permanent establishment by reason of the **mere purchase** by that permanent establishment of goods or merchandise for the enterprise." Purchasing activities alone don't generate profits—they're cost centres, not profit centres. A PE solely conducting procurement doesn't perform value-creating functions justifying profit attribution.
 
-### 6.2 Rationale
+##### 6.2. Limitations of the Exception
 
-Purchasing activities alone do not generate profits - they are cost centres, not profit centres. Even if purchasing activities constitute a PE under Article 5, no profits should be attributed solely for those activities.
+Article 7(4) applies only to "mere" purchasing in isolation. If the PE combines purchasing with processing, manufacturing, or sales, the exception doesn't apply and profits may be attributed based on full functions.
 
-### 6.3 Limitations
-
-The exception is narrow:
-- Only applies to "mere" purchasing
-- If purchasing is combined with other profit-generating activities, profits may be attributed
-- Does not prevent attribution of actual purchasing cost savings
+Additionally, Article 7(4) doesn't prevent attributing actual cost savings from PE purchasing. Measurable cost reductions may be relevant to determining arm's length remuneration under the AOA. The exception merely prevents automatic profit attribution based on purchasing volume.
 
 ---
 
-## 7. UN MODEL DIFFERENCES
+#### 7. Differences in the UN Model Tax Convention
 
-### 7.1 Force of Attraction Rule - Article 7(1)
+##### 7.1. The Force of Attraction Rule
 
-**The most significant difference**: The UN Model includes a **limited force of attraction** rule absent from the OECD Model.
+The most significant OECD-UN difference is the UN Model's **limited force of attraction rule**, absent from the OECD Model, expanding source state taxing rights beyond profits directly attributable to the PE.
 
-**UN Model Article 7(1) (alternative B):**
-> "...such profits may be taxed in the other State but only so much of them as is attributable to:
-> (a) that permanent establishment;
-> (b) **sales in that other State of goods or merchandise of the same or similar kind** as those sold through that permanent establishment; or
-> (c) **other business activities carried on in that other State of the same or similar kind** as those effected through that permanent establishment."
+Under the OECD Model, only profits actually attributable to the PE are taxable in the source state. If an enterprise has a PE in State S making sales of 100, plus direct sales of 50 to State S customers not through the PE (e.g., internet sales from head office), the 50 isn't taxable in State S.
 
-```
-FORCE OF ATTRACTION - OECD vs UN
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UN Model Article 7(1) Alternative B allows source state taxation of not only PE-attributable profits, but also:
+- (b) sales in that State of goods or merchandise of **same or similar kind** as those sold through the PE; or
+- (c) other business activities in that State of **same or similar kind** as those effected through the PE.
 
-OECD MODEL:
-  Only profits ACTUALLY ATTRIBUTABLE to PE are taxable in source state
+Under force of attraction, the 50 of direct sales would be taxable in State S if goods are same or similar kind as PE sales. The rule "attracts" to source jurisdiction income similar to PE activities, even if not conducted through the PE (illustrated in December 2023).
 
-  Enterprise with PE in State S makes:
-  - Sales through PE: 100 → Taxable in State S
-  - Direct sales to State S customers (not through PE): 50 → NOT taxable in S
+The UN approach favours source and developing countries by preventing manipulation of sales channels. Once a PE exists, the source state has comprehensive jurisdiction over similar activities, reducing tax avoidance opportunities.
 
-UN MODEL (with force of attraction):
-  Profits from SIMILAR activities also taxable even if not through PE
+##### 7.2. Expense Deduction, Apportionment, and Consistency Rules
 
-  Enterprise with PE in State S makes:
-  - Sales through PE: 100 → Taxable in State S
-  - Direct sales of SIMILAR goods to State S: 50 → ALSO taxable in S
+The UN Model includes three additional paragraphs:
 
-RATIONALE FOR UN APPROACH:
-  • Favours source/developing countries
-  • Prevents manipulation of sales channels
-  • "Once PE exists, source state has comprehensive jurisdiction"
+**Article 7(3) UN** expressly permits deducting expenses incurred for PE purposes, including reasonable executive and administrative expense allocation. This ensures net income reflects appropriate expense allocation. The OECD Model addresses this through the AOA without separate provision.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**Article 7(4) UN** allows determining profits by apportioning total enterprise profits where direct attribution is impractical. This apportionment method (based on turnover, assets, or payroll) contrasts with OECD's separate entity approach, reflecting UN recognition that developing countries may lack resources for complex functional analyses.
 
-### 7.2 Additional UN Model Provisions
+**Article 7(5) UN** requires using the same profit determination method year to year absent good reason. This promotes stability and prevents opportunistic method switching.
 
-| UN Article | Content | OECD Equivalent |
-|------------|---------|-----------------|
-| **7(3)** | Deductible expenses | Not in OECD (covered by AOA) |
-| **7(4)** | Apportionment of total profits | Not in OECD |
-| **7(5)** | Consistency requirement | Not in OECD |
+##### 7.3. The UN Position on the Authorised OECD Approach
 
-**Article 7(3) UN - Expense deduction:**
-Expressly permits deduction of expenses incurred for PE purposes, including executive and administrative expenses.
+The UN Model does **not** adopt the full AOA. UN Commentary notes concerns about AOA complexity and administrative burden, particularly for developing countries lacking transfer pricing expertise and resources. The UN acknowledges the AOA as best practice but maintains that simpler apportionment may be appropriate where detailed analysis is impractical.
 
-**Article 7(4) UN - Apportionment:**
-Allows profits to be determined by apportioning total enterprise profits, where attribution is impractical.
-
-**Article 7(5) UN - Consistency:**
-Requires the same method of profit determination year to year, unless good reason to change.
-
-### 7.3 UN Rejection of the AOA
-
-The UN Model does **not** adopt the full Authorised OECD Approach. The UN Commentary notes:
-- AOA is complex and administratively burdensome
-- Developing countries may lack resources to implement
-- Simpler apportionment methods may be appropriate
+This divergence reflects different priorities. The OECD emphasises precision through arm's length principle despite complexity. The UN balances these goals against practical considerations, particularly developing country administrative capacity, providing flexibility for alternative approaches.
 
 ---
 
-## 8. RELATIONSHIP WITH OTHER ARTICLES
+#### 8. Interaction with Other Treaty Provisions
 
-### 8.1 Priority Rules
+##### 8.1. Article Hierarchy and Precedence
 
-```
-ARTICLE 7 AND OTHER DISTRIBUTIVE ARTICLES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Article 7 operates within a hierarchy where specific articles generally take precedence. Article 6 (immovable property) takes priority for real estate income. Article 8 (shipping/air transport) provides exclusive residence taxation, superseding Article 7. Articles 10-12 (dividends, interest, royalties) govern passive income types, taking priority subject to the effectively connected exception. Article 13 (capital gains) controls gains from property alienation.
 
-SPECIFIC ARTICLES TAKE PRECEDENCE:
+Conversely, Article 7 takes priority over Article 21 (other income). If income qualifies as business profits, it doesn't fall into Article 21's residual category. This ensures active business income receives PE threshold protection while miscellaneous income remains subject to potential source taxation.
 
-  Article 6 (Immovable Property) → Takes priority over Article 7
-  Article 8 (Shipping/Air Transport) → Takes priority over Article 7
-  Articles 10-12 (Dividends/Interest/Royalties) → Take priority*
-  Article 13 (Capital Gains) → Takes priority over Article 7
-  Article 21 (Other Income) → Article 7 takes priority
+##### 8.2. Effectively Connected Income Concept
 
-* UNLESS income is "effectively connected" with a PE (Art 10(4), 11(4), 12(3))
+A critical exception arises when dividends, interest, or royalties are "effectively connected" with a PE. Articles 10(4), 11(4), and 12(3) state that if the holding, debt-claim, or right is effectively connected with the PE, income is allocated under Article 7 rather than the specific article.
 
-EFFECTIVELY CONNECTED INCOME:
-  If dividend/interest/royalty is connected to PE activities:
-  → Article 7 applies instead of Articles 10-12
-  → No withholding tax limitation applies
+When effectively connected, the source state isn't limited to reduced withholding rates in Articles 10-12. Income is treated as business profits attributable to the PE, potentially subject to full corporate rates. For example, if a PE holds shares in a local subsidiary, dividends are effectively connected if the shareholding is part of PE business assets. Rather than 5-15% withholding limitation under Article 10, dividends are included in PE profits and taxed at regular corporate rates.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Effective connection determination depends on whether the asset is allocated to the PE under functional analysis—if the PE performs SPFs related to acquiring, holding, and managing the asset, resulting income is effectively connected.
 
-### 8.2 Interaction with Article 9
+##### 8.3. Distinction Between Article 7 and Article 9
 
-Article 7 and Article 9 (Associated Enterprises) both deal with profit allocation:
-- **Article 7**: Allocates profits between a PE and its head office (same legal entity)
-- **Article 9**: Allocates profits between separate legal entities (related companies)
+Both Article 7 and Article 9 (associated enterprises) apply arm's length principle to profit allocation, but address different relationships.
 
-**Key connection (June 2023 exam):**
-> "Article 9 OECD MTC 2017 works in conjunction with Article 7 in relation to business profits of associated enterprises. Article 9 relies upon the arm's length principle..."
+**Article 7** allocates profits between a PE and its head office—parts of the same legal entity. The allocation is internal, and "dealings" aren't legally binding but recognised for tax purposes.
 
-Both articles apply the arm's length principle, but to different relationships.
+**Article 9** allocates profits between separate legal entities (parent-subsidiary, related companies) associated through ownership or control. These are actual contractual transactions between distinct persons.
+
+The interaction has been examined in distinguishing arm's length principle application to separate entities versus permanent establishments (as covered in June 2023). While both apply similar economic analysis based on functions, assets, and risks, the legal relationships differ fundamentally.
+
+Recent Pillar One developments, particularly Amount B addressing baseline marketing and distribution (finalized February 2024), may influence both articles. Amount B provides simplified approaches for routine distribution functions. While designed for Article 9, principles may inform Article 7 profit attribution when PEs perform comparable functions, offering potential safe harbour approaches reducing disputes.
 
 ---
 
-## 9. EXAM APPLICATION
+#### 9. References
 
-### 9.1 How Article 7 Appears in Exams
-
-Article 7 typically appears:
-1. **Integrated with PE analysis** - After determining PE exists, consider profit attribution
-2. **In interaction questions** - How Article 7 relates to Articles 9, 10-12, 21
-3. **In OECD vs UN comparisons** - Force of attraction differences
-4. **In transfer pricing context** - AOA and arm's length dealings
-
-### 9.2 Answer Framework
-
-```
-ARTICLE 7 EXAM FRAMEWORK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. IDENTIFY THE INCOME TYPE (2 marks)
-   "The income in question is business profits / [other]..."
-   If not business profits → Other article may apply
-
-2. CHECK FOR PE (3-4 marks)
-   "Under Article 5, does the enterprise have a PE?"
-   (Cross-reference Chapter 7.2 analysis)
-
-3a. IF NO PE (2-3 marks)
-    "Under Article 7(1), profits are taxable ONLY in [Residence State]"
-    "The source state has no taxing rights over business profits"
-
-3b. IF PE EXISTS (5-8 marks)
-    "Under Article 7(1), profits attributable to the PE may be taxed
-     in [Source State]"
-
-    Apply AOA:
-    - Functions performed by PE
-    - Assets used by PE
-    - Risks assumed by PE
-    - Arm's length return for those functions/assets/risks
-
-4. CONSIDER UN MODEL DIFFERENCES (if asked) (2-3 marks)
-   "Under the UN Model, force of attraction may apply..."
-
-5. CONSIDER INTERACTIONS (2-3 marks)
-   "If income is effectively connected to PE, Article 7 applies
-    instead of Articles 10-12"
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 10. SUMMARY: KEY POINTS FOR EXAM
-
-```
-ARTICLE 7 BUSINESS PROFITS - ESSENTIAL KNOWLEDGE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. BASIC RULE (Article 7(1))
-   • No PE → Residence state has EXCLUSIVE taxing rights
-   • With PE → Source state may tax profits ATTRIBUTABLE to PE
-   • PE is the "gateway" to source taxation
-
-2. PROFIT ATTRIBUTION (Article 7(2))
-   • Separate and independent enterprise fiction
-   • Authorised OECD Approach (AOA)
-   • Functions performed, assets used, risks assumed
-   • Arm's length pricing of "dealings"
-
-3. AOA TWO-STEP PROCESS
-   • Step 1: Functional/factual analysis
-   • Step 2: Arm's length pricing
-   • Free capital attribution required
-
-4. CORRESPONDING ADJUSTMENTS (Article 7(3))
-   • Eliminates double taxation
-   • Requires other state to adjust
-   • MAP if disagreement
-
-5. PURCHASING EXCEPTION (Article 7(4))
-   • Mere purchasing doesn't generate attributable profits
-
-6. UN MODEL DIFFERENCES
-   • Force of attraction rule (broader source taxation)
-   • Additional paragraphs on expenses, apportionment
-   • Does NOT fully adopt AOA
-
-7. INTERACTION WITH OTHER ARTICLES
-   • Specific articles (6, 8, 10-12, 13) take precedence
-   • Article 7 takes precedence over Article 21
-   • "Effectively connected" income → Article 7 applies
-
-8. KEY DOCUMENTS
-   • 2010 Report on Attribution of Profits to PEs
-   • OECD Transfer Pricing Guidelines (by analogy)
-   • 2018 Additional Guidance (BEPS Action 7 PEs)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 11. CONNECTIONS TO OTHER CHAPTERS
-
-| Chapter | Connection |
-|---------|------------|
-| **7.2 Article 5 PE** | PE is prerequisite for Article 7 source taxation |
-| **7.3 BEPS Action 7** | Expanded PE definition → More Article 7 application |
-| **8.2 Article 8** | Shipping/air transport - lex specialis to Article 7 |
-| **8.3 Article 9** | Both apply arm's length principle; Article 9 for related entities |
-| **Transfer Pricing** | AOA applies TP Guidelines by analogy |
-
----
-
-## 12. REFERENCES
-
-### Primary Sources
+**Primary Sources:**
 - OECD Model Tax Convention 2017, Article 7 and Commentary
 - UN Model Double Taxation Convention 2021, Article 7 and Commentary
-- OECD. Report on the Attribution of Profits to Permanent Establishments (2010)
-- OECD. Additional Guidance on Attribution of Profits to PEs under BEPS Action 7 (2018)
-- OECD Transfer Pricing Guidelines 2022
+- OECD, Report on the Attribution of Profits to Permanent Establishments (2010)
+- OECD, Additional Guidance on Attribution of Profits to PEs under BEPS Action 7 (2018)
+- OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (2022)
+- OECD, Tax Challenges Arising from the Digitalisation of the Economy – Amount B (2024)
 
-### Web Sources (December 2025)
-- [OECD Model Tax Convention 2017](https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/12/model-tax-convention-on-income-and-on-capital-condensed-version-2017_g1g8769b/mtc_cond-2017-en.pdf)
-- [TPGuidelines Article 7 Overview](https://tpguidelines.com/article-7/)
-- [OECD Additional Guidance 2018](https://www.oecd.org/en/publications/additional-guidance-on-the-attribution-of-profits-to-a-permanent-establishment-under-beps-action-7_b4251c9d-en.html)
+**Recent Developments:**
+- OECD Model Tax Convention Commentary Updates (2025)
+- Hyatt International v. Commissioner of Income Tax, Supreme Court of India (2025)
 
-### Past Exam Questions
-- December 2023: PE and business profits scenario (Angelica/Felicity)
-- June 2023: Article 7 and Article 9 interaction (ALP vs GFA)
-- December 2022: Source state taxing rights on business profits
-
----
-
-*Chapter 8.1 covers syllabus area II.H.1 - Business profits (with or without a permanent establishment) – Article 7, OECD MTC and UN MDTC. This is a Level 3 topic requiring advanced knowledge of the Authorised OECD Approach (AOA), profit attribution principles, and the relationship between Article 5 (PE) and Article 7 (profit allocation).*
+**Web Resources:**
+- OECD Model Tax Convention 2017: https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/12/model-tax-convention-on-income-and-on-capital-condensed-version-2017_g1g8769b/mtc_cond-2017-en.pdf
+- OECD Additional Guidance 2018: https://www.oecd.org/en/publications/additional-guidance-on-the-attribution-of-profits-to-a-permanent-establishment-under-beps-action-7_b4251c9d-en.html
+- TPGuidelines Article 7 Overview: https://tpguidelines.com/article-7/

@@ -1,0 +1,458 @@
+{
+  "topic_code": "II.H.1",
+  "topic_description": "Business profits (with or without a permanent establishment) - Article 7 OECD MTC and UN MDTC",
+
+  "syllabus_requirements": {
+    "topic_code": "II.H.1",
+    "topic_description": "Business profits (with or without a permanent establishment) - Article 7 OECD MTC and UN MDTC",
+    "section": "II - Double taxation conventions",
+    "level": 3,
+    "min_words": 2700,
+    "max_words": 3300
+  },
+
+  "scope_gaps": [
+    "BEPS Action 4 interest limitation clarification (mentioned in Agent 2 research - 2025 OECD Update)",
+    "Remote work implications for PE and profit attribution (2025 OECD Commentary changes)",
+    "Hyatt International (2024, India) case - PE can have positive income despite global losses",
+    "Amount B of Pillar One integration (Feb 2024) - impact on profit attribution",
+    "Effectively connected income concept needs expansion (mentioned briefly but critical for Article 10-12 interaction)"
+  ],
+
+  "scope_excess": [
+    "Section 9: EXAM APPLICATION - entire section is CheatBook style",
+    "Section 10: SUMMARY: KEY POINTS FOR EXAM - entire section",
+    "Section 11: CONNECTIONS TO OTHER CHAPTERS - not needed in eBook style",
+    "Explicit exam strategy content throughout"
+  ],
+
+  "content_to_keep": [
+    {
+      "section": "1.1 Purpose and Function (lines 27-34)",
+      "description": "Clear explanation of Article 7's role allocating taxing rights",
+      "reason": "Fundamental concept, well-explained",
+      "modifications": "Remove 'see Chapter 7.2' cross-reference style; convert to eBook prose"
+    },
+    {
+      "section": "1.2 The PE Threshold diagram (lines 38-57)",
+      "description": "Visual flowchart showing Article 5/7 relationship",
+      "reason": "Excellent pedagogical tool",
+      "modifications": "Keep diagram but remove box formatting to simple markdown structure"
+    },
+    {
+      "section": "2.1 Full Text (lines 75-86)",
+      "description": "Complete Article 7 treaty text",
+      "reason": "Primary source material - essential",
+      "modifications": null
+    },
+    {
+      "section": "4.2 The Authorised OECD Approach diagram (lines 144-169)",
+      "description": "Two-step AOA explanation",
+      "reason": "Core technical content on AOA methodology",
+      "modifications": "Convert box to prose with clear subheadings"
+    },
+    {
+      "section": "4.3 Key Elements (lines 172-192)",
+      "description": "Functions, assets, risks, dealings explanation",
+      "reason": "Technical accuracy on FAR analysis",
+      "modifications": "Expand with 2025 updates on remote work implications"
+    },
+    {
+      "section": "4.4 The 2010 Report (lines 194-202)",
+      "description": "Reference to OECD 2010 Report on Attribution",
+      "reason": "Critical source document",
+      "modifications": null
+    },
+    {
+      "section": "4.5 Free Capital Attribution (lines 205-235)",
+      "description": "Detailed explanation of capital attribution methods",
+      "reason": "Complex technical concept well-explained",
+      "modifications": "Convert box to prose; keep technical content"
+    },
+    {
+      "section": "5. Article 7(3) Corresponding Adjustments (lines 239-278)",
+      "description": "Mechanism for eliminating double taxation",
+      "reason": "Important technical provision",
+      "modifications": "Convert diagram to prose; remove box formatting"
+    },
+    {
+      "section": "6. Article 7(4) Purchasing Exception (lines 281-297)",
+      "description": "Mere purchasing rule",
+      "reason": "Specific treaty provision",
+      "modifications": null
+    },
+    {
+      "section": "7.1 Force of Attraction Rule (lines 302-336)",
+      "description": "UN vs OECD key difference with comparison diagram",
+      "reason": "Critical OECD/UN distinction",
+      "modifications": "Convert box to comparative prose; excellent content"
+    },
+    {
+      "section": "7.2 Additional UN Model Provisions (lines 338-353)",
+      "description": "Table of UN Articles 7(3)-(5)",
+      "reason": "Comprehensive coverage of UN differences",
+      "modifications": "Keep table structure"
+    },
+    {
+      "section": "7.3 UN Rejection of AOA (lines 355-361)",
+      "description": "UN Commentary on AOA complexity",
+      "reason": "Important policy difference",
+      "modifications": null
+    },
+    {
+      "section": "8.1 Priority Rules diagram (lines 368-388)",
+      "description": "Article 7 interaction with other distributive articles",
+      "reason": "Essential technical content on article hierarchy",
+      "modifications": "Convert box to prose with clear hierarchy"
+    },
+    {
+      "section": "8.2 Interaction with Article 9 (lines 390-400)",
+      "description": "Article 7 vs Article 9 distinction",
+      "reason": "Key exam pattern (Agent 1: June 2023 appearance)",
+      "modifications": "Keep reference to June 2023 exam in subtle format: '(as illustrated in June 2023)'"
+    }
+  ],
+
+  "content_to_remove": [
+    {
+      "element_type": "EXAM INTELLIGENCE box",
+      "location": "Lines 3-23 at chapter start",
+      "replacement_strategy": "Remove entirely; information already used by Agent 1 for research"
+    },
+    {
+      "element_type": "Strategic Priority stars",
+      "location": "Line 17 (★★★★★ CRITICAL)",
+      "replacement_strategy": "Remove entirely"
+    },
+    {
+      "element_type": "Past exam references in intro",
+      "location": "Lines 11-15 (December 2023, June 2023, etc.)",
+      "replacement_strategy": "Remove from intro; convert 1-2 to subtle inline references like '(covered in June 2023)' in relevant technical sections"
+    },
+    {
+      "element_type": "Section 9: EXAM APPLICATION",
+      "location": "Lines 403-451 entire section",
+      "replacement_strategy": "Remove entirely including 'How Article 7 Appears in Exams' and 'Answer Framework' with mark schemes"
+    },
+    {
+      "element_type": "Answer Framework with marks",
+      "location": "Lines 415-449",
+      "replacement_strategy": "Remove entirely - this is pure CheatBook content"
+    },
+    {
+      "element_type": "Section 10: SUMMARY: KEY POINTS FOR EXAM",
+      "location": "Lines 453-499",
+      "replacement_strategy": "Remove entire summary section"
+    },
+    {
+      "element_type": "Section 11: CONNECTIONS TO OTHER CHAPTERS",
+      "location": "Lines 501-512",
+      "replacement_strategy": "Remove - eBook style embeds connections in prose, not in separate section"
+    },
+    {
+      "element_type": "Past Exam Questions subsection",
+      "location": "Lines 529-532 under References",
+      "replacement_strategy": "Remove - don't list past exam questions explicitly"
+    },
+    {
+      "element_type": "Final italicized exam note",
+      "location": "Lines 536-537",
+      "replacement_strategy": "Remove - this is CheatBook exam guidance"
+    },
+    {
+      "element_type": "Box formatting throughout",
+      "location": "Multiple sections (lines 38-57, 144-169, 208-235, 250-270, 313-336, 368-388, 416-449, 456-499)",
+      "replacement_strategy": "Convert to prose with clear hierarchical headings; preserve technical content"
+    }
+  ],
+
+  "structural_mapping": [
+    {
+      "current_heading": "# Chapter 8.1: Business Profits – Article 7, OECD MTC and UN MDTC",
+      "new_heading": "### Article 7: Business Profits",
+      "notes": "Remove chapter number; use hierarchical heading level (###)"
+    },
+    {
+      "current_heading": "## 1. INTRODUCTION: THE ROLE OF ARTICLE 7",
+      "new_heading": "#### 1. Introduction",
+      "notes": "Simplify heading; use #### for top level"
+    },
+    {
+      "current_heading": "### 1.1 Purpose and Function",
+      "new_heading": "##### 1.1. The Role of Article 7 in Treaty Architecture",
+      "notes": "More descriptive heading; use ##### for second level"
+    },
+    {
+      "current_heading": "### 1.2 The PE Threshold",
+      "new_heading": "##### 1.2. The Permanent Establishment Threshold",
+      "notes": "Full term instead of abbreviation in heading"
+    },
+    {
+      "current_heading": "### 1.3 Importance in Treaty Framework",
+      "new_heading": "##### 1.3. Article 7 as a Residual Provision",
+      "notes": "More precise heading"
+    },
+    {
+      "current_heading": "## 2. ARTICLE 7 TEXT AND STRUCTURE (OECD MTC 2017)",
+      "new_heading": "#### 2. Text and Structure of Article 7",
+      "notes": "Move year to prose if needed"
+    },
+    {
+      "current_heading": "### 2.1 Full Text",
+      "new_heading": "##### 2.1. Treaty Text",
+      "notes": "Simplified"
+    },
+    {
+      "current_heading": "### 2.2 Structure Overview",
+      "new_heading": "##### 2.2. Overview of Article 7 Provisions",
+      "notes": "More descriptive"
+    },
+    {
+      "current_heading": "## 3. ARTICLE 7(1): THE BASIC RULE",
+      "new_heading": "#### 3. The Basic Allocation Rule",
+      "notes": "Remove 'Article 7(1)' from heading; reference in prose"
+    },
+    {
+      "current_heading": "### 3.1 Two Limbs of Article 7(1)",
+      "new_heading": "##### 3.1. Exclusive Residence Taxation Without PE",
+      "notes": "Content-focused heading"
+    },
+    {
+      "current_heading": "### 3.2 Key Concepts",
+      "new_heading": "##### 3.2. Definitional Elements",
+      "notes": "More specific"
+    },
+    {
+      "current_heading": "## 4. ARTICLE 7(2): PROFIT ATTRIBUTION - THE AUTHORISED OECD APPROACH (AOA)",
+      "new_heading": "#### 4. Profit Attribution Under the Authorised OECD Approach",
+      "notes": "Simplify; remove Article 7(2) from heading"
+    },
+    {
+      "current_heading": "### 4.1 The Separate Entity Fiction",
+      "new_heading": "##### 4.1. The Functionally Separate Entity Approach",
+      "notes": "More technical term"
+    },
+    {
+      "current_heading": "### 4.2 The Authorised OECD Approach (AOA)",
+      "new_heading": "##### 4.2. The Two-Step AOA Methodology",
+      "notes": "Descriptive of content"
+    },
+    {
+      "current_heading": "### 4.3 Key Elements of Article 7(2)",
+      "new_heading": "##### 4.3. Functions, Assets, and Risks Analysis",
+      "notes": "Direct reference to FAR"
+    },
+    {
+      "current_heading": "### 4.4 The 2010 Report on Attribution of Profits",
+      "new_heading": "##### 4.4. The OECD 2010 Attribution Report",
+      "notes": "Clearer reference"
+    },
+    {
+      "current_heading": "### 4.5 Free Capital Attribution",
+      "new_heading": "##### 4.5. Attribution of Free Capital to Permanent Establishments",
+      "notes": "Full form in heading"
+    },
+    {
+      "current_heading": "## 5. ARTICLE 7(3): CORRESPONDING ADJUSTMENTS",
+      "new_heading": "#### 5. Corresponding Adjustments to Eliminate Double Taxation",
+      "notes": "Remove Article 7(3) from heading; add purpose"
+    },
+    {
+      "current_heading": "### 5.1 Purpose",
+      "new_heading": "##### 5.1. The Need for Adjustments",
+      "notes": "More descriptive"
+    },
+    {
+      "current_heading": "### 5.2 The Mechanism",
+      "new_heading": "##### 5.2. Operation of the Adjustment Mechanism",
+      "notes": "More formal"
+    },
+    {
+      "current_heading": "### 5.3 Conditions for Adjustment",
+      "new_heading": "##### 5.3. Conditions and Limitations",
+      "notes": "Broader scope"
+    },
+    {
+      "current_heading": "## 6. ARTICLE 7(4): PURCHASING EXCEPTION",
+      "new_heading": "#### 6. The Purchasing Exception",
+      "notes": "Remove Article 7(4) from heading"
+    },
+    {
+      "current_heading": "## 7. UN MODEL DIFFERENCES",
+      "new_heading": "#### 7. Differences in the UN Model Tax Convention",
+      "notes": "More formal heading"
+    },
+    {
+      "current_heading": "### 7.1 Force of Attraction Rule - Article 7(1)",
+      "new_heading": "##### 7.1. The Force of Attraction Rule",
+      "notes": "Remove article reference from heading"
+    },
+    {
+      "current_heading": "### 7.2 Additional UN Model Provisions",
+      "new_heading": "##### 7.2. Expense Deduction, Apportionment, and Consistency Rules",
+      "notes": "Content-specific heading"
+    },
+    {
+      "current_heading": "### 7.3 UN Rejection of the AOA",
+      "new_heading": "##### 7.3. The UN Position on the Authorised OECD Approach",
+      "notes": "More formal"
+    },
+    {
+      "current_heading": "## 8. RELATIONSHIP WITH OTHER ARTICLES",
+      "new_heading": "#### 8. Interaction with Other Treaty Provisions",
+      "notes": "More formal language"
+    },
+    {
+      "current_heading": "### 8.1 Priority Rules",
+      "new_heading": "##### 8.1. Article Hierarchy and Precedence",
+      "notes": "Technical terminology"
+    },
+    {
+      "current_heading": "### 8.2 Interaction with Article 9",
+      "new_heading": "##### 8.2. Distinction Between Article 7 and Article 9",
+      "notes": "Clearer focus"
+    },
+    {
+      "current_heading": "## 9. EXAM APPLICATION",
+      "new_heading": "[REMOVE ENTIRE SECTION]",
+      "notes": "Pure CheatBook content - remove all subsections"
+    },
+    {
+      "current_heading": "## 10. SUMMARY: KEY POINTS FOR EXAM",
+      "new_heading": "[REMOVE ENTIRE SECTION]",
+      "notes": "CheatBook summary - remove entirely"
+    },
+    {
+      "current_heading": "## 11. CONNECTIONS TO OTHER CHAPTERS",
+      "new_heading": "[REMOVE ENTIRE SECTION]",
+      "notes": "Not eBook style; integrate connections into prose"
+    },
+    {
+      "current_heading": "## 12. REFERENCES",
+      "new_heading": "#### 9. References",
+      "notes": "Keep references but renumber; remove 'Past Exam Questions' subsection"
+    }
+  ],
+
+  "proposed_outline": "### Article 7: Business Profits\n\n#### 1. Introduction\n##### 1.1. The Role of Article 7 in Treaty Architecture\n##### 1.2. The Permanent Establishment Threshold\n##### 1.3. Article 7 as a Residual Provision\n\n#### 2. Text and Structure of Article 7\n##### 2.1. Treaty Text (OECD Model 2017)\n##### 2.2. Overview of Article 7 Provisions\n\n#### 3. The Basic Allocation Rule\n##### 3.1. Exclusive Residence Taxation Without PE\n##### 3.2. Source State Taxation With PE\n##### 3.3. Definitional Elements\n\n#### 4. Profit Attribution Under the Authorised OECD Approach\n##### 4.1. The Functionally Separate Entity Approach\n##### 4.2. The Two-Step AOA Methodology\n##### 4.3. Functions, Assets, and Risks Analysis\n##### 4.4. The OECD 2010 Attribution Report\n##### 4.5. Attribution of Free Capital to Permanent Establishments\n##### 4.6. Recent Developments and 2025 Updates\n\n#### 5. Corresponding Adjustments to Eliminate Double Taxation\n##### 5.1. The Need for Adjustments\n##### 5.2. Operation of the Adjustment Mechanism\n##### 5.3. Conditions and Limitations\n\n#### 6. The Purchasing Exception\n##### 6.1. Rationale and Scope\n##### 6.2. Limitations of the Exception\n\n#### 7. Differences in the UN Model Tax Convention\n##### 7.1. The Force of Attraction Rule\n##### 7.2. Expense Deduction, Apportionment, and Consistency Rules\n##### 7.3. The UN Position on the Authorised OECD Approach\n\n#### 8. Interaction with Other Treaty Provisions\n##### 8.1. Article Hierarchy and Precedence\n##### 8.2. Effectively Connected Income Concept\n##### 8.3. Distinction Between Article 7 and Article 9\n\n#### 9. References",
+
+  "old_notes_available": true,
+  "old_notes_integration": [
+    {
+      "content": "G_Key definitional provisions.docx - likely contains definitions of 'enterprise', 'business', 'profits'",
+      "relevance": "High",
+      "integration_location": "Section 3.3 (Definitional Elements) - if old notes provide historical context or additional nuance on treaty definitions"
+    },
+    {
+      "content": "H_DTC provisions relating to businesses.docx - likely covers Article 7-9 comprehensively",
+      "relevance": "High",
+      "integration_location": "Throughout - may provide additional technical detail, case examples, or historical context on Article 7 development"
+    }
+  ],
+
+  "content_gaps": [
+    {
+      "gap": "2025 OECD Commentary changes on remote work and PE profit attribution",
+      "syllabus_requirement": "Level 3 requires current knowledge; Agent 2 identified this update",
+      "research_needed": false,
+      "priority": "High"
+    },
+    {
+      "gap": "BEPS Action 4 interest limitation clarification and impact on capital attribution",
+      "syllabus_requirement": "Connection between BEPS actions and Article 7; mentioned in Agent 2 research",
+      "research_needed": false,
+      "priority": "Medium"
+    },
+    {
+      "gap": "Hyatt International (2024, India) case on PE positive income despite global losses",
+      "syllabus_requirement": "Recent case law; demonstrates AOA application",
+      "research_needed": false,
+      "priority": "Medium"
+    },
+    {
+      "gap": "Amount B of Pillar One integration (Feb 2024) impact on profit attribution",
+      "syllabus_requirement": "BEPS 2.0 connection to traditional Article 7",
+      "research_needed": false,
+      "priority": "Medium"
+    },
+    {
+      "gap": "Expanded treatment of 'effectively connected income' concept",
+      "syllabus_requirement": "Critical for Article 7/10-12 interaction; Agent 1 identified as key pattern",
+      "research_needed": false,
+      "priority": "High"
+    },
+    {
+      "gap": "Practical examples of FAR analysis without exam context",
+      "syllabus_requirement": "Level 3 requires application ability; currently has exam examples only",
+      "research_needed": false,
+      "priority": "Medium"
+    }
+  ],
+
+  "subtle_exam_references": [
+    {
+      "section": "8.3",
+      "reference": "The interaction between Article 7 and Article 9 has been examined in the context of distinguishing the arm's length principle as applied to separate entities versus permanent establishments (as covered in June 2023)."
+    },
+    {
+      "section": "7.1",
+      "reference": "The practical implications of the force of attraction rule were illustrated in a December 2023 comparative analysis."
+    },
+    {
+      "section": "4.3",
+      "reference": "Recent applications of the FAR analysis demonstrate the importance of identifying significant people functions (examined in December 2023)."
+    }
+  ],
+
+  "word_count_strategy": {
+    "target_min": 2700,
+    "target_max": 3300,
+    "current_count": 2957,
+    "difference": 0,
+    "strategy": "MAINTAIN current length while transforming structure. Current count (2957) is within target (2700-3300). Transformation will: (1) REMOVE ~600 words of exam-focused content (sections 9-11, exam intelligence boxes, frameworks), (2) ADD ~600 words of new research content to maintain balance. Net result: stay within 2700-3300 range.",
+    "areas_to_develop": [
+      "Section 4.6 NEW: 2025 OECD Updates on remote work and PE attribution (~200 words)",
+      "Section 8.2 EXPAND: Effectively connected income concept with Article 10-12 interaction (~150 words)",
+      "Section 4.3 EXPAND: FAR analysis with Hyatt International 2024 case (~100 words)",
+      "Section 4.5 EXPAND: BEPS Action 4 impact on capital attribution (~100 words)",
+      "Section 8.3 EXPAND: Article 7 vs 9 distinction with Amount B Pillar One context (~50 words)"
+    ],
+    "areas_to_trim": [
+      "Remove entire Section 9: Exam Application (~350 words)",
+      "Remove entire Section 10: Summary (~200 words)",
+      "Remove entire Section 11: Connections (~50 words)",
+      "Remove Exam Intelligence box at start (~150 words)",
+      "Remove Past Exam Questions subsection from References (~50 words)",
+      "Condense box diagrams to prose (~100 words saved through efficiency)"
+    ]
+  },
+
+  "transformation_checklist": [
+    "✓ All EXAM INTELLIGENCE boxes removed",
+    "✓ All mark schemes and time allocations removed",
+    "✓ All 'Answer Framework' sections removed",
+    "✓ Section 9 'EXAM APPLICATION' completely removed",
+    "✓ Section 10 'SUMMARY: KEY POINTS FOR EXAM' completely removed",
+    "✓ Section 11 'CONNECTIONS TO OTHER CHAPTERS' removed",
+    "✓ Past exam questions subsection removed from References",
+    "✓ Strategic priority stars (★★★★★) removed",
+    "✓ Final italicized exam guidance removed",
+    "✓ All box formatting converted to prose or structured markdown",
+    "✓ Hierarchical numbering applied (####, #####, ######)",
+    "✓ Maximum 3 subtle exam references added in format: (covered in Month Year)",
+    "✓ Chapter cross-references converted from 'see Chapter X' to natural prose",
+    "✓ New section 4.6 added: 2025 OECD Updates",
+    "✓ Section 8.2 expanded: Effectively connected income",
+    "✓ Hyatt International (2024) case integrated into section 4.3",
+    "✓ BEPS Action 4 impact integrated into section 4.5",
+    "✓ Amount B Pillar One context added to section 8.3",
+    "✓ Word count within 2700-3300 range",
+    "✓ All technical content accuracy preserved",
+    "✓ Treaty text preserved exactly",
+    "✓ OECD vs UN comparisons preserved and enhanced",
+    "✓ References section cleaned (kept primary sources, removed exam questions)",
+    "✓ Textbook prose style throughout - no exam coaching language"
+  ],
+
+  "special_instructions": "Article 7 is a foundational treaty provision with complex technical content. The transformation must:\n\n1. PRESERVE TECHNICAL ACCURACY: The AOA explanation, FAR analysis, and free capital attribution are technically sophisticated - do not oversimplify.\n\n2. INTEGRATE RESEARCH SEAMLESSLY: Agent 2's findings on 2025 updates, Hyatt International case, and BEPS developments should enhance technical content, not appear as add-ons.\n\n3. MAINTAIN OECD/UN COMPARISON: The force of attraction rule distinction is critical - the current comparison diagram (lines 313-336) is excellent and should be converted to clear comparative prose.\n\n4. HANDLE DIAGRAMS CAREFULLY: Current chapter uses effective visual diagrams. Convert these to well-structured prose or markdown structures that preserve pedagogical value:\n   - Article 5/7 relationship flowchart → structured prose explanation\n   - AOA two-step process → numbered methodology explanation\n   - Force of attraction comparison → OECD vs UN comparative paragraphs\n   - Priority rules → clear hierarchical explanation\n\n5. SUBTLE EXAM REFERENCES: Use maximum 3 references:\n   - June 2023: Article 7/9 interaction (already excellent technical content)\n   - December 2023: PE profit attribution scenario\n   - One reference to force of attraction (December 2023 or other)\n   Format: Natural integration like 'as examined in June 2023' or '(covered in December 2023)'\n\n6. HIERARCHICAL NUMBERING: Strict adherence to:\n   - Main heading: ### Article 7: Business Profits\n   - Level 1: #### 1. Introduction\n   - Level 2: ##### 1.1. The Role of Article 7\n   - Level 3: ###### 1.1.1. [if needed for complex subsections]\n\n7. TEXTBOOK TONE: Academic but accessible. No:\n   - 'You should know...'\n   - 'In the exam...'\n   - 'Key takeaway...'\n   - 'Remember...'\n   Instead: Declarative statements, analytical explanations, technical precision.\n\n8. REMOVE ALL EXAM COACHING: No frameworks, no mark allocations, no exam strategy. Content should inform understanding, not exam technique.\n\n9. WORD COUNT BALANCE: With removals (~600 words of exam content) and additions (~600 words of research), maintain 2700-3300 range. Prioritize depth over breadth - Level 3 requires sophisticated understanding.\n\n10. CASE INTEGRATION: Hyatt International (2024) should illustrate AOA principle (PE can have positive attribution despite global losses) - integrate as technical example, not exam question."
+}
