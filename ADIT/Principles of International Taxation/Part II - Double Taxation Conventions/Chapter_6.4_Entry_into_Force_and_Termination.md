@@ -1,398 +1,109 @@
 # Chapter 6.4: Scope of a DTC – Territorial Extension, Entry into Force, and Termination
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Topic: Article 30 (Territorial Extension), Articles 30/31 (Entry into Force),
-       Article 32/31 (Termination) – OECD MTC and UN MDTC
-Syllabus Level: 2 (Detailed Knowledge)
-Syllabus Reference: II.F.4
-Exam Frequency: LOW – Rarely tested as standalone; appears in context of other topics
-Past Appearances: Contextual references in assistance in collection, MLI questions
-Mark Range: 2-5 marks (as part of broader questions)
-Time Allocation: 5-10 minutes
-Strategic Priority: ★★☆☆☆ MODERATE – Essential background knowledge
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## 1. The Final Provisions
 
-## 1. INTRODUCTION: THE FINAL PROVISIONS
+The final provisions of a double taxation convention address the temporal and territorial boundaries of treaty application. While the substantive provisions determine how income and capital are taxed, the final provisions determine when and where those rules apply. These provisions establish when the treaty becomes operational, whether it extends to overseas territories, and how it may be brought to an end.
 
-### 1.1 Purpose of Final Provisions
+The OECD Model Tax Convention 2017 addresses these matters in Articles 30, 31, and 32. Article 30, positioned at the end of Chapter VI (Special Provisions), deals with territorial extension. Articles 31 and 32 constitute Chapter VII (Final Provisions), addressing entry into force and termination respectively. The article numbering changed in 2017; earlier versions used Articles 29, 30, and 31 for these provisions.
 
-The final provisions of a DTC address the **temporal** and **territorial** scope of the treaty:
-- **When** does the treaty start applying? (Entry into Force)
-- **Where** does the treaty apply? (Territorial Extension)
-- **When** does the treaty stop applying? (Termination)
+These provisions may seem merely procedural, but they have significant practical consequences. Taxpayers need certainty about when treaty benefits become available. Tax authorities need clarity about when their obligations under the treaty commence. And both States need mechanisms to exit the treaty if circumstances change.
 
-These provisions ensure legal certainty about the treaty's operational boundaries.
+## 2. Article 30: Territorial Extension
 
-### 1.2 Article Numbering (OECD MTC 2017)
+### 2.1. Purpose and Scope
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         FINAL PROVISIONS - OECD MTC 2017 STRUCTURE              │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  CHAPTER VI: SPECIAL PROVISIONS                                 │
-│  Article 29 - Entitlement to Benefits                           │
-│  Article 30 - Territorial Extension                             │
-│                                                                 │
-│  CHAPTER VII: FINAL PROVISIONS                                  │
-│  Article 31 - Entry into Force                                  │
-│  Article 32 - Termination                                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+Article 30 allows a Contracting State to extend the treaty's application to territories for whose international relations it is responsible. These may include overseas territories, dependencies, or associated states that are not themselves parties to the treaty.
 
-**Note**: Article numbering changed in 2017. Earlier versions had:
-- Article 29 = Territorial Extension
-- Article 30 = Entry into Force
-- Article 31 = Termination
+The provision contemplates that such extension may be made either in the treaty's entirety or with necessary modifications, and that the extension may have its own effective dates and termination provisions. Extension requires agreement between both Contracting States, typically through exchange of diplomatic notes.
 
----
+The rationale is that some territories have distinct tax systems from their metropolitan State and would not automatically benefit from treaties concluded by that State. Without an extension mechanism, residents of such territories would be unable to access treaty benefits, even though the metropolitan State is a treaty party.
 
-## 2. ARTICLE 30: TERRITORIAL EXTENSION
+### 2.2. Declining Relevance
 
-### 2.1 Purpose
+Commentary paragraph 1 notes that this provision has declining practical importance. The number of territories in the relevant category has diminished as former colonies and dependencies have become independent States capable of concluding their own treaties. Most contemporary treaty networks involve States with unitary territorial structures where the question of extension does not arise.
 
-Article 30 allows Contracting States to extend the treaty's application to **territories** for whose international relations they are responsible (e.g., overseas territories, dependencies).
+The UN Model does not include a territorial extension provision, reflecting that developing countries typically have unitary structures without overseas territories requiring separate treatment. For most treaty negotiations today, Article 30 is omitted or included only as a placeholder for potential future use.
 
-### 2.2 The Provision (OECD MTC 2017)
+## 3. Article 31: Entry into Force
 
-**Article 30(1)**:
-> *"This Convention may be extended, either in its entirety or with any necessary modifications, to any part of the territory of (State A) or of (State B) which is specifically excluded from the application of the Convention or to any State or territory for whose international relations (State A) or (State B) is responsible, which imposes taxes substantially similar in character to those to which the Convention applies. Any such extension shall take effect from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed between the Contracting States in notes to be exchanged through diplomatic channels or in any other manner in accordance with their constitutional procedures."*
+### 3.1. Ratification and Exchange of Instruments
 
-### 2.3 Key Features
+Article 31 specifies the process by which a treaty becomes legally binding. Signature alone does not bring a treaty into force; each State must complete its domestic ratification procedures, which may include parliamentary approval, executive action, or other constitutional requirements.
 
-| Feature | Description |
-|---------|-------------|
-| **Optional provision** | Not automatically included in all treaties |
-| **Requires agreement** | Both States must agree to extension |
-| **May be modified** | Extension can include "necessary modifications" |
-| **Separate termination** | Extension can have its own termination rules |
-| **Declining relevance** | Less common as fewer territories in this category |
+Article 31(1) provides that the Convention shall be ratified and the instruments of ratification exchanged as soon as possible. The exchange of instruments is a formal diplomatic act confirming that both States have completed their domestic procedures. Article 31(2) provides that the Convention enters into force upon this exchange.
 
-### 2.4 Commentary Guidance
+The time between signature and ratification varies considerably. Some treaties enter into force within months of signature; others remain unratified for years. The delay typically reflects domestic political considerations, legislative calendars, or changing circumstances that affect the treaty's desirability.
 
-**Commentary [1]** notes this provision is relevant for:
-- Territories specifically excluded from the Convention
-- States or territories for whose international relations a Contracting State is responsible
-- The provision has **declining practical importance** in modern times
+### 3.2. Entry into Force versus Entry into Effect
 
-### 2.5 UN MDTC Position
+A critical distinction exists between entry into force and entry into effect. Entry into force is the moment when the treaty becomes legally binding between the Contracting States as a matter of international law. Entry into effect is when the treaty's provisions actually begin to apply to specific taxes.
 
-The UN Model does not include a territorial extension provision, reflecting:
-- Most developing countries have unitary territorial structures
-- Fewer overseas territories in treaty practice
+These dates typically differ. A treaty might enter into force on the date of exchange of instruments but have effect for withholding taxes only from 1 January of the following year, and for other taxes only for fiscal years beginning after that date. This allows time for administrative implementation and taxpayer planning.
 
----
+### 3.3. Effective Date Provisions
 
-## 3. ARTICLE 31: ENTRY INTO FORCE
+Article 31(2) typically distinguishes between different categories of taxes for effective date purposes.
 
-### 3.1 Purpose
+For taxes withheld at source (primarily withholding taxes on dividends, interest, and royalties), the treaty typically takes effect in respect of amounts paid or credited on or after a specified date. This date is often 1 January of the year following entry into force.
 
-Article 31 specifies **when** the treaty becomes operational after signature. This is crucial because:
-- Treaties require domestic ratification procedures
-- Taxpayers need certainty about when provisions apply
-- Both States must coordinate effective dates
+For other taxes on income and capital (primarily income taxes assessed on annual returns), the treaty typically takes effect for taxable years beginning on or after a specified date. This ensures that complete tax years are governed by either the old rules or the new treaty, avoiding mid-year transitions.
 
-### 3.2 The Provision (OECD MTC 2017)
+Commentary paragraph 4 notes that the specific dates depend largely on the domestic laws of the Contracting States. Different fiscal years, assessment systems, and administrative practices mean that uniform effective dates may not be practical. The Platform for Collaboration on Tax has published examples of entry-into-force provisions illustrating the range of approaches used in practice.
 
-**Article 31(1)** – Ratification:
-> *"This Convention shall be ratified and the instruments of ratification shall be exchanged at .......... as soon as possible."*
+## 4. Article 32: Termination
 
-**Article 31(2)** – Entry into Force:
-> *"The Convention shall enter into force upon the exchange of instruments of ratification and its provisions shall have effect:"*
-> - (a) in respect of taxes withheld at source: [dates specified]
-> - (b) in respect of other taxes: [dates specified]
+### 4.1. The Termination Mechanism
 
-### 3.3 Key Concepts
+Article 32 establishes a unilateral right for either Contracting State to terminate the treaty. Neither State is bound indefinitely; the treaty continues only so long as both States are content with the arrangement.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         ENTRY INTO FORCE - KEY CONCEPTS                         │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  SIGNATURE                                                      │
-│  → Treaty text agreed and signed by representatives             │
-│  → NOT yet legally binding                                      │
-│                                                                 │
-│  RATIFICATION                                                   │
-│  → Each State completes domestic approval procedures            │
-│  → May require parliamentary approval                           │
-│  → Constitutional requirements vary by country                  │
-│                                                                 │
-│  EXCHANGE OF INSTRUMENTS                                        │
-│  → Formal exchange through diplomatic channels                  │
-│  → Confirms both States have ratified                           │
-│                                                                 │
-│  ENTRY INTO FORCE                                               │
-│  → Treaty becomes legally binding                               │
-│  → Typically upon exchange of instruments                       │
-│                                                                 │
-│  ENTRY INTO EFFECT                                              │
-│  → When treaty provisions start applying to taxes               │
-│  → May differ from entry into force                             │
-│  → Often distinguished by tax type (WHT vs other)               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+The termination mechanism includes several elements. First, a minimum period during which termination is not possible—typically five years from entry into force. This protects reliance interests by ensuring the treaty operates for a reasonable initial period. Second, a notice requirement: the terminating State must give at least six months' notice before the end of a calendar year. Third, formal channel requirements: notice must be given through diplomatic channels.
 
-### 3.4 Entry into Force vs Entry into Effect
+Once proper notice is given, the treaty ceases to have effect according to the terms specified in the article. As with entry into effect, different dates typically apply to withholding taxes and other taxes.
 
-A critical distinction:
+### 4.2. Vienna Convention Context
 
-| Concept | Meaning |
-|---------|---------|
-| **Entry into Force** | When treaty becomes legally binding between States |
-| **Entry into Effect** | When treaty provisions apply to specific taxes |
+The Vienna Convention on the Law of Treaties 1969 provides the general international law framework for treaty termination. Article 54 confirms that termination may occur in conformity with treaty provisions or by consent of all parties. Article 56 addresses treaties containing no termination provision: such treaties cannot be denounced unless the parties intended to permit denunciation or a right is implied by the treaty's nature.
 
-**Typical provisions**:
-- **Withholding taxes**: Effect from amounts paid/credited on or after a specified date (often 1 January following entry into force)
-- **Other taxes**: Effect for tax years beginning on or after a specified date
+Tax treaties typically include their own termination provisions, so Article 56 rarely applies directly. However, the Vienna Convention's requirement of 12 months' notice for treaties without termination provisions influenced the OECD Model's approach. The six-month notice period in Article 32 is shorter than the Vienna Convention default, reflecting the bilateral and relatively technical nature of tax treaties.
 
-### 3.5 Commentary Guidance
+### 4.3. Recent Treaty Terminations
 
-**Commentary [1]**:
-> *"Notification through diplomatic channels is advisable as it clarifies that casual notifications are not sufficient to bring the treaty into force, thus reducing the chance of disagreements regarding when the treaty entered into force."*
+Treaty termination is typically a last resort. As the OECD observed in 1989, termination could cause economic harm and endanger future cooperative solutions. Most disputes are resolved through renegotiation, protocol amendments, or competent authority procedures rather than termination.
 
-**Commentary [2]** notes variations in practice:
-- Some treaties specify months after exchange of instruments
-- Others specify calendar year dates
-- Provisions should be clear to avoid disputes
+However, recent developments have seen notable terminations. In 2023-2024, three West African countries—Burkina Faso, Mali, and Niger—terminated their tax treaties with France. Burkina Faso notified denunciation in August 2023, with the treaty terminated effective January 1, 2025. Mali notified in December 2023, also terminated January 1, 2025. Niger's denunciation took effect June 2024, though France considers the treaty suspended rather than formally terminated due to questions about the government's authority to act.
 
-### 3.6 Practical Implications
+These terminations raise procedural issues. The treaties required six months' notice before the end of a calendar year, but the actual notice periods were shorter. France responded by treating the treaties as suspended, applying them from the perspective of French taxpayers until the formal termination dates arrived.
 
-Entry into force timing matters for:
-- When treaty relief becomes available
-- Application of exchange of information provisions
-- Assistance in collection (June 2025 exam noted: *"AIC is requested after the DTA becomes effective"*)
-- Transitional arrangements for existing situations
+The terminations also illustrate broader policy dynamics. The three countries had legitimate concerns about the treaties' terms, including withholding rates and allocation of taxing rights. However, the terminations occurred in a context of political tensions that extended well beyond tax policy. Commentators have suggested these terminations may signal changing attitudes among Global South countries toward treaty networks that they perceive as unduly favouring residence States.
+
+## 5. UN Model Provisions
+
+The UN Model Double Taxation Convention 2021 addresses entry into force and termination in Articles 30 and 31 respectively. The article numbers differ from the OECD Model because the UN Model does not include territorial extension, eliminating one article from the sequence.
+
+Substantively, the UN Model provisions are similar to their OECD equivalents. Both require ratification and exchange of instruments. Both distinguish between withholding taxes and other taxes for effective date purposes. Both permit unilateral termination with appropriate notice.
+
+The absence of territorial extension in the UN Model reflects its focus on developing countries, which typically have unitary territorial structures. For these countries, the question of extending treaty benefits to overseas territories simply does not arise.
+
+## 6. MLI and Entry into Force
+
+The Multilateral Instrument adds complexity to entry into force analysis. The MLI entered into force on July 1, 2018, three months after Slovenia became the fifth State to deposit its ratification instrument. However, the MLI's modifications to any particular bilateral treaty take effect only when both treaty partners have ratified the MLI and notified that treaty as a Covered Tax Agreement.
+
+This creates a layered entry-into-force structure. The MLI itself is in force as a matter of international law. But its impact on any specific treaty depends on whether both parties have completed the necessary steps. As of 2024, over 100 jurisdictions have signed the MLI, covering more than 1,400 bilateral treaties. However, the United States has not signed, meaning that US tax treaties are not modified by the MLI.
+
+The MLI also introduces its own timing rules for when its modifications take effect. These interact with the original treaty's entry-into-force provisions to produce potentially complex transitional situations. The OECD provides synthesised texts showing how specific treaties read after MLI modification, but practitioners must trace through both instruments to determine applicable dates.
+
+## 7. Practical Implications
+
+The timing provisions have significant practical consequences for taxpayers and advisers. When structuring cross-border transactions, it is essential to verify not only whether a treaty exists but also whether it has entered into effect for the relevant taxes. A treaty signed but not yet ratified provides no current benefits. A treaty recently terminated may still apply to amounts paid before the termination date.
+
+The distinction between entry into force and entry into effect requires careful attention. A taxpayer seeking reduced withholding rates must confirm that the treaty applies to amounts paid on the relevant date, not merely that the treaty is in force as an international law matter. Different effective dates for withholding taxes versus other taxes mean that the same treaty may apply to a dividend payment but not yet to an annual income tax assessment in the same period.
+
+Exchange of information and assistance in collection provisions also depend on entry-into-effect timing. These administrative provisions typically take effect from the entry into force date rather than having delayed effective dates. This means that information exchange may be available before the substantive tax provisions take effect, enabling tax authorities to verify eligibility for treaty benefits that will become available in future periods.
+
+Treaty termination creates transitional challenges. Taxpayers who have structured their affairs in reliance on treaty benefits must reassess their positions when termination is announced. The notice period—typically six months—provides limited time for restructuring. Where termination results from political tensions, as in the West African examples, the termination may be announced with minimal practical warning despite the formal notice requirements.
 
 ---
 
-## 4. ARTICLE 32: TERMINATION
-
-### 4.1 Purpose
-
-Article 32 establishes how either Contracting State may **end** the treaty. This ensures:
-- Neither State is bound indefinitely
-- Orderly termination process
-- Continuation of treaty for reasonable period after notice
-
-### 4.2 The Provision (OECD MTC 2017)
-
-**Article 32**:
-> *"This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year after the year............ In such event, the Convention shall cease to have effect:"*
-> - (a) in respect of taxes withheld at source: [specified date]
-> - (b) in respect of other taxes: [specified date]
-
-### 4.3 Key Features
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         TERMINATION - KEY FEATURES                              │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  UNILATERAL RIGHT                                               │
-│  → Either State may terminate                                   │
-│  → No requirement for consent of other State                    │
-│                                                                 │
-│  NOTICE PERIOD                                                  │
-│  → Minimum 6 months before end of calendar year                 │
-│  → Gives time for planning and adjustment                       │
-│                                                                 │
-│  MINIMUM PERIOD                                                 │
-│  → Cannot terminate before specified year                       │
-│  → Typically 5 years from entry into force                      │
-│                                                                 │
-│  DIPLOMATIC CHANNELS                                            │
-│  → Formal notification required                                 │
-│  → Written notice through proper channels                       │
-│                                                                 │
-│  CESSATION OF EFFECT                                            │
-│  → Usually end of calendar year following notice                │
-│  → Distinguished by tax type (WHT vs other)                     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 4.4 Vienna Convention Context
-
-The Vienna Convention on the Law of Treaties (1969) provides the general international law framework:
-- Termination may occur per treaty provisions or by agreement
-- If no termination clause, denunciation requires proof of party intent
-- Orderly termination protects reliance interests
-
-### 4.5 Recent Treaty Terminations
-
-Recent examples demonstrate practical significance:
-
-| Country | Action | Context |
-|---------|--------|---------|
-| **Burkina Faso** | Terminated treaty with France | Renegotiation request refused; terminated 2024 |
-| **Mali** | Terminated treaty with France | Similar circumstances |
-| **Niger** | Terminated treaty with France | Similar circumstances |
-| **South Africa** | Renegotiated several treaties | Concerns about treaty benefits to residence States |
-
-**Commentary**: Termination is typically a last resort. As the 1989 OECD report noted: *"termination could do even more harm economically and endanger the possibility of finding an acceptable solution in the future."*
-
-### 4.6 Termination vs Renegotiation
-
-| Option | Description | Implications |
-|--------|-------------|--------------|
-| **Renegotiation** | Modify existing treaty | Preserves relationship; takes time |
-| **Termination** | End treaty entirely | May create double taxation; damages relations |
-| **Protocol** | Amend specific provisions | Faster than full renegotiation |
-
----
-
-## 5. UN MDTC PROVISIONS
-
-### 5.1 Comparison with OECD MTC
-
-| Provision | OECD MTC | UN MDTC |
-|-----------|----------|---------|
-| **Territorial Extension** | Article 30 | Not included |
-| **Entry into Force** | Article 31 | Article 30 |
-| **Termination** | Article 32 | Article 31 |
-
-### 5.2 Substantive Differences
-
-The provisions are **substantively similar** between models:
-- Both require ratification and exchange of instruments
-- Both provide for notice period before termination
-- Both distinguish between withholding taxes and other taxes
-
-UN Model omits territorial extension as less relevant for developing countries.
-
----
-
-## 6. EXAM APPLICATION
-
-### 6.1 How These Topics Appear in Exams
-
-These provisions typically appear:
-- As **context** for other questions (e.g., when does treaty apply?)
-- In **MLI questions** (modifying existing treaty provisions)
-- In **assistance in collection** questions (temporal scope)
-- In **policy questions** about treaty renegotiation
-
-### 6.2 Key Points for Exam
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         EXAM POINTS - FINAL PROVISIONS                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. DISTINGUISH ENTRY INTO FORCE FROM ENTRY INTO EFFECT         │
-│     • Force = treaty legally binding                            │
-│     • Effect = provisions apply to taxes                        │
-│                                                                 │
-│  2. TERMINATION REQUIRES NOTICE                                 │
-│     • Minimum 6 months before end of calendar year              │
-│     • Through diplomatic channels                               │
-│     • Cannot terminate before minimum period expires            │
-│                                                                 │
-│  3. WITHHOLDING TAXES VS OTHER TAXES                            │
-│     • Different effective dates typically                       │
-│     • WHT: amounts paid/credited after date                     │
-│     • Other: tax years beginning after date                     │
-│                                                                 │
-│  4. TERRITORIAL EXTENSION (ARTICLE 30)                          │
-│     • Optional provision                                        │
-│     • Declining practical relevance                             │
-│     • Not in UN Model                                           │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 6.3 Common Exam Errors
-
-| Error | Correction |
-|-------|------------|
-| Confusing entry into force with entry into effect | Force = binding; Effect = applies to taxes |
-| Ignoring notice period for termination | 6 months minimum required |
-| Assuming immediate termination | Treaty continues until end of notice period |
-| Overlooking transitional provisions | Entry into effect may differ by tax type |
-
----
-
-## 7. KEY TAKEAWAYS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│       FINAL PROVISIONS - ESSENTIAL POINTS FOR EXAM             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. ARTICLE 30 - TERRITORIAL EXTENSION:                         │
-│     • Extends treaty to overseas territories                    │
-│     • Optional; requires agreement                              │
-│     • Declining relevance                                       │
-│                                                                 │
-│  2. ARTICLE 31 - ENTRY INTO FORCE:                              │
-│     • Upon exchange of instruments of ratification              │
-│     • Entry into EFFECT may differ from entry into FORCE        │
-│     • Different dates for WHT vs other taxes                    │
-│                                                                 │
-│  3. ARTICLE 32 - TERMINATION:                                   │
-│     • Either State may terminate unilaterally                   │
-│     • 6 months notice before end of calendar year               │
-│     • Through diplomatic channels                               │
-│     • Minimum period before termination allowed                 │
-│                                                                 │
-│  4. PRACTICAL SIGNIFICANCE:                                     │
-│     • Determines when treaty benefits available                 │
-│     • Affects exchange of information, assistance               │
-│     • Termination is last resort (damages relations)            │
-│                                                                 │
-│  5. LEVEL 2 TOPIC:                                              │
-│     • Detailed knowledge required                               │
-│     • Unlikely standalone question                              │
-│     • Appears in context of other topics                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 8. CONNECTIONS TO OTHER TOPICS
-
-### 8.1 Within Topic 6 (Scope Provisions)
-
-| Chapter | Connection |
-|---------|------------|
-| **6.1 Article 1** | Personal scope applies from entry into effect |
-| **6.2 Article 2** | Material scope applies from entry into effect |
-| **6.3 Article 29** | Anti-abuse applies from entry into effect |
-
-### 8.2 Broader DTC Framework
-
-| Topic | Connection |
-|-------|------------|
-| **MLI** | Modifies entry into force provisions |
-| **Exchange of Information** | When EOI provisions become effective |
-| **Assistance in Collection** | When assistance provisions apply |
-| **Treaty Override** | Domestic law may affect operation after entry into force |
-
----
-
-## REFERENCES
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Articles 30, 31, 32 and Commentary
-- UN Model Double Taxation Convention (2021), Articles 30, 31 and Commentary
-- Vienna Convention on the Law of Treaties (1969), Articles 54-59 (Termination)
-- Platform for Collaboration on Tax, Examples of Entry-into-Force Provisions
-
-**Secondary Sources**:
-- OECD (1989) Report on treaty termination
-- Dourado on assistance in collection and temporal scope (2022)
-- Tax Notes, "Three Tax Treaty Terminations From the Global South" (2025)
-
-**Exam Resources**:
-- June 2025 Module 1 Q1—Entry into force in context of assistance in collection
-
----
-
-*This note covers syllabus topic II.F.4: Territorial Extension, Entry into Force, and Termination (Level 2). Article 30 permits extension of the treaty to overseas territories. Article 31 specifies when the treaty enters into force (upon exchange of ratification instruments) and when provisions take effect. Article 32 allows either State to terminate the treaty with 6 months' notice through diplomatic channels. These provisions establish the temporal boundaries of treaty application.*
+*Part II - Double Taxation Conventions*
+*Previous Chapter: 6.3 - Article 29: Entitlement to Benefits*
+*Next Chapter: 7.1 - Article 4: Residence*
