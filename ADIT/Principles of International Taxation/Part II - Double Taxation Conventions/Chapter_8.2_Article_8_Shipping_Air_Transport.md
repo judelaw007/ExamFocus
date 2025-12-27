@@ -1,448 +1,175 @@
 # Chapter 8.2: Shipping and Air Transport Profits – Article 8, OECD MTC and UN MDTC
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Area: II.H.2 - Shipping and air transport profits – Article 8,
-               OECD MTC and UN MDTC
-Syllabus Level: 3 (Advanced Knowledge)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Exam Frequency: MODERATE - Often appears in context of other articles
-Recent Appearances:
-  • December 2025 Q5a: Shipping with ancillary road delivery (13 marks)
-                      - Article 8 scope, ancillary activities,
-                      UN MDTC 2021 application
-  • June 2022: Article 8 in context of Article 21 interaction
-  • December 2022: Article 13(3) consistency with Article 8
-  • June 2025: Shipping excluded from GloBE/Pillar Two
+## II.H.2.1 The Special Nature of International Transport
 
-Strategic Priority: ★★★☆☆ IMPORTANT
-- Lex specialis to Article 7 (takes precedence)
-- POEM (not residence) as connecting factor - distinctive feature
-- UN Model Alternative B is key distinguishing concept
-- Links to Article 13(3) for capital gains, Article 15(3) for employment
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Article 8 of the OECD Model Tax Convention provides special rules for taxation of profits from international shipping and air transport operations. This distinctive treatment addresses practical challenges arising from the highly mobile nature of these industries.
 
-## 1. INTRODUCTION: SPECIAL TREATMENT FOR INTERNATIONAL TRANSPORT
+The rationale for separate treatment reflects several factors. Ships and aircraft operate across multiple jurisdictions in a single voyage, making profit apportionment to each country administratively impractical. The industry is characterized by mobile assets, multinational operations, and thin profit margins that cannot bear the compliance burden of multiple tax filings. Historical consensus dating to the League of Nations work in the 1920s recognized that exclusive taxation in the state of management would best serve international trade.
 
-### 1.1 Purpose and Rationale
+### II.H.2.1.1 Lex Specialis Relationship with Article 7
 
-Article 8 provides **special rules** for the taxation of profits from international shipping and air transport. The rationale for separate treatment includes:
+Article 8 operates as lex specialis to Article 7, taking precedence for qualifying transport income. Where income qualifies under Article 8, the permanent establishment analysis under Article 7 becomes irrelevant.
 
-- **Practical difficulties**: Ships and aircraft operate across multiple jurisdictions in a single voyage
-- **Administrative burden**: Apportioning profits to each country visited would be impractical
-- **Historical consensus**: Since the 1920s, international agreement that residence (POEM) state should have exclusive rights
-- **Industry characteristics**: Mobile assets, multinational operations, thin profit margins
+Under Article 7, business profits are taxable in the residence state unless the enterprise maintains a permanent establishment in the source state. However, for shipping and air transport profits qualifying under Article 8, such profits shall be taxable only in the state where the place of effective management is situated. Source states are entirely precluded from taxation, regardless of activity levels within their borders. If income does not qualify under Article 8, it falls back to Article 7 and the permanent establishment framework applies.
 
-### 1.2 Relationship with Article 7
+## II.H.2.2 The OECD Model Provision
 
-Article 8 is **lex specialis** to Article 7 - it takes precedence for qualifying transport income:
+Article 8(1) establishes the fundamental rule:
 
-```
-ARTICLE 8 vs ARTICLE 7 RELATIONSHIP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> "Profits from the operation of ships or aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated."
 
-GENERAL RULE (Article 7):
-  Business profits → Residence state (or PE state if PE exists)
+This creates exclusive taxing rights for the place of effective management (POEM) state, denying source states any right to tax.
 
-SPECIAL RULE (Article 8):
-  Shipping/air transport profits → POEM state EXCLUSIVELY
-  (No PE analysis required; source states cannot tax)
+Article 8(2) addresses ships managed aboard the vessel itself:
 
-HIERARCHY:
-  If income qualifies under Article 8 → Article 8 applies
-  If income does NOT qualify → Falls back to Article 7
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 2. ARTICLE 8 TEXT (OECD MTC 2017)
-
-### 2.1 Full Text
-
-**Article 8(1):**
-> "Profits from the operation of ships or aircraft in international traffic shall be taxable only in the Contracting State in which the **place of effective management** of the enterprise is situated."
-
-**Article 8(2):**
 > "If the place of effective management of a shipping enterprise is aboard a ship, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship is situated, or, if there is no such home harbour, in the Contracting State of which the operator of the ship is a resident."
 
-**Article 8(3):**
+This ensures ships managed at sea have a definable tax jurisdiction, using home harbour as first preference and operator's residence as fallback.
+
+Article 8(3) extends the basic rule to cooperative arrangements:
+
 > "The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency."
 
-### 2.2 Structure Overview
+Each participant's share of profits is taxable in that participant's POEM state.
 
-| Paragraph | Content | Function |
-|-----------|---------|----------|
-| **8(1)** | Main rule | Exclusive POEM state taxation |
-| **8(2)** | Ships at sea | Deemed POEM location |
-| **8(3)** | Pooling arrangements | Extends rule to consortia |
+## II.H.2.3 Core Concepts Under Article 8
 
----
+### II.H.2.3.1 Place of Effective Management (POEM)
 
-## 3. KEY CONCEPTS
+Unlike most treaty provisions relying on residence, Article 8 uses place of effective management as its connecting factor. This addresses the historical practice of shipping companies incorporating in flag-of-convenience states while being managed elsewhere.
 
-### 3.1 Place of Effective Management (POEM)
+POEM focuses on where key management and commercial decisions are in substance made. This requires examining where directors meet and make strategic decisions, where senior management is based, and where operational control is exercised. The functional approach emphasizes actual decision-making patterns rather than corporate formalities such as place of incorporation or registered office.
 
-Unlike most treaty provisions that use "residence," Article 8 uses **Place of Effective Management (POEM)** as the connecting factor.
+The use of POEM rather than residence prevents ships flying flags of convenience from escaping taxation. By anchoring taxing rights to POEM, Article 8 ensures taxation occurs where genuine management decisions are made.
 
-**Why POEM?**
-- Historical: Many shipping companies incorporated in flag-of-convenience states
-- POEM ensures taxation where genuine management decisions occur
-- Prevents ships flying flags of convenience from escaping taxation entirely
+### II.H.2.3.2 "International Traffic" Defined
 
-**POEM vs Residence:**
-```
-POEM vs RESIDENCE - KEY DISTINCTION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Article 3(1)(e) defines international traffic as transport by a ship or aircraft operated by an enterprise with POEM in a contracting state, except when operated solely between places in the other contracting state.
 
-RESIDENCE (Article 4):
-  Where enterprise is "liable to tax" under domestic law
-  Usually: Place of incorporation or central management
+The transport must cross international borders. Operations confined solely to ports within the source state are excluded from Article 8. The rationale is that purely domestic operations in the source state resemble domestic businesses and should face the same taxation as local competitors.
 
-POEM (Article 8):
-  Where "key management and commercial decisions...are in
-  substance made" (see Article 4 Commentary [24])
-  Focus: Actual decision-making location
+### II.H.2.3.3 "Operation" Interpreted Broadly
 
-PRACTICAL DIFFERENCE:
-  Shipping Co incorporated in Country A (low-tax flag state)
-  But managed from Country B (where directors meet, decisions made)
+The term "operation" receives broad interpretation. It includes direct ownership and operation, bareboat charter arrangements, time charters, and sub-chartering arrangements. Container operations ancillary to shipping also qualify. However, mere passive ownership of vessels as investments does not constitute operation. The enterprise must be engaged in the transport business rather than merely earning rental income.
 
-  Under residence: Taxable in Country A
-  Under POEM: Taxable in Country B
+### II.H.2.3.4 Ships at Sea - Article 8(2)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Article 8(2) prevents the absurd result that POEM is "at sea" with no state jurisdiction. First preference goes to the home harbour where the ship is registered or habitually returns. If no home harbour exists, the test looks to the operator's residence state.
 
-### 3.2 "International Traffic"
+## II.H.2.4 Scope of Article 8: Primary and Ancillary Activities
 
-**Article 3(1)(e) Definition:**
-> "'International traffic' means any transport by a ship or aircraft operated by an enterprise that has its place of effective management in a Contracting State, except when the ship or aircraft is operated solely between places in the other Contracting State."
+### II.H.2.4.1 Primary Transport Activities
 
-**Key elements:**
-- Transport must cross borders (not purely domestic)
-- Enterprise must have POEM in a Contracting State
-- Domestic-only transport in the other state is excluded
+Article 8 covers passenger transport, cargo and freight transport, and mail transport across international borders when performed by an enterprise with POEM in a contracting state.
 
-```
-WHAT QUALIFIES AS "INTERNATIONAL TRAFFIC"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### II.H.2.4.2 The Ancillary Activities Test
 
-✓ COVERED:
-  • Voyage from Country A to Country B
-  • Voyage from Country A to Country B to Country C
-  • Cruise ship departing and returning to Country A via Country B
+Ancillary activities connected to international traffic are covered by exclusive POEM state taxation. For an activity to qualify as ancillary, it must satisfy a dual test: it must contribute only a minor portion of overall revenues and be closely related to the core transport operation.
 
-✗ NOT COVERED (excluded from Article 8):
-  • Ship operating ONLY between ports within Country B
-    (where enterprise has no POEM)
-  • Purely domestic airline routes
+Excess baggage charges and on-board duty-free sales qualify as directly connected to passenger transport. Advertising on aircraft is similarly ancillary. Container leasing for the company's own cargo operations falls within Article 8's scope. Hotel accommodation provided by airlines qualifies only if short-term and incidental to transport service. Extended hotel operations or services provided independently constitute separate business activities subject to Article 7.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+The boundary between ancillary activities and separate business operations can be fact-intensive. When a shipping company provides door-to-door delivery using road transport from port to customer premises, courts assess whether inland carriage is sufficiently integrated with the sea voyage. The test requires both quantitative assessment of profit contribution and qualitative analysis of the relationship to core shipping. If road delivery represents a substantial profit center or operates independently, it may constitute a separate business taxable under Article 7. This ancillary activities analysis, particularly for road delivery services provided in conjunction with shipping operations, was examined under the UN Model 2021 framework (ADIT December 2025).
 
-### 3.3 "Operation" of Ships or Aircraft
+Ship repair services to third parties and aircraft manufacturing fall outside Article 8 as separate business activities.
 
-The term "operation" is interpreted broadly (Commentary [4]):
+### II.H.2.4.3 Pooling and Joint Ventures - Article 8(3)
 
-**Covers:**
-- Ownership and direct operation
-- Chartering out ships/aircraft on bareboat or time charter
-- Sub-chartering arrangements
-- Container operations ancillary to shipping
+Modern international transport frequently involves collaborative arrangements. Airlines share routes and capacity through alliances; shipping companies form consortia to pool vessels. Each participant remains taxable on its share of profits in its POEM state. Article 8(3) ensures exclusive POEM state taxation extends to these cooperative structures.
 
-**Does NOT cover:**
-- Mere ownership without operation (passive investment)
-- Ship/aircraft leasing as main business (not transport)
+Case law has examined Article 8(3)'s boundaries. Lufthansa v India confirmed that pooling arrangements under the Interline Traffic Agreement Pool (IATP) qualified for Article 8 treatment where genuine reciprocity existed. However, in British Airways v India, Article 8 protection was denied because British Airways provided ground handling and engineering services to numerous airlines but received no reciprocal services in return—the absence of mutuality meant it failed to qualify as a true pool participant under Article 8(3).
 
-### 3.4 Ships at Sea - Article 8(2)
+## II.H.2.5 The UN Model: Balancing Residence and Source Taxation
 
-A special rule addresses POEM location when management occurs aboard a ship:
+### II.H.2.5.1 Two Alternatives in the UN Model
 
-**Deemed POEM:**
-1. **First preference**: Home harbour of the ship
-2. **If no home harbour**: State of which operator is resident
+The UN Model reflects tension between developed and developing countries over taxing rights. Developed countries favor exclusive POEM state taxation. Developing countries, often net importers of transport services, seek greater source taxation rights. The UN Model provides Alternative A (OECD approach) and Alternative B (source taxation for shipping).
 
-This prevents the absurd result of a ship's POEM being "at sea" and therefore in no state.
+### II.H.2.5.2 Alternative A - OECD Approach
 
----
+UN Model Article 8 Alternative A mirrors the OECD provision: profits from operation of ships or aircraft in international traffic shall be taxable only in the POEM state. This maintains administrative simplicity.
 
-## 4. SCOPE: WHAT INCOME IS COVERED
+### II.H.2.5.3 Alternative B - Source Taxation for Shipping
 
-### 4.1 Primary Activities
+Alternative B allows source state taxation of shipping profits where activities are "more than casual," while retaining exclusive POEM state taxation for air transport. The "more than casual" threshold requires regular or substantial shipping services rather than occasional visits.
 
-Article 8 covers profits from:
-- Passenger transport
-- Cargo/freight transport
-- Mail transport
+Once this threshold is met, the source state may tax an appropriate allocation of profits. The Commentary suggests allocation methods including a percentage of gross receipts (typically three percent) or allocation based on factors like port calls, cargo loaded and unloaded, or source state revenue.
 
-### 4.2 Ancillary Activities
+Alternative B has achieved limited adoption, primarily in South and Southeast Asian treaties including India, Bangladesh, Indonesia, Philippines, Sri Lanka, Thailand, Myanmar, and Pakistan. Limited adoption reflects the complexity of administering source taxation and developed countries' preference for the OECD approach.
 
-The Commentary confirms that **ancillary activities** connected to international traffic are also covered:
+### II.H.2.5.4 Air Transport Treatment
 
-| Activity | Covered? | Rationale |
-|----------|----------|-----------|
-| Excess baggage charges | ✓ | Directly connected to passenger transport |
-| On-board sales (duty-free) | ✓ | Incidental to transport |
-| Advertising on aircraft | ✓ | Ancillary to main operation |
-| Container leasing (own use) | ✓ | Integral to cargo transport |
-| Hotel accommodation (airline) | △ | Only if short-term, incidental |
-| Bus transport to airport | △ | Only if operated by airline |
-| Ship repair services | ✗ | Separate business activity |
-| Aircraft manufacturing | ✗ | Not transport operation |
+Even under Alternative B, air transport retains exclusive POEM state taxation. Only shipping faces potential source taxation. This differential treatment reflects airlines' stronger political influence, operational differences, and concentration of ownership in developed countries.
 
-### 4.3 Pooling and Joint Ventures - Article 8(3)
+### II.H.2.5.5 The 2025 UN Model Update
 
-Article 8(3) extends the POEM rule to profits from:
-- **Pool arrangements**: Airlines sharing routes/capacity
-- **Joint businesses**: Shipping consortia
-- **International operating agencies**: Multi-country transport bodies
+The UN Tax Committee approved significant changes during 2024-2025 representing a major shift in international transport taxation. The former Alternative A (OECD-style exclusive POEM taxation) was redesignated Alternative B. A new Alternative A was introduced extending source-based taxation to airlines for the first time, in addition to shipping.
 
-Each participant is taxable on their share in their POEM state.
+This represents fundamental change in international consensus on airline taxation. The new Alternative A permits source countries to tax both shipping and airline profits where operations are more than casual, based on appropriate allocation of overall net profits. The elevation of source taxation to Alternative A signals growing influence of developing country perspectives. While ECOSOC approval was pending as of mid-2025, adoption in bilateral treaties is anticipated.
 
----
+By contrast, the 2025 OECD Model update maintains exclusive residence-based taxation for international transport. This widening gap between OECD and UN Models reflects deeper disagreements about appropriate allocation of taxing rights.
 
-## 5. UN MODEL DIFFERENCES
+## II.H.2.6 Article 8 in the Treaty Architecture
 
-### 5.1 Two Alternatives
-
-The UN Model provides **two alternatives** for Article 8, reflecting the tension between developed and developing countries:
-
-| Alternative | Air Transport | Shipping | Reflects |
-|-------------|---------------|----------|----------|
-| **Alternative A** | Exclusive POEM | Exclusive POEM | OECD approach |
-| **Alternative B** | Exclusive POEM | Source may tax | Developing country concerns |
-
-### 5.2 Alternative A (OECD Approach)
-
-UN Article 8 Alternative A mirrors the OECD Model - exclusive taxation in the POEM state for both shipping and air transport profits.
-
-### 5.3 Alternative B (Source Taxation for Shipping)
-
-**UN Article 8 Alternative B** allows **source state taxation of shipping profits**:
-
-> "If such activities in the other Contracting State are **more than casual**, such profits may be taxed in that other State. The profits to be taxed in that other State shall be determined on the basis of an **appropriate allocation** of the overall net profits derived by the enterprise from its shipping operations."
-
-```
-UN MODEL ALTERNATIVE B - SHIPPING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CONDITION: Activities in source state are "more than casual"
-
-IF MET:
-  Source state MAY tax shipping profits
-  Profits determined by:
-    • Appropriate allocation of overall net profits, OR
-    • Percentage of gross receipts (e.g., 3%)
-
-TAX CALCULATION OPTIONS:
-  1. Net basis: Allocate net profits; apply domestic CIT rate
-  2. Gross basis: Apply agreed percentage to gross receipts
-     (whichever results in lower tax)
-
-RATIONALE:
-  • Developing countries often net importers of shipping services
-  • Exclusive residence taxation benefits developed countries
-  • Alternative B provides more balanced allocation
-
-ADOPTION:
-  • Primarily South/South-East Asia: India, Bangladesh, Indonesia,
-    Philippines, Sri Lanka, Thailand, Myanmar, Pakistan
-  • Low adoption elsewhere due to complexity
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 5.4 Air Transport Under Alternative B
-
-Even under Alternative B, **air transport retains exclusive POEM state taxation**. Only shipping is subject to potential source taxation.
-
-**Rationale**: Airlines have stronger political voice; aircraft operations differ from shipping.
-
-### 5.5 2025 UN Model Update
-
-The 2025 UN Model update:
-- Elevated the source taxation approach
-- Former Alternative A (OECD-style) now becomes Alternative B
-- New Alternative A provides source taxation for both shipping and air transport
-- Reflects developing country push for greater source taxation rights
-
----
-
-## 6. INTERACTIONS WITH OTHER ARTICLES
-
-### 6.1 Article 13(3): Capital Gains on Ships/Aircraft
+### II.H.2.6.1 Capital Gains on Ships and Aircraft - Article 13(3)
 
 Article 13(3) mirrors Article 8's approach for capital gains:
 
-> "Gains from the alienation of ships or aircraft operated in international traffic, or movable property pertaining to the operation of such ships or aircraft, shall be taxable **only in the Contracting State in which the place of effective management of the enterprise is situated**."
+> "Gains from the alienation of ships or aircraft operated in international traffic, or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated."
 
-**Consistency principle**: If operating profits taxable in POEM state, gains on disposal should be too.
+This implements a consistency principle. If operating profits are taxable exclusively in the POEM state, gains on disposal should be too. The scope extends to movable property pertaining to operation, including spare parts, containers, and integral equipment.
 
-### 6.2 Article 15(3): Employment Income
+### II.H.2.6.2 Employment Income - Article 15(3)
 
-Article 15(3) provides a corresponding rule for employees:
+Article 15(3) provides that remuneration for employment aboard ships or aircraft operated in international traffic may be taxed in the POEM state. The provision uses "may be taxed" rather than "shall be taxable only," creating concurrent jurisdiction. Both the POEM state and the employee's residence state may tax, but the POEM state receives explicit rights, aligning employment taxation with treatment of enterprise profits.
 
-> "Remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic... may be taxed in the Contracting State in which the **place of effective management** of the enterprise is situated."
+### II.H.2.6.3 Residual Categories - Articles 7 and 21
 
-**Note**: "May be taxed" (not "shall be taxable only") - so residence state can also tax, but POEM state has priority.
+If income does not qualify under Article 8, it is characterized under other treaty provisions. The most common alternative is Article 7 on business profits. Where operations are purely domestic in the source state or do not constitute "operation," Article 7 applies and profits are taxable in the source state only if a permanent establishment exists there.
 
-### 6.3 Article 21: Other Income
+This fall-back relationship was examined in the context of income not qualifying as "operation" in international traffic (ADIT June 2022). For example, rental income from bareboat charters where the owner provides only the vessel may fall outside Article 8. Such income would be analyzed under Article 7 as business profits, or possibly under Article 12 as royalties.
 
-If income does NOT qualify under Article 8, it may fall under:
-- Article 7 (business profits) - if business income
-- Article 21 (other income) - residual category
+## II.H.2.7 Charter Arrangements and Operational Structures
 
-**June 2022 exam reference**: Where profits do not fall within Article 8, they will fall within Article 7.
+### II.H.2.7.1 Bareboat (Demise) Charters
 
----
+Under a bareboat charter, the owner provides only the vessel while the charterer assumes all operational responsibilities including crew, fuel, and maintenance. Because the owner has relinquished operational control, rental income may not qualify as profits from "operation" under Article 8.
 
-## 7. PRACTICAL ISSUES
+The prevailing view treats bareboat charter income as falling outside Article 8. It may constitute business profits under Article 7, taxable in the source state if the owner has a permanent establishment there. Some jurisdictions characterize bareboat payments as royalties, bringing Article 12 into play. The charterer's operating profits from using the vessel in international traffic clearly fall within Article 8.
 
-### 7.1 Bareboat Charters
+### II.H.2.7.2 Time and Voyage Charters
 
-**Bareboat (demise) charter**: Ship owner leases vessel to charterer who operates it.
+In a time charter, the owner provides vessel and crew, but the charterer directs routes and cargo. The majority Commentary view treats time charter income as falling within Article 8. The owner continues to "operate" the ship or aircraft despite the charterer controlling commercial deployment. Time charter income qualifies as profits from operation in international traffic subject to exclusive POEM state taxation.
 
-**Tax treatment:**
-- Rental income to owner: May not qualify as "operation" - could be Article 7 or Article 12 (royalties)
-- Operating profits to charterer: Article 8 applies (charterer operates in international traffic)
+Voyage charters, where the owner transports specific cargo on a defined route, even more clearly fall within Article 8. The owner retains complete operational control.
 
-### 7.2 Time Charters
+The distinction turns on operational control retained by the owner. Where the owner crews, navigates, and manages the vessel, Article 8 applies. Where the owner provides only the vessel itself, the income may fall outside Article 8.
 
-**Time charter**: Ship owner provides vessel and crew; charterer directs voyages.
+### II.H.2.7.3 Code-Sharing and Alliance Arrangements
 
-**Tax treatment:**
-- Owner's income: Article 8 applies (owner still "operates" the ship)
-- This is the majority view in the Commentary
+Airlines use code-sharing where one carrier sells tickets on another carrier's aircraft using its own flight code. Code-sharing fits within Article 8(3)'s coverage of pools and joint businesses. Each airline's share of profits is taxable in that airline's POEM state. Similar principles apply to shipping consortia and slot-sharing arrangements.
 
-### 7.3 Code-Sharing Arrangements
+## II.H.2.8 Article 8 in the Modern Tax Landscape
 
-Airlines frequently share capacity through code-sharing. Each airline's share of profits is taxable in its own POEM state under Article 8(3).
+### II.H.2.8.1 Shipping Exclusion from Pillar Two
 
----
+The OECD's Pillar Two framework establishing a 15% global minimum tax through Global Anti-Base Erosion (GloBE) Rules explicitly excludes international shipping income from both the income inclusion rule and qualified domestic minimum top-up tax. This recognizes that unique characteristics justifying Article 8's special treatment apply equally in the multilateral minimum tax context.
 
-## 8. EXAM APPLICATION
+The exclusion ensures favorable tax regimes for shipping, including tonnage tax regimes taxing based on vessel capacity rather than profits, are not disturbed by Pillar Two. These regimes typically produce effective tax rates below 15%, but Pillar Two accepts this policy choice by excluding shipping entirely from GloBE computation.
 
-### 8.1 How Article 8 Appears in Exams
+The rationale reflects practical and policy considerations. Ships operate globally with no clear connection to any jurisdiction beyond the POEM state. Attempting jurisdictional top-up taxes based on where ships call would recreate administrative problems Article 8 was designed to avoid. The shipping industry's competitive nature and thin margins led policymakers to conclude minimum taxation could adversely affect this infrastructure sector. The interaction between Article 8 and the GloBE exclusions was considered in the context of tonnage tax regimes (ADIT June 2025).
 
-Article 8 typically appears:
-1. **In interaction questions** - Relationship with Articles 7, 13, 15, 21
-2. **In OECD vs UN comparisons** - Alternative A vs Alternative B
-3. **POEM identification** - Where is effective management?
-4. **Pillar Two context** - Shipping often excluded from GloBE rules
+### II.H.2.8.2 Airlines Under Pillar Two
 
-### 8.2 Answer Framework
+Airline income does not receive the same Pillar Two exclusion. While Article 8 provides exclusive POEM state taxation, airlines remain fully subject to Pillar Two's minimum tax requirements. A multinational airline group with operations producing effective tax rates below 15% may face top-up tax.
 
-```
-ARTICLE 8 EXAM FRAMEWORK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This differential treatment reflects policy judgments about relative mobility and tax planning opportunities. Airlines have more substantial fixed operations including hubs, maintenance facilities, and ground operations than shipping companies. Airlines are viewed as having greater capacity for profit shifting through transfer pricing. The decision to exclude shipping while including airlines demonstrates Pillar Two's exclusions are narrowly tailored.
 
-1. IDENTIFY THE INCOME TYPE (2 marks)
-   "The income is from operation of ships/aircraft..."
-   "This is international traffic because [crosses borders]..."
+Article 8 and Pillar Two create overlapping but distinct frameworks. Article 8 determines allocation of taxing rights between source and residence states under bilateral treaties. Pillar Two operates within that allocation to ensure minimum effective taxation of airline profits, though not shipping profits.
 
-2. CONFIRM ARTICLE 8 APPLIES (2-3 marks)
-   "Article 8 is lex specialis to Article 7..."
-   "The enterprise operates in international traffic..."
-   "Article 8 therefore applies rather than Article 7..."
+## II.H.2.9 Concluding Observations
 
-3. IDENTIFY POEM (2-3 marks)
-   "The place of effective management is in [State X]..."
-   "This is where key management decisions are made..."
-   (Note: POEM may differ from place of incorporation)
+Article 8 represents one of the most successful aspects of the international tax treaty framework. Exclusive taxation in the POEM state has facilitated international trade by avoiding multiple taxation and administrative complexity. The provision's stability over decades reflects genuine consensus on treatment of these highly mobile operations.
 
-4. APPLY THE RULE (2-3 marks)
-   OECD/UN Alt A: "Profits taxable ONLY in [POEM state]"
-   UN Alt B: "Source state may tax if activities more than casual"
+However, consensus shows signs of strain. The 2025 UN Model update extending source taxation to airlines represents developing country frustration with exclusive POEM state taxation predominantly benefiting developed countries. The differential treatment of shipping and airlines under Pillar Two demonstrates that even within the OECD framework, rationale for special treatment is being questioned and refined.
 
-5. CONSIDER RELATED PROVISIONS (if relevant) (2-3 marks)
-   • Article 13(3) for capital gains on ships/aircraft
-   • Article 15(3) for crew employment income
-   • Fall-back to Article 7 if not qualifying
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 9. SUMMARY: KEY POINTS FOR EXAM
-
-```
-ARTICLE 8 SHIPPING/AIR TRANSPORT - ESSENTIAL KNOWLEDGE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. BASIC RULE
-   • Profits taxable ONLY in POEM state (exclusive)
-   • Source states cannot tax (unlike Article 7 with PE)
-   • Lex specialis to Article 7
-
-2. KEY CONNECTING FACTOR: POEM
-   • Place of Effective Management (NOT residence)
-   • Where key management decisions are made
-   • Historical reason: Flag-of-convenience states
-
-3. "INTERNATIONAL TRAFFIC"
-   • Transport crossing borders
-   • Excludes purely domestic operations in other state
-
-4. SCOPE
-   • Passenger, cargo, mail transport
-   • Ancillary activities (duty-free, excess baggage)
-   • Pooling arrangements (Article 8(3))
-
-5. UN MODEL ALTERNATIVES
-   • Alternative A: Same as OECD (exclusive POEM)
-   • Alternative B: Source may tax SHIPPING if more than casual
-   • Air transport: Exclusive POEM in both alternatives
-
-6. RELATED PROVISIONS
-   • Article 13(3): Capital gains - same POEM rule
-   • Article 15(3): Crew employment - POEM state may tax
-   • Article 7: Fall-back if Article 8 doesn't apply
-
-7. PRACTICAL ISSUES
-   • Bareboat vs time charters
-   • Code-sharing arrangements
-   • Pillar Two/GloBE: Shipping often excluded
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 10. CONNECTIONS TO OTHER CHAPTERS
-
-| Chapter | Connection |
-|---------|------------|
-| **7.1 Article 4** | POEM concept also used in Article 4(3) for non-individuals |
-| **8.1 Article 7** | Article 8 is lex specialis; fall-back to Article 7 |
-| **8.3 Article 9** | Transfer pricing may apply to related shipping enterprises |
-| **Capital Gains** | Article 13(3) mirrors Article 8 for disposals |
-| **Employment** | Article 15(3) special rule for ship/aircraft crew |
-
----
-
-## 11. REFERENCES
-
-### Primary Sources
-- OECD Model Tax Convention 2017, Article 8 and Commentary
-- UN Model Double Taxation Convention 2021, Article 8 (Alternatives A and B) and Commentary
-- OECD. Model Tax Convention Commentary on Article 8 (2017)
-
-### Web Sources (December 2025)
-- [OECD iLibrary - Article 8 Commentary](https://www.oecd-ilibrary.org/taxation/model-tax-convention-on-income-and-on-capital-2017-full-version_1964f1fc-en)
-- [UN Committee of Experts - Article 8 Discussion](https://financing.desa.un.org/sites/default/files/2024-10/CRP%2029%20UN%20Model%20Article%208.pdf)
-- [ICTD - Taxing Maritime Shipping in Africa](https://www.ictd.ac/publication/taxing-profits-international-maritime-shipping-africa-past-present-future-un-model-article-8-alternative-b/)
-
-### Past Exam Questions
-- December 2025 Q5a: Shipping with ancillary road delivery services (13 marks) - Article 8 scope, ancillary vs separate activities, UN MDTC 2021
-- June 2022: Article 8 interaction with Article 21
-- December 2022: Article 13(3) consistency with Article 8
-- June 2025: Shipping exclusion from GloBE rules
-
----
-
-*Chapter 8.2 covers syllabus area II.H.2 - Shipping and air transport profits – Article 8, OECD MTC and UN MDTC. This is a Level 3 topic requiring understanding of the POEM connecting factor, the scope of "international traffic," and the significant difference between OECD (exclusive POEM taxation) and UN Alternative B (source taxation for shipping).*
+The core concepts of POEM as connecting factor, broad interpretation of "operation," and the ancillary activities test remain robust frameworks for analyzing modern fact patterns. Understanding Article 8 requires appreciating both its technical provisions and the policy tensions between administrative simplicity, fair revenue allocation, and maintaining competitive conditions in the transport sector.
