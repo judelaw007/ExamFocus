@@ -88,7 +88,18 @@ The OECD MTC Introduction (paragraphs 29-36.1) advocates for the Commentaries' i
 
 **Paragraph 35**: *"Changes or additions to the Commentaries are normally applicable to the interpretation and application of conventions concluded before their adoption, because they reflect the consensus of the OECD member countries as to the proper interpretation of existing provisions."*
 
-This essentially advocates an **ambulatory approach**—using current Commentaries even for older treaties.
+**Key Introduction Paragraphs Summary**:
+
+| Paragraph | Key Guidance |
+|-----------|--------------|
+| Para 29 | Commentaries not legally binding but "of great assistance" |
+| Para 30 | Member countries may file Observations indicating how they will apply provisions |
+| Para 31 | Reservations signal intent to deviate from Model text |
+| Para 33-34 | Commentary represents agreement on principles; changes reflect OECD consensus |
+| Para 35 | Changes "normally applicable" to treaties concluded before adoption (ambulatory) |
+| Para 36-36.1 | Ambulatory inappropriate where changes have "changed the conclusions" rather than clarifying |
+
+This essentially advocates an **ambulatory approach**—using current Commentaries even for older treaties—but with an important qualification in paragraph 36 that limits this where Commentary has fundamentally changed rather than clarified interpretation.
 
 ### 2.3 The "Persuasive Value" Doctrine
 
