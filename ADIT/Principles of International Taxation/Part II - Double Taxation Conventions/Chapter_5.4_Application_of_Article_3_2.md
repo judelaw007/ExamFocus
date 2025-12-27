@@ -1,497 +1,147 @@
-# Chapter 5.4: Interpretation of DTCs – Application of Article 3(2), OECD MTC and UN MDTC
+# Chapter 5.4: Application of Article 3(2) OECD MTC and UN MDTC
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Topic: Application of Article 3(2), OECD MTC and UN MDTC
-Syllabus Level: 3 (Advanced)
-Syllabus Reference: II.E.4
-Exam Frequency: HIGH – Referenced whenever undefined terms arise
-Past Appearances: June 2024 Q2; June 2023 Q4 (treaty override); December 2023 Q1
-Mark Range: 8-15 marks (usually part of larger interpretation question)
-Time Allocation: 12-20 minutes
-Strategic Priority: ★★★★★ CRITICAL – Gateway provision for undefined term interpretation
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## 1. Introduction: The Role of Article 3(2)
 
-## 1. INTRODUCTION: THE ROLE OF ARTICLE 3(2)
+### 1.1. The Problem Article 3(2) Addresses
 
-### 1.1 The Problem Article 3(2) Addresses
+Tax treaties cannot define every term they use. When a term is undefined in the treaty, how should it be interpreted? Article 3(2) provides the answer through a structured approach that links treaty interpretation to domestic law while preserving the treaty's integrity through important safeguards.
 
-Tax treaties cannot define every term they use. When a term is **undefined** in the treaty, how should it be interpreted? Article 3(2) provides the answer—a structured approach that links treaty interpretation to domestic law while preserving the treaty's integrity.
+### 1.2. Text and Key Features
 
-### 1.2 Text of Article 3(2)
+Article 3(2) of the OECD MTC (2017) provides: "As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires or the competent authorities agree to a different meaning pursuant to the provisions of Article 25, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State."
 
-**OECD MTC (2017) Article 3(2)**:
+The UN MDTC contains an identical provision in Article 3(2). Several key features emerge from this text. The phrase "any term not defined therein" establishes that Article 3(2) applies only to undefined terms. The phrase "unless the context otherwise requires" provides a critical safeguard allowing context to override domestic law reference. The words "at that time" confirm an ambulatory approach where meaning is determined at the time of application. The reference to "the purposes of the taxes" emphasises tax law context, while the phrase "tax laws... prevailing" ensures tax law meanings trump general law meanings. Finally, the provision allows competent authorities to agree a different meaning under Article 25.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     ARTICLE 3(2) OECD MTC                       │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  "As regards the application of the Convention at any time      │
-│   by a Contracting State, any term not defined therein shall,   │
-│   unless the context otherwise requires or the competent        │
-│   authorities agree to a different meaning pursuant to the      │
-│   provisions of Article 25, have the meaning that it has        │
-│   AT THAT TIME under the law of that State for the purposes     │
-│   of the taxes to which the Convention applies, any meaning     │
-│   under the applicable TAX LAWS of that State prevailing over   │
-│   a meaning given to the term under other laws of that State."  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+## 2. Structure and Elements of Article 3(2)
 
-The UN MDTC contains an **identical provision** in Article 3(2).
+### 2.1. The Interpretive Hierarchy
 
-### 1.3 Key Features at a Glance
+Article 3(2) establishes a clear hierarchy for interpreting undefined terms. The first step is to determine whether the term is defined in the treaty, checking Article 3(1) for general definitions and specific articles for context-specific definitions. If the term is defined, Article 3(2) is not needed and the treaty definition applies.
 
-| Feature | Effect |
-|---------|--------|
-| "any term not defined therein" | Applies only to undefined terms |
-| "unless the context otherwise requires" | Context can override domestic law reference |
-| "at that time" | Ambulatory—meaning at time of application |
-| "for the purposes of the taxes" | Tax law context |
-| "tax laws... prevailing" | Tax law meaning trumps general law meaning |
-| "competent authorities agree" | Alternative: CA agreement on meaning |
+If the term is not defined, the second step considers whether context otherwise requires an autonomous meaning rather than domestic law reference. If context does require an autonomous meaning, that international meaning applies rather than domestic law.
 
----
+If context does not require an autonomous meaning, the third step asks whether the competent authorities have agreed a different meaning under Article 25 MAP. If such agreement exists, the agreed meaning applies.
 
-## 2. STRUCTURE AND ELEMENTS OF ARTICLE 3(2)
+Only if none of the above applies does the fourth step occur: applying the domestic law meaning of the applying State, with tax law meanings prevailing over other laws, using the meaning at the time of application (ambulatory approach).
 
-### 2.1 The Interpretive Hierarchy Under Article 3(2)
+### 2.2. Terms Defined and Undefined in Treaties
 
-Article 3(2) establishes a clear **hierarchy** for interpreting undefined terms:
+Article 3(2) applies only to terms not defined in the treaty. Where a term is defined, the treaty definition governs. Article 3(1) provides general definitions including "person," "company," and "enterprise." Specific articles contain context-specific definitions: Article 4 defines "resident," Article 5 defines "permanent establishment," Article 10(3) defines "dividends," Article 11(3) defines "interest," and Article 12(2) defines "royalties."
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        ARTICLE 3(2) INTERPRETIVE HIERARCHY                      │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  STEP 1: Is the term DEFINED in the treaty?                     │
-│          (Check Article 3(1) and specific articles)             │
-│     ↓                                                           │
-│     If YES → Apply treaty definition (Art. 3(2) not needed)     │
-│     If NO  → Proceed to Step 2                                  │
-│                                                                 │
-│  STEP 2: Does CONTEXT otherwise require?                        │
-│          (Autonomous international meaning)                     │
-│     ↓                                                           │
-│     If YES → Apply autonomous meaning (not domestic law)        │
-│     If NO  → Proceed to Step 3                                  │
-│                                                                 │
-│  STEP 3: Have COMPETENT AUTHORITIES agreed different meaning?   │
-│          (Per Article 25 MAP)                                   │
-│     ↓                                                           │
-│     If YES → Apply CA agreed meaning                            │
-│     If NO  → Proceed to Step 4                                  │
-│                                                                 │
-│  STEP 4: Apply DOMESTIC LAW meaning                             │
-│          • Tax law meaning prevails over other laws             │
-│          • Meaning "at that time" (ambulatory)                  │
-│          • Law of the State applying the Convention             │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+Examples of undefined terms subject to Article 3(2) include "beneficial owner" (though the Commentary provides guidance), "salaries, wages and other similar remuneration" under Article 15, and many technical terms used throughout the distributive articles. Notably, Article 6 refers to the domestic law of the situs state for the meaning of "immovable property," which is an express renvoi to domestic law built into the treaty text itself.
 
-### 2.2 "Any Term Not Defined Therein"
+## 3. The "Context Otherwise Requires" Exception
 
-Article 3(2) applies only to terms **not defined** in the treaty. Where a term IS defined:
-- **Article 3(1)** provides general definitions (e.g., "person", "company", "enterprise")
-- **Specific articles** contain context-specific definitions (e.g., Article 10(3) defines "dividends", Article 11(3) defines "interest")
+### 3.1. The Central Safeguard
 
-**Examples of defined terms** (not subject to Article 3(2)):
-| Article | Defined Terms |
-|---------|--------------|
-| 3(1)(a) | "person" |
-| 3(1)(b) | "company" |
-| 3(1)(d) | "enterprise" |
-| 4 | "resident" |
-| 5 | "permanent establishment" |
-| 10(3) | "dividends" |
-| 11(3) | "interest" |
-| 12(2) | "royalties" |
+The phrase "unless the context otherwise requires" is the critical safeguard in Article 3(2). It prevents domestic law from overriding the treaty's intended meaning by allowing courts to apply an autonomous international meaning rather than domestic law where context so requires.
 
-**Examples of undefined terms** (subject to Article 3(2)):
-- "beneficial owner" (though Commentary provides guidance)
-- "salaries, wages and other similar remuneration" (Article 15)
-- "immovable property" (Article 6 refers to domestic law of situs state)
-- Many technical terms used in distributive articles
+Context may "otherwise require" in several circumstances: when the OECD or UN Commentary provides an autonomous meaning; when the domestic law meaning would frustrate the treaty's object and purpose; when both Contracting States understood a common international meaning at treaty conclusion; when comparative treaty practice suggests an international meaning; or when using domestic law would cause double taxation or double non-taxation contrary to the treaty's purpose.
 
----
+### 3.2. What Constitutes Context
 
-## 3. THE "CONTEXT OTHERWISE REQUIRES" EXCEPTION
+Building on VCLT Article 31(2)-(3), "context" for Article 3(2) purposes includes multiple sources. The treaty text itself provides primary context through its preamble, other articles, and any definitions contained within the treaty. Related agreements such as protocols and exchanges of notes signed at treaty conclusion also form part of the interpretive context. The OECD and UN Commentaries, while not legally binding, provide authoritative guidance on treaty provisions and are regularly consulted by courts and tax administrations worldwide.
 
-### 3.1 The Central Safeguard
+Subsequent practice in the application of the treaty can illuminate how the parties understand particular terms. International consensus on generally accepted tax treaty meanings may inform interpretation, particularly where a term has acquired a settled international fiscal meaning distinct from any particular domestic law. Finally, the treaty's object and purpose—primarily the elimination of double taxation and prevention of abuse—serves as an important contextual consideration.
 
-The phrase "unless the context otherwise requires" is the **critical safeguard** in Article 3(2). It prevents domestic law from overriding the treaty's intended meaning.
+The OECD Commentary on Article 3, at paragraph 12, explains when context may "otherwise require": where application of domestic law would be contrary to the treaty's purpose, where the domestic law meaning conflicts with the Commentary, or where both States understood a common international meaning. The Commentary also notes that the term "context" should be given a wide meaning, recognising that the interpretation of provisions in a bilateral convention should take into account the international character of the convention.
 
-**When context may "otherwise require"**:
-1. OECD Commentary provides autonomous meaning
-2. Domestic law meaning would frustrate treaty purpose
-3. Both Contracting States understood a common meaning
-4. Comparative treaty practice suggests international meaning
-5. Using domestic law would cause double taxation or double non-taxation
+### 3.3. When Context Does and Does Not Require Autonomous Meaning
 
-### 3.2 What Constitutes "Context"?
+Context is more likely to require an autonomous meaning when the domestic law meaning would produce absurd results inconsistent with treaty purposes, when the OECD or UN Commentary expressly provides an autonomous definition (such as for "beneficial owner"), when both Contracting States appear to have understood the same meaning at treaty conclusion, or when applying domestic law would systematically advantage one State over the other.
 
-Building on VCLT Article 31(2)-(3), "context" includes:
+Context is less likely to require autonomous meaning when the domestic law meaning aligns with treaty purposes, when the term is purely technical with no international equivalent, when both parties clearly understood that domestic law would apply, or when the Commentary itself refers the matter to domestic law. *(examined in June 2023)*
 
-| Source | Examples |
-|--------|----------|
-| **Treaty text** | Preamble, other articles, definitions |
-| **Related agreements** | Protocols, exchanges of notes |
-| **OECD/UN Commentaries** | Guidance on treaty provisions |
-| **Subsequent practice** | How parties have applied the term |
-| **International consensus** | Generally accepted tax treaty meaning |
-| **Object and purpose** | Elimination of double taxation; prevention of abuse |
+### 3.4. The Avery Jones View
 
-### 3.3 The Avery Jones View
+Professor John Avery Jones, in his seminal 1984 article on Article 3(2) interpretation, argued that context should "otherwise require" when a domestic law amendment enlarges the taxing jurisdiction of the State making the amendment. Such enlargement would unilaterally change the treaty balance in a manner that good faith interpretation would not permit.
 
-Professor John Avery Jones argues that context should "otherwise require" when:
-- Domestic law amendment **enlarges the taxing jurisdiction** of the State making the amendment
-- This would **unilaterally change** the treaty balance
-- Good faith interpretation would not permit such expansion
+This view is supported by the principle that one contracting party should not be able to unilaterally modify treaty effects through domestic legislative action. Where a State amends its domestic law definition in a manner that expands its taxing rights beyond what the treaty contemplated, the "context otherwise requires" exception should prevent that expanded domestic definition from applying.
 
-As noted in the June 2023 exam solution: *"It is possible that an interpretation of a DTA term that is based on a domestic law meaning may go beyond the context of the DTA and as such the meaning would need to be considered in light of the relevant DTA's purposes."*
+Klaus Vogel, by contrast, regarded Article 3(2) as establishing domestic law as the default rule, with those seeking contextual interpretation bearing the burden of demonstrating that context requires departure from domestic law. This debate between the "English" position (favouring contextual interpretation) and the "German" position (favouring domestic law as default) continues to influence scholarship and judicial approaches.
 
-### 3.4 Examples: When Context Does/Does Not Require
+## 4. The "At That Time" Requirement: Ambulatory Interpretation
 
-**Context DOES require autonomous meaning**:
-- "Beneficial owner"—OECD Commentary provides autonomous international meaning
-- "Enterprise"—defined in Article 3(1)(d) but interpretation linked to treaty context
-- Terms where domestic law meaning would produce absurd results
+### 4.1. The 1995 Amendment
 
-**Context does NOT require (domestic law applies)**:
-- Terms with clear domestic tax law meaning that aligns with treaty purpose
-- Technical terms with no international equivalent
-- Where both parties understood domestic law would apply
+The phrase "at that time" was added to Article 3(2) in 1995 to clarify the interpretive approach. Prior to 1995, the text read simply "...have the meaning which it has under the law of that State..." The post-1995 text explicitly states "...have the meaning that it has at that time under the law of that State..."
+
+This amendment endorsed the ambulatory approach: the meaning of an undefined term is determined based on the domestic law in force when the Convention is being applied (when the tax is imposed), not the domestic law in force when the treaty was concluded. The OECD Commentary at paragraph 11 confirms this interpretation.
+
+For example, if a treaty was signed in 2000 when domestic law defined term "X" as meaning "A," and domestic law was amended in 2015 so that "X" now means "B," then when the treaty is applied in 2024, the term "X" means "B" under the ambulatory approach. This keeps treaty interpretation aligned with current domestic law rather than requiring historical research into what domestic law provided at treaty conclusion.
+
+### 4.2. Advantages and Concerns
+
+The ambulatory approach offers several advantages. The treaty keeps pace with evolving domestic law, so taxing provisions and treaty relief maintain the same scope (as Avery Jones has noted). Practical considerations favour the ambulatory approach since courts often lack access to historical law meanings. The treaty does not become frozen in time or outdated.
+
+However, concerns exist. A State could theoretically change the treaty's practical effect unilaterally by amending domestic law. This concern is addressed by the "context otherwise requires" safeguard, which should prevent abusive domestic law changes from overriding treaty intent. There may also be uncertainty for taxpayers when domestic law meanings change.
+
+The 1995 amendment also clarified that tax law meanings prevail over meanings under other laws. This ensures consistency between domestic taxing provisions and treaty relief, recognising that tax law definitions are typically more precise and relevant than general law definitions for treaty purposes.
+
+### 4.3. Pre-1995 Treaties
+
+For treaties based on the pre-1995 version of Article 3(2) (without "at that time"), the position is less clear. In *R v Melford Developments Inc* [1982], the Supreme Court of Canada applied a static approach, holding that Canada could not unilaterally change the treaty's effect through subsequent domestic law amendments. The Court stated that reading Article 3(2) otherwise would permit a contracting state to "unilaterally amend the tax Treaty from time to time as their domestic needs may dictate."
+
+Following *Melford*, Canada enacted the Income Tax Conventions Interpretation Act (RSC 1985, c I-4), providing specific interpretive rules for Canada's tax treaties. Despite the *Melford* decision and similar static approaches in some jurisdictions, the current international consensus generally favours ambulatory interpretation, particularly for treaties concluded after 1995 or those based on the current OECD Model text.
+
+## 5. Tax Laws Prevailing Over Other Laws
+
+The 1995 amendment added the clarification that tax law meanings prevail over meanings under other laws: "any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State."
+
+The rationale for this hierarchy is straightforward. Tax treaties deal with taxes, so tax law meanings are most relevant to their interpretation. This ensures consistency between domestic taxing provisions and treaty relief. Tax law definitions are typically more precise than general law definitions for treaty purposes. The OECD Commentary at paragraph 13.1 confirms this hierarchy.
+
+In practical application, if a term is defined in tax legislation, that definition applies. If a term is defined in both tax law and general law, the tax law definition prevails. If a term is defined only in general law, that definition applies but remains subject to the context test. If a term is not defined in any domestic law, courts may need to refer to ordinary meaning or contextual interpretation.
+
+## 6. Competent Authority Agreement
+
+Article 3(2) provides that competent authorities may agree a different meaning under Article 25 (MAP): "...unless... the competent authorities agree to a different meaning pursuant to the provisions of Article 25..."
+
+This mechanism allows resolution of interpretation disputes, ensures consistent interpretation between both States, and helps avoid double taxation arising from divergent interpretations. Competent authority agreements on meaning are binding on the tax authorities of both States, though whether they bind courts depends on the jurisdiction. Such agreements can be reached proactively or in response to specific cases, and published agreements provide useful guidance to taxpayers. *(covered in June 2024)*
+
+## 7. Relationship with the VCLT Framework
+
+### 7.1. Article 3(2) as Special Rule
+
+Article 3(2) has been described as a "special rule" relative to the VCLT general rules on treaty interpretation. The VCLT Articles 31-32 provide general rules for all treaty interpretation, while Article 3(2) provides a specific rule for undefined terms in double taxation conventions.
+
+However, Article 3(2) operates within the VCLT framework rather than replacing it. The proper approach integrates both: VCLT Article 31 principles (good faith, ordinary meaning, context, object and purpose) apply to the treaty as a whole; for undefined terms specifically, Article 3(2) is part of the treaty context; its "context otherwise requires" language invokes VCLT contextual interpretation; and if context does not require an autonomous meaning, the domestic law reference applies on an ambulatory basis. The OECD Commentary helps determine whether "context otherwise requires."
+
+A 2024 scholarly article (SSRN) argues persuasively that Article 3(2)'s reference to domestic law should not automatically override VCLT Articles 31 and 32. Instead, treaty interpretation should begin with the VCLT, using Article 3(2) as part of the context for understanding treaty terms.
+
+### 7.2. Article 3(2) and Treaty Override
+
+The question arises whether Article 3(2) permits what would otherwise constitute "treaty override." One view holds that Article 3(2) "bakes in" the possibility of domestic law changes affecting treaty meaning—this is anticipated by the treaty mechanism, not override. The ambulatory approach means both parties accepted that domestic law meanings may evolve.
+
+The contrary view maintains that changes going beyond treaty context or frustrating treaty purposes constitute impermissible override despite Article 3(2). The safeguard lies in the "context otherwise requires" exception, which should prevent abusive domestic law changes from overriding treaty intent. Where a domestic law amendment would expand taxing jurisdiction beyond what the treaty contemplated, context should require rejection of the new domestic meaning.
+
+## 8. Commentary Guidance and Case Law
+
+The OECD Commentary on Article 3(2) provides important guidance. Paragraph 11 addresses "at that time" and the ambulatory interpretation, confirming that meaning is determined based on law in force when the Convention is being applied. Paragraph 12 addresses context considerations, explaining when context may otherwise require an autonomous meaning. Paragraph 12.1 emphasises the role of object and purpose in determining whether context requires departure from domestic law. Paragraph 13 addresses reference to domestic law, while paragraph 13.1 confirms the hierarchy of tax law prevailing over other laws.
+
+Several key cases have shaped understanding of Article 3(2). In *R v Melford Developments Inc* [1982], the Supreme Court of Canada applied a static approach for the pre-1995 treaty text, holding that one party could not unilaterally amend treaty effects through domestic law changes. In *Lamesa Holdings BV* [1997], the Australian Federal Court considered use of domestic law meaning and foreign court decisions in treaty interpretation. In *Fowler v HMRC* [2020], the UK Supreme Court considered Article 3(2) application alongside OECD Commentary in determining whether domestic deeming provisions affected treaty classification. In *Alta Energy* [2021], the Supreme Court of Canada emphasised that treaty text remains primary, with domestic law reference subsidiary.
+
+Each State applies its own domestic law when applying Article 3(2), which means different interpretations may result in each State for the same undefined term. This can cause double taxation (if each State interprets a term broadly) or double non-taxation (if each State interprets narrowly). The competent authority mechanism exists precisely to address such divergent interpretations.
+
+## 9. Practical Implications of Article 3(2)
+
+### 9.1. The Dual Interpretation Problem
+
+One consequence of Article 3(2)'s design is that each Contracting State applies its own domestic law when interpreting undefined terms. This means that the same undefined term may receive different interpretations in each State, leading to potential mismatches in treaty application. For example, if State A interprets "income" broadly under its domestic law while State B interprets it narrowly, the same payment may be classified differently by each State.
+
+Such mismatches can produce double taxation if both States assert taxing rights based on their respective interpretations, or double non-taxation if neither State asserts jurisdiction. The competent authority mechanism under Article 25 provides the primary avenue for resolving such interpretive disputes, allowing the tax authorities of both States to reach a common understanding.
+
+### 9.2. Interaction with Specific Article Definitions
+
+Article 3(2) operates in conjunction with the specific definitions found throughout the treaty. Many distributive articles contain express references to domestic law—for instance, Article 6(2) provides that "immovable property" shall have the meaning it has under the law of the Contracting State in which the property is situated. Such express renvoi provisions operate independently of Article 3(2), directing interpretation to domestic law as a matter of treaty design rather than as a fallback for undefined terms.
+
+Other articles contain partial definitions that require supplementation. Article 10(3) defines "dividends" but uses terms within that definition (such as "shares" or "rights") that may themselves require interpretation. Luc De Broe and other scholars have argued that undefined terms within treaty definitions are themselves subject to Article 3(2), meaning domestic law may inform interpretation of subsidiary terms even where the primary term is defined.
+
+### 9.3. Recent Developments
+
+Article 3(2) has gained renewed significance as countries increasingly define terms in domestic law and rely on those definitions for treaty purposes. The question of whether such unilateral definitions should apply through Article 3(2) or whether "context otherwise requires" their rejection has become contentious in international tax practice.
+
+The relationship between Article 3(2) and the BEPS project also merits attention. The Multilateral Instrument (MLI) does not directly amend Article 3(2), but the interpretive questions it raises—particularly regarding terms introduced by the MLI but not defined therein—will be resolved through Article 3(2) mechanisms. Similarly, the 2025 Update to the OECD Model Tax Convention includes Commentary changes that may influence how "context" is understood for Article 3(2) purposes.
 
 ---
 
-## 4. THE "AT THAT TIME" REQUIREMENT: AMBULATORY INTERPRETATION
-
-### 4.1 The 1995 Amendment
-
-The phrase "at that time" was added to Article 3(2) in **1995** to clarify the interpretive approach:
-
-**Pre-1995 text**: *"...have the meaning which it has under the law of that State concerning the taxes..."*
-
-**Post-1995 text**: *"...have the meaning that it has AT THAT TIME under the law of that State..."*
-
-### 4.2 Ambulatory vs Static for Domestic Law Reference
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           AMBULATORY INTERPRETATION UNDER ART. 3(2)             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  "At that time" = meaning at time of APPLICATION                │
-│                   (not time of treaty conclusion)               │
-│                                                                 │
-│  EXAMPLE:                                                       │
-│  • Treaty signed in 2000                                        │
-│  • Domestic law term "X" defined as meaning "A" in 2000         │
-│  • Domestic law amended in 2015: "X" now means "B"              │
-│  • Treaty applied in 2024                                       │
-│                                                                 │
-│  Under ambulatory approach: "X" means "B" (2024 meaning)        │
-│  Under static approach: "X" would mean "A" (2000 meaning)       │
-│                                                                 │
-│  OECD Commentary [11]: The phrase "at that time" confirms       │
-│  that the meaning is determined based on law "in force when     │
-│  the Convention is being applied, i.e. when the tax is imposed" │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 4.3 Advantages and Concerns
-
-**Advantages of ambulatory approach**:
-1. Treaty keeps pace with evolving domestic law
-2. Taxing provisions and treaty relief have same scope (Avery Jones)
-3. Practical—no need to research historical law meanings
-4. Prevents treaty from becoming outdated
-
-**Concerns**:
-1. State could unilaterally change treaty effect by amending domestic law
-2. "Context otherwise requires" safeguard must prevent abuse
-3. May create uncertainty for taxpayers
-
-As the June 2023 exam noted: *"The actual wording of Article 3(2) is an ambulatory interpretation of the domestic law, which requires the meaning of the term to be determined at the time of application of the DTA as opposed to applying the meaning at the time the DTA was signed."*
-
-### 4.4 Pre-1995 Treaties
-
-For treaties based on the **pre-1995** version of Article 3(2) (without "at that time"):
-- Position is less clear
-- Some courts applied static approach (*R v Melford Development Inc*, Canada)
-- Current consensus generally favours ambulatory even for older treaties
-
----
-
-## 5. "TAX LAWS... PREVAILING OVER OTHER LAWS"
-
-### 5.1 The 1995 Clarification
-
-The 1995 amendment also added the clarification that **tax law meanings prevail** over meanings under other laws:
-
-*"...any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State."*
-
-### 5.2 Rationale
-
-Why tax law meanings prevail:
-- Treaties deal with taxes—tax law meanings most relevant
-- Ensures consistency between domestic taxing provisions and treaty relief
-- Tax law definitions typically more precise than general law definitions
-- OECD Commentary [13.1] confirms this hierarchy
-
-### 5.3 Practical Application
-
-| Scenario | Which Law Applies |
-|----------|------------------|
-| Term defined in tax legislation | Tax law definition |
-| Term defined in tax law AND general law | Tax law definition prevails |
-| Term defined only in general law | General law definition (but subject to context test) |
-| Term not defined in any domestic law | May need to refer to ordinary meaning/context |
-
----
-
-## 6. COMPETENT AUTHORITY AGREEMENT
-
-### 6.1 The Alternative Route
-
-Article 3(2) provides that competent authorities may agree a **different meaning** under Article 25 (MAP):
-
-*"...unless... the competent authorities agree to a different meaning pursuant to the provisions of Article 25..."*
-
-This allows:
-- Resolution of interpretation disputes
-- Consistent interpretation between both States
-- Avoidance of double taxation from divergent interpretations
-
-### 6.2 Status of CA Agreements
-
-CA agreements on meaning:
-- Binding on the tax authorities of both States
-- May or may not bind courts (depends on jurisdiction)
-- Can be reached proactively or in response to specific case
-- Published agreements provide guidance to taxpayers
-
----
-
-## 7. RELATIONSHIP WITH VCLT AND CHAPTER 5.1-5.3
-
-### 7.1 Article 3(2) as "Special Rule"
-
-Article 3(2) has been described as a **special rule** relative to the VCLT general rules (Dourado et al, 2022):
-
-| Rule | Scope |
-|------|-------|
-| VCLT Articles 31-32 | General rules for all treaty interpretation |
-| Article 3(2) OECD MTC | Special rule for undefined terms in DTCs |
-
-However, Article 3(2) operates **within** the VCLT framework—it does not replace VCLT principles.
-
-### 7.2 Integration with VCLT
-
-The proper approach integrates both:
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           INTEGRATED VCLT / ARTICLE 3(2) APPROACH               │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. Apply VCLT Article 31 (good faith, ordinary meaning,        │
-│     context, object and purpose) to the treaty as a whole       │
-│                                                                 │
-│  2. For UNDEFINED terms specifically:                           │
-│     • Article 3(2) is PART OF the treaty context                │
-│     • Its "context otherwise requires" language invokes         │
-│       VCLT contextual interpretation                            │
-│     • If context does NOT require autonomous meaning,           │
-│       domestic law reference applies (ambulatory)               │
-│                                                                 │
-│  3. OECD Commentary helps determine whether "context            │
-│     otherwise requires"                                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 7.3 Article 3(2) and Treaty Override
-
-The June 2023 exam explored whether Article 3(2) permits "treaty override":
-
-**View 1**: Article 3(2) "bakes in" the possibility of domestic law changes affecting treaty meaning—this is anticipated, not override (Elliffe, 2022).
-
-**View 2**: Changes that go beyond treaty context or frustrate treaty purposes constitute impermissible override, despite Article 3(2).
-
-**Safeguard**: The "context otherwise requires" exception prevents abusive domestic law changes from overriding treaty intent.
-
----
-
-## 8. PRACTICAL APPLICATION
-
-### 8.1 Step-by-Step Approach for Exam Questions
-
-When asked to interpret an undefined term:
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│       APPLYING ARTICLE 3(2) IN EXAM SCENARIOS                   │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. CONFIRM term is undefined in treaty                         │
-│     • Check Article 3(1) and specific article definitions       │
-│     • State: "The term [X] is not defined in the Convention"    │
-│                                                                 │
-│  2. CONSIDER whether context otherwise requires                 │
-│     • Is there OECD/UN Commentary guidance?                     │
-│     • Is there an autonomous international meaning?             │
-│     • Would domestic law meaning frustrate treaty purpose?      │
-│                                                                 │
-│  3. If context does NOT require autonomous meaning:             │
-│     • Apply domestic law of State applying treaty               │
-│     • Tax law meaning prevails over other laws                  │
-│     • Use meaning "at that time" (current meaning)              │
-│                                                                 │
-│  4. NOTE potential for CA agreement                             │
-│     • Competent authorities may agree different meaning         │
-│                                                                 │
-│  5. ADDRESS implications                                        │
-│     • Different meanings may apply in each State                │
-│     • May cause double taxation or non-taxation                 │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 8.2 Common Exam Scenarios
-
-| Scenario | Article 3(2) Application |
-|----------|-------------------------|
-| "What does [undefined term] mean?" | Full Article 3(2) analysis |
-| "Can State X apply its new domestic definition?" | "Context otherwise requires" analysis |
-| "The term is defined differently in each State" | Each State applies its own law; may cause issues |
-| "Is this treaty override?" | Consider whether context permits domestic change |
-
----
-
-## 9. COMMENTARY GUIDANCE
-
-### 9.1 Key Commentary Paragraphs
-
-The OECD Commentary on Article 3(2) provides important guidance:
-
-| Paragraph | Topic |
-|-----------|-------|
-| [11] | "At that time"—ambulatory interpretation |
-| [12] | Context considerations |
-| [12.1] | Role of object and purpose |
-| [13] | Reference to domestic law |
-| [13.1] | Tax law prevailing over other laws |
-
-### 9.2 Commentary [12]: Context Analysis
-
-Commentary [12] explains when context may "otherwise require":
-- Where application of domestic law would be contrary to treaty purpose
-- Where domestic law meaning conflicts with OECD Commentary
-- Where both States understood a common international meaning
-
----
-
-## 10. KEY CASES
-
-| Case | Jurisdiction | Key Point |
-|------|-------------|-----------|
-| **R v Melford Development Inc** [1982] | Canada (SCC) | Pre-1995 static approach applied |
-| **Lamesa Holdings BV** [1997] | Australia | Domestic law meaning vs treaty purpose |
-| **Fowler v HMRC** [2020] | UK (SC) | Considered Article 3(2) application |
-| **Alta Energy** [2021] | Canada (SCC) | Treaty text primary; domestic law reference |
-
----
-
-## 11. KEY TAKEAWAYS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              APPLICATION OF ARTICLE 3(2)                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. APPLIES TO: Undefined terms only                            │
-│     • If defined in treaty, Article 3(2) not needed             │
-│                                                                 │
-│  2. HIERARCHY:                                                  │
-│     Treaty definition > Context/autonomous > CA agreement >     │
-│     Domestic law                                                │
-│                                                                 │
-│  3. "CONTEXT OTHERWISE REQUIRES" is the safeguard               │
-│     • Prevents domestic law from overriding treaty intent       │
-│     • OECD Commentary informs what context requires             │
-│                                                                 │
-│  4. "AT THAT TIME" = AMBULATORY                                 │
-│     • Meaning at time of application, not treaty conclusion     │
-│     • Added in 1995 amendment                                   │
-│                                                                 │
-│  5. TAX LAW PREVAILS over other domestic laws                   │
-│     • Also clarified in 1995 amendment                          │
-│                                                                 │
-│  6. COMPETENT AUTHORITIES may agree different meaning           │
-│     • Under Article 25 MAP                                      │
-│                                                                 │
-│  7. EACH STATE applies its OWN domestic law                     │
-│     • May result in different interpretations                   │
-│     • Can cause double taxation or non-taxation                 │
-│                                                                 │
-│  8. Article 3(2) is SPECIAL RULE within VCLT framework          │
-│     • Does not replace VCLT; operates within it                 │
-│                                                                 │
-│  9. UN MDTC Article 3(2) is IDENTICAL to OECD MTC               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 12. CONNECTIONS TO OTHER TOPICS
-
-### 12.1 Building on Previous Notes
-
-This chapter builds on:
-- **Chapter 5.1 (General Approach)**: Article 3(2) implements the autonomous vs domestic law balance
-- **Chapter 5.2 (VCLT)**: Article 3(2) is special rule within VCLT framework
-- **Chapter 5.3 (Commentaries)**: Commentary helps determine "context"
-
-### 12.2 Connections to Later Chapters
-
-This chapter connects to:
-- **Chapter 5.5 (Competent Authority)**: CA proceedings can resolve interpretation issues
-
----
-
-## REFERENCES
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Article 3(2) and Commentary
-- UN Model Double Taxation Convention (2021), Article 3(2)
-- Vienna Convention on the Law of Treaties (1969), Articles 31-32
-
-**Secondary Sources**:
-- Avery Jones, J.F. et al. "The Interpretation of Tax Treaties with Particular Reference to Article 3(2)" (1984)
-- Vogel, K. *Klaus Vogel on Double Taxation Conventions* (5th ed., Reimer & Rust, 2022)
-- Lang, M. *Introduction to the Law of Double Taxation Conventions* (3rd ed., 2021)
-- Elliffe, C. "Preventing Unacceptable Tax Treaty Overrides" (2022)
-- Dourado, A.P. et al. on Article 3(2) as special rule (2022)
-
-**Key Cases**:
-- *R v Melford Development Inc* [1982] 2 SCR 504
-- *Lamesa Holdings BV v Commissioner of Taxation* [1997] 77 FCR 597
-- *Fowler v HMRC* [2020] UKSC 22
-- *Alta Canada v Alta Energy Luxembourg S.A.R.L* [2021] SCC 49
-
-**Exam Resources**:
-- June 2024 Module 1 Suggested Solutions (Q2)
-- June 2023 Module 1 Suggested Solutions (Q4)—treaty override and Article 3(2)
-- December 2023 Module 1 Suggested Solutions (Q1)
-
----
-
-*This note covers syllabus topic II.E.4: Application of Article 3(2), OECD MTC and UN MDTC (Level 3). Article 3(2) is the gateway provision for interpreting undefined treaty terms and understanding its operation is essential for all DTC interpretation questions.*
+*Part II - Double Taxation Conventions*
