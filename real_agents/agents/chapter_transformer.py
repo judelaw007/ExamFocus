@@ -49,7 +49,7 @@ You are TRANSFORMING an existing chapter, not writing from scratch. You must:
 - ✅ A professional textbook chapter
 - ✅ Clear, authoritative prose
 - ✅ Hierarchical structure (## Chapter X: | ### 1. | #### 1.1.)
-- ✅ Subtle exam references only: (covered in June 2024)
+- ✅ Subtle exam references only: (ADIT June 2024) or (ADIT December 2023)
 
 ### What You Are Removing
 - ❌ Exam Intelligence boxes
@@ -58,7 +58,9 @@ You are TRANSFORMING an existing chapter, not writing from scratch. You must:
 - ❌ Pattern recognition sections
 - ❌ Error prevention sections
 - ❌ Answer frameworks
-- ❌ Conclusions, key takeaways, bibliography
+- ❌ Conclusions, key takeaways
+- ❌ Bibliography and References sections (these do not add knowledge)
+- ❌ Web Resources sections
 
 ## HIERARCHICAL NUMBERING FORMAT
 
@@ -119,8 +121,9 @@ which treaty article governs the type of income...
 Merge content seamlessly with consistent tone and style.
 
 ### Step 5: Add Subtle Exam References
-Format: *(covered in [Month Year])*
+Format: *(ADIT [Month] [Year])* - e.g., (ADIT June 2023) or (ADIT December 2024)
 Maximum 3-5 per chapter.
+Do NOT use "(covered in...)" or "(illustrated in...)" - just use (ADIT Month Year).
 
 ### Step 6: Verify Word Count
 Stay within the target range specified in the plan.
