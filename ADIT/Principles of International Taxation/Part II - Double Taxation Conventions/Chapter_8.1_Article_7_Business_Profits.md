@@ -112,7 +112,7 @@ The connection to Base Erosion and Profit Shifting (BEPS) Action 4 (interest lim
 
 The OECD issued 2025 Commentary updates addressing remote work and digital business models. When employees work remotely from another jurisdiction, the remote location may constitute a PE if thresholds are met. For profit attribution, the location where significant people functions are performed remains determinative—if key decision-makers work remotely from State S, functions and risks should be attributed to a PE in State S.
 
-Updates also address digital PEs under revised Article 5 (BEPS Action 7), clarifying that profit attribution should focus on automated functions and platform value, considering where digital content is created and user engagement occurs. This evolves traditional FAR analysis for minimal physical but substantial economic presence (as covered in June 2023).
+Updates also address digital PEs under revised Article 5 (BEPS Action 7), clarifying that profit attribution should focus on automated functions and platform value, considering where digital content is created and user engagement occurs. This evolves traditional FAR analysis for minimal physical but substantial economic presence (ADIT June 2023).
 
 ---
 
@@ -164,7 +164,7 @@ UN Model Article 7(1) Alternative B allows source state taxation of not only PE-
 - (b) sales in that State of goods or merchandise of **same or similar kind** as those sold through the PE; or
 - (c) other business activities in that State of **same or similar kind** as those effected through the PE.
 
-Under force of attraction, the 50 of direct sales would be taxable in State S if goods are same or similar kind as PE sales. The rule "attracts" to source jurisdiction income similar to PE activities, even if not conducted through the PE (illustrated in December 2023).
+Under force of attraction, the 50 of direct sales would be taxable in State S if goods are same or similar kind as PE sales. The rule "attracts" to source jurisdiction income similar to PE activities, even if not conducted through the PE (ADIT December 2023).
 
 The UN approach favours source and developing countries by preventing manipulation of sales channels. Once a PE exists, the source state has comprehensive jurisdiction over similar activities, reducing tax avoidance opportunities.
 
@@ -210,27 +210,6 @@ Both Article 7 and Article 9 (associated enterprises) apply arm's length princip
 
 **Article 9** allocates profits between separate legal entities (parent-subsidiary, related companies) associated through ownership or control. These are actual contractual transactions between distinct persons.
 
-The interaction has been examined in distinguishing arm's length principle application to separate entities versus permanent establishments (as covered in June 2023). While both apply similar economic analysis based on functions, assets, and risks, the legal relationships differ fundamentally.
+The interaction has been examined in distinguishing arm's length principle application to separate entities versus permanent establishments (ADIT June 2023). While both apply similar economic analysis based on functions, assets, and risks, the legal relationships differ fundamentally.
 
 Recent Pillar One developments, particularly Amount B addressing baseline marketing and distribution (finalized February 2024), may influence both articles. Amount B provides simplified approaches for routine distribution functions. While designed for Article 9, principles may inform Article 7 profit attribution when PEs perform comparable functions, offering potential safe harbour approaches reducing disputes.
-
----
-
-#### 9. References
-
-**Primary Sources:**
-- OECD Model Tax Convention 2017, Article 7 and Commentary
-- UN Model Double Taxation Convention 2021, Article 7 and Commentary
-- OECD, Report on the Attribution of Profits to Permanent Establishments (2010)
-- OECD, Additional Guidance on Attribution of Profits to PEs under BEPS Action 7 (2018)
-- OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (2022)
-- OECD, Tax Challenges Arising from the Digitalisation of the Economy – Amount B (2024)
-
-**Recent Developments:**
-- OECD Model Tax Convention Commentary Updates (2025)
-- Hyatt International v. Commissioner of Income Tax, Supreme Court of India (2025)
-
-**Web Resources:**
-- OECD Model Tax Convention 2017: https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/12/model-tax-convention-on-income-and-on-capital-condensed-version-2017_g1g8769b/mtc_cond-2017-en.pdf
-- OECD Additional Guidance 2018: https://www.oecd.org/en/publications/additional-guidance-on-the-attribution-of-profits-to-a-permanent-establishment-under-beps-action-7_b4251c9d-en.html
-- TPGuidelines Article 7 Overview: https://tpguidelines.com/article-7/

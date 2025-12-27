@@ -55,8 +55,9 @@ class TransformationPlanner(BaseAgent[TransformationPlan]):
 - Textbook-style prose
 - Hierarchical numbering (1., 1.1., 1.1.1.)
 - No visible exam statistics
-- Subtle exam references only: (covered in June 2024)
-- No conclusions, key takeaways, bibliography
+- Subtle exam references only: (ADIT June 2024) or (ADIT December 2023)
+- No conclusions, key takeaways
+- No bibliography, references, or web resources sections (these do not add knowledge)
 - Content informed by exam analysis but not displaying it
 
 ## YOUR TASK
@@ -131,7 +132,7 @@ Output valid JSON:
     }
   ],
   "subtle_exam_references": [
-    {"section": "1.1.2", "reference": "(covered in June 2024)"}
+    {"section": "1.1.2", "reference": "(ADIT June 2024)"}
   ],
   "word_count_strategy": {
     "target_min": number,
@@ -201,7 +202,7 @@ Current word count: ~{current_word_count}
 4. **Map structure** - Current headings → new hierarchical numbering
 5. **Plan old notes integration** - If available, what to incorporate
 6. **Identify content gaps** - What's missing that syllabus requires
-7. **Plan exam references** - Where to add (covered in [Month Year])
+7. **Plan exam references** - Where to add (ADIT [Month] [Year])
 8. **Word count strategy** - How to reach target range
 9. **Checklist for Agent 4.2** - What to verify
 
