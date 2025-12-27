@@ -1,476 +1,151 @@
 # Chapter 6.2: Scope of a DTC – Article 2: Taxes Covered
 
-## EXAM INTELLIGENCE
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Topic: Article 2: Taxes Covered
-Syllabus Level: 3 (Advanced)
-Syllabus Reference: II.F.2
-Exam Frequency: MODERATE – Often assumed in DTC questions; explicitly tested with new taxes
-Past Appearances: June 2023 Q5 (digital taxes as "substantially similar"); various DTC scenarios
-Mark Range: 5-10 marks (as part of broader questions)
-Time Allocation: 10-15 minutes
-Strategic Priority: ★★★☆☆ MODERATE – Essential foundation, rarely standalone
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## 1. Material Scope: Purpose and Function
 
-## 1. INTRODUCTION: THE MATERIAL SCOPE
+While Article 1 defines the personal scope of a double taxation convention (who is covered), Article 2 defines the material scope (what taxes are covered). Together, these provisions establish the boundaries of treaty application. A treaty can only operate if both scope requirements are satisfied: the person must fall within Article 1, and the tax in question must fall within Article 2.
 
-### 1.1 Purpose of Article 2
+The fundamental question Article 2 answers is which taxes the Convention applies to. This is not merely a technical preliminary; it determines whether treaty protections are available at all. If a tax falls outside Article 2's scope, no treaty relief is available, source State taxing rights are not limited, and residence State credit or exemption obligations do not apply. The characterisation of a tax as covered or not covered can therefore determine the entire outcome of a cross-border taxation dispute.
 
-While Article 1 defines the **personal scope** (who is covered), Article 2 defines the **material scope** (what taxes are covered). Together, these provisions determine the boundaries of a DTC's application.
+The practical significance of Article 2 has grown considerably with the emergence of novel taxes that do not fit neatly within traditional income tax frameworks. Digital services taxes, equalisation levies, and diverted profits taxes present challenges precisely because their coverage under Article 2 is uncertain, and this uncertainty may be by design.
 
-**Key question Article 2 answers**:
-> **"Which taxes fall within the scope of this treaty?"**
+## 2. Article 2 Text and Structure
 
-### 1.2 Why Material Scope Matters
+### 2.1. Article 2(1): General Scope
 
-Understanding Article 2 is critical because:
-- DTCs only apply to **covered taxes**—not all taxes
-- New taxes (e.g., digital services taxes) may or may not be covered
-- Some provisions (e.g., exchange of information, non-discrimination) may have broader scope
-- Errors in identifying covered taxes can invalidate treaty analysis
+Article 2(1) of the OECD Model Tax Convention 2017 provides: "This Convention shall apply to taxes on income and on capital."
 
-### 1.3 Position in DTC Structure
+This concise formulation establishes the general category of covered taxes. The Convention does not apply to all taxes—only to taxes on income and taxes on capital. Consumption taxes, transaction taxes, customs duties, and excise duties fall outside this scope entirely.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│            DTC SCOPE PROVISIONS                                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ARTICLE 1: PERSONAL SCOPE                                      │
-│  → WHO is covered? (Residents of Contracting States)            │
-│                                                                 │
-│  ARTICLE 2: MATERIAL SCOPE                                      │
-│  → WHAT TAXES are covered? (Taxes on income and capital)        │
-│                                                                 │
-│  Together = Complete scope definition                           │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+The choice of terminology is deliberate. The Model avoids the term "direct taxes" because of its imprecision across different legal systems. Instead, it focuses on the tax base: is the tax computed on income, or on capital? This functional approach accommodates diverse tax systems while providing a workable criterion for determining coverage.
 
----
+### 2.2. Article 2(2): Defining Covered Taxes
 
-## 2. ARTICLE 2 TEXT AND STRUCTURE
+Article 2(2) provides a more detailed definition: "There shall be regarded as taxes on income and on capital all taxes imposed on total income, on total capital, or on elements of income or of capital, including taxes on gains from the alienation of movable or immovable property, taxes on the total amounts of wages or salaries paid by enterprises, as well as taxes on capital appreciation."
 
-### 2.1 Full Text (OECD MTC 2017)
+This paragraph serves two functions. First, it clarifies that taxes on elements of income or capital—not only comprehensive income or wealth taxes—are covered. A tax on rental income, dividend income, or business profits qualifies, even if it does not apply to all income. Second, it specifically includes certain taxes that might otherwise generate doubt: taxes on capital gains, payroll taxes calculated on wages, and taxes on capital appreciation.
 
-**Article 2(1) – General Scope**:
-> *"This Convention shall apply to taxes on income and on capital."*
+The inclusion of payroll taxes illustrates the functional approach. A tax imposed on enterprises calculated by reference to wages paid is treated as a tax on income because wages constitute income to the recipients. The tax base derives from income, so the tax falls within scope.
 
-**Article 2(2) – Definition**:
-> *"There shall be regarded as taxes on income and on capital all taxes imposed on total income, on total capital, or on elements of income or of capital, including taxes on gains from the alienation of movable or immovable property, taxes on the total amounts of wages or salaries paid by enterprises, as well as taxes on capital appreciation."*
+### 2.3. Article 2(3): Existing Taxes Enumerated
 
-**Article 2(3) – Existing Taxes**:
-> *"The existing taxes to which the Convention shall apply are in particular:*
-> *a) (in State A): ...*
-> *b) (in State B): ..."*
+Article 2(3) requires each Contracting State to enumerate the existing taxes to which the Convention applies. The text provides a template: "The existing taxes to which the Convention shall apply are in particular: (a) (in State A): ... (b) (in State B): ..."
 
-**Article 2(4) – Future Taxes**:
-> *"The Convention shall apply also to any identical or substantially similar taxes that are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws."*
+This enumeration serves several purposes. It provides legal certainty about which specific taxes are covered at the time of treaty signature. It creates an authoritative snapshot against which future taxes can be compared. And it ensures that both parties have a common understanding of the Convention's scope.
 
-### 2.2 The Four-Paragraph Structure
+The phrase "in particular" is significant. It indicates that the enumerated list is illustrative rather than exhaustive. Other taxes meeting the Article 2(1)-(2) criteria are also covered, even if not expressly listed. This provides flexibility while maintaining clarity about the primary taxes in contemplation.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│               ARTICLE 2 - FOUR PARAGRAPH STRUCTURE              │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  PARAGRAPH 1: GENERAL DESCRIPTION                               │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Convention applies to "taxes on income and on capital"       │
-│  • Broad statement of material scope                            │
-│  • Sets the general category of covered taxes                   │
-│                                                                 │
-│  PARAGRAPH 2: DETAILED DEFINITION                               │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Taxes on TOTAL income or capital                             │
-│  • Taxes on ELEMENTS of income or capital                       │
-│  • Specifically includes:                                       │
-│    - Gains from alienation of property                          │
-│    - Wages/salaries taxes (payroll taxes)                       │
-│    - Capital appreciation taxes                                 │
-│                                                                 │
-│  PARAGRAPH 3: EXISTING TAXES LISTED                             │
-│  ─────────────────────────────────────────────────────────────  │
-│  • Specific enumeration of taxes in each State                  │
-│  • At time of treaty signature                                  │
-│  • "In particular" = not exhaustive                             │
-│                                                                 │
-│  PARAGRAPH 4: FUTURE TAXES                                      │
-│  ─────────────────────────────────────────────────────────────  │
-│  • "Identical or substantially similar" taxes                   │
-│  • Imposed AFTER signature                                      │
-│  • In ADDITION to, or in PLACE of, existing taxes               │
-│  • Notification obligation for significant changes              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+Most treaties enumerate the main direct taxes of each jurisdiction: income tax, corporation tax, capital gains tax (where separately imposed), and net wealth taxes (in jurisdictions that levy them). Local income taxes are typically included where they exist.
 
----
+### 2.4. Article 2(4): Future Taxes
 
-## 3. ARTICLE 2(1)-(2): DEFINING COVERED TAXES
+Article 2(4) addresses the evolution of tax systems: "The Convention shall apply also to any identical or substantially similar taxes that are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws."
 
-### 3.1 "Taxes on Income and on Capital"
+Without this provision, treaties would become obsolete as tax systems changed. Every amendment to income tax legislation, every new tax introduced, would potentially require treaty renegotiation. Article 2(4) avoids this by providing automatic extension of treaty coverage to taxes that are identical or substantially similar to those covered at signature.
 
-The core requirement is that the tax must be imposed on **income** or **capital**:
+The notification obligation in the second sentence complements this automatic extension. By requiring competent authorities to inform each other of significant changes, it ensures both States remain aware of developments affecting treaty application and enables timely resolution of coverage disputes.
 
-| Category | Examples |
-|----------|----------|
-| **Taxes on income** | Corporate income tax, personal income tax, withholding taxes on dividends/interest/royalties |
-| **Taxes on capital** | Net wealth tax, property tax, inheritance tax (in some models) |
-| **Taxes on elements of income** | Tax on specific types of income (rental income, business profits) |
-| **Taxes on elements of capital** | Tax on specific assets (real property, securities) |
+## 3. What Constitutes a Tax on Income or Capital
 
-### 3.2 What Makes a Tax "On Income or Capital"?
+### 3.1. The Base Test
 
-**Commentary [2]-[3]** provides guidance:
+The core criterion for coverage is whether the tax is imposed on income or capital, or calculated by reference to income or capital. Commentary paragraph 2 confirms that what matters is not the formal classification of a tax but its actual base.
 
-The key test is the **basis of the tax**—is it computed on income or capital, or some element thereof?
+A tax formally labelled something other than "income tax" may nonetheless be covered if it is in substance a tax on income. Conversely, a charge formally called an "income tax" might not be covered if its actual base differs. The inquiry is substantive, not nominalist.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           IS THE TAX COVERED BY ARTICLE 2?                      │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  QUESTION 1: Is the tax imposed on income or capital?           │
-│              (or elements thereof)                              │
-│              ↓                                                  │
-│  If YES → Likely covered                                        │
-│  If NO → Not covered                                            │
-│                                                                 │
-│  QUESTION 2: Is the tax computed by reference to income         │
-│              or capital?                                        │
-│              ↓                                                  │
-│  If YES → Likely covered                                        │
-│  If NO → Consider whether "substantially similar"               │
-│                                                                 │
-│  QUESTION 3: Is the tax levied by central or local government?  │
-│              ↓                                                  │
-│  Article 2 covers taxes by ALL levels of government             │
-│  (Commentary [1])                                               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+The base test asks: what is the tax computed on? If the answer is income (including profit, gain, or some element thereof), the tax is likely covered. If the answer is capital (including net worth, property value, or some element thereof), the tax is likely covered. If the answer is something else—consumption, transactions, turnover unrelated to profit—the tax likely falls outside scope.
 
-### 3.3 Taxes NOT Covered
+### 3.2. Taxes Excluded from Scope
 
-| Tax Type | Why Not Covered |
-|----------|-----------------|
-| **VAT/GST** | Tax on consumption, not income or capital |
-| **Customs duties** | Tax on imports, not income or capital |
-| **Excise duties** | Tax on specific goods, not income or capital |
-| **Stamp duties** (generally) | Tax on transactions, not income or capital (but see exceptions) |
-| **Social security contributions** | Usually not covered (but see Commentary [3]) |
+Certain categories of taxes clearly fall outside Article 2. Value added tax and goods and services tax are taxes on consumption, not income or capital. Customs duties are taxes on imports. Excise duties are taxes on specific goods or activities. Stamp duties, while sometimes approaching transaction taxes on capital transfers, are generally excluded unless specifically included by a treaty.
 
-**Exception**: Some bilateral treaties specifically include or exclude certain taxes.
+Social security contributions present a more nuanced case. Commentary paragraph 3 indicates that whether such contributions fall within scope depends on each scheme's characteristics. Generally, contributions that function as earmarked taxes funding specific benefits rather than general revenue are not covered. Most jurisdictions address cross-border social security issues through separate Totalization Agreements rather than income tax treaties.
 
-### 3.4 Commentary Guidance
+### 3.3. Taxes at All Levels of Government
 
-**Commentary [2]**:
-> *"The Convention applies to taxes on income and on capital. It is immaterial on behalf of which authorities, whether the State itself or its political subdivisions or local authorities, the tax is levied."*
+Commentary paragraph 1 confirms that Article 2 covers taxes levied by all levels of government: the central or federal government, political subdivisions (states, provinces, regions), and local authorities (municipalities, communes). The identity of the levying authority is irrelevant; what matters is whether the tax falls within the material scope.
 
-**Commentary [3]** on social security contributions:
-> *"As regards compulsory contributions to social security schemes... the question of whether or not such contributions fall within the scope of the Convention will depend on the characteristics of each scheme..."*
+This is particularly important in federal systems. German Gewerbesteuer (trade tax) levied by municipalities, Swiss cantonal income taxes, and US state income taxes all fall within treaty scope alongside federal taxes, provided they qualify as taxes on income or capital.
+
+## 4. The "Substantially Similar" Test
+
+### 4.1. Identical Taxes
+
+A tax is "identical" to an existing covered tax when it is essentially the same tax under a different name, a merger of previously separate taxes into one, or a clear legislative replacement of an existing tax. These cases present no interpretive difficulty—the coverage simply continues.
+
+### 4.2. Substantially Similar Taxes
+
+The more challenging question arises when a new tax differs from existing taxes but may be "substantially similar." Commentary paragraph 8 provides limited guidance, noting that the test compares the new tax to existing taxes enumerated in Article 2(3), not to the general definition in Article 2(1)-(2).
+
+Several factors inform the substantial similarity analysis. The first is the tax base: does the new tax use the same or similar base as existing income or capital taxes? The second is methodology: is the tax computed using similar principles, such as deduction of expenses, recognition of losses, or application of rates to taxable income? The third is purpose: does the tax serve a similar fiscal function—raising revenue from economic activity or wealth?
+
+A tax that shares these characteristics with existing covered taxes is likely substantially similar. A tax that departs significantly—using gross revenue instead of profit, applying without expense deduction, or serving primarily regulatory rather than revenue purposes—may fall outside the scope.
+
+### 4.3. Notification Obligation
+
+The Article 2(4) notification requirement facilitates application of the substantial similarity test. When a Contracting State introduces a significant tax change, it should notify the other State's competent authority. This enables discussion of whether the new tax is covered and prevents disputes from emerging only when taxpayers seek treaty relief.
+
+The notification obligation is not a condition of coverage; failure to notify does not render a tax uncovered. But compliance with the obligation supports orderly treaty administration and reflects good faith implementation.
+
+## 5. Contemporary Challenges: Novel Taxes
+
+### 5.1. Digital Services Taxes
+
+Digital services taxes have emerged as the most prominent contemporary challenge to Article 2. DSTs typically apply to revenue derived from digital services—online advertising, digital marketplaces, data sales—without allowance for expenses. They target gross revenue rather than profit and often apply regardless of whether the enterprise is profitable.
+
+The question whether DSTs are "substantially similar" to income taxes generates arguments on both sides. Proponents of coverage argue that DSTs ultimately tax income earned from digital activities, serve a similar fiscal purpose to income taxes, and are imposed in addition to existing income taxes. Opponents argue that the gross revenue base differs fundamentally from income, the absence of expense deduction distinguishes DSTs from profit-based taxation, and the methodology is closer to turnover taxes than income taxes.
+
+Most commentators and tax authorities appear to conclude that DSTs are not covered taxes under existing treaty Article 2 provisions. The gross revenue base and absence of expense deduction distinguish DSTs from income taxes sufficiently to fail the substantial similarity test.
+
+### 5.2. The India Equalization Levy
+
+India's Equalization Levy illustrates deliberate design to avoid treaty coverage. The 2% EL (abolished August 2024 for transactions on or after that date, though the 6% EL on online advertising remains) was introduced through the Finance Act rather than as an amendment to the Income Tax Act. This legislative choice meant the levy was not formally an income tax, precluding treaty relief claims.
+
+The design created what critics describe as juridical double taxation: the levy applied to gross revenue from digital services regardless of profitability, with no treaty protection available and no foreign tax credit mechanism in many home jurisdictions. The foreign enterprise paid both the EL in India and income tax on the same revenue in its residence State.
+
+This approach raises fundamental questions about the integrity of the treaty network. If countries can circumvent treaty obligations simply by designing new taxes to fall outside Article 2, the purpose of treaties in preventing double taxation is undermined.
+
+### 5.3. UK Diverted Profits Tax
+
+The UK's Diverted Profits Tax, introduced in 2015 at a rate of 25% (higher than the then-20% corporation tax rate), similarly was designed as a separate charge outside the corporation tax system. HMRC's position is that DPT is not covered by existing double taxation treaties, denying access to treaty benefits including the Mutual Agreement Procedure.
+
+This design created practical difficulties. Enterprises subject to DPT could not invoke treaties to challenge UK taxation or seek relief from double taxation through competent authority proceedings. The UK government announced in April 2025 that it would repeal DPT and bring an equivalent charge within corporation tax, specifically to enable treaty access. This reform, expected to take effect in 2026, acknowledges that exclusion from treaty coverage creates problems for both tax authorities and taxpayers.
+
+### 5.4. Implications of Non-Coverage
+
+When a tax falls outside Article 2, several consequences follow. No treaty limitation applies to the source State's taxing rights; the State may impose whatever rate and base its domestic law prescribes. No relief obligation arises for the residence State; Articles 23A and 23B do not require credit or exemption for a non-covered tax. No access to Mutual Agreement Procedure exists under Article 25, as that mechanism applies only to "taxation not in accordance with the provisions of this Convention."
+
+However, certain treaty provisions may still apply. Article 24 on non-discrimination often extends to "taxes of every kind and description" in paragraph 6, potentially covering taxes outside Article 2's scope. Article 26 on exchange of information similarly may extend beyond covered taxes in many treaty formulations.
+
+The practical effect is significant. Enterprises subject to non-covered taxes face potential double taxation without treaty relief, and their only recourse may be domestic unilateral relief mechanisms, if any exist, or claims under non-discrimination provisions where applicable.
+
+## 6. Extended Scope Provisions
+
+Certain treaty articles extend beyond the material scope of Article 2. Article 24(6) on non-discrimination typically provides that the non-discrimination principle applies to "taxes of every kind and description imposed on behalf of a Contracting State or a political subdivision or local authority thereof." This deliberately broader language ensures that discriminatory taxation cannot escape treaty scrutiny simply by being imposed through a tax outside Article 2's scope.
+
+Article 26 on exchange of information similarly may extend to all taxes, depending on treaty formulation. Many modern treaties and the OECD standard provide for exchange of information relevant to taxes of every kind, enabling tax authorities to share information concerning taxes not otherwise covered by the Convention.
+
+Article 27 on assistance in collection, where included, may likewise extend beyond Article 2 taxes. These extended scope provisions reflect that certain forms of cooperation—preventing discrimination, sharing information, assisting collection—serve purposes transcending the specific relief mechanisms that depend on Article 2 coverage.
+
+The US Model takes a distinctive approach, not including a general description of covered taxes in Article 2(1)-(2) but instead listing only specific taxes. This approach confines automatic extension to taxes identical or substantially similar to specifically enumerated taxes, potentially creating a narrower scope than the OECD Model's functional approach.
+
+## 7. UN Model and Developing Country Perspective
+
+The UN Model Double Taxation Convention 2021 follows the OECD Model structure for Article 2. Paragraphs 1 through 4 are essentially identical, reflecting consensus that the material scope definition should be uniform across both Models.
+
+Differences between the Models emerge in substantive provisions—the allocation of taxing rights under distributive articles—rather than in scope provisions. The UN Model's general orientation toward preserving source State taxing rights does not affect the threshold question of which taxes the treaty covers.
+
+From a developing country perspective, Article 2 considerations arise in several contexts. Many developing countries rely substantially on transaction taxes, customs duties, and consumption taxes that fall outside treaty scope. Their income and capital tax systems may be less comprehensive or more frequently reformed than those of developed countries, creating more instances where the substantial similarity test must be applied.
+
+The design of novel taxes to fall outside treaty scope, exemplified by India's Equalization Levy approach, may appeal to developing countries seeking to tax digital economy activities without triggering treaty constraints. However, this approach risks undermining the treaty network's coherence and inviting retaliatory measures or trade disputes.
+
+The Platform for Collaboration on Tax has emphasised the importance of treaty network integrity while acknowledging developing countries' legitimate concerns about taxing the digital economy. The tension between these considerations remains unresolved pending implementation of Pillar One or alternative mechanisms.
+
+The OECD Inclusive Framework attempted to address DST proliferation through a political standstill. In July 2023, 138 countries agreed not to impose new DSTs through December 2024, pending finalisation of the Pillar One Multilateral Convention. However, with Pillar One implementation delayed and the standstill expiring, countries have resumed unilateral measures. Canada's DST entered into force in 2024 with retrospective effect from January 2022. The future of Article 2's role in constraining novel taxes depends significantly on whether multilateral solutions emerge or whether unilateral measures continue to proliferate.
+
+The interaction between Article 2 and broader international tax developments illustrates the provision's continued relevance. What might seem a technical preliminary—determining which taxes a treaty covers—becomes central when countries design taxes specifically to avoid treaty constraints. The evolution of Article 2 jurisprudence and practice will shape the effectiveness of the entire treaty network in addressing contemporary challenges.
 
 ---
 
-## 4. ARTICLE 2(3): EXISTING TAXES
-
-### 4.1 Purpose of the Enumeration
-
-Article 2(3) requires each Contracting State to **list** the existing taxes to which the Convention applies. This serves several purposes:
-- Provides **legal certainty** about which taxes are covered
-- Acts as a **snapshot** at the time of signature
-- Uses "in particular" = **non-exhaustive** list
-
-### 4.2 Typical Taxes Listed
-
-| State | Typical Taxes Listed |
-|-------|---------------------|
-| **Most countries** | Income tax, corporation tax |
-| **Some countries** | Local income taxes, capital gains tax |
-| **Countries with net wealth taxes** | Wealth tax, property tax |
-
-### 4.3 "In Particular"
-
-The phrase "in particular" in Article 2(3) is important:
-- The list is **illustrative**, not exhaustive
-- Other taxes meeting the Article 2(1)-(2) criteria are also covered
-- Provides flexibility for unlisted taxes
-
----
-
-## 5. ARTICLE 2(4): FUTURE TAXES
-
-### 5.1 The Continuity Principle
-
-Article 2(4) ensures that DTCs remain relevant as tax systems evolve:
-- Treaties would become obsolete if they only covered taxes existing at signature
-- New taxes that are "identical or substantially similar" are automatically covered
-- No need to renegotiate the treaty for every tax change
-
-### 5.2 "Identical or Substantially Similar"
-
-This is the **key interpretive issue** under Article 2:
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│         "IDENTICAL OR SUBSTANTIALLY SIMILAR" TEST               │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  IDENTICAL:                                                     │
-│  • Same tax with different name                                 │
-│  • Merger of existing taxes into one                            │
-│  • Clear replacement of existing tax                            │
-│                                                                 │
-│  SUBSTANTIALLY SIMILAR:                                         │
-│  • Same base (income or capital)                                │
-│  • Same or similar methodology                                  │
-│  • Same or similar purpose                                      │
-│  • Imposed in addition to or in place of existing tax           │
-│                                                                 │
-│  NOT SUBSTANTIALLY SIMILAR:                                     │
-│  • Different tax base entirely                                  │
-│  • Novel methodology unrelated to income/capital                │
-│  • Different fiscal purpose                                     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 5.3 Commentary Guidance on Article 2(4)
-
-**Commentary [8]**:
-> *"Paragraph 4 provides that the Convention applies also to taxes that are imposed after the signature of the Convention in a Contracting State in addition to, or in place of, an existing tax of that State if such taxes are identical or substantially similar to the existing taxes..."*
-
-The Commentary emphasizes:
-- The test is whether the **new tax** is identical or substantially similar to **existing taxes**
-- Not whether the new tax is covered by the general definition in Article 2(1)-(2)
-- This creates potential gaps for truly novel taxes
-
-### 5.4 Notification Obligation
-
-Article 2(4) second sentence requires:
-> *"The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws."*
-
-This ensures:
-- Both States are aware of changes
-- Disputes about coverage can be addressed promptly
-- Transparency in treaty application
-
----
-
-## 6. CONTEMPORARY ISSUE: DIGITAL SERVICES TAXES
-
-### 6.1 The Challenge
-
-Digital Services Taxes (DSTs) present a significant challenge for Article 2:
-- Are DSTs "taxes on income" or something else?
-- Are they "substantially similar" to existing income taxes?
-- If not covered, what are the implications?
-
-### 6.2 June 2023 Exam Reference
-
-The June 2023 exam explicitly addressed this issue:
-> *"Whether [a tax] is a 'covered tax' for DTA purposes and more specifically whether it is an 'identical or substantially similar tax' for the purposes of Article 2."* (Rajgopalan, 2020)
-
-### 6.3 Arguments For and Against Coverage
-
-| DSTs ARE Covered | DSTs Are NOT Covered |
-|------------------|---------------------|
-| Ultimately a tax on income earned from digital services | Calculated on gross revenue, not income |
-| Similar purpose to income tax (taxing business profits) | No deduction for expenses |
-| Imposed in addition to existing income taxes | Novel methodology not related to income taxes |
-| Some DSTs use turnover as proxy for profit | Base is revenue/turnover, not income or capital |
-
-### 6.4 Practical Implications
-
-If a DST is **NOT** a covered tax:
-- No treaty relief available
-- No limitation on source State's taxing rights
-- No double taxation relief under Article 23
-- BUT: Non-discrimination (Article 24) may still apply (broader scope)
-
-If a DST **IS** a covered tax:
-- Treaty applies normally
-- Source State taxing rights may be limited
-- Double taxation relief available
-
----
-
-## 7. BROADER SCOPE FOR CERTAIN ARTICLES
-
-### 7.1 Articles with Extended Material Scope
-
-Some treaty provisions apply to taxes **beyond** those covered by Article 2:
-
-| Article | Scope |
-|---------|-------|
-| **Article 24 (Non-discrimination)** | May apply to "taxes of every kind and description" (paragraph 6) |
-| **Article 26 (Exchange of Information)** | May apply to "taxes of every kind" (in many treaties) |
-| **Article 27 (Assistance in Collection)** | May extend beyond income/capital taxes |
-
-### 7.2 US Model Approach
-
-The US Model takes a **different approach** to Article 2:
-- Does not contain a general description of covered taxes
-- Only lists **specific taxes** for each State
-- Separate broader provisions for Articles 24 and 26
-
----
-
-## 8. ARTICLE 2: UN MDTC DIFFERENCES
-
-### 8.1 Comparison
-
-| Element | OECD MTC | UN MDTC |
-|---------|----------|---------|
-| **Paragraph 1** | Taxes on income and capital | Identical |
-| **Paragraph 2** | Definition | Identical |
-| **Paragraph 3** | Existing taxes listed | Identical approach |
-| **Paragraph 4** | Future taxes | Identical |
-
-The UN Model follows the OECD structure closely for Article 2.
-
-### 8.2 Developing Country Considerations
-
-Developing countries may have:
-- More varied tax structures
-- More frequent tax reforms
-- Greater reliance on transaction taxes (customs, excise) not covered by DTCs
-
----
-
-## 9. EXAM APPLICATION
-
-### 9.1 How Article 2 Appears in Exams
-
-Article 2 typically appears in:
-1. **DTC application scenarios** – confirming the tax is covered before analysis
-2. **New/novel tax questions** – is a DST or similar tax covered?
-3. **Treaty interpretation questions** – meaning of "substantially similar"
-
-### 9.2 Answer Framework
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│        ARTICLE 2 EXAM ANSWER FRAMEWORK                          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. STATE THE PROVISION (1 mark)                                │
-│     "Article 2 defines the material scope of the Convention,    │
-│     specifying which taxes are covered."                        │
-│                                                                 │
-│  2. IDENTIFY THE TAX IN QUESTION (1-2 marks)                    │
-│     • What is the tax?                                          │
-│     • Is it on income, capital, or something else?              │
-│                                                                 │
-│  3. APPLY ARTICLE 2(1)-(2) (2-3 marks)                          │
-│     • Is it a tax on income or capital?                         │
-│     • Is it on total or elements of income/capital?             │
-│     • Is it listed in Article 2(3)?                             │
-│                                                                 │
-│  4. IF NEW TAX – APPLY ARTICLE 2(4) (2-3 marks)                 │
-│     • Was it imposed after treaty signature?                    │
-│     • Is it "identical or substantially similar"?               │
-│     • Consider base, methodology, purpose                       │
-│                                                                 │
-│  5. CONCLUDE (1 mark)                                           │
-│     • Is the treaty applicable to this tax?                     │
-│     • If not covered, note implications                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### 9.3 Common Exam Errors
-
-| Error | Correction |
-|-------|------------|
-| Assuming all taxes are covered | Only taxes on income and capital are covered |
-| Ignoring Article 2 in DTC analysis | Always confirm material scope before applying treaty |
-| Treating Article 2(3) as exhaustive | "In particular" means illustrative, not exhaustive |
-| Applying Article 2(4) incorrectly | Test is similarity to existing taxes, not to general definition |
-
----
-
-## 10. KEY TAKEAWAYS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│           ARTICLE 2 - ESSENTIAL POINTS FOR EXAM                 │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  1. MATERIAL SCOPE: Article 2 defines WHICH TAXES are covered   │
-│     • Only taxes on income and capital (or elements thereof)    │
-│     • VAT, customs, excise are NOT covered                      │
-│                                                                 │
-│  2. FOUR PARAGRAPHS:                                            │
-│     • 2(1): General scope – taxes on income and capital         │
-│     • 2(2): Definition – includes gains, wages taxes, etc.      │
-│     • 2(3): Existing taxes listed ("in particular")             │
-│     • 2(4): Future taxes – "identical or substantially similar" │
-│                                                                 │
-│  3. "IDENTICAL OR SUBSTANTIALLY SIMILAR" (Article 2(4)):        │
-│     • Ensures treaty remains relevant as tax laws change        │
-│     • Test: Is new tax similar to EXISTING taxes?               │
-│     • Key exam issue: Are DSTs covered?                         │
-│                                                                 │
-│  4. DST/DIGITAL TAX CHALLENGE:                                  │
-│     • June 2023 exam tested this                                │
-│     • Arguments both ways                                       │
-│     • If not covered → no treaty relief                         │
-│                                                                 │
-│  5. BROADER SCOPE FOR SOME ARTICLES:                            │
-│     • Article 24 (Non-discrimination): all taxes                │
-│     • Article 26 (EOI): all taxes                               │
-│                                                                 │
-│  6. PRACTICAL APPLICATION:                                      │
-│     • Always confirm material scope before applying treaty      │
-│     • Don't assume – check Article 2(3) list                    │
-│     • For new taxes – apply "substantially similar" test        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 11. CONNECTIONS TO OTHER TOPICS
-
-### 11.1 Within Topic 6 (Scope Provisions)
-
-| Chapter | Connection to Article 2 |
-|---------|------------------------|
-| **6.1 Article 1** | Personal scope complements material scope |
-| **6.3 Article 29** | Entitlement to benefits—presumes Article 2 satisfied |
-| **6.4 Entry/Termination** | When Article 2 starts and stops applying |
-
-### 11.2 Broader DTC Framework
-
-| Topic | Connection |
-|-------|------------|
-| **Distributive Rules (Articles 6-22)** | Only apply if tax is covered by Article 2 |
-| **Exchange of Information (Article 26)** | May have broader material scope |
-| **Non-discrimination (Article 24)** | May apply to taxes beyond Article 2 scope |
-| **Digital Economy** | DST coverage is key contemporary issue |
-
----
-
-## REFERENCES
-
-**Primary Sources**:
-- OECD Model Tax Convention (2017), Article 2 and Commentary
-- UN Model Double Taxation Convention (2021), Article 2 and Commentary
-- OECD, The 2025 Update to the OECD Model Tax Convention (2025)
-
-**Secondary Sources**:
-- IBFD, "Taxes Covered under Article 2 of the OECD Model" (2020)
-- Rajgopalan on DSTs and "substantially similar" taxes (2020)
-- Vogel, K. on material scope of DTCs
-
-**Exam Resources**:
-- June 2023 Module 1 Q5—Digital taxes and "substantially similar" test
-- Various DTC application scenarios
-
----
-
-*This note covers syllabus topic II.F.2: Article 2: Taxes Covered (Level 3). Article 2 defines the material scope of a DTC, specifying that the Convention applies to taxes on income and on capital. The key interpretive issue is whether new taxes (particularly digital services taxes) are "identical or substantially similar" to existing taxes under Article 2(4). Some provisions like non-discrimination and exchange of information may have broader material scope.*
+*Part II - Double Taxation Conventions*
+*Previous Chapter: 6.1 - Article 1: Persons Covered*
+*Next Chapter: 6.3 - Article 29: Entitlement to Benefits*
