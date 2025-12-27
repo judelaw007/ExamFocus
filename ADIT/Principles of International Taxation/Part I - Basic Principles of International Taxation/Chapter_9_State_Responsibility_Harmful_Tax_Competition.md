@@ -1,550 +1,80 @@
-# Chapter 9: State Responsibility in International Tax – The Development of the Concept of Harmful Tax Competition
-
----
-
-```
-EXAM INTELLIGENCE: Harmful Tax Competition
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Reference: I - State responsibility in international tax –
-                    the development of the concept of harmful tax competition
-Syllabus Level: 2 (Detailed knowledge and application)
-
-Past Exam Occurrences (2022-2025):
-  • December 2023 Q3 (25 marks): FHTP work, evolution, challenges
-  • June 2023 Q1: References to BEPS minimum standards including Action 5
-  • December 2022: Preferential regimes context
-  • June/December 2024: Action 5 references, substance requirements
-  • June 2025: Nexus approach, preferential regime discussions
-  • Referenced in 7+ exam papers across 2022-2025
+## Chapter 9: State Responsibility in International Tax – The Development of the Concept of Harmful Tax Competition
 
-Frequency: HIGH - Appears directly or contextually in most exam sittings
-Mark Range: 10-25 marks per question
-Time Allocation: 20-40 minutes
+### 1. Tax Competition and State Responsibility
 
-Examiner Focus:
-  • 1998 OECD Report and original criteria
-  • BEPS Action 5 as Minimum Standard
-  • FHTP workstreams and peer review process
-  • Modified nexus approach for IP regimes
-  • Substance requirements in no/nominal tax jurisdictions
-  • Evolution of harmful tax practice concept
+Tax competition refers to the use of tax policy by states to attract mobile capital, investment, or economic activities from other jurisdictions. As capital has become increasingly mobile in the modern economy, states have competed to offer attractive tax environments, raising fundamental questions about the limits of fiscal sovereignty and whether states bear responsibility for the effects of their tax policies on other jurisdictions.
 
-Strategic Priority: ★★★★☆ HIGH
-  → Level 2 with frequent exam testing
-  → Links to BEPS framework (Chapter 7.2)
-  → Foundation for understanding tax avoidance measures
-  → Know FHTP structure and current work programme
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. INTRODUCTION: STATE RESPONSIBILITY AND TAX COMPETITION
-
-### 1. The Concept of Tax Competition
-
-Tax competition refers to the use of tax policy by states to attract mobile capital, investment, or activities from other jurisdictions. This phenomenon has both positive and negative aspects:
-
-| Aspect | Positive View | Negative View |
-|--------|---------------|---------------|
-| **Economic** | Promotes efficiency; disciplines government spending | Race to the bottom; revenue erosion |
-| **Sovereignty** | Reflects legitimate policy choice | Undermines other states' tax bases |
-| **Investment** | Attracts foreign direct investment | Distorts allocation of capital |
-| **Development** | Tool for developing countries | Benefits mobile capital over immobile factors |
-
-### 2. When Does Tax Competition Become "Harmful"?
-
-The key question is distinguishing **legitimate** tax competition from **harmful** tax practices:
-
-```
-TAX COMPETITION SPECTRUM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#### 1.1. The Concept of Tax Competition
 
-LEGITIMATE TAX COMPETITION           HARMFUL TAX PRACTICES
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  Low general       Preferential     Ring-fenced      Tax        │
-│  tax rates         regimes with     regimes          havens     │
-│                    substance        lacking          with no    │
-│                                     transparency     substance  │
-│                                                                 │
-│  ← Generally       ← FHTP scrutiny → ← Harmful →               │
-│    accepted                                                     │
-│                                                                 │
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+From one perspective, tax competition is a legitimate exercise of fiscal sovereignty that promotes efficiency and disciplines government spending. States may reasonably choose different levels of taxation reflecting their preferences for public services versus private consumption, and competition ensures that governments cannot extract excessive rents from taxpayers. From another perspective, tax competition can trigger a race to the bottom that erodes all states' revenue bases, distorts the allocation of capital toward low-tax rather than high-productivity locations, and shifts the tax burden from mobile capital to immobile factors such as labour and consumption.
 
-KEY DISTINCTION:
-• Low general tax rates ≠ harmful (legitimate sovereignty)
-• Ring-fenced preferential regimes = potentially harmful
-• No substance + no transparency = harmful
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+This debate frames the development of international standards distinguishing legitimate tax competition from harmful tax practices. The critical insight is that low tax rates are not themselves harmful—states retain sovereign authority to set their general tax rates at whatever level they choose. What becomes potentially harmful is the combination of low or preferential rates with other features that facilitate base erosion and profit shifting, particularly the absence of substantial economic activity and the lack of transparency.
 
-### 3. State Responsibility in Public International Law
+#### 1.2. State Responsibility in Fiscal Matters
 
-Traditional public international law provides limited constraints on tax sovereignty. However, the concept of "harmful tax competition" represents an emerging norm of **state responsibility** in fiscal matters:
+Traditional public international law provides limited constraints on tax sovereignty. However, the concept of harmful tax competition represents an emerging norm of state responsibility in fiscal matters. The underlying principle is that states should not adopt practices that unduly erode other states' tax bases by providing mechanisms for profits to be shifted out of jurisdictions where economic activity occurs. This responsibility is enforced not through binding international law but through soft law standards developed primarily by the OECD and implemented through peer review mechanisms that create reputational consequences for non-compliance.
 
-- States should not adopt practices that unduly erode other states' tax bases
-- International cooperation required to address cross-border tax avoidance
-- Soft law standards (OECD) have developed quasi-binding character through peer review
+### 2. The 1998 OECD Report
 
----
+The OECD's 1998 report "Harmful Tax Competition: An Emerging Global Issue" was the first comprehensive international effort to address harmful tax practices. The report emerged from concerns about increased capital mobility in the 1990s, the growth of offshore financial centres, and recognition that unilateral measures by individual countries could not effectively address cross-border tax avoidance.
 
-## B. THE 1998 OECD REPORT: FOUNDATION OF THE CONCEPT
+#### 2.1. Two Categories of Harmful Practices
 
-### 1. Background and Context
+The report distinguished between two categories of harmful practices. Tax havens were defined as jurisdictions with no or nominal taxes that offer themselves as places to escape tax otherwise due in other jurisdictions. These jurisdictions may have no interest in whether taxpayers have genuine economic activity there and may actively resist sharing information with other tax authorities. Preferential tax regimes were defined as regimes within otherwise normal tax systems that provide preferential treatment to certain activities or income types, typically mobile financial or intangible income that can readily be shifted between jurisdictions.
 
-The OECD's landmark report **"Harmful Tax Competition: An Emerging Global Issue"** (1998) was the first comprehensive international effort to address harmful tax practices.
+#### 2.2. The Original Criteria
 
-**Driving factors:**
-- Increased capital mobility in 1990s
-- Growth of offshore financial centres
-- Concerns about tax base erosion in OECD countries
-- Recognition that unilateral measures insufficient
+The 1998 report established criteria for identifying tax havens. The starting point was no or only nominal taxation, which was not harmful in itself but triggered assessment against additional criteria. Lack of effective exchange of information meant refusal to provide information to other tax authorities, often reinforced by bank secrecy laws. Lack of transparency meant non-transparent operation of legislative, legal, or administrative provisions, including secret rulings and negotiated tax rates. The fourth criterion was no substantial activity requirement, meaning tolerance of brass plate companies with no real economic activity.
 
-### 2. The Report's Two Categories
+For preferential regimes within OECD member countries, the report identified ring-fencing from the domestic economy as a key indicator—regimes that benefited only non-residents or foreign income while excluding domestic taxpayers. Other indicators included absence of substantial activity requirements, lack of transparency in how benefits were granted, and failure to exchange information about taxpayers benefiting from the regime.
 
-The 1998 Report distinguished between:
+### 3. Evolution of the Framework
 
-| Category | Definition | Examples |
-|----------|------------|----------|
-| **Tax Havens** | Jurisdictions with no or nominal taxes offering themselves as places to escape tax | Traditional offshore centres |
-| **Preferential Tax Regimes** | Regimes within otherwise normal tax systems that provide preferential treatment | Patent boxes, holding company regimes |
+#### 3.1. Early Challenges and the Substance Retreat
 
-### 3. Original Tax Haven Criteria (1998)
+The 1998 initiative faced significant challenges in its early years. Most significantly, the new US administration in 2001 withdrew support for the substance criterion, arguing that it inappropriately constrained legitimate tax competition. Many tax havens challenged the legitimacy of OECD standards, arguing that they had no voice in developing rules that would affect their economies. Small states argued they were being discriminated against by larger countries that had their own preferential regimes.
 
-The 1998 Report established four criteria for identifying tax havens:
+In response to these challenges, the OECD effectively abandoned the substance criterion and shifted focus to transparency and information exchange. The framework became primarily about ensuring that jurisdictions would share information with other tax authorities rather than about whether taxpayers had genuine economic activity in low-tax jurisdictions.
 
-```
-1998 TAX HAVEN CRITERIA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#### 3.2. Shift to Transparency Focus
 
-Criterion 1: NO OR ONLY NOMINAL TAXES
-             • The starting point
-             • Not harmful in itself, but triggers other criteria
+Throughout the 2000s, the harmful tax practices agenda focused on transparency. The OECD developed the model Tax Information Exchange Agreement as a template for bilateral agreements requiring jurisdictions to exchange information on request. The Global Forum on Transparency and Exchange of Information in Tax Matters was established to monitor compliance with information exchange standards through peer review. By 2009, under G20 pressure in the aftermath of the financial crisis, virtually all significant financial centres had committed to implementing the internationally agreed tax standard for information exchange.
 
-Criterion 2: LACK OF EFFECTIVE EXCHANGE OF INFORMATION
-             • Refusal to provide information to other tax authorities
-             • Bank secrecy laws
-             • Nominee arrangements
+#### 3.3. BEPS Reinvigoration
 
-Criterion 3: LACK OF TRANSPARENCY
-             • Non-transparent operation of legislative, legal or
-               administrative provisions
-             • Secret rulings
-             • Negotiated tax rates
+The G20/OECD Base Erosion and Profit Shifting Project, launched in 2013 and completed in 2015, reinvigorated the harmful tax practices agenda with renewed emphasis on substance. BEPS Action 5 on countering harmful tax practices more effectively became one of the four BEPS minimum standards that all Inclusive Framework members committed to implement and that would be subject to peer review. Critically, Action 5 restored the substance requirement that had been abandoned in the early 2000s, reflecting recognition that transparency alone was insufficient to address profit shifting to jurisdictions without genuine economic activity (covered in December 2023).
 
-Criterion 4: NO SUBSTANTIAL ACTIVITIES REQUIREMENT
-             • Tolerates "brass plate" companies
-             • No real economic activity needed
-             • NOTE: Withdrawn in 2001 after US objections
+### 4. BEPS Action 5: The Current Framework
 
-Post-2001: "Two of three" criteria (excluding Criterion 4)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 4.1. The Two Workstreams
 
-### 4. Preferential Regime Criteria (1998)
+BEPS Action 5 established two parallel workstreams. The first addresses preferential regimes, reviewing IP regimes and other preferential arrangements to ensure they meet substance requirements. The second addresses transparency, establishing a framework for compulsory spontaneous exchange of information on tax rulings between jurisdictions. Both workstreams are administered by the Forum on Harmful Tax Practices and are subject to peer review by the Inclusive Framework.
 
-For identifying harmful preferential regimes within OECD countries:
+#### 4.2. Modified Nexus Approach for IP Regimes
 
-| Factor | Description |
-|--------|-------------|
-| **Ring-fencing** | Regime isolated from domestic economy; benefits only non-residents or foreign income |
-| **No substantial activity** | Benefits available without requirement for real presence |
-| **Lack of transparency** | Preferential treatment negotiated or granted without clear criteria |
-| **No information exchange** | Information on taxpayers not shared with other states |
+For IP regimes such as patent boxes and innovation boxes, BEPS Action 5 introduced the modified nexus approach. The core principle is that tax benefits from IP income must be linked to the research and development expenditure incurred by the taxpayer that generated the IP. This uses expenditure as a proxy for substantial activity—if a taxpayer performed or funded the R&D activities that created the IP, the benefits are available; if the taxpayer merely acquired the IP or had related parties perform the R&D, benefits are limited.
 
----
+The approach operates through a formula that calculates qualifying income based on the ratio of qualifying expenditure to overall expenditure. Qualifying expenditure includes R&D costs incurred directly by the taxpayer or outsourced to unrelated parties at arm's length. Overall expenditure includes all costs to develop the IP, including acquisition costs and related-party R&D costs. A thirty percent uplift allows some credit for related-party or acquisition costs, up to thirty percent of qualifying expenditure, recognising that complete exclusion of such costs would be excessively restrictive.
 
-## C. EVOLUTION: FROM 1998 TO BEPS
+The practical effect is that an entity that performs its own R&D or outsources to independent contractors receives the full benefit of an IP regime. An entity that merely acquires IP or has related parties perform R&D receives limited benefits proportionate to any direct expenditure it incurred. This ensures that IP regime benefits flow to entities with genuine R&D activities rather than to holding structures that have acquired or been assigned intellectual property.
 
-### 1. Early Challenges (1998-2006)
+#### 4.3. Substance Requirements for Non-IP Regimes
 
-The 1998 initiative faced significant challenges:
+For non-IP preferential regimes including headquarters regimes, holding company regimes, and financing regimes, BEPS Action 5 requires substantial activity in the jurisdiction. Entities must undertake core income-generating activities in the jurisdiction, maintain adequate employees with appropriate qualifications, have adequate physical presence, and incur adequate expenditure proportionate to their activities.
 
-| Challenge | Impact |
-|-----------|--------|
-| **US position change (2001)** | Bush administration withdrew support for substance criterion |
-| **Tax haven resistance** | Many jurisdictions challenged legitimacy of OECD standards |
-| **Sovereignty arguments** | Small states argued discrimination |
-| **Definition difficulties** | Distinguishing harmful from legitimate competition |
+These requirements have been extended to jurisdictions with no or only nominal taxation, even absent preferential regimes. Entities in such jurisdictions must demonstrate economic substance appropriate to their activities—taking strategic decisions for headquarters functions, making investment decisions for holding companies, managing risks and maintaining capital for financing activities, and so forth. Many of these jurisdictions have enacted economic substance legislation to comply with international standards.
 
-### 2. Shift to Transparency Focus (2000s)
+### 5. The Forum on Harmful Tax Practices
 
-After US objections, the FHTP shifted focus from tax rates to **transparency and information exchange**:
+The Forum on Harmful Tax Practices is the OECD body responsible for implementing Action 5. It reviews preferential tax regimes submitted by member jurisdictions, monitors jurisdictions with no or only nominal taxation, administers the transparency framework for spontaneous exchange of rulings, and conducts peer reviews of compliance with the minimum standard.
 
-- Emphasis on exchange of information agreements
-- Development of TIEA (Tax Information Exchange Agreement) model
-- Global Forum on Transparency established (2000)
-- Peer review of information exchange compliance
+Since the BEPS project began, the FHTP has reviewed over three hundred preferential regimes. More than forty percent have been abolished or amended to comply with the nexus approach or substance requirements. The remaining regimes have been assessed as not harmful or are in the process of being amended. The FHTP also conducts annual monitoring of jurisdictions with no or only nominal taxation, currently including Anguilla, Bahamas, Bahrain, Barbados, Bermuda, British Virgin Islands, Cayman Islands, Guernsey, Isle of Man, Jersey, and Turks and Caicos Islands. The United Arab Emirates was removed from this list after introducing a nine percent corporate income tax in 2023.
 
-### 3. Reinvigoration Through BEPS (2013-2015)
+### 6. Challenges and Future Directions
 
-The G20/OECD BEPS Project (Chapter 7.2) reinvigorated the harmful tax practices agenda:
+The FHTP faces ongoing challenges in its work. Ensuring consistent implementation across more than one hundred forty Inclusive Framework jurisdictions requires significant monitoring resources. Tax planning practices continue to evolve in response to new rules, and the FHTP must adapt its framework to address emerging structures. Developing countries often lack the administrative capacity to implement sophisticated substance requirements or participate effectively in information exchange. The line between legitimate and harmful tax competition remains contested, with some jurisdictions arguing that the framework unduly constrains their development options.
 
-**BEPS Action 5: Counter Harmful Tax Practices More Effectively**
+The relationship between the harmful tax practices framework and Pillar Two of the two-pillar solution raises important questions about future direction. Pillar Two's global minimum tax of fifteen percent directly addresses low-taxed income by allowing parent jurisdictions to impose top-up tax on subsidiaries taxed below the minimum rate. This may reduce the importance of traditional FHTP work on preferential regimes, since enterprises within scope of Pillar Two will face at least fifteen percent tax regardless of where they book profits. However, the FHTP continues as a complementary framework, and substance requirements remain relevant even with a minimum tax—an entity with genuine R&D activity may deserve different treatment than a brass plate holding company, even if both face the same minimum effective rate (covered in June 2025).
 
-This became one of the **four BEPS Minimum Standards**, meaning:
-- All Inclusive Framework members must implement
-- Subject to peer review
-- Renewed focus on **substance** (not just transparency)
+The harmful tax practices framework represents a significant evolution in international tax cooperation. From its origins in the 1998 report through the transparency focus of the 2000s to the reinvigorated substance requirements under BEPS, the concept of state responsibility in fiscal matters has developed from an aspirational principle to an operational framework with peer review mechanisms that create meaningful accountability for participating jurisdictions.
 
----
-
-## D. BEPS ACTION 5: THE CURRENT FRAMEWORK
-
-### 1. Two Main Workstreams
-
-BEPS Action 5 established two parallel workstreams:
-
-```
-BEPS ACTION 5 STRUCTURE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-                    BEPS ACTION 5
-                    (Minimum Standard)
-                          │
-          ┌───────────────┴───────────────┐
-          │                               │
-          ▼                               ▼
-    WORKSTREAM 1:                   WORKSTREAM 2:
-    PREFERENTIAL REGIMES            TRANSPARENCY
-
-    • Review of IP regimes          • Spontaneous exchange of
-    • Modified nexus approach         tax rulings
-    • Substance requirements        • Rulings on preferential regimes
-    • Non-IP regimes review         • Cross-border rulings
-                                    • PE rulings
-                                    • TP rulings
-
-    OUTCOME: Regime assessment      OUTCOME: Rulings database
-             (harmful/not harmful)           & exchange framework
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. The Modified Nexus Approach for IP Regimes
-
-For IP regimes (patent boxes, innovation boxes), BEPS Action 5 introduced the **modified nexus approach**:
-
-**Core principle:**
-Tax benefits from IP income must be linked to the R&D expenditure incurred by the taxpayer that generated the IP.
-
-**The Formula:**
-
-```
-              Qualifying Expenditure (+ 30% uplift)
-Qualifying = ─────────────────────────────────────── × Overall IP Income
-  Income            Overall Expenditure
-```
-
-**Where:**
-- **Qualifying expenditure**: R&D costs incurred directly by taxpayer or unrelated parties
-- **30% uplift**: Allows some credit for related-party or acquisition costs (up to 30% of qualifying expenditure)
-- **Overall expenditure**: Total costs to develop IP (including acquisition, related-party costs)
-
-```
-EXAM TIP: Modified Nexus Approach
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The KEY POINT is that nexus approach uses EXPENDITURE as a
-PROXY for substantial activity.
-
-✓ You did the R&D yourself → Full benefit
-✓ You outsourced to third party → Full benefit (arm's length)
-✗ You acquired IP → Limited benefit (only via 30% uplift)
-✗ Related-party R&D → Limited benefit (only via 30% uplift)
-
-This ensures benefits go to entities with REAL R&D activities,
-not those that merely acquire or hold IP.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 3. Non-IP Preferential Regimes
-
-For non-IP regimes (headquarters regimes, holding company regimes, financing regimes):
-
-**General substantial activity requirement:**
-- Must demonstrate genuine economic activity
-- Core income-generating activities (CIGA) must be performed
-- Personnel and facilities appropriate to activities
-
-### 4. Transparency: Compulsory Spontaneous Exchange of Rulings
-
-The transparency framework requires exchange of information on:
-
-| Type of Ruling | Description |
-|----------------|-------------|
-| **Rulings on preferential regimes** | Any ruling granting preferential treatment |
-| **Cross-border unilateral APAs** | Transfer pricing rulings with cross-border effect |
-| **Rulings on PE existence/attribution** | Rulings determining PE status or profit allocation |
-| **Related-party conduit rulings** | Rulings involving conduit arrangements |
-| **Other BEPS-relevant rulings** | Catch-all for other concerning rulings |
-
----
-
-## E. THE FORUM ON HARMFUL TAX PRACTICES (FHTP)
-
-### 1. Structure and Role
-
-The **Forum on Harmful Tax Practices (FHTP)** is the OECD body responsible for implementing Action 5:
-
-**Functions:**
-- Reviews preferential tax regimes
-- Monitors no/nominal tax jurisdictions
-- Administers rulings exchange framework
-- Conducts peer reviews
-- Issues guidance on harmful practices
-
-**Membership:**
-- Open to Inclusive Framework members (145+ jurisdictions)
-- Decisions by consensus
-- Secretariat support from OECD
-
-### 2. Current FHTP Work Programme
-
-```
-FHTP CURRENT WORKSTREAMS (2024-2025)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. PREFERENTIAL REGIME REVIEW
-   • Assessment of new and amended regimes
-   • Application of nexus approach (IP regimes)
-   • Substance requirements (non-IP regimes)
-   • Status: 332 regimes reviewed since BEPS started
-   • Over 40% abolished or amended
-
-2. NO/NOMINAL TAX JURISDICTION MONITORING
-   • Annual review of 12 jurisdictions
-   • Substantial activity requirements
-   • Economic substance legislation compliance
-   • Jurisdictions: Anguilla, Bahamas, Bahrain, Barbados,
-     Bermuda, BVI, Cayman Islands, Guernsey, Isle of Man,
-     Jersey, Turks & Caicos
-   • Note: UAE removed (introduced 9% CIT in 2023)
-
-3. TRANSPARENCY FRAMEWORK
-   • Exchange of rulings between jurisdictions
-   • Monitoring compliance with exchange obligations
-   • Quality and timeliness of exchanges
-
-4. PEER REVIEW
-   • Annual peer review reports
-   • Identification of areas for improvement
-   • Focused monitoring for problem jurisdictions
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 3. Assessment Outcomes
-
-Regimes are classified as:
-
-| Classification | Meaning |
-|----------------|---------|
-| **Not harmful** | Meets nexus approach (IP) or substance requirements |
-| **Harmful** | Does not meet requirements; must be abolished/amended |
-| **In the process of being amended** | Transitional; jurisdiction committed to changes |
-| **Under review** | Assessment ongoing |
-| **Abolished** | Regime no longer exists |
-
----
-
-## F. SUBSTANCE REQUIREMENTS IN NO/NOMINAL TAX JURISDICTIONS
-
-### 1. Background
-
-Following BEPS, attention turned to jurisdictions with **no or only nominal taxation**. Even without preferential regimes, these jurisdictions must demonstrate:
-- Adequate substance for resident entities
-- Economic activity requirements
-- Compliance with international standards
-
-### 2. Core Income-Generating Activities (CIGA)
-
-Entities must undertake **core income-generating activities** in the jurisdiction:
-
-| Activity Type | Required CIGA |
-|---------------|---------------|
-| **Headquarters** | Taking strategic decisions, coordinating group activities |
-| **Holding company** | Making investment decisions, managing portfolio |
-| **Distribution/service centres** | Purchasing, managing stock, distributing, logistics |
-| **Finance/leasing** | Agreeing terms, managing risks, maintaining adequate capital |
-| **IP holding** | Taking decisions on IP strategy, R&D direction |
-| **Shipping** | Managing crew, maintaining vessels, supervising operations |
-
-### 3. Implementation in Practice
-
-Jurisdictions have enacted **economic substance legislation**:
-
-**Common requirements:**
-- Direction and management in jurisdiction
-- Adequate employees with appropriate qualifications
-- Adequate physical presence
-- Core income-generating activities performed in jurisdiction
-- Adequate expenditure proportionate to activities
-
----
-
-## G. CHALLENGES AND CRITICISMS
-
-### 1. Ongoing Challenges for FHTP
-
-As noted in examiner guidance (December 2023 Q3), the FHTP faces significant challenges:
-
-| Challenge | Description |
-|-----------|-------------|
-| **Implementation consistency** | Ensuring all jurisdictions apply standards consistently |
-| **Adaptive practices** | Tax planning evolves to circumvent rules |
-| **Resource constraints** | Developing countries lack capacity to implement |
-| **Political will** | Some jurisdictions benefit from preferential regimes |
-| **Defining "harmful"** | Line between legitimate and harmful remains contested |
-| **Digital economy** | New business models challenge traditional substance concepts |
-
-### 2. Criticisms of the Framework
-
-| Criticism | Response |
-|-----------|----------|
-| **OECD-centric** | Inclusive Framework expanded participation |
-| **Favours large countries** | Low rates ≠ harmful; substance focus neutral |
-| **Limits development options** | Legitimate competition still permitted |
-| **Soft law only** | Peer review creates accountability pressure |
-
-### 3. Relationship with Pillar Two
-
-The introduction of Pillar Two (Global Minimum Tax, 15% ETR) has implications for harmful tax competition:
-
-- Pillar Two directly addresses low-taxed income
-- May reduce importance of traditional FHTP work
-- However, FHTP continues as complementary framework
-- Substance requirements remain relevant even with minimum tax
-
----
-
-## H. PRACTICAL APPLICATION
-
-### 1. Identifying Potentially Harmful Features
-
-When analysing a tax regime, consider:
-
-```
-HARMFUL TAX PRACTICE CHECKLIST
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-□ Ring-fencing from domestic economy?
-  • Benefits only for foreign income/non-residents?
-  • Prohibited from operating in domestic market?
-
-□ No substantial activity requirement?
-  • Can benefits be obtained without real presence?
-  • Brass plate companies tolerated?
-
-□ Lack of transparency?
-  • Secret rulings or negotiated rates?
-  • Non-public criteria for benefits?
-
-□ No effective information exchange?
-  • Bank secrecy impediments?
-  • Limitations on EOI cooperation?
-
-□ For IP regimes: Nexus approach compliance?
-  • Benefits linked to own R&D expenditure?
-  • 30% uplift properly applied?
-
-If multiple features present → POTENTIALLY HARMFUL
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. Link to Other Topics
-
-Harmful tax competition connects to several other syllabus areas:
-
-| Topic | Connection |
-|-------|------------|
-| **BEPS Actions (Chapter 7.2)** | Action 5 as minimum standard; broader BEPS context |
-| **Transfer pricing** | Nexus approach uses arm's length concepts |
-| **Information exchange** | Transparency framework; Article 26 OECD MTC |
-| **Tax avoidance** | Harmful practices as avoidance enabler |
-| **Pillar Two** | Global minimum tax addresses low-tax jurisdictions |
-
----
-
-## I. KEY TAKEAWAYS
-
-```
-ESSENTIAL CONCEPTS FOR EXAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. HISTORICAL DEVELOPMENT:
-   • 1998 OECD Report: First comprehensive framework
-   • Original four criteria (substance criterion withdrawn 2001)
-   • Shift to transparency focus (2000s)
-   • BEPS Action 5 reinvigorated substance requirement (2015)
-
-2. BEPS ACTION 5 (MINIMUM STANDARD):
-   • Two workstreams: preferential regimes + transparency
-   • Modified nexus approach for IP regimes
-   • Substance requirements for no/nominal tax jurisdictions
-   • Compulsory exchange of tax rulings
-
-3. KEY CRITERIA FOR HARMFUL PRACTICES:
-   • Ring-fencing from domestic economy
-   • No substantial activity requirement
-   • Lack of transparency
-   • No effective information exchange
-
-4. MODIFIED NEXUS APPROACH:
-   • Expenditure as proxy for substance
-   • 30% uplift for related-party/acquisition costs
-   • Links benefits to actual R&D activity
-   • Formula-based calculation
-
-5. FHTP ROLE:
-   • Reviews preferential regimes (332+ reviewed)
-   • Monitors no/nominal tax jurisdictions
-   • Administers transparency framework
-   • Conducts peer reviews
-
-6. EXAM APPLICATION:
-   • Know 1998 Report and its evolution
-   • Understand modified nexus approach
-   • Be able to identify harmful features
-   • Discuss challenges facing FHTP
-   • Link to broader BEPS framework
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## Common Exam Errors to Avoid
-
-| Error | Why It Loses Marks | Correct Approach |
-|-------|-------------------|------------------|
-| Equating low tax rates with harmful | Low general rates not harmful per se | Focus on ring-fencing, lack of substance |
-| Ignoring historical evolution | Misses context of current rules | Trace 1998 → BEPS Action 5 development |
-| Confusing nexus with transfer pricing | Different but related concepts | Nexus = substance test; TP = arm's length pricing |
-| Missing substance criterion restoration | Central to BEPS Action 5 | Emphasise return of substance requirement |
-| Overlooking transparency workstream | Equal importance to regime review | Cover both FHTP workstreams |
-| Not knowing current FHTP work | Shows outdated knowledge | Reference 332+ regimes reviewed, annual monitoring |
-
----
-
-## References
-
-**Primary Sources:**
-- [OECD 1998 Report: Harmful Tax Competition](https://www.oecd-ilibrary.org/taxation/harmful-tax-competition_9789264162945-en)
-- [OECD: Harmful Tax Practices Topic Page](https://www.oecd.org/en/topics/harmful-tax-practices.html)
-- [BEPS Action 5 Final Report 2015](https://oecd.org/ctp/countering-harmful-tax-practices-more-effectively-taking-into-account-transparency-and-substance-action-5-2015-final-report-9789264241190-en.htm)
-- [Modified Nexus Approach Explanatory Paper](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/harmful-tax-practices/explanatory-paper-beps-action-5-agreement-on-modified-nexus-approach-for-ip-regimes.pdf)
-- [2025 Peer Review Results](https://www.oecd.org/en/about/news/announcements/2025/02/oecd-releases-latest-peer-review-results-on-preferential-tax-regimes-under-beps-action-5.html)
-
-**Secondary Sources:**
-- [EY: OECD 2024 Update on Action 5](https://www.ey.com/en_gl/technical/tax-alerts/oecd-releases-2024-update-on-peer-reviews-under-beps-action-5-on)
-- [Tax Foundation: OECD Harmful Tax Practices](https://taxfoundation.org/blog/oecd-harmful-tax-practices-base-erosion-profit-shifting/)
-
-**ADIT Past Exam References:**
-- December 2023 Q3 (25 marks): FHTP work, evolution, challenges
-- June 2023 Q1: BEPS minimum standards including Action 5
-- Multiple papers 2022-2025: Preferential regimes, substance requirements
-
----
-
-*Previous Chapter: 8.2 - The International Covenant on Civil and Political Rights*
-*End of Part I: Basic Principles of International Taxation*
