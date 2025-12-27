@@ -1,504 +1,87 @@
-# Chapter 7.3: Work of the UN Group of Experts
-
----
-
-```
-EXAM INTELLIGENCE: UN Work on International Tax
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Reference: G.3 - Work of the UN Group of Experts
-Syllabus Level: 2 (Detailed knowledge and application)
-
-Past Exam Occurrences (2022-2025):
-  • June 2022 Q4 (25 marks): Compare Article 10 in OECD vs UN Model
-  • Dec 2023 Q5 (25 marks): UN-led global tax reform initiative
-  • Dec 2024 Q3 Solutions: UN Model developing country provisions
-  • June 2025 Q1 & Q3: UN Model Double Taxation Convention 2021
-
-Frequency: MODERATE-HIGH - UN Model tested 2-3 times per year
-Mark Range: 10-25 marks per question
-Time Allocation: 15-35 minutes depending on question
-
-Examiner Focus:
-  • Differences between UN and OECD Models (particularly source rights)
-  • UN Model provisions favouring developing countries
-  • Article 12A (Technical Services) and Article 12B (Digital Services)
-  • Historical evolution and relationship to OECD work
-  • UN Framework Convention developments (emerging topic)
-
-Strategic Priority: ★★★★☆ HIGH
-  → Level 2 = detailed knowledge required
-  → Often tested in comparison with OECD Model
-  → Critical for understanding developing country perspective
-  → New UN tax initiatives increasingly examined
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. INSTITUTIONAL FRAMEWORK
-
-### 1. Origins and Evolution
-
-While the OECD inherited most League of Nations tax treaty work (Chapter 7.1), the United Nations also took on a role—particularly representing developing countries not included in the OECD membership:
-
-| Period | Development | Significance |
-|--------|-------------|--------------|
-| **1946-1967** | Limited UN activity | Developing countries lack voice in OECD |
-| **1967** | UN Group of Experts formed | Ad hoc group to address developing country concerns |
-| **1980** | First UN Model Convention | Alternative to OECD Model favouring source states |
-| **2004** | Upgraded to Committee of Experts | ECOSOC subsidiary; more permanent status |
-| **2021** | Current UN Model published | Major update including digital economy provisions |
-| **2024** | Framework Convention process | Intergovernmental negotiations begin |
-
-### 2. The Committee of Experts on International Cooperation in Tax Matters
-
-The **UN Tax Committee** is the primary UN body responsible for international tax matters:
-
-**Composition:**
-- 25 members nominated by governments but serving in personal capacity
-- Four-year terms (current: 2021-2025; new membership: 2025-2029)
-- Geographical balance with traditional majority from developing countries
-- Meets twice yearly (typically March and October)
-
-**Mandate:**
-- Develop and update the UN Model Double Taxation Convention
-- Produce practical guidance for developing countries
-- Address capacity building and technical assistance
-- Coordinate with OECD while maintaining distinct perspective
-
-```
-UN VS OECD INSTITUTIONAL COMPARISON
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Chapter 7.3: Work of the UN Group of Experts
 
-              UN TAX COMMITTEE              OECD CFA
-              ─────────────────             ────────────────
-Membership:   25 experts (personal)         Government delegates
-Focus:        Developing countries          Developed countries
-Model bias:   SOURCE STATE rights           RESIDENCE STATE rights
-Resources:    Limited secretariat           Substantial secretariat
-Meetings:     2 sessions/year               Multiple WP meetings
-Outputs:      UN Model + Manual             OECD Model + Commentary
+### 1. Institutional Framework
 
-KEY DISTINCTION: Same foundational concepts, DIFFERENT emphasis
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 1.1. Origins and Evolution
 
-### 3. Relationship with OECD
+While the OECD inherited most League of Nations tax treaty work, the United Nations also assumed a role in international tax matters—particularly representing developing countries not included in OECD membership. The initial decades saw limited UN activity in this area, with developing countries lacking a significant voice in the OECD-dominated treaty development process.
 
-The UN and OECD tax work are complementary rather than competing:
+In 1967, the UN established an Ad Hoc Group of Experts on Tax Treaties between Developed and Developing Countries, recognising that developing country interests required dedicated attention. This group produced the first UN Model Convention in 1980, offering an alternative to the OECD Model with provisions more favourable to source-state taxation. The group was upgraded in 2004 to the Committee of Experts on International Cooperation in Tax Matters, a subsidiary body of the Economic and Social Council with more permanent status and enhanced mandate.
 
-- **Common foundation**: Both trace to League of Nations 1928 Models
-- **Structural similarity**: UN Model mirrors OECD Model structure
-- **Commentary approach**: UN quotes OECD Commentary with additions in square brackets
-- **Coordination mechanisms**: Joint participation in Platform for Collaboration on Tax (IMF, OECD, UN, World Bank)
+The Committee has continued updating the UN Model, with significant revisions in 2011, 2017, and 2021. The 2021 update introduced Article 12B addressing digital economy taxation, demonstrating the UN's responsiveness to emerging issues affecting developing countries.
 
-**Key differences:**
-- UN represents 193 member states vs OECD's 38 members
-- UN emphasises source taxation; OECD emphasises residence
-- UN has fewer resources but broader legitimacy among developing countries
+#### 1.2. The Committee of Experts
 
----
+The UN Tax Committee comprises twenty-five members nominated by governments but serving in their personal capacity rather than as government representatives. Members serve four-year terms with geographical balance ensuring developing country majority. The Committee meets twice yearly, typically in March and October, to develop and update the UN Model Convention, produce practical guidance for developing countries, address capacity building needs, and coordinate with other international organisations while maintaining a distinct perspective oriented toward source-state taxation.
 
-## B. THE UN MODEL DOUBLE TAXATION CONVENTION
+This structure differs significantly from the OECD's Committee on Fiscal Affairs, where government delegates represent their countries' official positions. The personal capacity arrangement allows UN Committee members greater flexibility in developing positions that may diverge from their governments' immediate interests, potentially enabling more balanced consideration of competing concerns.
 
-### 1. Development History
+#### 1.3. Relationship with OECD
 
-| Year | Version | Key Features |
-|------|---------|--------------|
-| **1980** | First UN Model | Established source-focused alternative to OECD |
-| **1999** | Update | Incorporated developments from 1980s-90s |
-| **2001** | Update | Technical refinements |
-| **2011** | Major revision | Enhanced Commentary; new provisions |
-| **2017** | Update | Aligned with BEPS outcomes |
-| **2021** | Current version | Article 12B (digital services); substantial updates |
-| **2025** | Expected update | Article 5A (services PE) and other changes |
+The UN and OECD tax work are complementary rather than competing. Both trace their origins to the League of Nations 1928 Models and share the same basic treaty architecture. The UN Model mirrors the OECD Model's structure, and the UN Commentary frequently quotes OECD Commentary with additions in square brackets indicating UN-specific positions.
 
-### 2. Core Philosophy: Source-Based Taxation
+Coordination occurs through the Platform for Collaboration on Tax, which brings together the International Monetary Fund, OECD, UN, and World Bank to avoid duplication in technical assistance and develop joint guidance on emerging issues. Despite this coordination, fundamental differences remain. The UN represents 193 member states compared to the OECD's 38 members. The OECD's membership comprises predominantly developed, capital-exporting countries, while the UN includes the full range of developing and developed economies. These different constituencies produce different policy orientations. *(covered in June 2022)*
 
-The UN Model's fundamental orientation differs from the OECD Model:
+### 2. The UN Model Double Taxation Convention
 
-| Principle | UN Model Approach | OECD Model Approach |
-|-----------|-------------------|---------------------|
-| **Investment income** | Higher source withholding rates | Lower source withholding rates |
-| **Services** | Tax where performed | Tax where recipient resident |
-| **PE threshold** | Lower threshold (easier to establish) | Higher threshold |
-| **Philosophy** | Protect host country revenue | Protect home country investment |
+#### 2.1. Development History
 
-**Why source taxation matters for developing countries:**
-- Capital typically flows FROM developed TO developing countries
-- Residence taxation benefits capital exporters
-- Source taxation allows developing countries to tax economic activity on their territory
-- Addresses North-South capital flow imbalance
+The UN Model has evolved through successive versions since its 1980 introduction. The 1999 and 2001 updates incorporated developments from intervening decades with technical refinements. The 2011 revision substantially enhanced the Commentary and introduced new provisions. The 2017 update aligned the Model with BEPS outcomes where appropriate for developing country contexts. The 2021 version introduced Article 12B on automated digital services and made substantial updates throughout, with a further update expected in 2025 addressing services permanent establishment provisions.
 
-```
-EXAM TIP: The Source vs Residence Question
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#### 2.2. Source-Based Philosophy
 
-When comparing UN and OECD Models, the CORE distinction is:
+The fundamental distinction between UN and OECD Models lies in their orientation toward source versus residence taxation. The OECD Model generally favours residence-state taxation, reflecting the interests of capital-exporting countries whose residents invest abroad. The UN Model favours source-state taxation, reflecting the interests of capital-importing countries where foreign investment generates economic activity.
 
-     OECD = Residence-focused → Benefits capital EXPORTERS
-     UN   = Source-focused   → Benefits capital IMPORTERS
+This difference matters because capital typically flows from developed to developing countries. Under residence-focused rules, the country where investors reside retains primary taxing rights over investment returns. Under source-focused rules, the country hosting the investment—typically the developing country—retains greater taxing rights. The UN Model's source orientation addresses the North-South capital flow pattern by ensuring developing countries can tax economic activity occurring within their territories.
 
-This explains WHY:
-• Developing countries (net capital importers) prefer UN Model
-• Developed countries (net capital exporters) prefer OECD Model
-• Treaty negotiations involve balancing these competing interests
+This philosophical difference manifests across multiple provisions. Investment income faces higher permitted withholding rates under the UN Model. Permanent establishment thresholds are lower, making it easier to establish taxable presence. Services can be taxed at source even without physical presence. These differences are not arbitrary but reflect a coherent policy of protecting host country revenue bases.
 
-ALWAYS frame your exam answer around this fundamental difference.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### 3. Key UN Model Provisions
 
----
+#### 3.1. Permanent Establishment
 
-## C. KEY UN MODEL PROVISIONS DIFFERING FROM OECD
+The UN Model sets lower thresholds for establishing permanent establishment, the concept that determines when business profits become taxable in the source state. For construction projects, the UN Model requires only six months' duration compared to twelve months under the OECD Model. The UN Model expressly includes supervisory activities connected to construction as constituting permanent establishment, a provision absent from the OECD Model.
 
-### 1. Article 5 - Permanent Establishment
+Most significantly, the UN Model includes a services permanent establishment provision. Where an enterprise furnishes services through employees or other personnel present in a country for periods exceeding 183 days in any twelve-month period, a permanent establishment exists. The OECD Model contains no general services permanent establishment provision, meaning that services rendered without fixed place of business escape source-state taxation. For developing countries that import substantial services—consulting, technical assistance, project management—this difference has significant revenue implications.
 
-**Lower PE thresholds in UN Model:**
+The UN Committee has approved a new Article 5A for expected inclusion in the 2025 update, addressing remote services taxation and allowing source states to tax services even without any physical presence in the jurisdiction.
 
-| Aspect | UN Model | OECD Model |
-|--------|----------|------------|
-| **Construction PE** | 6 months | 12 months |
-| **Supervisory activities** | Expressly included | Not included |
-| **Services PE** | 183 days in 12 months | No general services PE |
-| **Insurance** | Specific PE provision | Standard rules apply |
+#### 3.2. Investment Income
 
-**Article 5A (proposed 2025):**
-The UN Committee approved a new Article 5A for the 2025 update addressing remote services taxation—allowing source states to tax services even without physical presence.
+The UN Model permits higher withholding rates on investment income than the OECD Model. For dividends under Article 10, the OECD Model specifies maximum rates of 5% for substantial shareholdings and 15% for portfolio investments, whereas the UN Model leaves rates to bilateral negotiation, typically resulting in higher ceilings. For interest under Article 11, the OECD Model specifies 10% maximum source-state withholding, while the UN Model again leaves rates open for negotiation.
 
-### 2. Article 8 - Shipping and Air Transport
+The most significant difference concerns royalties under Article 12. The OECD Model provides for exclusive residence-state taxation of royalties—no source-state tax at all. The UN Model permits the source state to impose withholding tax on royalties at a rate to be negotiated bilaterally. For developing countries that import intellectual property, technology, and know-how, paying royalties to foreign licensors, the ability to withhold tax on these payments represents substantial revenue that OECD Model treaties would deny them.
 
-**UN Model provides two alternatives:**
+#### 3.3. Articles 12A and 12B
 
-| Alternative | Treatment | Beneficiary |
-|-------------|-----------|-------------|
-| **Alternative A** | Exclusive residence taxation | Aligns with OECD |
-| **Alternative B** | Formulary apportionment for shipping | Source state shares |
+The UN Model contains two provisions with no OECD equivalent. Article 12A, introduced in the 2017 update, addresses fees for technical services—payments for managerial, technical, or consultancy services. Without this provision, such fees paid to non-residents without permanent establishment would be taxable only in the residence state under the business profits article. Article 12A permits the source state to impose withholding tax on gross payments, capturing revenue from the substantial technical expertise that developing countries import.
 
-Alternative B allows the source state to tax a portion of shipping profits if operations are "more than casual"—reflecting developing countries' interest in taxing foreign shipping lines using their ports.
+Article 12B, introduced in the 2021 update, addresses income from automated digital services. It applies to payments for services provided on the internet or electronic networks requiring minimal human involvement—online advertising, digital content provision, social media platforms, standardised online services. The source state may impose withholding tax on these payments regardless of the service provider's physical presence. *(covered in December 2023)*
 
-### 3. Articles 10, 11, 12 - Investment Income
+Article 12B represents a pragmatic alternative to the OECD's Pillar One Amount A proposals for addressing digital economy taxation. Where Pillar One requires complex profit allocation formulae and multilateral convention implementation, Article 12B operates through simple gross withholding imposed at the bilateral treaty level. Developing countries can incorporate Article 12B into their treaty networks immediately through renegotiation, rather than awaiting completion of multilateral processes. The mechanism is simpler to administer and applies to all digital service providers regardless of size, unlike Pillar One's thresholds limiting application to the largest multinationals.
 
-**Higher withholding rates under UN Model:**
+### 4. The UN Framework Convention
 
-| Article | Income Type | OECD Rate | UN Rate |
-|---------|-------------|-----------|---------|
-| **Art. 10** | Dividends (portfolio) | 15% | Varies (left to negotiation) |
-| **Art. 10** | Dividends (substantial) | 5% | Varies (left to negotiation) |
-| **Art. 11** | Interest | 10% | Varies (higher permitted) |
-| **Art. 12** | Royalties | 0% (exclusive residence) | Varies (source retention) |
+#### 4.1. Background and Development
 
-**Critical difference - Article 12 (Royalties):**
-- OECD Model: Taxable ONLY in residence state
-- UN Model: Source state MAY tax (rate left to negotiation)
-- This reflects developing countries' concern about technology payments flowing abroad untaxed
+A significant development in international tax governance is the UN Framework Convention on International Tax Cooperation, currently under negotiation. In November 2023, the UN General Assembly adopted Resolution 78/230 establishing an Ad Hoc Committee to develop terms of reference for an intergovernmental negotiating process. The Second Committee approved those terms of reference in November 2024, with 125 votes in favour, 9 against, and 46 abstentions.
 
-### 4. Article 12A - Fees for Technical Services (UN ONLY)
+The opposition and abstentions came predominantly from developed countries. The United States, United Kingdom, Japan, Australia, and Canada voted against, expressing concerns about duplication with OECD work and potential impact on existing BEPS and Pillar frameworks. The abstentions, mainly from developed countries, reflected similar hesitation about shifting international tax norm-setting from the OECD to the UN.
 
-```
-EXAM FOCUS: Article 12A - A Uniquely UN Provision
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Intergovernmental negotiations began in 2025, with sessions scheduled through 2027. The Intergovernmental Negotiating Committee has agreed to develop two early protocols alongside the main convention text: one on taxation of cross-border services and another on dispute prevention and resolution. The final convention and protocols are expected to be presented to the General Assembly by autumn 2027.
 
-Article 12A was introduced in the 2017 UN Model update:
+#### 4.2. Scope and Implications
 
-SCOPE: Payments for managerial, technical, or consultancy services
+The Framework Convention represents developing countries' desire for greater voice in international tax governance. The OECD, despite its Inclusive Framework expanding participation, remains perceived as dominated by developed country interests. Its membership of 38 countries, predominantly wealthy economies, contrasts with the UN's universal membership of 193 states. Developing countries seek a forum where their concerns receive equal weight.
 
-WHY IT MATTERS:
-• Developing countries import substantial technical expertise
-• Without Art 12A, fees go untaxed at source if no PE exists
-• Art 12A allows withholding tax on gross payment
-• Addresses gap not covered by Art 7 (business profits)
+If adopted, the Framework Convention would represent the first binding multilateral tax convention negotiated through the UN. It is expected to address base erosion and profit shifting, tax evasion and illicit financial flows, environmental taxation, wealth and property taxation, and digital economy challenges. The convention creates potential competing standards to OECD-led initiatives, raising questions about how overlapping frameworks will coexist.
 
-EXAM APPLICATION:
-When advising on tax treaties with developing countries, ALWAYS
-consider whether Art 12A (or equivalent domestic provision)
-applies to service fees.
+The shift toward UN leadership does not eliminate the need for coordination with OECD work. Many provisions will likely draw on OECD-developed concepts while adapting them for broader application. However, the UN process may produce outcomes reflecting different priorities—stronger source-state rights, greater emphasis on developing country capacity, and potentially different approaches to digital economy taxation than those emerging from OECD Pillar negotiations.
 
-Compare to OECD Model: No equivalent provision—services without
-PE taxable only in residence state.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+### 5. Comparative Assessment
 
-### 5. Article 12B - Income from Automated Digital Services (UN ONLY)
+Real bilateral tax treaties are rarely pure OECD or pure UN Model implementations. They typically use OECD structure and drafting as a foundation while incorporating UN provisions where developing country treaty partners insist. Withholding rates often fall between OECD and UN positions, reflecting negotiated compromise. Unique provisions address specific bilateral relationship concerns.
 
-Introduced in the **2021 UN Model Update**, Article 12B addresses digital economy taxation:
+When analysing treaty provisions, the relevant question is whether particular articles follow OECD approaches favouring residence taxation, UN approaches favouring source taxation, or represent hybrid positions. This analytical framework applies regardless of which model a treaty officially references. A treaty nominally based on the OECD Model may contain UN-style source provisions; a UN Model-based treaty may adopt OECD rates in particular articles.
 
-**Key features:**
-- Applies to "automated digital services" (online advertising, user data sales, online platforms, etc.)
-- Source state may impose withholding tax on gross payments
-- Applies regardless of physical presence
-- Rate subject to bilateral negotiation
-
-**Relationship to OECD Pillar One:**
-- Article 12B is simpler and more immediate than Pillar One Amount A
-- Pillar One requires complex profit allocation; Art 12B uses gross withholding
-- Developing countries can implement Art 12B unilaterally through treaty negotiation
-- Article 12B seen as pragmatic alternative if Pillar One stalls
-
-| Feature | Article 12B (UN) | Pillar One Amount A (OECD) |
-|---------|------------------|---------------------------|
-| **Mechanism** | Gross withholding tax | Formulary profit reallocation |
-| **Complexity** | Low | Very high |
-| **Implementation** | Bilateral treaties | Multilateral convention |
-| **Status** | Available now | Under negotiation |
-| **Scope** | All digital services | Largest MNEs only |
-
----
-
-## D. UN MODEL IN PRACTICE
-
-### 1. Country Adoption Patterns
-
-**Countries favouring UN Model provisions:**
-
-| Region | Examples | Common UN Features Adopted |
-|--------|----------|---------------------------|
-| **Africa** | Kenya, Zambia, Botswana | Source withholding rights, services taxation |
-| **Asia** | India, Indonesia, Philippines | Art 12A-type provisions, higher withholding |
-| **Latin America** | Brazil, Argentina, Chile | Source state emphasis |
-
-**India example:**
-India explicitly prefers UN Model principles:
-- Includes fees for technical services (FTS) article in most treaties
-- Maintains higher withholding rates than OECD norms
-- Actively participates in UN Tax Committee
-
-### 2. Hybrid Approaches
-
-Many treaties combine UN and OECD elements:
-
-```
-TREATY DRAFTING REALITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Real bilateral tax treaties are NOT pure OECD or pure UN.
-
-They typically:
-• Use OECD structure and drafting
-• Incorporate UN provisions where developing country insists
-• Negotiate rates between OECD and UN positions
-• Include unique provisions based on bilateral relationship
-
-EXAM IMPLICATION:
-When analysing treaty provisions, identify whether they:
-(a) Follow OECD Model (residence-focused)
-(b) Follow UN Model (source-focused)
-(c) Represent a negotiated hybrid
-
-This analytical framework demonstrates understanding.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## E. UN FRAMEWORK CONVENTION ON INTERNATIONAL TAX COOPERATION
-
-### 1. Background and Development
-
-A significant development is the **UN Framework Convention on International Tax Cooperation**, currently under negotiation:
-
-| Date | Development |
-|------|-------------|
-| **November 2023** | UN General Assembly Resolution 78/230 establishes Ad Hoc Committee |
-| **April-August 2024** | Terms of Reference negotiated |
-| **November 2024** | UNGA Second Committee approves ToR (125 for, 9 against, 46 abstentions) |
-| **February 2025** | Organizational session held |
-| **2025-2027** | Intergovernmental Negotiating Committee drafting |
-| **Late 2027** | Expected vote on final convention |
-
-### 2. Why This Matters
-
-**Shift from OECD to UN leadership:**
-- Developing countries seek more inclusive forum
-- OECD perceived as dominated by developed country interests
-- UN has universal membership (193 states vs OECD's 38)
-- Creates potential competing standard to OECD-led initiatives
-
-**Opposition from developed countries:**
-- US, UK, Japan, Australia, Canada voted against
-- Concerns about duplication with OECD work
-- Worry about impact on existing BEPS/Pillar frameworks
-- 46 abstentions (mainly developed countries)
-
-### 3. Scope and Implications
-
-The Framework Convention is expected to address:
-- Tax base erosion and profit shifting
-- Tax evasion and illicit financial flows
-- Environmental taxation
-- Wealth and property taxation
-- Digital economy challenges
-
-```
-EXAM TIP: UN Framework Convention
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-This is an EMERGING topic likely to appear in future exams.
-
-Key points to remember:
-1. Represents developing countries' desire for more voice
-2. Creates tension with OECD-led initiatives (BEPS, Pillar Two)
-3. If adopted, would be first binding multilateral tax convention
-4. Negotiations ongoing through 2027
-
-For current exams: Demonstrate awareness of this development
-when discussing international tax governance.
-
-Do NOT overstate its current impact—it is still under negotiation.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## F. UN CAPACITY BUILDING AND TECHNICAL ASSISTANCE
-
-### 1. UN Role in Developing Country Support
-
-Beyond model conventions, the UN supports developing countries through:
-
-**Practical resources:**
-- UN Practical Manual on Transfer Pricing for Developing Countries
-- Handbook on Selected Issues for Taxation of the Extractive Industries
-- Toolkit on Addressing Difficulties in Accessing Comparables Data
-- Model Competent Authority Agreement on Information Exchange
-
-**Capacity building:**
-- Regional workshops on treaty negotiation
-- Training on transfer pricing
-- Technical assistance missions
-- Online resources and e-learning
-
-### 2. Platform for Collaboration on Tax
-
-The **Platform for Collaboration on Tax** coordinates efforts among four institutions:
-- IMF (International Monetary Fund)
-- OECD
-- UN
-- World Bank
-
-**Purpose:**
-- Avoid duplication in technical assistance
-- Develop joint toolkits
-- Coordinate capacity building
-- Present unified guidance on emerging issues
-
----
-
-## G. COMPARATIVE ANALYSIS: OECD VS UN APPROACHES
-
-### Summary Comparison Table
-
-| Aspect | OECD Model | UN Model |
-|--------|------------|----------|
-| **Primary constituency** | 38 developed countries | 193 UN member states |
-| **Philosophy** | Residence-based | Source-based |
-| **PE threshold** | 12-month construction | 6-month construction |
-| **Services PE** | No general provision | 183-day services PE |
-| **Royalties (Art 12)** | Exclusive residence | Source may tax |
-| **Technical services** | Art 7 (PE required) | Art 12A (no PE needed) |
-| **Digital services** | Pillar One (pending) | Art 12B (available now) |
-| **Shipping** | Exclusive residence | Alternative B allows source |
-| **Resources** | Extensive secretariat | Limited resources |
-| **Updates** | Frequent | Less frequent |
-
-### When to Apply Which Model
-
-```
-EXAM STRATEGY: Choosing Between Models
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ALWAYS state which Model applies (or is more relevant) when:
-
-OECD Model more likely when:
-✓ Both parties are OECD members
-✓ Question references "OECD Model" or "MTC 2017"
-✓ Developed-developed country treaty
-✓ Focus on residence state rights
-
-UN Model more likely when:
-✓ One party is developing country
-✓ Question references "UN Model"
-✓ Focus on source country rights
-✓ Technical services or digital services at issue
-✓ African, Asian, or Latin American country involved
-
-HYBRID approach when:
-✓ Real treaty between developed and developing country
-✓ Need to analyse which provisions apply
-✓ Question asks about treaty negotiation strategy
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## H. KEY TAKEAWAYS
-
-```
-ESSENTIAL CONCEPTS FOR EXAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. INSTITUTIONAL FRAMEWORK:
-   • UN Tax Committee: 25 experts, personal capacity, developing focus
-   • Different from OECD CFA in composition and orientation
-   • Limited resources but broader legitimacy
-
-2. UN MODEL PHILOSOPHY:
-   • Source-based taxation (benefits capital importers)
-   • Contrasts with OECD's residence focus
-   • Addresses North-South capital flow imbalance
-
-3. KEY DISTINGUISHING PROVISIONS:
-   • Art 5: Lower PE thresholds (6 months, services PE)
-   • Art 8: Alternative B allows source shipping taxation
-   • Art 12: Source state may tax royalties
-   • Art 12A: Technical services (NO OECD EQUIVALENT)
-   • Art 12B: Digital services (NO OECD EQUIVALENT)
-
-4. CURRENT DEVELOPMENTS:
-   • UN Framework Convention negotiations (2025-2027)
-   • Growing developing country voice in international tax
-   • Tension with OECD-led initiatives
-
-5. EXAM APPLICATION:
-   • Compare/contrast with OECD when asked
-   • Identify which Model favours which party
-   • Discuss developing country perspective
-   • Reference Art 12A and 12B as UN innovations
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## Common Exam Errors to Avoid
-
-| Error | Why It Loses Marks | Correct Approach |
-|-------|-------------------|------------------|
-| Treating UN and OECD as identical | Misses fundamental policy differences | Always distinguish source vs residence orientation |
-| Ignoring Art 12A/12B | These are key UN innovations | Reference when services or digital economy at issue |
-| Overstating UN influence | Most treaties still OECD-based | Acknowledge UN as alternative, not replacement |
-| Missing developing country perspective | Shows incomplete understanding | Explain WHY developing countries prefer UN provisions |
-| Confusing Committee structure | Undermines institutional analysis | UN = 25 personal experts; OECD = government delegates |
-
----
-
-## References
-
-**Primary Sources:**
-- [UN Model Double Taxation Convention 2021](https://financing.desa.un.org/sites/default/files/2023-05/UN%20Model_2021.pdf)
-- [UN Tax Committee Sessions](https://financing.desa.un.org/events/31st-session-committee-experts-international-cooperation-tax-matters)
-- [UN Framework Convention Negotiations](https://financing.desa.un.org/unfcitc)
-
-**Secondary Sources:**
-- [UN Model vs OECD Model: Key Differences](https://academyoftaxlaw.com/tax-knowledge-base/international-tax-programme/ints1001-weeks-1-2-introduction-to-international-tax/un-model-vs-oecd-model-treaty/)
-- [IBA: How OECD and UN Address International Tax Issues](https://www.ibanet.org/how-do-the-oecd-and-un-address-international-tax-issues-past-present-future)
-- [IISD: UN Framework Convention Summary](https://enb.iisd.org/un-framework-convention-international-tax-cooperation-organizational-session-summary)
-
-**ADIT Past Exam References:**
-- June 2022 Q4: OECD vs UN Article 10 comparison
-- December 2023 Q5: UN-led global tax reform initiative
-- June 2025 Q1 & Q3: UN Model Double Taxation Convention 2021
-
----
-
-*Previous Chapter: 7.2 - Work of the G20 and OECD*
-*Next Chapter: 8.1 - Trends in international tax (if applicable)*
+The choice between models reflects power dynamics in treaty negotiations. Developed country treaty partners typically prefer OECD provisions that protect their investors' returns from source-country taxation. Developing country partners prefer UN provisions that protect their revenue bases. Outcomes depend on each party's bargaining position, the importance of the treaty relationship, and specific economic circumstances driving the negotiation. Understanding both models and their underlying philosophies enables informed analysis of what any particular treaty provision achieves and whose interests it serves.
