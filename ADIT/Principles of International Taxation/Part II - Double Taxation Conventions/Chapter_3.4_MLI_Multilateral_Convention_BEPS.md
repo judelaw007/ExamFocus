@@ -1,619 +1,156 @@
 # Chapter 3.4: The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent BEPS (MLI)
 
----
-
-```
-EXAM INTELLIGENCE: The MLI
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Syllabus Reference: II.C.4 - The Multilateral Convention to Implement Tax
-                    Treaty Related Measures to Prevent BEPS (MLI)
-                    II.R - The OECD BEPS Multilateral Instrument (all provisions)
-Syllabus Level: 3 (Advanced knowledge - interpretive analysis required)
-Syllabus Weight: Part of 30% DTC allocation
-
-Past Exam Occurrences (2022-2025):
-  • December 2022 Q1 (25 marks): FULL QUESTION on MLI - benefits, burden
-    reduction, certainty, functioning tax system, citizens
-  • December 2022 Q7: PE changes context (MLI not required but relevant)
-  • June 2023 Q1: MLI referenced in minimum standards discussion
-  • Indirect relevance in ALL questions involving BEPS treaty measures
-
-Frequency: HIGH - Direct examination 1 in 8 papers (12.5%)
-           Indirect relevance in 50%+ of papers
-           BEPS minimum standards regularly tested
-Mark Range: 25 marks (full question); 5-10 marks as component
-Time Allocation: 45 minutes (full question); 10-15 minutes (component)
-
-Examiner Focus:
-  • How MLI modifies existing CTAs (legal mechanics)
-  • Minimum standards: Treaty abuse (Article 6, 7) and MAP (Article 16)
-  • PPT operation and application
-  • PE artificial avoidance provisions (Articles 12-15)
-  • Flexibility mechanisms (opt-in, opt-out, reservations)
-  • Benefits and criticisms of MLI approach
-  • Relationship with VCLT Article 30(3)
-
-Strategic Priority: ★★★★★ CRITICAL
-  → Level 3 = advanced interpretive analysis required
-  → Directly examined for 25 marks (December 2022)
-  → Permitted text in exam (MLI and Explanatory Statement)
-  → Integrates with multiple BEPS Actions (2, 6, 7, 14, 15)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## A. INTRODUCTION: THE NEED FOR A MULTILATERAL INSTRUMENT
-
-### 1. The Problem: Updating 3,000+ Bilateral Treaties
-
-The BEPS Project identified that many of its recommendations required changes to existing bilateral DTAs. However, the DTA network presented a significant implementation challenge:
-
-| Challenge | Scale |
-|-----------|-------|
-| Number of bilateral DTAs worldwide | ~3,000+ |
-| Time to negotiate single DTA | 2-10 years |
-| Countries unable to negotiate simultaneously | Most can only handle a few per year |
-| BEPS recommendations requiring treaty changes | Multiple (Actions 2, 6, 7, 14) |
-
-Traditional bilateral renegotiation would have taken **decades** to implement BEPS treaty measures across the entire DTA network.
-
-### 2. The Solution: BEPS Action 15
-
-BEPS Action 15 recommended development of a **multilateral instrument** to modify existing bilateral tax treaties in a **synchronised and efficient manner**.
-
-> "The MLI is a creative solution to square bilateralism with multilateralism" - Alschner (2019)
-
-### 3. Timeline
-
-```
-MLI DEVELOPMENT TIMELINE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-2013    BEPS Action Plan recommends multilateral instrument
-        │
-2015    G20 mandate; negotiations begin (100+ countries)
-   Feb  │
-        ▼
-2016    MLI text adopted (24 November)
-   Nov  │
-        ▼
-2017    First signing ceremony (7 June) - 70+ jurisdictions
-   Jun  │
-        ▼
-2018    MLI enters into force (1 July)
-   Jul  │
-        ▼
-2025    104 signatories; ~2,000 treaties modified or pending
-   Jan  modification
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## B. HOW THE MLI WORKS
-
-### 1. Legal Mechanism: Overlay Treaty
-
-The MLI does **not** directly amend the text of existing treaties. Instead, it operates as an **overlay** that applies **alongside** existing treaties.
-
-```
-MLI LEGAL OPERATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-EXISTING BILATERAL DTA          MLI (Multilateral)
-┌─────────────────────┐         ┌─────────────────────┐
-│                     │         │                     │
-│  Original text      │         │  BEPS provisions    │
-│  remains unchanged  │◄────────│  apply alongside    │
-│                     │         │                     │
-└─────────────────────┘         └─────────────────────┘
-           │                              │
-           └──────────┬───────────────────┘
-                      ▼
-         ┌────────────────────────┐
-         │   SYNTHESISED TEXT     │
-         │                        │
-         │ Shows how DTA reads    │
-         │ as modified by MLI     │
-         └────────────────────────┘
+## 1. The Need for a Multilateral Instrument
 
-VCLT Article 30(3): Later treaty prevails over earlier treaty
-covering same subject matter (to extent of incompatibility)
+### 1.1. The Challenge of Bilateral Treaty Modification
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+The BEPS Project identified that many of its recommendations required changes to existing bilateral double taxation conventions. However, the DTC network presented a significant implementation challenge. With over 3,000 bilateral treaties worldwide and typical negotiation periods of two to ten years for a single treaty, traditional bilateral renegotiation would have taken decades to implement BEPS treaty measures across the entire network.
 
-**Key Points:**
-- Original DTA text remains unchanged
-- MLI provisions **coexist** with DTA in hierarchical relationship
-- Where MLI conflicts with DTA, MLI prevails (per VCLT Article 30(3))
-- **Synthesised texts** published showing combined effect
+Most countries can only handle a limited number of treaty negotiations simultaneously, given the resource requirements and competing priorities. The BEPS recommendations requiring treaty changes spanned multiple Actions—hybrid mismatches (Action 2), treaty abuse (Action 6), artificial PE avoidance (Action 7), and dispute resolution (Action 14). Implementing these through bilateral channels was simply impractical on any reasonable timescale.
 
-### 2. Covered Tax Agreements (CTAs)
+### 1.2. BEPS Action 15 Solution
 
-The MLI only applies to treaties that **both** parties designate as **Covered Tax Agreements (CTAs)**.
+BEPS Action 15 recommended development of a multilateral instrument to modify existing bilateral tax treaties in a synchronised and efficient manner. As Alschner (2019) observed, the MLI represents "a creative solution to square bilateralism with multilateralism"—it preserves the bilateral character of individual treaties while enabling coordinated modification through a single multilateral agreement.
 
-```
-CTA DESIGNATION PROCESS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-                    Country A                Country B
-                        │                        │
-                        ▼                        ▼
-              ┌─────────────────┐      ┌─────────────────┐
-              │ Lists A-B DTA   │      │ Lists A-B DTA   │
-              │ as CTA          │      │ as CTA          │
-              └────────┬────────┘      └────────┬────────┘
-                       │                        │
-                       └───────────┬────────────┘
-                                   ▼
-                    ┌──────────────────────────┐
-                    │ A-B DTA becomes a CTA    │
-                    │ → MLI provisions apply   │
-                    └──────────────────────────┘
-
-If ONLY ONE country lists the DTA → NOT a CTA → MLI does NOT apply
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 3. Flexibility Mechanisms
-
-The MLI provides significant **flexibility** to accommodate different countries' treaty policies:
-
-| Mechanism | How It Works |
-|-----------|--------------|
-| **Opt-in provisions** | Country must actively choose to apply provision |
-| **Opt-out provisions** | Provision applies unless country reserves against it |
-| **Reservations** | Country can exclude application of certain provisions |
-| **Notifications** | Country specifies which CTAs and provisions apply |
-| **Alternative provisions** | Choice between different formulations |
-
-**Result:** Each CTA may be modified differently depending on both parties' choices.
-
-### 4. MLI Positions
-
-Each jurisdiction must notify OECD of its **MLI position**:
-- At signature: Provisional choices
-- At ratification: Confirmed choices
-
-MLI positions and synthesised texts are published on the [OECD MLI Database](https://www.oecd.org/en/topics/sub-issues/beps-multilateral-instrument.html).
-
----
-
-## C. STRUCTURE OF THE MLI
-
-### Overview of Parts
-
-| Part | Title | Articles | Content |
-|------|-------|----------|---------|
-| **I** | Scope and Interpretation | 1-2 | Definitions, covered taxes |
-| **II** | Hybrid Mismatches | 3-5 | Transparent entities, dual residence, treaty methods |
-| **III** | Treaty Abuse | 6-11 | **MINIMUM STANDARD** - Preamble, PPT, LOB, dividends |
-| **IV** | Avoidance of PE Status | 12-15 | Commissionaire, fragmentation, contract splitting |
-| **V** | Improving Dispute Resolution | 16-17 | **MINIMUM STANDARD** - MAP, corresponding adjustments |
-| **VI** | Arbitration | 18-26 | Optional binding arbitration |
-| **VII** | Final Provisions | 27-39 | Signature, ratification, entry into force |
-
----
-
-## D. BEPS MINIMUM STANDARDS IN THE MLI
-
-### 1. What Are Minimum Standards?
-
-**Minimum standards** are BEPS measures that **all** Inclusive Framework members committed to implement. For treaty-related measures, the MLI provides the implementation mechanism.
-
-The MLI implements **two** of the four BEPS minimum standards:
-1. **Action 6**: Preventing treaty abuse
-2. **Action 14**: Making dispute resolution more effective
-
-### 2. Treaty Abuse Minimum Standard (Articles 6-7)
-
-**Article 6 - Preamble Language:**
-
-All CTAs must include preamble text stating the treaty's purpose includes:
-
-> "...eliminating double taxation with respect to taxes covered by this agreement **without creating opportunities for non-taxation or reduced taxation through tax evasion or avoidance (including through treaty-shopping arrangements)**..."
-
-**Article 7 - Principal Purpose Test (PPT):**
-
-```
-PRINCIPAL PURPOSE TEST (PPT) - Article 7
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-THE TEST:
-Treaty benefit shall NOT be granted if it is reasonable to conclude
-that obtaining that benefit was ONE OF THE PRINCIPAL PURPOSES of
-any arrangement or transaction, UNLESS it is established that
-granting the benefit would be in accordance with the object and
-purpose of the relevant provisions.
-
-KEY ELEMENTS:
-┌─────────────────────────────────────────────────────────────────┐
-│ 1. "Reasonable to conclude"                                     │
-│    → Objective standard (not taxpayer's subjective intent)      │
-│                                                                 │
-│ 2. "One of the principal purposes"                              │
-│    → Does NOT need to be THE principal purpose                  │
-│    → Multiple purposes can exist                                │
-│                                                                 │
-│ 3. "Arrangement or transaction"                                 │
-│    → Broad scope - covers structures and dealings               │
-│                                                                 │
-│ 4. "Object and purpose" exception                               │
-│    → Benefit may still be granted if consistent with            │
-│      treaty's intended purpose                                  │
-└─────────────────────────────────────────────────────────────────┘
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**Flexibility Options for Article 7:**
-- **PPT alone** (default) - most jurisdictions chose this
-- **PPT + Simplified LOB** - additional rules-based protection
-- **Detailed LOB + anti-conduit rule** - US-style approach (opt-in)
-
-**Exam Tip:** The PPT is **standards-based** (subjective assessment), contrasting with **rules-based** LOB provisions. Most jurisdictions (99 as of April 2022) adopted the PPT to meet the minimum standard.
-
-### 3. MAP Minimum Standard (Article 16)
-
-Article 16 implements Action 14 by ensuring:
-- MAP cases are resolved in a **timely manner**
-- Competent authorities **endeavour** to resolve disputes
-- Implementation of MAP access for treaty-related disputes
-
----
-
-## E. PART II: HYBRID MISMATCHES (Articles 3-5)
-
-### Overview
+The MLI was developed through an ad hoc group convened by the OECD, with participation from over 100 countries. The text was adopted in November 2016, with the first signing ceremony in June 2017 attracting over 70 signatories. The MLI entered into force on 1 July 2018 following the fifth ratification. As of January 2025, the MLI has 104 signatories and covers approximately 2,000 treaties either already modified or pending modification.
+
+## 2. How the MLI Works
+
+### 2.1. The Overlay Mechanism
+
+The MLI operates through a distinctive legal mechanism—it does not directly amend the text of existing bilateral treaties. Instead, it functions as an overlay that applies alongside existing treaties, modifying their effect without changing their text.
+
+This overlay operates through the principle established in Article 30(3) of the Vienna Convention on the Law of Treaties, which provides that when parties to a treaty conclude a later treaty relating to the same subject matter, the earlier treaty applies only to the extent its provisions are compatible with the later treaty. The MLI provisions thus take precedence over inconsistent provisions in underlying bilateral treaties.
+
+The original treaty text remains unchanged in legal instruments and official publications. However, to assist practitioners in understanding how treaties have been modified, many jurisdictions publish "synthesised texts" showing the combined effect of the original treaty as modified by the MLI. These synthesised texts have no independent legal force—the legal basis remains the original treaty read together with the MLI—but they provide practical guidance on treaty application.
+
+### 2.2. Covered Tax Agreements
+
+The MLI applies only to treaties that both parties designate as Covered Tax Agreements (CTAs). Each signatory must notify the OECD of which of its existing bilateral treaties it wishes to subject to MLI modification. A treaty becomes a CTA only if both contracting parties have made matching notifications—if only one party lists a treaty, the MLI does not apply to it.
+
+This mutual designation requirement ensures that bilateral treaty relationships cannot be unilaterally modified. Both parties must agree to subject their treaty to MLI provisions. The requirement also means that the MLI's impact varies across different treaty relationships depending on each party's notifications.
+
+### 2.3. Flexibility Mechanisms
+
+The MLI provides significant flexibility to accommodate different countries' treaty policies. Several mechanisms enable customisation of MLI adoption.
+
+Opt-in provisions require countries to actively choose to apply certain MLI provisions. Without affirmative election, such provisions do not apply to that country's CTAs. Part VI on arbitration is the most significant opt-in provision.
+
+Opt-out provisions apply unless a country expressly reserves against them. Countries can exclude application of specific provisions through reservations notified at signature or ratification.
+
+Alternative provisions offer choices between different formulations of particular rules. For the treaty abuse minimum standard, for example, countries may choose between the Principal Purpose Test alone, PPT combined with a simplified Limitation on Benefits, or detailed LOB rules with an anti-conduit provision.
+
+Notifications specify which CTAs and provisions apply in particular relationships. Countries must notify their MLI position—initially at signature as provisional choices, then confirmed at ratification.
+
+The result is that each CTA may be modified differently depending on both parties' choices. Practitioners must examine the MLI positions of both treaty partners to determine which provisions apply to any specific treaty relationship. The OECD maintains a comprehensive MLI Matching Database that facilitates this analysis.
+
+## 3. Structure of the MLI
+
+The MLI comprises 39 Articles organised into seven Parts. Part I (Articles 1-2) addresses scope and interpretation, including definitions and covered taxes. Part II (Articles 3-5) addresses hybrid mismatches, covering transparent entities, dual residence, and treaty elimination methods. Part III (Articles 6-11) addresses treaty abuse and contains the BEPS minimum standard on preventing treaty shopping. Part IV (Articles 12-15) addresses artificial avoidance of permanent establishment status. Part V (Articles 16-17) addresses improving dispute resolution, containing the minimum standard on mutual agreement procedure. Part VI (Articles 18-26) provides optional mandatory binding arbitration. Part VII (Articles 27-39) contains final provisions on signature, ratification, and entry into force.
+
+The MLI implements two of the four BEPS minimum standards: the treaty abuse minimum standard (Action 6) through Articles 6-7, and the dispute resolution minimum standard (Action 14) through Article 16. All Inclusive Framework members committed to implementing these minimum standards, and the MLI provides the mechanism for treaty-related implementation.
+
+## 4. The Treaty Abuse Minimum Standard (Part III)
+
+### 4.1. Preamble Language (Article 6)
+
+Article 6 requires all CTAs to include preamble text stating that the treaty's purpose includes "eliminating double taxation with respect to taxes covered by this agreement without creating opportunities for non-taxation or reduced taxation through tax evasion or avoidance (including through treaty-shopping arrangements)."
+
+This preamble language is significant for treaty interpretation. Under the Vienna Convention on the Law of Treaties, a treaty's object and purpose—as expressed in its preamble—informs interpretation of substantive provisions. The revised preamble clarifies that DTCs are not intended to facilitate tax avoidance, providing interpretive context for applying anti-abuse provisions.
+
+### 4.2. The Principal Purpose Test (Article 7)
+
+Article 7 establishes the Principal Purpose Test as the default mechanism for meeting the treaty abuse minimum standard. The PPT provides that a treaty benefit shall not be granted if it is reasonable to conclude that obtaining that benefit was one of the principal purposes of any arrangement or transaction, unless granting the benefit would be in accordance with the object and purpose of the relevant treaty provisions.
+
+Several elements of the PPT require careful analysis. The "reasonable to conclude" standard is objective—it does not depend on the taxpayer's subjective intent but on what a reasonable observer would conclude from the circumstances. The test requires only that obtaining the benefit was "one of the principal purposes," not necessarily the sole or dominant purpose. Multiple purposes may coexist, and a transaction may have commercial substance while still having treaty benefit acquisition as one of its principal purposes.
+
+The scope is broad—the test applies to any "arrangement or transaction," covering both discrete transactions and broader structures. The saving exception provides that benefits may still be granted if doing so would accord with the treaty's object and purpose, preventing the PPT from denying benefits in circumstances the treaty was designed to accommodate.
+
+The PPT represents a standards-based approach, requiring evaluation of facts and circumstances in each case. This contrasts with rules-based approaches like the US Limitation on Benefits provisions, which apply objective tests without subjective evaluation. The OECD Action 6 recommendations were significantly influenced by US LOB practice, but the Inclusive Framework ultimately adopted the PPT as the primary anti-abuse mechanism, with LOB available as a supplementary option.
+
+Most signatories (over 99 as of April 2022) chose to apply the PPT to meet the minimum standard. Past examinations have tested the distinction between standards-based and rules-based anti-abuse approaches.
+
+### 4.3. Other Anti-Abuse Provisions
+
+Beyond the minimum standard, Part III includes optional provisions addressing specific avoidance techniques. Article 8 addresses dividend transfer transactions, denying reduced withholding rates on dividends where shares are acquired primarily to obtain treaty benefits. Article 9 addresses capital gains from land-rich entities, enabling source taxation of gains from shares deriving value principally from immovable property at any time during the 365 days preceding alienation—preventing avoidance through temporary reduction of property holdings before sale. Article 10 addresses anti-abuse rules for permanent establishments in third jurisdictions. Article 11 addresses saving clauses preserving a state's right to tax its own residents.
+
+## 5. Hybrid Mismatches (Part II)
 
 Part II addresses situations where hybrid entities or instruments cause mismatches in tax treatment between jurisdictions.
 
-| Article | Subject | Effect |
-|---------|---------|--------|
-| **3** | Transparent entities | Ensures treaty benefits only where income taxed |
-| **4** | Dual resident entities | Requires competent authority determination |
-| **5** | Application of methods for elimination of double taxation | Addresses exemption method issues |
+Article 3 addresses transparent entities, ensuring that treaty benefits apply only where income is actually subject to tax. Income derived through an entity treated as fiscally transparent is considered income of a resident only to the extent treated as income of a resident for tax purposes. This prevents treaty benefits from applying to income flowing through entities that are transparent in one jurisdiction but opaque in another, where neither jurisdiction taxes the income.
 
-### Article 3 - Transparent Entities
+Article 4 addresses dual resident entities. The 2017 OECD Model replaced the automatic "place of effective management" tie-breaker with competent authority determination. Article 4 of the MLI provides an equivalent modification, requiring competent authorities to endeavour to determine single residence having regard to place of effective management, place of incorporation, and other relevant factors. If no agreement is reached, the entity is not entitled to treaty benefits except as the competent authorities agree.
 
-Addresses situations where an entity is treated as:
-- **Transparent** (fiscally ignored) in one jurisdiction
-- **Opaque** (separate taxable entity) in another
+Article 5 addresses issues arising from the exemption method for eliminating double taxation, allowing a switch to the credit method in certain circumstances to prevent double non-taxation.
 
-**Effect:** Income derived through transparent entity is treated as income of resident only to extent that income is treated as the income of a resident for tax purposes.
+## 6. Avoidance of Permanent Establishment Status (Part IV)
 
-### Article 4 - Dual Resident Entities
+Part IV implements BEPS Action 7 measures to prevent artificial avoidance of permanent establishment status.
 
-Replaces automatic tie-breaker rules with competent authority procedure:
-- Where entity is dual resident, competent authorities must **endeavour to determine** single residence
-- If no agreement, entity may be denied treaty benefits (or granted only as agreed)
+### 6.1. Commissionaire Arrangements (Article 12)
 
-### Article 5 - Exemption Method Issues
+Article 12 addresses commissionaire arrangements, where enterprises use intermediaries to conclude contracts in source states while avoiding PE status. Traditional PE rules required that contracts be concluded "in the name of" the enterprise. Commissionaires acting in their own name but on behalf of the enterprise technically fell outside this requirement.
 
-Addresses double non-taxation arising from exemption method by allowing switch to credit method in certain circumstances.
+Article 12 modifies the agency PE rule to provide that PE exists where a person "habitually concludes contracts, or habitually plays the principal role leading to the conclusion of contracts" that are routinely concluded without material modification by the enterprise. This broader formulation captures commissionaire arrangements and similar structures that achieve the same economic result while avoiding the formal requirement of contracts concluded in the enterprise's name.
 
----
+### 6.2. Anti-Fragmentation and Contract Splitting (Articles 13-14)
 
-## F. PART III: TREATY ABUSE (Articles 6-11)
+Article 13 addresses fragmentation of business activities to claim that each fragment qualifies for the preparatory or auxiliary exemption. Under traditional rules, enterprises could potentially maintain multiple facilities in a source state—warehouse, delivery, purchasing—each individually qualifying as merely preparatory or auxiliary, while the combined activities constituted a significant business presence. Article 13 provides that activities cannot be considered preparatory or auxiliary if they form part of a cohesive business operation, or if complementary functions are performed by the enterprise or closely related enterprises at the same location or another location.
 
-### Beyond the Minimum Standard
+Article 14 addresses artificial splitting of contracts to avoid the construction PE threshold. Where a single project is artificially divided into multiple contracts, each falling below the 12-month threshold, Article 14 aggregates connected contracts for PE determination.
 
-In addition to Articles 6-7 (minimum standard), Part III includes:
+Article 15 defines when persons are "closely related" for purposes of Articles 12-14, providing the connecting principle for applying these anti-avoidance rules across related enterprises.
 
-| Article | Subject | Status |
-|---------|---------|--------|
-| **8** | Dividend transfer transactions | Optional |
-| **9** | Capital gains from shares in land-rich entities | Optional |
-| **10** | Anti-abuse for PEs in third jurisdictions | Optional |
-| **11** | Application to own residents (saving clause) | Optional |
+## 7. Dispute Resolution (Parts V and VI)
 
-### Article 9 - Land-Rich Company Rule
+### 7.1. MAP Minimum Standard (Article 16)
 
-Allows source taxation of gains from shares where:
-- Company's value derives principally from immovable property
-- Located in source jurisdiction
-- At **any time during the 365 days preceding** alienation
+Article 16 implements the BEPS Action 14 minimum standard on improving mutual agreement procedure access. It ensures that MAP cases are presented to competent authorities and that authorities endeavour to resolve disputes in a timely manner.
 
-This prevents avoidance by temporarily reducing immovable property holdings before sale.
+Article 17 addresses corresponding adjustments for transfer pricing, ensuring that where one state makes a primary adjustment, the other state makes a corresponding adjustment to prevent double taxation.
 
----
+### 7.2. Optional Arbitration
 
-## G. PART IV: AVOIDANCE OF PE STATUS (Articles 12-15)
+Part VI provides optional mandatory binding arbitration, applying if MAP does not resolve a case within two years. Arbitration represents a significant enhancement to dispute resolution, providing taxpayers with certainty that unresolved cases will receive binding determination.
 
-Part IV implements **BEPS Action 7** measures to prevent artificial avoidance of PE status.
+However, arbitration adoption remains limited. Approximately 27 jurisdictions have opted into Part VI. For arbitration to apply to a specific treaty, both parties must have opted in. Countries that opted in include major economies such as the United Kingdom, Germany, France, Netherlands, and Australia, but many developing countries declined, viewing arbitration as potentially constraining their tax sovereignty.
 
-### 1. Article 12 - Commissionaire Arrangements
+Arbitration may proceed through "final offer" (also known as "last best offer" or "baseball") arbitration, where each competent authority submits a proposed resolution and the panel selects one, or through "independent opinion" arbitration, where the panel issues a reasoned decision. The Netherlands, for example, uses final offer arbitration as its default approach.
 
-```
-COMMISSIONAIRE ARRANGEMENT AVOIDANCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 8. Entry into Force and Current Status
 
-PROBLEM:
-Enterprise uses "commissionaire" to conclude contracts in source state
-Commissionaire acts in own name but on behalf of enterprise
-Under traditional rules: No PE (contracts not "in the name of" enterprise)
+The MLI entered into force on 1 July 2018, the first day of the month following three months after the fifth ratification. For individual jurisdictions, the MLI enters into force on the first day of the month following three months after deposit of the ratification instrument.
 
-            ┌─────────────────┐
-            │  ENTERPRISE     │
-            │  (Non-resident) │
-            └────────┬────────┘
-                     │ Contracts in
-                     │ commissionaire's name
-                     ▼
-            ┌─────────────────┐
-            │ COMMISSIONAIRE  │ ← Acts on behalf of enterprise
-            │ (Source state)  │   but in OWN name
-            └────────┬────────┘
-                     │
-                     ▼
-            ┌─────────────────┐
-            │   CUSTOMERS     │
-            │ (Source state)  │
-            └─────────────────┘
+For specific CTAs, entry into force depends on the MLI having entered into force for both contracting jurisdictions. Different timing rules apply to different taxes: for withholding taxes, MLI provisions typically apply from the first day of the next calendar year following entry into force; for other taxes, provisions apply to taxable periods beginning at least six months after entry into force.
 
-ARTICLE 12 SOLUTION:
-PE exists where person "habitually concludes contracts, or habitually
-plays the principal role leading to the conclusion of contracts"
-that are routinely concluded without material modification
+As of January 2025, the MLI has 104 signatories and over 83 ratifications. Recent signatories include Algeria (June 2024) and the Democratic Republic of the Congo (September 2024). The MLI covers approximately 2,000 treaties either already modified or pending modification.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+The United States remains a notable non-signatory. The US position reflects reliance on its existing domestic anti-avoidance provisions and preference for bilateral treaty negotiation. This non-participation limits the MLI's effectiveness for treaties with the United States, one of the largest economies and treaty partners for many jurisdictions.
 
-### 2. Article 13 - Anti-Fragmentation Rule
+## 9. Benefits and Criticisms
 
-Prevents enterprises from fragmenting cohesive business operations to claim that each fragment is merely "preparatory or auxiliary."
+### 9.1. Benefits of the MLI Approach
 
-**Example:**
-- Warehouse activity alone = preparatory/auxiliary (no PE)
-- Delivery activity alone = preparatory/auxiliary (no PE)
-- **Combined** with related enterprise activities = may constitute PE
+The MLI achieved efficiency that bilateral renegotiation could not have matched. Thousands of treaties were modified through a single instrument, implementing BEPS measures in years rather than the decades that bilateral renegotiation would have required.
 
-### 3. Article 14 - Splitting-Up of Contracts
+The approach provides consistency across treaty networks. Standardised provisions reduce complexity for taxpayers operating across multiple jurisdictions and ensure that anti-avoidance measures cannot be circumvented by routing transactions through jurisdictions with unmodified treaties.
 
-Addresses avoidance of construction PE threshold by splitting contracts:
-- Single project artificially divided into multiple contracts
-- Each under 12-month threshold
-- Article 14 aggregates connected contracts for PE determination
+The MLI enabled inclusive participation. Non-OECD members could participate through the Inclusive Framework, ensuring that developing countries could shape and adopt BEPS treaty measures rather than having measures imposed through bilateral negotiations where bargaining power might be asymmetric.
 
-### 4. Article 15 - Definition of Connected Persons
+The flexibility mechanisms enabled countries to tailor adoption to their circumstances. Countries were not required to accept a uniform package but could reserve against provisions inconsistent with their treaty policies while still participating in the broader framework.
 
-Defines when persons are "closely related" for purposes of Articles 12-14.
+### 9.2. Criticisms and Limitations
 
----
+The MLI adds complexity to treaty analysis. Practitioners must examine not only the underlying bilateral treaty but also both parties' MLI positions, reservations, and notifications. The additional legal layer increases compliance costs for both businesses and tax authorities.
 
-## H. PARTS V AND VI: DISPUTE RESOLUTION
+The PPT creates uncertainty through its standards-based approach. Unlike rules-based provisions with clear objective criteria, the PPT requires case-by-case evaluation of whether obtaining treaty benefits was a principal purpose. This uncertainty may chill legitimate transactions where taxpayers cannot confidently predict outcomes. India's Central Board of Direct Taxes issued guidance in January 2025 clarifying PPT application, reflecting ongoing implementation challenges.
 
-### Part V - Improving Dispute Resolution (Articles 16-17)
+The MLI's scope is limited. It modifies anti-abuse and procedural provisions but does not address the substantive allocation of taxing rights through distributive rules. Source states seeking greater taxing rights must still pursue bilateral renegotiation or new multilateral instruments like the STTR Multilateral Instrument signed in September 2024.
 
-| Article | Content |
-|---------|---------|
-| **16** | MAP access and time limits (minimum standard) |
-| **17** | Corresponding adjustments for transfer pricing |
+Incomplete adoption limits effectiveness. US non-participation means that a significant portion of global treaty relationships remain unaffected by MLI modifications. Some developing countries also declined to participate fully, viewing certain provisions as constraining their policy flexibility.
 
-### Part VI - Arbitration (Articles 18-26)
-
-**Optional** mandatory binding arbitration provision:
-- Applies if MAP does not resolve case within 2 years
-- Arbitration panel issues binding decision
-- "Final offer" or "independent opinion" approach
-
-**Adoption:** Limited uptake (~30 jurisdictions opted in)
-
----
-
-## I. ENTRY INTO FORCE AND APPLICATION
-
-### 1. Entry Into Force
-
-```
-MLI ENTRY INTO FORCE TIMELINE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-FOR THE MLI GENERALLY:
-  First day of month following 3 months after 5th ratification
-  → 1 July 2018
-
-FOR INDIVIDUAL JURISDICTION:
-  First day of month following 3 months after deposit of
-  ratification instrument
-
-FOR SPECIFIC CTA:
-  Depends on MLI entry into force for BOTH contracting jurisdictions
-  AND type of tax:
-    • Withholding taxes: Typically from 1 January of following year
-    • Other taxes: Taxable periods beginning 6+ months after entry
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### 2. Current Status (2025)
-
-| Metric | Number |
-|--------|--------|
-| **Signatories** | 104 jurisdictions |
-| **Treaties covered** | ~2,000 modified or pending |
-| **Ratifications** | 83+ jurisdictions |
-
-**Notable Non-Signatory:** United States (relies on existing domestic provisions and bilateral negotiations)
-
----
-
-## J. BENEFITS AND CRITICISMS
-
-### Benefits
-
-| Benefit | Explanation |
-|---------|-------------|
-| **Efficiency** | Modifies thousands of treaties without bilateral renegotiation |
-| **Speed** | BEPS measures implemented in years, not decades |
-| **Consistency** | Standardised provisions across treaty network |
-| **Inclusivity** | Non-OECD members participate through Inclusive Framework |
-| **Flexibility** | Countries can tailor adoption to their circumstances |
-
-### Criticisms
-
-| Criticism | Explanation |
-|-----------|-------------|
-| **Complexity** | Additional legal layer requires extensive analysis |
-| **Compliance costs** | Businesses must determine MLI impact on each CTA |
-| **Uncertainty** | PPT standards-based approach creates uncertainty |
-| **Limited scope** | Distributive articles not modified; allocation unchanged |
-| **Incomplete adoption** | US non-participation limits effectiveness |
-| **Developing country impact** | May not address core concerns about taxing rights allocation |
-
-### December 2022 Exam Discussion Points
-
-From the December 2022 exam (Q1), key analysis themes included:
-
-1. **Burden reduction**: MLI avoided bilateral renegotiation of each DTA
-2. **Certainty for business**: Added complexity vs speed of implementation
-3. **Better functioning system**: Too early to assess; depends on revenue outcomes
-4. **Citizen benefit**: Inclusive Framework participation; but early movers dominated
-
----
-
-## K. EXAM APPLICATION
-
-### 1. Recognition Triggers
-
-Watch for these exam question indicators:
-
-- "BEPS minimum standards" or "Action 15"
-- "Multilateral" treaty modification
-- "Principal purpose test" or "PPT"
-- Commissionaire or fragmentation avoidance
-- Treaty shopping prevention
-- "Synthesised text" or "covered tax agreement"
-
-### 2. Answer Framework
-
-```
-ANSWER STRUCTURE: MLI Questions
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. CONTEXT (3-4 marks)
-   • Why MLI was developed (BEPS Action 15)
-   • Problem of modifying 3,000+ bilateral treaties
-   • Legal mechanism (VCLT Article 30(3) overlay)
-
-2. KEY PROVISIONS (6-10 marks depending on question)
-   • Minimum standards: Articles 6, 7 (treaty abuse), Article 16 (MAP)
-   • PPT operation and elements
-   • Relevant optional provisions (PE, hybrid mismatches)
-
-3. MECHANICS (4-5 marks)
-   • CTAs and notification process
-   • Flexibility mechanisms (opt-in, opt-out, reservations)
-   • Entry into force rules
-
-4. EVALUATION (5-8 marks for essay questions)
-   • Benefits: efficiency, speed, consistency
-   • Criticisms: complexity, compliance costs, limited scope
-   • Developing country perspective
-   • US non-participation impact
-
-5. APPLICATION (if scenario question)
-   • Which CTAs are affected?
-   • What MLI provisions apply?
-   • How does provision modify DTA treatment?
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## L. KEY TAKEAWAYS
-
-```
-ESSENTIAL CONCEPTS FOR EXAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. WHAT IS THE MLI?
-   • Multilateral treaty modifying existing bilateral DTAs
-   • Implements BEPS treaty measures (Actions 2, 6, 7, 14)
-   • Developed under Action 15
-   • 104 signatories; ~2,000 treaties covered
-
-2. HOW IT WORKS:
-   • Overlay treaty (does not amend DTA text directly)
-   • Applies via VCLT Article 30(3) (later treaty prevails)
-   • Both parties must designate DTA as CTA
-   • Synthesised texts show combined effect
-
-3. MINIMUM STANDARDS:
-   • Treaty abuse: Articles 6-7 (preamble + PPT)
-   • Dispute resolution: Article 16 (MAP improvements)
-   • ALL signatories must implement (limited reservations)
-
-4. PPT (Article 7):
-   • Benefit denied if obtaining benefit was ONE OF principal purposes
-   • "Reasonable to conclude" = objective test
-   • Exception if granting benefit accords with treaty purpose
-   • Standards-based (vs rules-based LOB)
-
-5. PE AVOIDANCE (Articles 12-15):
-   • Article 12: Commissionaire arrangements
-   • Article 13: Anti-fragmentation rule
-   • Article 14: Contract splitting
-   • Article 15: Connected persons definition
-
-6. FLEXIBILITY:
-   • Opt-in and opt-out provisions
-   • Reservations permitted for non-minimum standards
-   • Countries notify MLI position at signature/ratification
-
-7. KEY CRITICISMS:
-   • Adds complexity (additional legal layer)
-   • Compliance costs for businesses and governments
-   • PPT uncertainty (standards-based)
-   • Does not modify distributive articles (allocation unchanged)
-   • US non-participation limits scope
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## Common Exam Errors to Avoid
-
-| Error | Why It Loses Marks | Correct Approach |
-|-------|-------------------|------------------|
-| Saying MLI "amends" DTAs | Incorrect legal mechanism | MLI applies alongside (overlay); does not change DTA text |
-| Confusing PPT with LOB | Different anti-abuse mechanisms | PPT = standards-based; LOB = rules-based |
-| Forgetting minimum standards | Core exam content | Always mention Articles 6, 7, 16 as minimum standards |
-| Ignoring flexibility mechanisms | Incomplete analysis | Explain opt-in, opt-out, reservations, notifications |
-| Missing US non-participation | Significant limitation | Note US did not sign; relies on bilateral approach |
-| Overlooking synthesised texts | Practical application | Explain how CTAs are read with MLI modifications |
-
----
-
-## References
-
-**Primary Sources:**
-- Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting (MLI)
-- Explanatory Statement to the MLI (OECD, 2016)
-- OECD BEPS Action 15 Final Report (2015)
-- Vienna Convention on the Law of Treaties, Article 30(3)
-
-**Web Sources:**
-- [OECD BEPS Multilateral Instrument](https://www.oecd.org/en/topics/sub-issues/beps-multilateral-instrument.html)
-- [Bloomberg Tax - What Is the OECD Multilateral Instrument?](https://pro.bloombergtax.com/insights/international-tax/oecd-beps-and-the-multilateral-instrument/)
-- [Wikipedia - MLI](https://en.wikipedia.org/wiki/Multilateral_Convention_to_Implement_Tax_Treaty_Related_Measures_to_Prevent_Base_Erosion_and_Profit_Shifting)
-- [Australian Tax Office - Multilateral Instrument](https://www.ato.gov.au/about-ato/international-tax-agreements/in-detail/multilateral-instrument)
-
-**Academic References:**
-- Alschner, W., "The BEPS Multilateral Instrument" (2019)
-- Brauner, Y., "The Future of Tax Treaties" (2020)
-- Broekhuijsen, D., "A Multilateral Tax Treaty" (2017)
-
-**ADIT Past Exam References:**
-- December 2022 Q1: Full MLI question (25 marks)
-- December 2022 Q7: PE changes with MLI context
-- June 2023 Q1: BEPS minimum standards with MLI reference
+From a developing country perspective, some commentators argue that the MLI primarily addresses concerns of capital-exporting countries about treaty shopping, while doing little to enhance source-country taxing rights that developing countries prioritise. The UN Framework Convention on International Tax Cooperation, initiated in 2024, may eventually provide an alternative forum more responsive to developing country interests.
 
 ---
 
