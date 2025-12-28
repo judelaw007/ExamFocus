@@ -165,11 +165,3 @@ Airline income does not receive the same Pillar Two exclusion. While Article 8 p
 This differential treatment reflects policy judgments about relative mobility and tax planning opportunities. Airlines have more substantial fixed operations including hubs, maintenance facilities, and ground operations than shipping companies. Airlines are viewed as having greater capacity for profit shifting through transfer pricing. The decision to exclude shipping while including airlines demonstrates Pillar Two's exclusions are narrowly tailored.
 
 Article 8 and Pillar Two create overlapping but distinct frameworks. Article 8 determines allocation of taxing rights between source and residence states under bilateral treaties. Pillar Two operates within that allocation to ensure minimum effective taxation of airline profits, though not shipping profits.
-
-## 9. Concluding Observations
-
-Article 8 represents one of the most successful aspects of the international tax treaty framework. Exclusive taxation in the POEM state has facilitated international trade by avoiding multiple taxation and administrative complexity. The provision's stability over decades reflects genuine consensus on treatment of these highly mobile operations.
-
-However, consensus shows signs of strain. The 2025 UN Model update extending source taxation to airlines represents developing country frustration with exclusive POEM state taxation predominantly benefiting developed countries. The differential treatment of shipping and airlines under Pillar Two demonstrates that even within the OECD framework, rationale for special treatment is being questioned and refined.
-
-The core concepts of POEM as connecting factor, broad interpretation of "operation," and the ancillary activities test remain robust frameworks for analyzing modern fact patterns. Understanding Article 8 requires appreciating both its technical provisions and the policy tensions between administrative simplicity, fair revenue allocation, and maintaining competitive conditions in the transport sector.
