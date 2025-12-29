@@ -1,4 +1,4 @@
-# Agent 1: Past Paper Analyzer
+# Prompt 1: Past Paper Analyzer
 
 ## Configuration
 
@@ -8,11 +8,11 @@
 | **Tools** | `Read`, `Glob`, `Grep` |
 | **Position** | 1 of 8 (First) |
 | **Input** | Topic name |
-| **Output** | Agent 2 + Agent 3 |
+| **Output** | Prompt 2 + Prompt 3 |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the PAST PAPER ANALYZER. Analyze all available past exam papers to extract comprehensive exam intelligence for the specified topic.

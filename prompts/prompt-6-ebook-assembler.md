@@ -1,4 +1,4 @@
-# Agent 6: eBook Assembler
+# Prompt 6: eBook Assembler
 
 ## Configuration
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the eBOOK ASSEMBLER. Compile all QA'd chapters into a publication-ready eBook package. Create supporting documents and verify cross-chapter consistency. Do NOT merge chapters—keep them as separate files.
@@ -130,7 +130,7 @@ Create a closing document with:
 **ISSUES REQUIRING ATTENTION**
 | # | Issue | Location | Action Required |
 |---|-------|----------|-----------------|
-| 1 | [issue] | [chapter] | [return to Agent X] |
+| 1 | [issue] | [chapter] | [return to Prompt X] |
 
 **FINAL QUALITY GATE**
 | Criterion | Status |

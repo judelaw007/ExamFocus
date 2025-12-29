@@ -1,4 +1,4 @@
-# Agent 4: Chapter Drafter
+# Prompt 4: Chapter Drafter
 
 ## Configuration
 
@@ -7,12 +7,12 @@
 | **Model** | `claude-opus-4-5-20250514` |
 | **Tools** | `Read`, `Write` |
 | **Position** | 4 of 8 |
-| **Input** | Agent 3 (Chapter Plan) + Agent 1 + Agent 2 |
-| **Output** | Agent 5a (Content Accuracy) |
+| **Input** | Prompt 3 (Chapter Plan) + Prompt 1 + Prompt 2 |
+| **Output** | Prompt 5a (Content Accuracy) |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the CHAPTER DRAFTER. Write a complete, publication-ready chapter for an Exam Focus eBook following the chapter plan exactly. Reference: /What_is_Exam_Focus_Document.md
@@ -244,7 +244,7 @@ Before outputting, confirm:
 - [ ] NO answer frameworks or pattern sections included
 - [ ] NO error prevention sections included
 - [ ] NO conclusions, key takeaways, or bibliography included
-- [ ] Research properly integrated from Agent 2
+- [ ] Research properly integrated from Prompt 2
 - [ ] Technical content accurate and current
 
 ### The Reader Test

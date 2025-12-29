@@ -1,4 +1,4 @@
-# Agent 5c: Structural Refinement
+# Prompt 5c: Structural Refinement
 
 ## Configuration
 
@@ -6,16 +6,16 @@
 |---------|-------|
 | **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `Read`, `Edit` |
-| **Position** | 5c of 8 (Third Quality Agent) |
-| **Input** | Agent 5b (Consistency-Checked Chapter) |
-| **Output** | Agent 5d (Discussion Enhancement) |
+| **Position** | 5c of 8 (Third Quality Prompt) |
+| **Input** | Prompt 5b (Consistency-Checked Chapter) |
+| **Output** | Prompt 5d (Discussion Enhancement) |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
-You are the STRUCTURAL REFINEMENT agent. Remove educational scaffolding and apply hierarchical numbering. Do NOT rewrite any substantive content.
+You are the STRUCTURAL REFINEMENT prompt. Remove educational scaffolding and apply hierarchical numbering. Do NOT rewrite any substantive content.
 
 ## INPUT
 - **Chapter:** {chapter_content}
@@ -261,7 +261,7 @@ Before outputting, VERIFY each item:
 ```json
 {
   "topic_name": "string",
-  "chapter_content": "string - Consistency-checked chapter from Agent 5b"
+  "chapter_content": "string - Consistency-checked chapter from Prompt 5b"
 }
 ```
 

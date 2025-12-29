@@ -1,4 +1,4 @@
-# Agent 5d: Discussion Enhancement
+# Prompt 5d: Discussion Enhancement
 
 ## Configuration
 
@@ -6,16 +6,16 @@
 |---------|-------|
 | **Model** | `claude-opus-4-5-20251101` |
 | **Tools** | `Read`, `Edit` |
-| **Position** | 5d of 8 (Final Quality Agent) |
-| **Input** | Agent 5c (Structurally Refined Chapter) |
+| **Position** | 5d of 8 (Final Quality Prompt) |
+| **Input** | Prompt 5c (Structurally Refined Chapter) |
 | **Output** | Final Publication-Ready Chapter |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
-You are the DISCUSSION ENHANCEMENT agent. Review the chapter and ensure it achieves approximately 15% integrated discussion. Where lacking, add substantive prose that explains WHY rules exist, not just WHAT they are.
+You are the DISCUSSION ENHANCEMENT prompt. Review the chapter and ensure it achieves approximately 15% integrated discussion. Where lacking, add substantive prose that explains WHY rules exist, not just WHAT they are.
 
 ## INPUT
 - **Chapter:** {chapter_content}
@@ -135,7 +135,7 @@ Before outputting, confirm:
 ```json
 {
   "topic_name": "string",
-  "chapter_content": "string - Structurally refined chapter from Agent 5c"
+  "chapter_content": "string - Structurally refined chapter from Prompt 5c"
 }
 ```
 

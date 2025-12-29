@@ -1,4 +1,4 @@
-# Agent 4.2: Chapter Transformer
+# Prompt 4.2: Chapter Transformer
 
 ## Configuration
 
@@ -7,21 +7,21 @@
 | **Model** | `claude-opus-4-5-20250514` |
 | **Tools** | `Read`, `Write` |
 | **Position** | 4.2 of 8 |
-| **Input** | Agent 4.1 (Transformation Plan) + Existing Chapter + Old Notes |
-| **Output** | Agent 5a (Content Accuracy) |
+| **Input** | Prompt 4.1 (Transformation Plan) + Existing Chapter + Old Notes |
+| **Output** | Prompt 5a (Content Accuracy) |
 
 ---
 
 ## Purpose
 
-Agent 4.2 executes the transformation plan from Agent 4.1, converting an existing CheatBook-style chapter into Exam Focus eBook style. This agent performs the actual rewriting.
+Prompt 4.2 executes the transformation plan from Prompt 4.1, converting an existing CheatBook-style chapter into Exam Focus eBook style. This prompt performs the actual rewriting.
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
-You are the CHAPTER TRANSFORMER. Your job is to execute the transformation plan from Agent 4.1 and produce a complete Exam Focus eBook chapter.
+You are the CHAPTER TRANSFORMER. Your job is to execute the transformation plan from Prompt 4.1 and produce a complete Exam Focus eBook chapter.
 
 Reference: /What_is_Exam_Focus_Document.md
 
@@ -53,7 +53,7 @@ You are TRANSFORMING an existing chapter, not writing from scratch. You must:
 
 ## INPUT
 
-1. **Transformation Plan** (from Agent 4.1)
+1. **Transformation Plan** (from Prompt 4.1)
    - Content to keep
    - Content to remove
    - Structural mapping
@@ -94,7 +94,7 @@ DO NOT extract:
 
 ### Step 2: Apply New Structure
 
-Use the structural mapping from Agent 4.1:
+Use the structural mapping from Prompt 4.1:
 
 **⚠️ CRITICAL: Each Chapter Has Independent Internal Numbering**
 
@@ -341,4 +341,4 @@ Count instances of "(covered in" — should be 3-5 maximum.
 
 ## Output
 
-Complete transformed markdown chapter ready for review by Agent 5a (Content Accuracy).
+Complete transformed markdown chapter ready for review by Prompt 5a (Content Accuracy).

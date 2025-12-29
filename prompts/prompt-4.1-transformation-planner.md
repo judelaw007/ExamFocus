@@ -1,4 +1,4 @@
-# Agent 4.1: Chapter Transformation Planner
+# Prompt 4.1: Chapter Transformation Planner
 
 ## Configuration
 
@@ -8,17 +8,17 @@
 | **Tools** | `Read` |
 | **Position** | 4.1 of 8 |
 | **Input** | Topic assignment, Syllabus CSV, Old notes (if any), Existing chapter |
-| **Output** | Agent 4.2 (Chapter Transformer) |
+| **Output** | Prompt 4.2 (Chapter Transformer) |
 
 ---
 
 ## Purpose
 
-Agent 4.1 analyzes existing CheatBook-style chapters and plans their transformation into Exam Focus eBook style. It does NOT write the chapter—it creates a detailed transformation plan for Agent 4.2.
+Prompt 4.1 analyzes existing CheatBook-style chapters and plans their transformation into Exam Focus eBook style. It does NOT write the chapter—it creates a detailed transformation plan for Prompt 4.2.
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the CHAPTER TRANSFORMATION PLANNER. Your job is to analyze an existing chapter and create a detailed plan for transforming it from CheatBook style to Exam Focus eBook style.
@@ -188,9 +188,9 @@ If reducing:
 
 ---
 
-**9. TRANSFORMATION CHECKLIST FOR AGENT 4.2**
+**9. TRANSFORMATION CHECKLIST FOR PROMPT 4.2**
 
-Agent 4.2 must ensure:
+Prompt 4.2 must ensure:
 - [ ] All Exam Intelligence boxes removed
 - [ ] All mark schemes removed
 - [ ] All time allocations removed
@@ -207,7 +207,7 @@ Agent 4.2 must ensure:
 
 **10. SPECIAL INSTRUCTIONS**
 
-[Any topic-specific guidance for Agent 4.2]
+[Any topic-specific guidance for Prompt 4.2]
 
 ---
 
@@ -269,4 +269,4 @@ ADIT/Principles of International Taxation/PIT_Syllabus_2026_Topics.csv
 
 ## Output
 
-A comprehensive transformation plan that Agent 4.2 can execute to convert the chapter from CheatBook style to Exam Focus eBook style.
+A comprehensive transformation plan that Prompt 4.2 can execute to convert the chapter from CheatBook style to Exam Focus eBook style.

@@ -1,4 +1,4 @@
-# Agent 5b: Consistency & Flow Checker
+# Prompt 5b: Consistency & Flow Checker
 
 ## Configuration
 
@@ -6,13 +6,13 @@
 |---------|-------|
 | **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `Read`, `Edit` |
-| **Position** | 5b of 8 (Second Quality Agent) |
-| **Input** | Agent 5a (Accuracy-Verified Chapter) |
-| **Output** | Agent 5c (Structural Refinement) |
+| **Position** | 5b of 8 (Second Quality Prompt) |
+| **Input** | Prompt 5a (Accuracy-Verified Chapter) |
+| **Output** | Prompt 5c (Structural Refinement) |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the CONSISTENCY & FLOW CHECKER. Audit the chapter for terminology variations, redundancies, contradictions, and broken cross-references. Fix ONLY inconsistencies—preserve everything else exactly.
@@ -158,7 +158,7 @@ Before outputting, confirm:
 ```json
 {
   "topic_name": "string",
-  "chapter_content": "string - Accuracy-verified chapter from Agent 5a",
+  "chapter_content": "string - Accuracy-verified chapter from Prompt 5a",
   "terminology_standards": "string - Optional: existing standards from previous chapters"
 }
 ```

@@ -2,13 +2,13 @@
 
 ## Overview
 
-This checklist is used by the supervising agent (Claude) to verify quality agent outputs before pushing each chapter.
+This checklist is used by the supervising prompt (Claude) to verify quality prompt outputs before pushing each chapter.
 
 ---
 
 ## Pre-Push Verification
 
-### Agent 5a: Content Accuracy
+### Prompt 5a: Content Accuracy
 | Check | Criteria | Pass/Fail |
 |-------|----------|-----------|
 | Corrections are factual | Changes fix actual errors, not style preferences | |
@@ -16,7 +16,7 @@ This checklist is used by the supervising agent (Claude) to verify quality agent
 | Minimal intervention | Only incorrect content changed, not rewritten | |
 | Original voice preserved | Author's style maintained | |
 
-### Agent 5b: Consistency & Flow
+### Prompt 5b: Consistency & Flow
 | Check | Criteria | Pass/Fail |
 |-------|----------|-----------|
 | Terminology standardized | Consistent terms throughout | |
@@ -24,7 +24,7 @@ This checklist is used by the supervising agent (Claude) to verify quality agent
 | Cross-references valid | All internal links correct | |
 | Contradictions resolved | Conflicts fixed with authority | |
 
-### Agent 5c: Structural Refinement
+### Prompt 5c: Structural Refinement
 | Check | Criteria | Pass/Fail |
 |-------|----------|-----------|
 | Only scaffolding removed | Learning objectives, time indicators, etc. | |
@@ -32,7 +32,7 @@ This checklist is used by the supervising agent (Claude) to verify quality agent
 | Worked examples intact | All exam examples remain | |
 | Answer frameworks intact | Exam Focus methodology preserved | |
 
-### Agent 5d: Discussion Enhancement
+### Prompt 5d: Discussion Enhancement
 | Check | Criteria | Pass/Fail |
 |-------|----------|-----------|
 | ~15% discussion achieved | Prose woven throughout | |
@@ -55,7 +55,7 @@ This checklist is used by the supervising agent (Claude) to verify quality agent
 
 ## Stop Conditions (Escalate to User)
 
-- [ ] Agent made unexpectedly large changes (>20% of content)
+- [ ] Prompt made unexpectedly large changes (>20% of content)
 - [ ] Accuracy corrections seem questionable
 - [ ] Substantive content was removed
 - [ ] Discussion additions don't fit the chapter
