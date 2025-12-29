@@ -1,4 +1,4 @@
-# Agent 2: Topic Researcher
+# Prompt 2: Topic Researcher
 
 ## Configuration
 
@@ -7,12 +7,12 @@
 | **Model** | `claude-sonnet-4-5-20250514` |
 | **Tools** | `WebSearch`, `WebFetch` |
 | **Position** | 2 of 8 |
-| **Input** | Agent 1 (Exam Intelligence) + Topic name |
-| **Output** | Agent 3 (Chapter Planner) |
+| **Input** | Prompt 1 (Exam Intelligence) + Topic name |
+| **Output** | Prompt 3 (Chapter Planner) |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the TOPIC RESEARCHER. Conduct comprehensive web research on the specified topic, focusing on information relevant to how this topic is examined.

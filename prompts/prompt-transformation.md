@@ -13,7 +13,7 @@ Topic Code: [CODE] from PIT_Syllabus_2026_Topics.csv
 Existing Chapter: [path to existing chapter]
 Old Notes: [path to old notes .docx if available, or "None"]
 
-Execute agents 4.1 → 4.2 in sequence—no skipping of agents, each agent must perform their full tasks (non-negotiable - we must be thorough). Each agent must complete fully before the next begins. Pass output to QA (5a-5d) when Agent 4.2 completes.
+Execute prompts 4.1 → 4.2 in sequence—no skipping of prompts, each prompt must perform their full tasks (non-negotiable - we must be thorough). Each prompt must complete fully before the next begins. Pass output to QA (5a-5d) when Prompt 4.2 completes.
 
 Reference: /What_is_Exam_Focus_Document.md
 ```
@@ -31,7 +31,7 @@ Topic Code: I.A from PIT_Syllabus_2026_Topics.csv
 Existing Chapter: ADIT/Principles of International Taxation/Part I - Basic Principles of International Taxation/Chapter_1_Jurisdiction_to_Tax.md
 Old Notes: ADIT/Principles of International Taxation/Part I - Basic Principles of International Taxation/old notes/JURISDICTION TO TAX_2.docx
 
-Execute agents 4.1 → 4.2 in sequence—no skipping of agents, each agent must perform their full tasks (non-negotiable - we must be thorough). Each agent must complete fully before the next begins. Pass output to QA (5a-5d) when Agent 4.2 completes.
+Execute prompts 4.1 → 4.2 in sequence—no skipping of prompts, each prompt must perform their full tasks (non-negotiable - we must be thorough). Each prompt must complete fully before the next begins. Pass output to QA (5a-5d) when Prompt 4.2 completes.
 
 Reference: /What_is_Exam_Focus_Document.md
 ```
@@ -43,7 +43,7 @@ Topic Code: I.E.1 from PIT_Syllabus_2026_Topics.csv
 Existing Chapter: ADIT/Principles of International Taxation/Part I - Basic Principles of International Taxation/Chapter_5.1_Relief_by_Credit.md
 Old Notes: ADIT/Principles of International Taxation/Part I - Basic Principles of International Taxation/old notes/Methods of relief from international double taxation.docx
 
-Execute agents 4.1 → 4.2 in sequence—no skipping of agents, each agent must perform their full tasks (non-negotiable - we must be thorough). Each agent must complete fully before the next begins. Pass output to QA (5a-5d) when Agent 4.2 completes.
+Execute prompts 4.1 → 4.2 in sequence—no skipping of prompts, each prompt must perform their full tasks (non-negotiable - we must be thorough). Each prompt must complete fully before the next begins. Pass output to QA (5a-5d) when Prompt 4.2 completes.
 
 Reference: /What_is_Exam_Focus_Document.md
 ```
@@ -57,7 +57,7 @@ Topic Code: II.G.2 from PIT_Syllabus_2026_Topics.csv
 Existing Chapter: ADIT/Principles of International Taxation/Part II - Double Taxation Conventions/Chapter_7.2_Article_5_Permanent_Establishment.md
 Old Notes: None
 
-Execute agents 4.1 → 4.2 in sequence—no skipping of agents, each agent must perform their full tasks (non-negotiable - we must be thorough). Each agent must complete fully before the next begins. Pass output to QA (5a-5d) when Agent 4.2 completes.
+Execute prompts 4.1 → 4.2 in sequence—no skipping of prompts, each prompt must perform their full tasks (non-negotiable - we must be thorough). Each prompt must complete fully before the next begins. Pass output to QA (5a-5d) when Prompt 4.2 completes.
 
 Reference: /What_is_Exam_Focus_Document.md
 ```
@@ -69,7 +69,7 @@ Topic Code: II.K.3 from PIT_Syllabus_2026_Topics.csv
 Existing Chapter: ADIT/Principles of International Taxation/Part II - Double Taxation Conventions/Chapter_12.3_Article_11_Interest.md
 Old Notes: None
 
-Execute agents 4.1 → 4.2 in sequence—no skipping of agents, each agent must perform their full tasks (non-negotiable - we must be thorough). Each agent must complete fully before the next begins. Pass output to QA (5a-5d) when Agent 4.2 completes.
+Execute prompts 4.1 → 4.2 in sequence—no skipping of prompts, each prompt must perform their full tasks (non-negotiable - we must be thorough). Each prompt must complete fully before the next begins. Pass output to QA (5a-5d) when Prompt 4.2 completes.
 
 Reference: /What_is_Exam_Focus_Document.md
 ```
@@ -101,14 +101,14 @@ Reference: /What_is_Exam_Focus_Document.md
 │                  TRANSFORMATION PIPELINE                        │
 ├────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  Agent 4.1: Transformation Planner                             │
+│  Prompt 4.1: Transformation Planner                            │
 │  ├── Read syllabus CSV (scope, word limits)                    │
 │  ├── Read existing chapter                                     │
 │  ├── Read old notes (if available)                             │
 │  └── Output: Transformation Plan                               │
 │                          │                                      │
 │                          ▼                                      │
-│  Agent 4.2: Chapter Transformer                                │
+│  Prompt 4.2: Chapter Transformer                               │
 │  ├── Execute transformation plan                               │
 │  ├── Remove CheatBook elements                                 │
 │  ├── Apply hierarchical numbering                              │
@@ -116,7 +116,7 @@ Reference: /What_is_Exam_Focus_Document.md
 │  └── Output: Transformed Chapter                               │
 │                          │                                      │
 │                          ▼                                      │
-│  QA Agents (5a → 5b → 5c → 5d)                                 │
+│  QA Prompts (5a → 5b → 5c → 5d)                                │
 │  ├── 5a: Content Accuracy                                      │
 │  ├── 5b: Consistency & Flow                                    │
 │  ├── 5c: Structural Refinement                                 │
@@ -132,12 +132,12 @@ Reference: /What_is_Exam_Focus_Document.md
 | Aspect | Creation Pipeline | Transformation Pipeline |
 |--------|------------------|------------------------|
 | **Use When** | No existing chapter | Existing CheatBook-style chapter |
-| **Agents** | 1 → 2 → 3 → 4 | 4.1 → 4.2 |
+| **Prompts** | 1 → 2 → 3 → 4 | 4.1 → 4.2 |
 | **Starting Input** | Topic only | Existing chapter + old notes |
-| **Agent 1** | Past Paper Analyzer | (not used) |
-| **Agent 2** | Topic Researcher | (not used) |
-| **Agent 3** | Chapter Planner | (not used) |
-| **Agent 4** | Chapter Drafter | (not used) |
-| **Agent 4.1** | (not used) | Transformation Planner |
-| **Agent 4.2** | (not used) | Chapter Transformer |
+| **Prompt 1** | Past Paper Analyzer | (not used) |
+| **Prompt 2** | Topic Researcher | (not used) |
+| **Prompt 3** | Chapter Planner | (not used) |
+| **Prompt 4** | Chapter Drafter | (not used) |
+| **Prompt 4.1** | (not used) | Transformation Planner |
+| **Prompt 4.2** | (not used) | Chapter Transformer |
 | **QA** | 5a → 5b → 5c → 5d | 5a → 5b → 5c → 5d |

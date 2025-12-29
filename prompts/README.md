@@ -1,8 +1,8 @@
-# ExamFocus Content Pipeline - Agent Architecture
+# ExamFocus Content Pipeline - Prompt Architecture
 
 ## Overview
 
-This directory contains the specifications for the 8-agent content creation and quality assurance pipeline for ExamFocus course materials.
+This directory contains the specifications for the 8-prompt content creation and quality assurance pipeline for ExamFocus course materials.
 
 ---
 
@@ -11,7 +11,7 @@ This directory contains the specifications for the 8-agent content creation and 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                         EXAMFOCUS CONTENT PIPELINE                          │
-│                              8-Agent Architecture                           │
+│                              8-Prompt Architecture                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 
                               ┌─────────────────┐
@@ -28,7 +28,7 @@ This directory contains the specifications for the 8-agent content creation and 
           │                            │                            │
           ▼                            ▼                            │
 ┌──────────────────┐        ┌──────────────────┐                    │
-│ AGENT 1          │        │ AGENT 2          │                    │
+│ PROMPT 1         │        │ PROMPT 2         │                    │
 │ Past Paper       │        │ Topic            │                    │
 │ Analyzer         │        │ Researcher       │                    │
 │                  │        │                  │                    │
@@ -45,7 +45,7 @@ This directory contains the specifications for the 8-agent content creation and 
                      │                                              │
                      ▼                                              │
           ┌──────────────────┐                                      │
-          │ AGENT 3          │                                      │
+          │ PROMPT 3         │                                      │
           │ Chapter          │◄─────────────────────────────────────┘
           │ Planner          │         Syllabus & Methodology
           │                  │
@@ -61,7 +61,7 @@ This directory contains the specifications for the 8-agent content creation and 
                    │
                    ▼
           ┌──────────────────┐
-          │ AGENT 4          │
+          │ PROMPT 4         │
           │ Chapter          │
           │ Drafter          │
           │                  │
@@ -83,7 +83,7 @@ This directory contains the specifications for the 8-agent content creation and 
                    │
                    ▼
           ┌──────────────────┐
-          │ AGENT 5a         │
+          │ PROMPT 5a        │
           │ Content          │
           │ Accuracy         │
           │                  │
@@ -98,7 +98,7 @@ This directory contains the specifications for the 8-agent content creation and 
                    │
                    ▼
           ┌──────────────────┐
-          │ AGENT 5b         │
+          │ PROMPT 5b        │
           │ Consistency      │
           │ & Flow           │
           │                  │
@@ -111,7 +111,7 @@ This directory contains the specifications for the 8-agent content creation and 
                    │
                    ▼
           ┌──────────────────┐
-          │ AGENT 5c         │
+          │ PROMPT 5c        │
           │ Structural       │
           │ Refinement       │
           │                  │
@@ -124,7 +124,7 @@ This directory contains the specifications for the 8-agent content creation and 
                    │
                    ▼
           ┌──────────────────┐
-          │ AGENT 5d         │
+          │ PROMPT 5d        │
           │ Discussion       │
           │ Enhancement      │
           │                  │
@@ -144,10 +144,10 @@ This directory contains the specifications for the 8-agent content creation and 
 
 ---
 
-## Agent Summary
+## Prompt Summary
 
-| Agent | Name | Model | Tools | Web Searches | Purpose |
-|-------|------|-------|-------|--------------|---------|
+| Prompt | Name | Model | Tools | Web Searches | Purpose |
+|--------|------|-------|-------|--------------|---------|
 | 1 | Past Paper Analyzer | Sonnet | Read, Glob, Grep | 0 | Extract exam intelligence from past papers |
 | 2 | Topic Researcher | Sonnet | WebSearch, WebFetch | 5-7 | Gather current authoritative information |
 | 3 | Chapter Planner | Opus | Read | 0 | Create detailed chapter plan per Exam Focus methodology |
@@ -161,8 +161,8 @@ This directory contains the specifications for the 8-agent content creation and 
 
 ## Cost & Performance Profile
 
-| Model | Agents Using | Characteristics |
-|-------|--------------|-----------------|
+| Model | Prompts Using | Characteristics |
+|-------|---------------|-----------------|
 | **Opus** | 3, 4, 5d | Highest quality - for strategic planning, quality writing |
 | **Sonnet** | 1, 2, 5a, 5b | Balanced - for analysis, research, verification |
 | **Haiku** | 5c | Fast & efficient - for simple pattern-based deletions |
@@ -174,21 +174,21 @@ This directory contains the specifications for the 8-agent content creation and 
 ```
 User Input: "Article 10 Dividends"
      │
-     ├──► Agent 1: Analyzes 8 past papers → Frequency 63%, 12-20 marks, 4 patterns
+     ├──► Prompt 1: Analyzes 8 past papers → Frequency 63%, 12-20 marks, 4 patterns
      │
-     ├──► Agent 2: 5-7 web searches → OECD position, UN differences, BEPS impact
+     ├──► Prompt 2: 5-7 web searches → OECD position, UN differences, BEPS impact
      │
-     └──► Agent 3: Creates detailed plan → 6 sections, 4 worked examples needed
+     └──► Prompt 3: Creates detailed plan → 6 sections, 4 worked examples needed
               │
-              └──► Agent 4: Writes ~4000 word chapter with all components
+              └──► Prompt 4: Writes ~4000 word chapter with all components
                         │
-                        └──► Agent 5a: 15-20 searches verify facts → 3 corrections
+                        └──► Prompt 5a: 15-20 searches verify facts → 3 corrections
                                   │
-                                  └──► Agent 5b: Standardizes terminology → 8 fixes
+                                  └──► Prompt 5b: Standardizes terminology → 8 fixes
                                             │
-                                            └──► Agent 5c: Removes scaffolding → 5 deletions
+                                            └──► Prompt 5c: Removes scaffolding → 5 deletions
                                                       │
-                                                      └──► Agent 5d: Adds discussion → 400 words
+                                                      └──► Prompt 5d: Adds discussion → 400 words
                                                                 │
                                                                 └──► FINAL: Publication-ready chapter
 ```
@@ -199,14 +199,14 @@ User Input: "Article 10 Dividends"
 
 | File | Description |
 |------|-------------|
-| `agent-1-past-paper-analyzer.md` | Past Paper Analyzer specification |
-| `agent-2-topic-researcher.md` | Topic Researcher specification |
-| `agent-3-chapter-planner.md` | Chapter Planner specification (Exam Focus embedded) |
-| `agent-4-chapter-drafter.md` | Chapter Drafter specification (Exam Focus embedded) |
-| `agent-5a-content-accuracy.md` | Content Accuracy Verifier specification |
-| `agent-5b-consistency-flow.md` | Consistency & Flow Checker specification |
-| `agent-5c-structural-refinement.md` | Structural Refinement specification |
-| `agent-5d-discussion-enhancement.md` | Discussion Enhancement specification |
+| `prompt-1-past-paper-analyzer.md` | Past Paper Analyzer specification |
+| `prompt-2-topic-researcher.md` | Topic Researcher specification |
+| `prompt-3-chapter-planner.md` | Chapter Planner specification (Exam Focus embedded) |
+| `prompt-4-chapter-drafter.md` | Chapter Drafter specification (Exam Focus embedded) |
+| `prompt-5a-content-accuracy.md` | Content Accuracy Verifier specification |
+| `prompt-5b-consistency-flow.md` | Consistency & Flow Checker specification |
+| `prompt-5c-structural-refinement.md` | Structural Refinement specification |
+| `prompt-5d-discussion-enhancement.md` | Discussion Enhancement specification |
 | `README.md` | This overview document |
 
 ---
@@ -215,38 +215,38 @@ User Input: "Article 10 Dividends"
 
 ### Running the Full Pipeline
 
-To create a new chapter, invoke agents in sequence:
+To create a new chapter, invoke prompts in sequence:
 
-1. **Agent 1** with topic name → Returns exam intelligence
-2. **Agent 2** with topic name + exam intelligence summary → Returns research
-3. **Agent 3** with exam intelligence + research → Returns chapter plan
-4. **Agent 4** with chapter plan + all context → Returns draft chapter
-5. **Agent 5a** with draft chapter → Returns accuracy-verified chapter
-6. **Agent 5b** with verified chapter → Returns consistency-checked chapter
-7. **Agent 5c** with checked chapter → Returns refined chapter
-8. **Agent 5d** with refined chapter → Returns publication-ready chapter
+1. **Prompt 1** with topic name → Returns exam intelligence
+2. **Prompt 2** with topic name + exam intelligence summary → Returns research
+3. **Prompt 3** with exam intelligence + research → Returns chapter plan
+4. **Prompt 4** with chapter plan + all context → Returns draft chapter
+5. **Prompt 5a** with draft chapter → Returns accuracy-verified chapter
+6. **Prompt 5b** with verified chapter → Returns consistency-checked chapter
+7. **Prompt 5c** with checked chapter → Returns refined chapter
+8. **Prompt 5d** with refined chapter → Returns publication-ready chapter
 
 ### Parallel Execution
 
-Agents 1 and 2 can run in parallel since they have no dependencies on each other.
+Prompts 1 and 2 can run in parallel since they have no dependencies on each other.
 
-All other agents must run sequentially as each depends on the previous output.
+All other prompts must run sequentially as each depends on the previous output.
 
 ---
 
 ## Embedded Methodologies
 
-The following documents have been embedded into agent prompts:
+The following documents have been embedded into prompts:
 
 | Document | Embedded In |
 |----------|-------------|
-| `What_is_Exam_Focus (1).md` | Agent 3 (Planner), Agent 4 (Drafter) |
-| `Content Accuracy.md` | Agent 5a |
-| `Content Consistency & Flow Check.md` | Agent 5b |
-| `Structural Refinement Prompt.md` | Agent 5c |
-| `discussion_enhancement (1).md` | Agent 5d |
+| `What_is_Exam_Focus (1).md` | Prompt 3 (Planner), Prompt 4 (Drafter) |
+| `Content Accuracy.md` | Prompt 5a |
+| `Content Consistency & Flow Check.md` | Prompt 5b |
+| `Structural Refinement Prompt.md` | Prompt 5c |
+| `discussion_enhancement (1).md` | Prompt 5d |
 
-Agents are self-contained and do not need to reference external documents at runtime.
+Prompts are self-contained and do not need to reference external documents at runtime.
 
 ---
 

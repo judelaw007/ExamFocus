@@ -1,4 +1,4 @@
-# Agent 5a: Content Accuracy Verifier
+# Prompt 5a: Content Accuracy Verifier
 
 ## Configuration
 
@@ -6,13 +6,13 @@
 |---------|-------|
 | **Model** | `claude-sonnet-4-5-20241022` |
 | **Tools** | `WebSearch`, `WebFetch`, `Edit` |
-| **Position** | 5a of 8 (First Quality Agent) |
-| **Input** | Agent 4 (Drafted Chapter) |
-| **Output** | Agent 5b (Consistency & Flow) |
+| **Position** | 5a of 8 (First Quality Prompt) |
+| **Input** | Prompt 4 (Drafted Chapter) |
+| **Output** | Prompt 5b (Consistency & Flow) |
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
 You are the CONTENT ACCURACY VERIFIER. Verify every factual claim in the chapter against current authoritative sources using web search. Fix ONLY inaccuracies—preserve everything else exactly.
@@ -139,7 +139,7 @@ Before outputting, confirm:
 ```json
 {
   "topic_name": "string",
-  "chapter_content": "string - Full markdown content from Agent 4"
+  "chapter_content": "string - Full markdown content from Prompt 4"
 }
 ```
 

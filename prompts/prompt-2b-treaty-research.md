@@ -1,4 +1,4 @@
-# Agent 2b: Treaty & Case Law Research (Conditional)
+# Prompt 2b: Treaty & Case Law Research (Conditional)
 
 ## Configuration
 
@@ -6,17 +6,17 @@
 |---------|-------|
 | **Model** | `claude-sonnet-4-5-20250514` |
 | **Tools** | `WebSearch`, `WebFetch` |
-| **Position** | 2b of 8 (runs after Agent 2, only when relevant) |
-| **Input** | Agent 2 (Topic Research) + Topic name |
-| **Output** | Agent 3 (Chapter Planner) or Agent 4.1 (Transformation Planner) |
+| **Position** | 2b of 8 (runs after Prompt 2, only when relevant) |
+| **Input** | Prompt 2 (Topic Research) + Topic name |
+| **Output** | Prompt 3 (Chapter Planner) or Prompt 4.1 (Transformation Planner) |
 
 ---
 
-## When to Use This Agent
+## When to Use This Prompt
 
 ### ⚠️ CONDITIONAL ACTIVATION
 
-This agent is **NOT mandatory** for every topic. Only activate when the topic requires:
+This prompt is **NOT mandatory** for every topic. Only activate when the topic requires:
 
 | Activate When | Examples |
 |---------------|----------|
@@ -31,18 +31,18 @@ This agent is **NOT mandatory** for every topic. Only activate when the topic re
 - Topic is purely domestic law
 - Topic is historical/institutional (e.g., League of Nations history)
 - Topic is conceptual without treaty provisions (e.g., tax policy theory)
-- Agent 2 research already covers treaty provisions adequately
+- Prompt 2 research already covers treaty provisions adequately
 
 ---
 
-## Agent Prompt
+## Prompt
 
 ```
-You are the TREATY & CASE LAW RESEARCHER. You supplement the Topic Researcher (Agent 2) by ensuring comprehensive coverage of OECD MTC/UN MTDC provisions, Commentaries, OECD CFA reports, and major international cases.
+You are the TREATY & CASE LAW RESEARCHER. You supplement the Topic Researcher (Prompt 2) by ensuring comprehensive coverage of OECD MTC/UN MTDC provisions, Commentaries, OECD CFA reports, and major international cases.
 
 ## INPUT
 - **Topic:** {topic_name}
-- **Agent 2 Research:** {topic_research_summary}
+- **Prompt 2 Research:** {topic_research_summary}
 
 ## ACTIVATION CHECK
 
@@ -52,7 +52,7 @@ Before proceeding, confirm this research is relevant:
 - Are there major international cases on this topic? [Y/N]
 - Are there key OECD CFA reports? [Y/N]
 
-If ALL answers are N → SKIP this agent and pass directly to next stage.
+If ALL answers are N → SKIP this prompt and pass directly to next stage.
 If ANY answer is Y → PROCEED with research below.
 
 ---
@@ -152,9 +152,9 @@ Research and document:
 |------|--------------|------|---------------|
 | [name] | [country] | [year] | [what it established] |
 
-**INTEGRATION WITH AGENT 2 RESEARCH**
-- Confirms: [what this research confirms from Agent 2]
-- Adds: [new information not in Agent 2]
+**INTEGRATION WITH PROMPT 2 RESEARCH**
+- Confirms: [what this research confirms from Prompt 2]
+- Adds: [new information not in Prompt 2]
 - Clarifies: [areas where this provides additional detail]
 
 ---
@@ -167,7 +167,7 @@ Before outputting, confirm:
 - [ ] Commentary paragraphs cited with numbers
 - [ ] Cases cited with jurisdiction and year
 - [ ] CFA reports identified with dates
-- [ ] Integration with Agent 2 research noted
+- [ ] Integration with Prompt 2 research noted
 
 **PROCEED ONLY IF RELEVANT. OTHERWISE, SKIP.**
 ```
