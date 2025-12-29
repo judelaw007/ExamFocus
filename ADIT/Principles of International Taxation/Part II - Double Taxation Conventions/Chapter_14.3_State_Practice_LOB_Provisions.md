@@ -32,7 +32,7 @@ US treaties typically include additional features absent from OECD Model-based t
 
 ### 2.3. US-Chile Treaty 2024
 
-The US-Chile income tax treaty, concluded in 2024, represents the first new US treaty in over fifteen years. The treaty confirms continued US adherence to detailed LOB provisions rather than PPT adoption. Article 22 of the treaty contains comprehensive limitation on benefits provisions following the US Model framework. The treaty entered into force for withholding taxes on payments made from February 2024.
+The US-Chile income tax treaty, concluded in 2024, represents the first new comprehensive US treaty in over ten years. The treaty confirms continued US adherence to detailed LOB provisions rather than PPT adoption. Article 22 of the treaty contains comprehensive limitation on benefits provisions following the US Model framework. The treaty entered into force for withholding taxes on payments made from February 2024.
 
 The treaty demonstrates that US treaty policy remains unchanged despite global adoption of the PPT through the MLI. The extended gap between new US treaties reflects both the resource-intensive nature of bilateral negotiations and the practical reality that most potential treaty partners have already concluded agreements with the United States. Treaty updates increasingly occur through protocol amendments rather than full treaty renegotiations.
 
@@ -102,7 +102,7 @@ Approximately twenty-seven jurisdictions opted into mandatory binding arbitratio
 
 ### 6.2. Sixth Peer Review Report
 
-The Sixth Peer Review Report on Treaty Shopping, published November 2025, confirmed that over 1,120 agreements between Inclusive Framework members now comply with the minimum anti-abuse standard. This represents a thirty percent increase in compliant agreements between 2022 and 2023 alone. Approximately 630 additional agreements will become compliant once all signatories complete ratification procedures.
+The Sixth Peer Review Report on Treaty Shopping, published March 2024, confirmed that over 1,120 agreements between Inclusive Framework members now comply with the minimum anti-abuse standard. This represents a thirty percent increase in compliant agreements between 2022 and 2023 alone. Approximately 630 additional agreements will become compliant once all signatories complete ratification procedures.
 
 The peer review methodology shifted in 2024 to comprehensive reviews every five years rather than annual assessments. Twelve jurisdictions received recommendations to complete MLI entry into force procedures, while four jurisdictions received recommendations to develop implementation plans for minimum standards. The OECD Secretariat provides interim support to jurisdictions during the extended review cycle.
 
