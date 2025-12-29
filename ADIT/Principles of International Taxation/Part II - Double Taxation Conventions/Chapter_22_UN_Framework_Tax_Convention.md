@@ -12,7 +12,7 @@ These concerns catalyzed calls for a fundamental restructuring of international 
 
 #### 1.2. The FACTI Panel Recommendations
 
-The High Level Panel on International Financial Accountability, Transparency and Integrity for Achieving the 2030 Agenda (FACTI Panel) provided intellectual foundation for the framework convention initiative. Established in 2020 by the President of the UN General Assembly and the President of ECOSOC, the Panel examined how financial accountability, transparency, and integrity could support achievement of the Sustainable Development Goals.
+The High Level Panel on International Financial Accountability, Transparency and Integrity for Achieving the 2030 Agenda (FACTI Panel) provided intellectual foundation for the framework convention initiative. Established in 2020 by the President of the UN General Assembly and the President of the Economic and Social Council (ECOSOC), the Panel examined how financial accountability, transparency, and integrity could support achievement of the Sustainable Development Goals.
 
 The FACTI Panel's February 2021 final report included a recommendation for negotiation of a UN Tax Convention as a key element of reformed global financial governance. The Panel recognized that existing international tax arrangements inadequately addressed developing country revenue needs and that inclusive governance structures were necessary for legitimate global tax cooperation.
 
