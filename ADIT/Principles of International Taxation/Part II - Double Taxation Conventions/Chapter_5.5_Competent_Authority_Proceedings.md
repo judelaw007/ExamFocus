@@ -120,7 +120,7 @@ Adoption remains partial. Major jurisdictions including the United Kingdom, Cana
 
 Two arbitration approaches operate under Part VI. The default "final offer" approach—sometimes called baseball arbitration—requires each competent authority to submit a proposed resolution, with the arbitration panel choosing one or the other without modification. This approach encourages reasonable positions by creating risk that extreme positions will be rejected in favour of the opposing proposal.
 
-The alternative independent opinion approach permits arbitration panels to determine the appropriate resolution without being bound to either competent authority's position. Countries may choose this approach through reservation. The Netherlands applies final offer arbitration generally but has agreed to independent opinion arbitration with specific partners including Japan and Malta.
+The alternative independent opinion approach permits arbitration panels to determine the appropriate resolution without being bound to either competent authority's position. Countries may choose this approach through reservation. Australia applies final offer arbitration generally but has agreed to independent opinion arbitration with specific partners including Japan and Malta.
 
 For interpretation disputes, arbitration provides ultimate resolution where competent authorities cannot agree. The arbitration decision binds both competent authorities, conclusively determining the interpretation or application issue. This binding character distinguishes arbitration from the "endeavour" obligation in Article 25(3)—arbitration produces definitive outcome regardless of competent authority preferences.
 
