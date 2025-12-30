@@ -30,7 +30,7 @@ The same-country exception under IRC 954(c)(3) excludes dividend and interest in
 
 #### 3.1. The PHC Penalty Tax
 
-Distinct from the foreign rules, US domestic law imposes a separate penalty tax on personal holding companies through IRC Sections 541-547. This twenty percent tax applies to undistributed personal holding company income of corporations meeting both an ownership test and an income test. Unlike Subpart F, which attributes income to shareholders, the PHC tax imposes an additional corporate-level tax designed to force distribution of passive income.
+Distinct from the foreign rules, US domestic law imposes a separate penalty tax on personal holding companies (PHCs) through IRC Sections 541-547. This twenty percent tax applies to undistributed personal holding company income of corporations meeting both an ownership test and an income test. Unlike Subpart F, which attributes income to shareholders, the PHC tax imposes an additional corporate-level tax designed to force distribution of passive income.
 
 A corporation meets the ownership test if five or fewer individuals own more than fifty percent of the stock value at any time during the last half of the tax year. The income test is satisfied when sixty percent or more of the corporation's adjusted ordinary gross income consists of personal holding company income—dividends, interest, royalties, rents (subject to adjustments), and certain personal service contract income.
 
