@@ -4,9 +4,9 @@
 
 International taxation of indirect taxes operates on fundamentally different principles than income taxation. While income taxes apply primarily to residents on worldwide income or to non-residents on source income, consumption taxes focus on where goods and services are ultimately consumed. This distinction creates separate frameworks for preventing double taxation and ensuring trade neutrality.
 
-Consumption taxes—including value added tax, goods and services tax, sales taxes, and excise duties—raise substantial revenue globally. Approximately one hundred and seventy-five countries operate VAT or GST systems, representing ninety percent of United Nations member states. Within OECD countries, VAT accounts for 20.8 percent of total tax revenue, making consumption taxes the third largest revenue source after social security contributions and personal income tax.
+Consumption taxes—including value added tax, goods and services tax, sales taxes, and excise duties—raise substantial revenue globally. Approximately one hundred and seventy-five countries operate VAT or GST systems, representing ninety percent of United Nations member states. Within Organisation for Economic Co-operation and Development (OECD) countries, VAT accounts for 20.5 percent of total tax revenue, making consumption taxes the third largest revenue source after social security contributions and personal income tax.
 
-The challenge for international indirect taxation lies in determining which jurisdiction has taxing rights over cross-border transactions. Two competing principles address this question: the origin principle and the destination principle. Understanding these principles and their practical application forms the foundation for analysing international VAT and GST issues.
+The challenge for international indirect taxation lies in determining which jurisdiction has taxing rights over cross-border transactions. Two competing principles address this question: the origin principle and the destination principle.
 
 ## 2. The Origin Principle
 
@@ -76,11 +76,11 @@ Simplified registration and compliance regimes form a key recommendation. Recogn
 
 ### 5.2. European Union VAT Framework
 
-The European Union operates the most developed implementation of destination-based consumption taxation for digital and cross-border services. The One-Stop Shop system, introduced in 2015 for digital services and expanded in 2021, permits suppliers to register in a single EU member state and report VAT due across all twenty-seven member states through a unified return.
+The European Union operates the most developed implementation of destination-based consumption taxation for digital and cross-border services. The One-Stop Shop system, introduced in 2015 for digital services and expanded in 2021, permits suppliers to register in a single European Union member state and report VAT due across all twenty-seven member states through a unified return.
 
-The system has achieved significant scale. In 2024, the three One-Stop Shop schemes collectively processed over thirty-three billion euros in VAT declarations, representing a twenty-seven percent increase from the previous year. Over one hundred and seventy thousand traders participate across the Union, Non-Union, and Import schemes.
+The system has achieved significant scale. In 2024, the three One-Stop Shop schemes collectively processed over thirty-three billion euros in VAT declarations, representing a 27 percent increase from the previous year. Over one hundred and seventy thousand traders participate across the Union, Non-Union, and Import schemes.
 
-The VAT in the Digital Age package, adopted by the Council of the European Union on 11 March 2025, represents the most significant reform of EU VAT in decades. Implementation proceeds in phases: expanded One-Stop Shop coverage from January 2027, single VAT registration enabling one registration for all EU business-to-consumer supplies from July 2028, and mandatory digital reporting for business-to-business transactions from July 2030.
+The VAT in the Digital Age package, adopted by the Council of the European Union on 11 March 2025, represents the most significant reform of European Union VAT in decades. Implementation proceeds in phases: expanded One-Stop Shop coverage from January 2027, single VAT registration enabling one registration for all European Union business-to-consumer supplies from July 2028, and mandatory digital reporting for business-to-business transactions from July 2030.
 
 ## 6. Practical Considerations and Emerging Developments
 
@@ -91,5 +91,3 @@ The practical question of identifying consumer location—essential for determin
 Enforcement mechanisms continue to evolve. Several jurisdictions have implemented or proposed automatic registration powers, permitting tax authorities to register non-compliant sellers without application. Payment provider reporting obligations, effective in the European Union from January 2024, enable authorities to identify cross-border transaction flows and detect unregistered suppliers.
 
 The destination principle also intersects with border tax adjustment rules under international trade law, where questions arise about whether consumption tax adjustments at borders comply with World Trade Organization obligations (covered in June 2024). The General Agreement on Tariffs and Trade permits border tax adjustments for indirect taxes but not for direct taxes—a distinction that reflects the fundamental difference between origin and destination-based taxation and continues to generate analytical and policy debate.
-
-Understanding the origin and destination principles provides foundation for analysing specific issues in international indirect taxation, including the treatment of digital services, platform economy transactions, and the interaction between consumption taxes and international trade agreements.
