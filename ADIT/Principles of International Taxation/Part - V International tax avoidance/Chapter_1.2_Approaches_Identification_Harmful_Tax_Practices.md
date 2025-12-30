@@ -70,7 +70,7 @@ For preferential regimes covering non-IP mobile activities—including headquart
 
 The requirement operates through a two-step approach. First, jurisdictions must require that core income generating activities be undertaken by the qualifying taxpayer. For regimes outside the European Union, an alternative is that activities be undertaken within the jurisdiction providing benefits, though the taxpayer-based test is preferred. Second, jurisdictions must establish effective mechanisms to review compliance with these requirements.
 
-Core income generating activities vary by sector. For headquarters operations, activities include strategic decision-making and management oversight. For financing, they include managing funding requirements and capital, and bearing and managing financing risks. For holding companies, they include investment decisions and portfolio management. For each type of mobile activity, the FHTP has identified the specific functions that must be performed.
+Core income generating activities vary by sector. For headquarters operations, activities include strategic decision-making and management oversight. For financing, they include managing funding requirements and capital, and bearing and managing financing risks. For holding companies, they include investment decisions and portfolio management. For each type of mobile activity, the Forum on Harmful Tax Practices (FHTP) has identified the specific functions that must be performed.
 
 Compliance is assessed by examining whether an adequate number of full-time employees with appropriate qualifications work in the jurisdiction, whether adequate operating expenditure is incurred, and whether the entity has its own premises for conducting activities. Outsourcing arrangements are permitted only where the entity retains control and management of outsourced functions.
 
@@ -118,7 +118,7 @@ This mechanism ensures that the nexus approach focuses benefits on taxpayers wit
 
 Effective exchange of information is essential to countering harmful tax practices. Without access to relevant taxpayer information, residence countries cannot verify compliance or detect artificial structures designed to shift profits to preferential regimes.
 
-The exchange of information standard has evolved from the on-request model of bilateral tax information exchange agreements to more comprehensive frameworks. Automatic exchange of financial account information under the Common Reporting Standard provides residence countries with data about their taxpayers' offshore accounts. Country-by-country reporting under BEPS Action 13 provides high-level information about multinational enterprises' global allocation of income and taxes.
+The exchange of information standard has evolved from the on-request model of bilateral tax information exchange agreements to more comprehensive frameworks. Automatic exchange of financial account information under the Common Reporting Standard (CRS) provides residence countries with data about their taxpayers' offshore accounts. Country-by-country reporting under BEPS Action 13 provides high-level information about multinational enterprises' global allocation of income and taxes.
 
 For harmful tax practices specifically, jurisdictions must not have laws or practices that impede effective exchange. Bank secrecy provisions that prevent sharing information with treaty partners, nominee arrangements that obscure beneficial ownership, and administrative practices that delay or obstruct information requests all indicate potential harmfulness.
 
