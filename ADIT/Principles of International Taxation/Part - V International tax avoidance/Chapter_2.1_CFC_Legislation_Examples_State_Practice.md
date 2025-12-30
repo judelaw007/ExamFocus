@@ -66,7 +66,7 @@ These exemptions reflect a policy choice to limit the CFC regime's application t
 
 #### 5.1. Hinzurechnungsbesteuerung
 
-Germany's CFC rules date to 1974 and are contained in the Foreign Tax Act (Außensteuergesetz). The rules apply where German residents directly or indirectly hold more than fifty percent of a foreign company's capital or voting rights at fiscal year end. Unlike jurisdictions that focus on passive income, Germany's regime potentially applies to all income of low-taxed foreign entities.
+Germany's CFC rules date to 1972 and are contained in the Foreign Tax Act (Außensteuergesetz). The rules apply where German residents directly or indirectly hold more than fifty percent of a foreign company's capital or voting rights at fiscal year end. Unlike jurisdictions that focus on passive income, Germany's regime potentially applies to all income of low-taxed foreign entities.
 
 A foreign company is considered low-taxed where it is subject to an effective tax rate below fifteen percent—a threshold reduced from twenty-five percent by the Minimum Tax Directive Implementation Act to align with Pillar Two. Passive income of such entities is attributed to German shareholders and taxed in Germany, with credit available for foreign taxes paid.
 
@@ -94,6 +94,6 @@ Income-based aggregation applies to CFCs not caught by entity-based rules but ea
 
 ### 8. EU ATAD Framework
 
-The Anti-Tax Avoidance Directive of 2016 required all EU Member States to implement CFC rules by January 2019. The Directive offers two models: Model A applies entity-based aggregation where the CFC pays less than half the tax it would pay domestically and derives primarily passive income; Model B applies a transactional approach targeting specific categories of non-genuine arrangements lacking economic substance.
+The Anti-Tax Avoidance Directive (ATAD) of 2016 required all EU Member States to implement CFC rules by January 2019. The Directive offers two models: Model A applies entity-based aggregation where the CFC pays less than half the tax it would pay domestically and derives primarily passive income; Model B applies a transactional approach targeting specific categories of non-genuine arrangements lacking economic substance.
 
 Member States have implemented these requirements with considerable variation. The Netherlands applies Model A to CFCs in low-taxed jurisdictions or those on the EU non-cooperative jurisdiction list. Belgium shifted from Model B to Model A from 2024, applying an entity approach that taxes non-distributed profits where the CFC is subject to an effective rate below fifteen percent. Italy applies Model B with a passive income test, while Poland has developed a hybrid model with different definitions and computation rules depending on circumstances (covered in June 2025).
