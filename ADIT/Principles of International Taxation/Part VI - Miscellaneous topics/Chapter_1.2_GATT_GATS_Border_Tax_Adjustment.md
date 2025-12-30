@@ -4,7 +4,7 @@
 
 The destination principle for indirect taxes, examined in Chapter 1.1, relies on border tax adjustments to achieve trade neutrality. Exports leave the origin country free of consumption tax, while imports bear the destination country's tax on the same basis as domestic production. This mechanism depends on international trade law permitting such adjustments at borders without constituting prohibited trade barriers.
 
-The World Trade Organization framework, built upon the General Agreement on Tariffs and Trade (GATT) and the General Agreement on Trade in Services (GATS), establishes the legal boundaries for border tax adjustments. Understanding these rules explains why the destination principle operates successfully for value added taxes and goods and services taxes, while similar adjustments for income taxes remain impermissible. The distinction between adjustable and non-adjustable taxes carries significant implications for tax policy design and international competitiveness.
+The World Trade Organization (WTO) framework, built upon the General Agreement on Tariffs and Trade (GATT) and the General Agreement on Trade in Services (GATS), establishes the legal boundaries for border tax adjustments. Understanding these rules explains why the destination principle operates successfully for value added taxes and goods and services taxes, while similar adjustments for income taxes remain impermissible. The distinction between adjustable and non-adjustable taxes carries significant implications for tax policy design and international competitiveness.
 
 ## 2. GATT Framework for Border Tax Adjustments
 
@@ -62,7 +62,7 @@ Countries have increasingly imposed digital services taxes targeting revenue fro
 
 ### 5.1. United States – Foreign Sales Corporation
 
-The Foreign Sales Corporation dispute remains the most significant WTO case addressing the intersection of tax policy and trade law. The European Communities challenged United States tax provisions that permitted American exporters to shelter a portion of export income from federal taxation through specially structured foreign sales corporations.
+The Foreign Sales Corporation (FSC) dispute remains the most significant WTO case addressing the intersection of tax policy and trade law. The European Communities challenged United States tax provisions that permitted American exporters to shelter a portion of export income from federal taxation through specially structured foreign sales corporations.
 
 The WTO panel found in March 2000 that the FSC provisions constituted prohibited export subsidies under the Agreement on Subsidies and Countervailing Measures. The Appellate Body affirmed this finding, concluding that the tax benefit provided to exporters but not to domestic sellers represented a subsidy contingent on export performance.
 
@@ -82,7 +82,7 @@ The case demonstrated that WTO disciplines constrain not only explicit discrimin
 
 ### 6.1. Carbon Border Adjustment Mechanisms
 
-The European Union Carbon Border Adjustment Mechanism represents the most significant contemporary test of border tax adjustment principles. The mechanism requires importers of specified carbon-intensive products to purchase certificates reflecting the carbon emissions embedded in production, equalising the carbon cost borne by domestic producers under the EU Emissions Trading System.
+The European Union (EU) Carbon Border Adjustment Mechanism (CBAM) represents the most significant contemporary test of border tax adjustment principles. The mechanism requires importers of specified carbon-intensive products to purchase certificates reflecting the carbon emissions embedded in production, equalising the carbon cost borne by domestic producers under the EU Emissions Trading System.
 
 The transitional phase began on 1 October 2023, with importers required to report embedded emissions without financial payment. The definitive regime commences on 1 January 2026, when importers must surrender certificates priced according to EU carbon allowance values. Products covered include cement, iron and steel, aluminium, fertilisers, electricity, and hydrogen.
 
@@ -96,4 +96,4 @@ Digital services taxes targeting revenue from specified digital activities have 
 
 The United States Trade Representative conducted Section 301 investigations finding that several digital services tax regimes discriminate against American companies. Investigations concluded in June 2021 identified measures in Austria, India, Italy, Spain, Turkey, and the United Kingdom as actionable. President Trump renewed investigation authority in February 2025, directing consideration of retaliatory tariffs against countries maintaining these taxes.
 
-The WTO compatibility of digital services taxes remains formally untested, as no dispute has proceeded to panel decision. The dysfunctional state of WTO dispute settlement—the Appellate Body has been non-operational since December 2019 after the United States blocked appointments—means that definitive resolution through litigation appears unlikely in the near term. Countries continue to navigate this uncertainty through bilateral negotiations rather than multilateral adjudication (covered in December 2024).
+The WTO compatibility of digital services taxes remains formally untested, as no dispute has proceeded to panel decision. The dysfunctional state of WTO dispute settlement—the Appellate Body has been non-operational since December 2019 after the United States blocked appointments—means that definitive resolution through litigation appears unlikely in the near term. Countries continue to navigate this uncertainty through bilateral negotiations rather than multilateral adjudication.
