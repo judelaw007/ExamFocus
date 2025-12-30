@@ -24,7 +24,7 @@ In response to these challenges, the FHTP effectively shifted focus from substan
 
 #### 2.1. The BEPS Project and Action 5
 
-The G20/OECD Base Erosion and Profit Shifting Project, launched in 2013 and completed in 2015, reinvigorated the harmful tax practices agenda with renewed emphasis on substance. BEPS Action 5 on countering harmful tax practices more effectively became one of the four BEPS minimum standards that all participating jurisdictions committed to implement and that would be subject to peer review.
+The G20/OECD Base Erosion and Profit Shifting (BEPS) Project, launched in 2013 and completed in 2015, reinvigorated the harmful tax practices agenda with renewed emphasis on substance. BEPS Action 5 on countering harmful tax practices more effectively became one of the four BEPS minimum standards that all participating jurisdictions committed to implement and that would be subject to peer review.
 
 Critically, Action 5 restored the substance requirement that had been abandoned in the early 2000s. The international community recognised that transparency alone was insufficient to address profit shifting to jurisdictions without genuine economic activity. The Action 5 Final Report reiterated the underlying concerns of the 1998 report while defining two priorities: further effort on transparency through compulsory spontaneous exchange of information on rulings related to preferential regimes, and requiring substantial activities for all preferential tax regimes to reduce incentives for investment without economic substance (covered in December 2023).
 
@@ -54,7 +54,7 @@ Harmful tax competition through preferential regimes can occur when jurisdiction
 
 The second workstream involves the compulsory spontaneous exchange of relevant information on taxpayer-specific rulings which, in the absence of such exchange, could give rise to BEPS concerns. This transparency framework addresses the risk that secret or opaque rulings could facilitate harmful tax practices.
 
-The framework covers six categories of rulings: rulings relating to preferential regimes; unilateral advance pricing agreements or other cross-border unilateral rulings on transfer pricing; cross-border rulings providing for downward adjustment of taxable profits; permanent establishment rulings; related party conduit rulings; and any other type of ruling the FHTP deems relevant.
+The framework covers six categories of rulings: rulings relating to preferential regimes; unilateral advance pricing agreements (APAs) or other cross-border unilateral rulings on transfer pricing; cross-border rulings providing for downward adjustment of taxable profits; permanent establishment rulings; related party conduit rulings; and any other type of ruling the FHTP deems relevant.
 
 As at December 2024, over 28,500 tax rulings in scope of the transparency framework had been issued by reviewed jurisdictions cumulatively since 2010. Over 2,300 new rulings were issued in 2024 alone. More than 64,000 exchanges of information have taken place under the framework, with approximately 5,500 exchanges in 2024. This substantial volume of exchanges provides tax administrations with timely information about rulings that could affect their own tax bases.
 
