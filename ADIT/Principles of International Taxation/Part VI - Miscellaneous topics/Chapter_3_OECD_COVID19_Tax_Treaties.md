@@ -16,7 +16,7 @@ Both documents emphasised the exceptional and temporary nature of pandemic-relat
 
 ### 3.1. Fixed Place of Business
 
-The Secretariat concluded that temporary home working should not create a permanent establishment under Article 5 of the OECD Model Tax Convention. Home offices lack the "at disposal" requirement because employers have no access to or control over employees' homes. The arrangements resulted from government measures outside employer control, and employers continued providing offices that would normally be available. The temporary and exceptional nature of the situation meant home working lacked the permanence and continuity required for permanent establishment status.
+The Secretariat concluded that temporary home working should not create a permanent establishment under Article 5 of the OECD Model Tax Convention (OECD MTC). Home offices lack the "at disposal" requirement because employers have no access to or control over employees' homes. The arrangements resulted from government measures outside employer control, and employers continued providing offices that would normally be available. The temporary and exceptional nature of the situation meant home working lacked the permanence and continuity required for permanent establishment status.
 
 ### 3.2. Agency Permanent Establishment
 
@@ -24,7 +24,7 @@ Similar reasoning applied to dependent agent permanent establishments. The Secre
 
 ### 3.3. Construction Sites
 
-The guidance addressed construction site permanent establishments where projects exceeded time thresholds due to pandemic-related delays. The Secretariat recommended excluding periods when operations were prevented by public health measures from the duration calculation. This interpretation proved controversial, as standard practice includes temporary interruptions such as weather delays within the time threshold. Not all tax authorities accepted this approach, creating uncertainty for affected projects.
+The guidance addressed construction site permanent establishments where projects exceeded time thresholds due to pandemic-related delays. The initial April 2020 guidance indicated that COVID-19 delays should be included in duration calculations, consistent with standard practice for temporary interruptions such as weather delays. However, the updated January 2021 guidance reversed this position, recommending that periods when operations were prevented by public health measures should be excluded from the calculation. This reversal proved controversial, and not all tax authorities accepted this approach, creating uncertainty for affected projects.
 
 ## 4. Corporate Residence
 
@@ -48,12 +48,12 @@ The Secretariat recommended that days when employees were prevented from travell
 
 Implementation varied across jurisdictions. Countries with severe lockdown policies introduced more comprehensive tax relief measures addressing pandemic-specific circumstances. Countries with less restrictive containment measures introduced fewer COVID-specific provisions.
 
-The OECD Tax Policy Reforms 2021 report documented measures across seventy jurisdictions, covering all OECD and G20 countries plus twenty-one additional Inclusive Framework members. Some jurisdictions adopted approaches differing from OECD recommendations, particularly regarding construction site calculations and the 183-day employment income threshold.
+The OECD Tax Policy Reforms 2021 report documented measures across seventy jurisdictions, covering all OECD and Group of Twenty (G20) countries plus twenty-one additional OECD/G20 Inclusive Framework on BEPS members. Some jurisdictions adopted approaches differing from OECD recommendations, particularly regarding construction site calculations and the 183-day employment income threshold.
 
 ## 8. Post-Pandemic Developments
 
 The COVID-19 guidance applied specifically to the pandemic period and was explicitly time-limited. As remote working became permanent for many employees, the temporary pandemic framework proved insufficient for ongoing situations.
 
-The OECD published a comprehensive update to the Model Tax Convention on 18 November 2025, providing permanent guidance on cross-border remote work. The 2025 framework introduces a 50 percent threshold: a location constitutes a fixed place of business if an employee works there more than 50 percent of the time over a rolling twelve-month period. The update also introduces a commercial reason test, requiring genuine business connection to a location rather than mere employee convenience or cost savings.
+The OECD published a comprehensive update to the OECD MTC on 18 November 2025, providing permanent guidance on cross-border remote work. The 2025 framework introduces a 50 percent threshold: a location constitutes a fixed place of business if an employee works there more than 50 percent of the time over a rolling twelve-month period. The update also introduces a commercial reason test, requiring genuine business connection to a location rather than mere employee convenience or cost savings.
 
 The COVID-19 guidance remains relevant for understanding the 2020-2021 period but practitioners should apply the 2025 framework for ongoing remote work arrangements.
