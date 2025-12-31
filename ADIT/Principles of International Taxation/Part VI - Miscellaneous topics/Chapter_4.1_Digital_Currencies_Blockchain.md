@@ -4,7 +4,7 @@
 
 Digital currencies and blockchain technology present novel challenges for international taxation. Cryptocurrencies operate across borders without central authorities, making traditional concepts of source, residence, and income characterisation difficult to apply. The decentralised nature of blockchain networks means that mining, trading, and validation activities may occur simultaneously in multiple jurisdictions, creating potential for both double taxation and double non-taxation.
 
-Tax authorities worldwide have developed approaches to these challenges, though significant variation exists in how different jurisdictions classify and tax digital assets. The international community has responded through the Organisation for Economic Co-operation and Development (OECD) Crypto-Asset Reporting Framework, establishing automatic exchange of information for cryptocurrency transactions.
+Tax authorities worldwide have developed approaches to these challenges, though significant variation exists in how different jurisdictions classify and tax digital assets. The international community has responded through the Organisation for Economic Co-operation and Development (OECD) Crypto-Asset Reporting Framework (CARF), establishing automatic exchange of information for cryptocurrency transactions.
 
 ## 2. Tax Classification of Digital Assets
 
@@ -14,13 +14,13 @@ The fundamental question in cryptocurrency taxation concerns whether digital ass
 
 The United States Internal Revenue Service (IRS) established in Notice 2014-21 that virtual currencies constitute property for federal tax purposes, not currency. This classification means that disposals trigger capital gains or losses, with short-term rates of 10 to 37 percent for assets held one year or less and long-term rates of 0 to 20 percent for assets held longer. The property classification applies even where foreign jurisdictions treat Bitcoin as legal tender, as confirmed by Notice 2023-34. This position reflects the IRS view that cryptocurrencies lack the stability and widespread acceptance necessary for currency treatment.
 
-The United Kingdom Her Majesty's Revenue and Customs (HMRC) similarly treats cryptocurrencies as property rather than currency. Capital gains tax applies at rates of 18 to 24 percent following the October 2024 rate increase. The annual exemption reduced to three thousand pounds for the 2024-2025 tax year, significantly lower than the six thousand pound exemption available in the prior year. Share pooling rules apply for calculating cost basis, with same-day and thirty-day bed-and-breakfasting rules preventing artificial loss realisation through repurchase of disposed assets.
+The United Kingdom His Majesty's Revenue and Customs (HMRC) similarly treats cryptocurrencies as property rather than currency. Capital gains tax applies at rates of 18 to 24 percent following the October 2024 rate increase. The annual exemption reduced to three thousand pounds for the 2024-2025 tax year, significantly lower than the six thousand pound exemption available in the prior year. Share pooling rules apply for calculating cost basis, with same-day and thirty-day bed-and-breakfasting rules preventing artificial loss realisation through repurchase of disposed assets.
 
 Germany classifies cryptocurrencies as private money, subjecting them to private sales transaction taxation. Notably, disposals become tax-free after a holding period exceeding one year, creating significant incentives for long-term holding. This approach recognises the speculative nature of cryptocurrency investment while encouraging stability in holding patterns.
 
 Canada treats cryptocurrency as a commodity under the Income Tax Act, applying a 50 percent capital gains inclusion rate. The Canada Revenue Agency distinguishes between casual investors and business traders, with the latter subject to full income taxation on trading profits.
 
-The European Union Markets in Crypto-Assets Regulation, which entered into force in June 2023, regulates market conduct for crypto-asset service providers. Rules on stablecoins applied from 30 June 2024, with full authorisation requirements for crypto-asset service providers effective from 30 December 2024. However, this regulation addresses market conduct rather than tax treatment, which remains within Member State competence. The grandfathering period for pre-existing entities extends until 1 July 2026.
+The European Union Markets in Crypto-Assets (MiCA) Regulation, which entered into force in June 2023, regulates market conduct for crypto-asset service providers. Rules on stablecoins applied from 30 June 2024, with full authorisation requirements for crypto-asset service providers effective from 30 December 2024. However, this regulation addresses market conduct rather than tax treatment, which remains within Member State competence. The grandfathering period for pre-existing entities extends until 1 July 2026.
 
 ## 3. Taxable Events and Income Categories
 
@@ -50,7 +50,7 @@ Notice 2023-27 addressed taxation of non-fungible tokens, determining that certa
 
 Decentralised finance transactions lack specific regulatory guidance in most jurisdictions. General principles suggest that token swaps constitute taxable exchanges, liquidity provision may trigger recognition when depositing tokens, and yield farming rewards receive treatment similar to staking income.
 
-The December 2024 final regulations under Section 6045 of the Internal Revenue Code extended broker reporting requirements to decentralised finance platforms, effective from January 2027. However, the Senate voted 70 to 28 in March 2025 to repeal these regulations, citing the impracticality of imposing reporting obligations on decentralised protocols without custodial control over user assets.
+The December 2024 final regulations under Section 6045 of the Internal Revenue Code extended broker reporting requirements to decentralised finance platforms. However, the Senate voted 70 to 27 in March 2025 to repeal these regulations, with the House following by 292 to 132, citing the impracticality of imposing reporting obligations on decentralised protocols without custodial control over user assets. President Trump signed the repeal into law in April 2025.
 
 ## 4. International Tax Dimensions
 
@@ -76,11 +76,11 @@ Article 13 of the OECD Model Tax Convention governing capital gains typically al
 
 The Crypto-Asset Reporting Framework establishes automatic exchange of information for cryptocurrency transactions, modelled on the Common Reporting Standard for financial accounts. The framework requires crypto-asset service providers to collect tax residence information and identification numbers from users, report transaction details and account balances to domestic tax authorities, and facilitate international information exchange.
 
-The OECD published XML schemas and transmission guidance in October 2024, with first exchanges scheduled for 2027 covering the 2026 reporting year. Fifty jurisdictions had formally committed to 2027 exchanges as of November 2025, including all Group of Seven members.
+The OECD published XML schemas and transmission guidance in October 2024, with first exchanges scheduled for 2027 covering the 2026 reporting year. Seventy-five jurisdictions had formally committed to 2027 exchanges as of November 2025, including all Group of Seven members.
 
 ### 5.1. European Union Implementation
 
-The European Union implemented the framework through the eighth amendment to the Directive on Administrative Cooperation, adopted in October 2023. Member States must transpose the directive by 31 December 2025, with data collection beginning 1 January 2026 and first reporting occurring between January and September 2027. Reporting entities include brokers, exchanges, wallet providers, and certain decentralised finance platforms.
+The European Union implemented the framework through the eighth amendment to the Directive on Administrative Cooperation (DAC8), adopted in October 2023. Member States must transpose the directive by 31 December 2025, with data collection beginning 1 January 2026 and first reporting occurring between January and September 2027. Reporting entities include brokers, exchanges, wallet providers, and certain decentralised finance platforms.
 
 ### 5.2. United States Implementation
 
