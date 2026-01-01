@@ -42,7 +42,7 @@ The master file must also include the group's consolidated financial statements 
 
 #### 3.1. Local Entity Information
 
-The local file provides detailed information about the specific taxpayer entity and its intercompany transactions. It begins with a description of the local entity's management structure, organizational chart, individuals to whom local management reports, and countries where such individuals maintain their principal offices. This information helps establish the functional profile and decision-making location for the local entity.
+The local file provides detailed information about the specific taxpayer entity and its intercompany transactions. It begins with a description of the local entity's management structure, organisational chart, individuals to whom local management reports, and countries where such individuals maintain their principal offices. This information helps establish the functional profile and decision-making location for the local entity.
 
 The business strategy section describes any business strategies pursued by the local entity affecting transfer pricing outcomes, including business restructurings that transferred functions, assets, or risks to or from the local entity. Understanding strategic context is essential for evaluating whether transfer pricing arrangements reflect the entity's actual contributions to group value creation.
 
@@ -58,7 +58,7 @@ Financial information supporting the transfer pricing analysis must include rele
 
 #### 4.1. Filing Threshold and Scope
 
-Country-by-country reporting applies to multinational enterprise groups with annual consolidated group revenue equal to or exceeding EUR 750 million in the fiscal year immediately preceding the reporting fiscal year. This threshold captures approximately 85-90 percent of multinational corporate revenues while excluding smaller groups where compliance costs would be disproportionate to information benefits.
+Country-by-country reporting applies to multinational enterprise groups with annual consolidated group revenue equal to or exceeding EUR 750 million in the fiscal year immediately preceding the reporting fiscal year. The threshold reflects a deliberate policy choice balancing comprehensive coverage against compliance burden. Setting the threshold too low would impose significant costs on smaller enterprises with limited capacity to engage in sophisticated profit shifting, while setting it too high would exclude major multinationals whose global operations present the greatest transfer pricing risks. The EUR 750 million level captures approximately 85-90 percent of multinational corporate revenues while excluding smaller groups where compliance costs would be disproportionate to information benefits.
 
 The report must be filed within twelve months of the last day of the reporting fiscal year. Unlike master file and local file requirements that may be requested upon audit, country-by-country reports are filed proactively and exchanged automatically between tax administrations, ensuring all relevant jurisdictions receive the information simultaneously.
 
@@ -98,7 +98,7 @@ Local filing increases compliance burden for multinational groups since multiple
 
 #### 5.4. Exchange of Information Framework
 
-The Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports provides the primary framework for automatic exchange. Jurisdictions signing the MCAA commit to exchanging reports with all other signatories, subject to meeting confidentiality and data protection standards. As of 2025, over 100 jurisdictions have joined the MCAA, establishing more than 4,900 bilateral exchange relationships for country-by-country reports.
+The Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports provides the primary framework for automatic exchange. Jurisdictions signing the MCAA commit to exchanging reports with all other signatories, subject to meeting confidentiality and data protection standards. As of 2025, over 100 jurisdictions have joined the MCAA, establishing more than 4,450 bilateral exchange relationships for country-by-country reports.
 
 The exchange framework operates on the basis of strict reciprocity. A jurisdiction only receives reports from other jurisdictions if it has itself implemented country-by-country reporting and exchanges its own reports. This mutual commitment ensures comprehensive global coverage and prevents jurisdictions from benefiting from others' information without contributing their own.
 
@@ -108,7 +108,7 @@ Bilateral exchange agreements may also facilitate country-by-country report exch
 
 #### 6.1. Confidentiality Requirements
 
-Country-by-country reports contain commercially sensitive information, and the exchange framework includes robust confidentiality protections. Receiving jurisdictions must protect exchanged information to the same standards as information obtained under the Multilateral Convention on Mutual Administrative Assistance in Tax Matters or applicable bilateral tax treaties. Unauthorized disclosure or use constitutes a breach potentially triggering suspension of exchange relationships.
+Country-by-country reports contain commercially sensitive information, and the exchange framework includes robust confidentiality protections. Business groups raised significant concerns during Action 13 development that aggregated financial data by jurisdiction could reveal competitive strategies, profit margins, and operational decisions to competitors if disclosed publicly or leaked. These concerns shaped the framework's emphasis on strict confidentiality as a precondition for exchange. Receiving jurisdictions must protect exchanged information to the same standards as information obtained under the Multilateral Convention on Mutual Administrative Assistance in Tax Matters or applicable bilateral tax treaties. Unauthorized disclosure or use constitutes a breach potentially triggering suspension of exchange relationships.
 
 The confidentiality requirements extend to all aspects of the data, including treatment as tax return information subject to domestic confidentiality protections. Jurisdictions must have appropriate legal frameworks, information security measures, and oversight mechanisms before participating in exchange. The Inclusive Framework monitors compliance through peer review assessments.
 
