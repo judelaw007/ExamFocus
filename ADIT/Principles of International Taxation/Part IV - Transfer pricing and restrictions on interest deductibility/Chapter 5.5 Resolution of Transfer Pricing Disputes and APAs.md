@@ -8,7 +8,7 @@ The Mutual Agreement Procedure represents the primary treaty-based mechanism for
 
 #### 1.1. Article 25 Framework
 
-Article 25 paragraph 1 permits taxpayers to present cases to the competent authority of either contracting state where actions of one or both states result in taxation not in accordance with the treaty. The taxpayer must present the case within three years from the first notification of the action giving rise to taxation not in accordance with the treaty. This time limitation ensures that disputes are raised while relevant information and documentation remain accessible.
+Article 25 paragraph 1 permits taxpayers to present cases to the competent authority of either contracting state where actions of one or both states result in taxation not in accordance with the treaty. The taxpayer must present the case within three years from the first notification of the action giving rise to taxation not in accordance with the treaty. This time limitation reflects a balance between providing taxpayers adequate opportunity to assess disputed positions and ensuring competent authorities address disputes while relevant information remains accessible. The three-year period generally aligns with typical domestic statute of limitations provisions, facilitating coordination between MAP proceedings and domestic administrative processes.
 
 Paragraph 2 obligates the competent authority receiving the case to endeavour to resolve the matter by mutual agreement with the competent authority of the other contracting state if it considers the taxpayer's objection justified but cannot itself arrive at a satisfactory solution. The bilateral nature of this process ensures both jurisdictions participate in determining appropriate profit allocation, promoting fairness and consistency with treaty obligations.
 
@@ -94,9 +94,9 @@ Twenty-one specific elements and twelve best practices elaborate the minimum sta
 
 The Inclusive Framework on BEPS conducts peer reviews assessing each jurisdiction's compliance with the Action 14 minimum standard. Reviews evaluate both the legal and regulatory framework for MAP and the practical implementation of that framework based on statistical data and taxpayer input.
 
-Initial peer reviews covering all Inclusive Framework members concluded in 2023, with ongoing monitoring continuing on a four-year cycle. Jurisdictions found non-compliant receive recommendations specifying required changes, with follow-up reviews assessing implementation. The peer review process creates accountability through transparency, as published reports identify specific deficiencies for each jurisdiction.
+Initial peer reviews covering eighty-two Inclusive Framework members concluded in 2022, with ongoing monitoring continuing on a four-year cycle under a revised methodology agreed in December 2022. Jurisdictions found non-compliant receive recommendations specifying required changes, with follow-up reviews assessing implementation. The peer review process creates accountability through transparency, as published reports identify specific deficiencies for each jurisdiction.
 
-Simplified peer reviews became available from 2024 for jurisdictions with limited MAP experience, recognizing that full peer review imposes disproportionate burden where few or no MAP cases exist. This tiered approach ensures appropriate scrutiny while respecting capacity differences across Inclusive Framework members.
+Simplified peer reviews became available from 2023 for jurisdictions with limited MAP experience, recognizing that full peer review imposes disproportionate burden where few or no MAP cases exist. This tiered approach ensures appropriate scrutiny while respecting capacity differences across Inclusive Framework members.
 
 ### 5. Correlative Adjustments
 
