@@ -46,6 +46,8 @@ The Transfer Pricing Guidelines methodologies apply to permanent establishment d
 
 This application by analogy reflects the economic equivalence between permanent establishment structures and subsidiary structures. An enterprise conducting foreign operations through a subsidiary would engage in priced transactions with that subsidiary; the permanent establishment analysis constructs equivalent pricing for the internal dealings that substitute for such transactions. The goal is ensuring equivalent tax treatment regardless of structural choice.
 
+The alignment between permanent establishment and associated enterprise methodologies serves important policy objectives. Prior to the Authorized OECD Approach, enterprises could achieve different tax outcomes by choosing branch structures over subsidiary structures, even where the underlying economic activities were identical. By ensuring both structures produce equivalent profit attribution, the Approach removes tax considerations from structural decisions, allowing commercial factors to determine organizational form.
+
 ### 3. Internal Dealings
 
 The concept of dealings represents a central innovation of the Authorized OECD Approach. Since permanent establishments and their head offices constitute single legal entities, no legally binding transactions occur between them. The dealing concept constructs hypothetical transactions representing the transfer of functions, assets, or risks between different parts of the enterprise.
