@@ -118,7 +118,7 @@ The complexity of BEPS Action 4 implementation has prompted calls for simplifica
 
 #### 5.3. Coordination and Dispute Resolution
 
-Where interest limitation rules in one jurisdiction deny deductions while the corresponding interest income is taxable in another jurisdiction, economic double taxation results. The mutual agreement procedure under Article 25 provides a mechanism for addressing such situations, though resolution is neither automatic nor guaranteed.
+Where interest limitation rules in one jurisdiction deny deductions while the corresponding interest income is taxable in another jurisdiction, economic double taxation results. Unlike transfer pricing disputes where both countries agree on the arm's length principle, interest limitation disputes involve one country applying a unilateral cap that the other country may not recognise as appropriate. The mutual agreement procedure under Article 25 provides a mechanism for addressing such situations, though resolution is neither automatic nor guaranteed because countries may legitimately disagree on appropriate leverage levels.
 
 Advance pricing agreements may reduce uncertainty for taxpayers by confirming that proposed financing arrangements will be accepted by relevant tax administrations. Bilateral and multilateral APAs can address both transfer pricing questions regarding interest rates and the application of interest limitation rules, though the complexity and time required for these agreements may limit their practical availability.
 
