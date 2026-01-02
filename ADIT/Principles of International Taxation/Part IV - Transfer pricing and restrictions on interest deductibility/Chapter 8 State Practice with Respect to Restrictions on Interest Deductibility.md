@@ -60,7 +60,7 @@ Where an entity exceeds the fixed ratio because its multinational group is legit
 
 The group ratio equals the consolidated group's net interest expense on third-party debt divided by consolidated group EBITDA. If the group ratio exceeds the fixed ratio—indicating that the group's overall leverage reflects commercial rather than tax-driven considerations—entities within the group may use the higher ratio for deductibility purposes.
 
-This mechanism protects genuinely leveraged groups from adverse consequences while maintaining restrictions on artificial intragroup financing designed to shift profits. The requirement that the group ratio calculation includes only third-party debt prevents manipulation through intercompany arrangements.
+This mechanism protects genuinely leveraged groups from adverse consequences while maintaining restrictions on artificial intragroup financing designed to shift profits. The policy rationale recognises that some industries—such as infrastructure, utilities, and real estate—legitimately operate with higher leverage reflecting their stable cash flows and asset-backed financing rather than tax-motivated structuring. The requirement that the group ratio calculation includes only third-party debt prevents manipulation through intercompany arrangements.
 
 #### 3.3. De Minimis Thresholds
 
