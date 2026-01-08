@@ -30,7 +30,7 @@ The Convention provides for six principal forms of administrative assistance, ma
 
 The Convention establishes three mechanisms for information exchange. Exchange on request, governed by Article 5, enables a tax authority to request specific information about particular taxpayers or transactions from another jurisdiction. This mirrors the approach in Article 26 of the OECD Model Tax Convention and requires that information be "foreseeably relevant" to tax administration—a standard that permits broad cooperation while preventing speculative requests.
 
-Automatic exchange, provided for in Article 6, involves the systematic transmission of predetermined categories of information without individual requests. This form of exchange requires the competent authorities to conclude specific agreements defining its scope and procedures. The Convention serves as the primary legal basis for the Common Reporting Standard, under which over 110 jurisdictions automatically exchange financial account information annually.
+Automatic exchange, provided for in Article 6, involves the systematic transmission of predetermined categories of information without individual requests. This form of exchange requires the competent authorities to conclude specific agreements defining its scope and procedures. The Convention serves as the primary legal basis for the Common Reporting Standard, under which over 100 jurisdictions automatically exchange financial account information annually.
 
 Spontaneous exchange under Article 7 occurs when a tax authority, in the course of its activities, obtains information that it considers would be of interest to another jurisdiction and transmits it without being asked. *(covered in June 2024)*
 
@@ -42,11 +42,13 @@ The Convention establishes important conditions and limitations. The tax claim m
 
 #### 3.3. Service of Documents
 
-Article 17 enables tax authorities to request the service of documents, including those relating to judicial decisions, on persons located in another jurisdiction. This facilitates the effective notification of taxpayers concerning their tax obligations and ensures that enforcement proceedings can proceed with proper notice having been given.
+Article 17 enables tax authorities to request the service of documents, including those relating to judicial decisions, on persons located in another jurisdiction. This addresses a practical challenge: domestic procedural requirements typically mandate formal notification before enforcement actions can proceed, yet serving documents abroad presents significant obstacles. The Convention establishes a framework through which states can assist each other in serving documents, ensuring that enforcement proceedings satisfy due process requirements while overcoming jurisdictional barriers.
 
 ### 4. Safeguards and Limitations
 
 #### 4.1. Confidentiality Requirements
+
+The success of any international information exchange regime depends fundamentally on the assurance that shared information will be properly protected. Without robust confidentiality guarantees, states would be reluctant to provide sensitive taxpayer data, and the entire system of administrative cooperation would be undermined.
 
 Article 22 imposes strict confidentiality obligations. Any information obtained under the Convention must be treated as secret and protected in the same manner as information obtained under the domestic law of the receiving state. Disclosure is permitted only to persons or authorities directly involved in tax assessment, collection, enforcement, prosecution, or appeals. Information may not be used for purposes other than those specified in the Convention without the supplying state's consent.
 
@@ -58,7 +60,7 @@ The Convention recognises fundamental principles protecting taxpayer rights. Sta
 
 #### 5.1. Relationship with Bilateral Treaties
 
-The Convention complements rather than replaces the network of over 3,500 bilateral tax treaties. Many bilateral treaties contain exchange of information provisions based on Article 26 of the OECD Model, and some include assistance in collection provisions based on Article 27. The Convention provides an additional legal basis for cooperation and often offers broader forms of assistance than bilateral agreements, particularly regarding automatic exchange and assistance in collection.
+The Convention complements rather than replaces the network of over 3,500 bilateral tax treaties. Many bilateral treaties contain exchange of information provisions based on Article 26 of the OECD Model Tax Convention, and some include assistance in collection provisions based on Article 27. The Convention provides an additional legal basis for cooperation and often offers broader forms of assistance than bilateral agreements, particularly regarding automatic exchange and assistance in collection.
 
 #### 5.2. Multilateral Competent Authority Agreements
 
