@@ -12,6 +12,8 @@ The European Union operates the most developed regional framework for tax admini
 
 #### 2.1. Scope and Evolution
 
+The evolution of the DAC reflects the EU's recognition that tax transparency requirements must adapt to keep pace with new economic activities and business models. As digital platforms, crypto-assets, and new corporate structures emerged, each posed distinct risks of tax base erosion that existing provisions could not adequately address.
+
 The DAC establishes mandatory automatic exchange of information among EU tax authorities across multiple categories. The framework has been successively amended to address new areas: DAC7, which became operational in 2024, requires digital platform operators to report information about sellers using their platforms; DAC8, applying from 1 January 2026, extends reporting obligations to crypto-asset service providers; and DAC9, adopted in 2025, facilitates information exchange for the implementation of the global minimum corporate tax under Pillar Two.
 
 #### 2.2. Key Features
@@ -22,13 +24,13 @@ The DAC provides for all forms of administrative assistance available under the 
 
 #### 3.1. ATAF and the Agreement on Mutual Assistance
 
-The African Tax Administration Forum (ATAF), established in 2012, serves as the principal platform for tax cooperation among African jurisdictions. ATAF currently comprises 40 member administrations from across all five African sub-regions and focuses on building institutional capacity, promoting peer learning, and advancing African perspectives in global tax debates.
+The African Tax Administration Forum (ATAF), established in 2009, serves as the principal platform for tax cooperation among African jurisdictions. ATAF currently comprises 40 member administrations from across all five African sub-regions and focuses on building institutional capacity, promoting peer learning, and advancing African perspectives in global tax debates.
 
 Central to ATAF's cooperation framework is the Agreement on Mutual Assistance in Tax Matters (AMATM), which entered into force in October 2012 and now has 36 member states as parties. The AMATM provides a legal basis for exchange of taxpayer information, joint audits, and assistance in recovering tax debts held abroad. The agreement aligns with international best practices while being specifically designed for the African context. Through various cooperation mechanisms, ATAF members have collectively recovered over $1.8 billion in tax revenue.
 
 #### 3.2. Sub-Regional Initiatives
 
-Within Africa, sub-regional bodies provide additional cooperation mechanisms. The West African Tax Administration Forum (WATAF) focuses on tax administration improvement within the ECOWAS region, working in partnership with ATAF to deliver capacity building and technical assistance tailored to West African needs.
+Within Africa, sub-regional bodies provide additional cooperation mechanisms. The West African Tax Administration Forum (WATAF) focuses on tax administration improvement within the Economic Community of West African States (ECOWAS) region, working in partnership with ATAF to deliver capacity building and technical assistance tailored to West African needs.
 
 ### 4. Other Regional Arrangements
 
@@ -39,6 +41,8 @@ The Inter-American Center of Tax Administrations (CIAT), founded in 1967, is the
 More recently, the Regional Tax Cooperation Platform for Latin America and the Caribbean (PTLAC), established in 2024, brings together 16 countries to strengthen international tax cooperation across the region. In its first year, participating countries identified EUR 585 million in additional tax revenues through enhanced transparency measures.
 
 #### 4.2. Asia-Pacific: SGATAR and PITAA
+
+The Asia-Pacific region presents particular challenges for tax cooperation given its diversity of economic development levels, legal traditions, and administrative capacities. Regional forums in this area have therefore emphasised knowledge sharing and capacity building alongside more formal cooperation mechanisms.
 
 The Study Group on Asia-Pacific Tax Administration and Research (SGATAR), operating since 1970, provides an annual forum for senior tax administrators from 18 member jurisdictions across the Asia-Pacific region. SGATAR facilitates cooperation, knowledge sharing, and capacity building among its members, which include major economies such as Australia, China, Japan, and Korea, as well as developing jurisdictions.
 
