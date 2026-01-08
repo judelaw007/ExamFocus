@@ -8,7 +8,7 @@ Base erosion and profit shifting (BEPS) refers to tax planning strategies that e
 
 #### 2.1. The G20 Mandate
 
-Concerns about aggressive tax planning by multinational enterprises reached the highest levels of political attention in 2012, when G20 leaders meeting in Mexico called upon the OECD to address the issue. Public controversies surrounding the tax affairs of major technology and consumer companies had highlighted how existing international tax rules, developed in an era of predominantly physical business activities, were struggling to address modern business structures and digital commerce.
+Concerns about aggressive tax planning by multinational enterprises reached the highest levels of political attention in 2012, when G20 leaders meeting in Mexico called upon the OECD to address the issue. Public controversies surrounding the tax affairs of major technology and consumer companies had highlighted how existing international tax rules, developed in an era of predominantly physical business activities, were struggling to address modern business structures and digital commerce. These high-profile cases demonstrated how multinational enterprises could structure their affairs to pay minimal taxes despite substantial economic presence in major markets.
 
 #### 2.2. Timeline and Milestones
 
@@ -18,7 +18,7 @@ The OECD responded with unprecedented speed. In February 2013, it published an i
 
 #### 3.1. The Three Pillars
 
-The BEPS Project is organised around three fundamental objectives. The first pillar, coherence, addresses the need for domestic tax rules to work together across borders without creating opportunities for double non-taxation. The second pillar, substance, seeks to ensure that taxing rights align with economic activity and value creation. The third pillar, transparency, aims to provide tax authorities with better information while giving businesses greater certainty about their tax obligations.
+The BEPS Project is organised around three fundamental objectives, each addressing a distinct dimension of the problem. Traditional international tax rules had evolved piecemeal, with individual countries designing systems to tax their own residents and attract inward investment, often without considering how these rules would interact across borders. The first pillar, coherence, addresses this fragmentation by ensuring domestic tax rules work together across borders without creating opportunities for double non-taxation. The second pillar, substance, seeks to ensure that taxing rights align with economic activity and value creation. The third pillar, transparency, aims to provide tax authorities with better information while giving businesses greater certainty about their tax obligations.
 
 #### 3.2. Types of BEPS Measures
 
@@ -26,7 +26,9 @@ The 15 Actions produced different types of outputs. Four actions constitute mini
 
 ### 4. The 15 BEPS Actions
 
-The BEPS Action Plan addresses tax challenges across multiple dimensions of international taxation. Action 1 examined the tax challenges of the digital economy, identifying issues that would later be addressed through the separate Pillar One and Pillar Two initiatives. Actions 2 through 4 focus on coherence: Action 2 addresses hybrid mismatch arrangements that achieve double non-taxation through differences in entity or instrument characterisation; Action 3 provides recommendations for strengthening controlled foreign company rules; and Action 4 addresses excessive interest deductions used for base erosion.
+The BEPS Action Plan addresses tax challenges across multiple dimensions of international taxation. The selection of these fifteen actions reflected empirical analysis of the most significant profit shifting techniques and the structural weaknesses in international tax rules that enabled them. Each action targets a specific vulnerability that multinational enterprises had exploited to achieve low effective tax rates.
+
+Action 1 examined the tax challenges of the digital economy, identifying issues that would later be addressed through the separate Pillar One and Pillar Two initiatives. Actions 2 through 4 focus on coherence: Action 2 addresses hybrid mismatch arrangements that achieve double non-taxation through differences in entity or instrument characterisation; Action 3 provides recommendations for strengthening controlled foreign company rules; and Action 4 addresses excessive interest deductions used for base erosion.
 
 Actions 5 through 10 address substance requirements. Action 5 counters harmful tax practices through enhanced transparency and substance requirements for preferential regimes. Action 6 prevents treaty abuse, particularly treaty shopping. Action 7 addresses artificial avoidance of permanent establishment status. Actions 8, 9, and 10 together revise transfer pricing rules to ensure profits from intangibles, risks, capital, and other high-risk transactions align with value creation.
 
@@ -42,6 +44,6 @@ These four areas were designated minimum standards because inconsistent implemen
 
 ### 6. The Inclusive Framework and Implementation
 
-The OECD/G20 Inclusive Framework on BEPS, established in June 2016, provides a structure through which countries and jurisdictions beyond the original OECD and G20 membership can participate in the ongoing work. As of 2025, more than 145 jurisdictions have joined the Inclusive Framework, working on an equal footing to develop and implement BEPS measures.
+The success of the BEPS Project depends fundamentally on broad participation. If only a subset of countries implemented BEPS measures, profit shifting would simply relocate to non-participating jurisdictions, undermining the entire initiative. Recognising this reality, the OECD/G20 Inclusive Framework on BEPS was established in June 2016 to provide a structure through which countries and jurisdictions beyond the original OECD and G20 membership can participate in the ongoing work. As of 2025, more than 145 jurisdictions have joined the Inclusive Framework, working on an equal footing to develop and implement BEPS measures.
 
 Implementation has proceeded substantially since 2015. Over 115 jurisdictions have introduced country-by-country reporting legislation, with more than 3,300 bilateral exchange relationships established for sharing these reports. The Multilateral Instrument has been signed by 104 jurisdictions and has modified approximately 1,400 bilateral tax treaties to incorporate BEPS measures. The BEPS Project has also informed subsequent work on tax challenges arising from digitalisation, addressed through the Two-Pillar Solution agreed in October 2021.
