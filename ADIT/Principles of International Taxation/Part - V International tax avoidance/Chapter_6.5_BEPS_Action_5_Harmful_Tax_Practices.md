@@ -42,7 +42,7 @@ A regime may be classified as harmful, potentially harmful but not actually harm
 
 #### 4.1. Intellectual Property Regimes
 
-Intellectual property regimes, commonly known as patent boxes or innovation boxes, have received particular scrutiny under Action 5. These regimes provide reduced tax rates on income derived from intellectual property, intended to encourage research and development activities within the jurisdiction. However, without appropriate safeguards, IP regimes can facilitate profit shifting by allowing income from IP developed elsewhere to benefit from preferential rates.
+Intellectual property regimes, commonly known as patent boxes or innovation boxes, have received particular scrutiny under Action 5. These regimes provide reduced tax rates on income derived from intellectual property (IP), intended to encourage research and development (R&D) activities within the jurisdiction. However, without appropriate safeguards, IP regimes can facilitate profit shifting by allowing income from IP developed elsewhere to benefit from preferential rates.
 
 The concern with IP regimes is that taxpayers could develop intellectual property through research activities in one jurisdiction, transfer the resulting IP to an entity in a jurisdiction offering preferential rates for IP income, and thereby shift profits from the jurisdiction where development actually occurred. This arrangement provides tax benefits without corresponding economic substance in the jurisdiction granting the preference.
 
