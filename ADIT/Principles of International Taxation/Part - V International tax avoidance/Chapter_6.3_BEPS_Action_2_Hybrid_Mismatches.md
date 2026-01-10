@@ -48,6 +48,8 @@ The ordering of rules matters because it determines which jurisdiction bears the
 
 ### 4. Categories of Hybrid Mismatch Arrangements
 
+The BEPS Action 2 recommendations address several distinct categories of hybrid arrangement, each exploiting different types of cross-border characterisation differences. Understanding these categories is essential because the specific rules and their application vary depending on the source of the mismatch, and because different jurisdictions have implemented rules addressing different categories with varying scope and timing.
+
 #### 4.1. Hybrid Financial Instruments
 
 Hybrid financial instruments possess characteristics of both debt and equity, leading different jurisdictions to classify them differently for tax purposes. An instrument might provide for returns that vary with profitability while also creating an obligation of repayment, causing one jurisdiction to treat it as equity and another as debt.
@@ -70,7 +72,7 @@ Reverse hybrid mismatches arise from the opposite situation: an entity treated a
 
 The 2015 recommendations initially addressed reverse hybrids through the standard linking rules, but the Inclusive Framework subsequently developed additional recommendations treating reverse hybrids as residents of the establishment jurisdiction where certain conditions are met. This requires the establishment jurisdiction to tax income that would otherwise escape taxation due to the mismatch.
 
-The EU Anti-Tax Avoidance Directive implemented specific reverse hybrid rules effective from January 2022, requiring Member States to treat reverse hybrid entities as resident for tax purposes where the mismatch would otherwise result in double non-taxation.
+The EU Anti-Tax Avoidance Directive (ATAD) implemented specific reverse hybrid rules effective from January 2022, requiring Member States to treat reverse hybrid entities as resident for tax purposes where the mismatch would otherwise result in double non-taxation.
 
 #### 4.4. Branch Mismatch Arrangements
 
