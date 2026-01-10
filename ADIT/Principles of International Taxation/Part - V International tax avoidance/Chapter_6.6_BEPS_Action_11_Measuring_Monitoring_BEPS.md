@@ -80,7 +80,7 @@ The 2025 edition expanded coverage to 104 jurisdictions for effective tax rate d
 
 #### 4.3. Supplementary Data Sources
 
-Action 11 analysis draws on additional data sources to complement CbCR and tax authority statistics. FDI statistics from UNCTAD and national central banks inform Indicator 1 calculations. Microdata from commercial databases such as Bureau van Dijk's Orbis provides firm-level financial information for enterprise-level indicators. Intellectual property registrations and royalty flow data from WIPO and balance of payments statistics support Indicator 5 analysis.
+Action 11 analysis draws on additional data sources to complement CbCR and tax authority statistics. FDI statistics from the United Nations Conference on Trade and Development (UNCTAD) and national central banks inform Indicator 1 calculations. Microdata from commercial databases such as Bureau van Dijk's Orbis provides firm-level financial information for enterprise-level indicators. Intellectual property registrations and royalty flow data from the World Intellectual Property Organization (WIPO) and balance of payments statistics support Indicator 5 analysis.
 
 The multi-source approach reflects both the complexity of BEPS and the limitations of any single dataset. By triangulating across different data sources and methodological approaches, Action 11 seeks to provide more robust conclusions than would be possible from any individual source.
 
@@ -100,7 +100,7 @@ The aggregate nature of Action 11 data means it cannot evaluate individual trans
 
 #### 5.3. Evaluating Interest Limitation Rules
 
-Action 4 recommends rules limiting interest deductions, typically to 10-30 percent of EBITDA. Action 11's Indicator 6 tracks interest expense patterns across jurisdictions, providing evidence of whether these rules are reducing base erosion through excessive debt financing.
+Action 4 recommends rules limiting interest deductions, typically to 10-30 percent of earnings before interest, tax, depreciation and amortisation (EBITDA). Action 11's Indicator 6 tracks interest expense patterns across jurisdictions, providing evidence of whether these rules are reducing base erosion through excessive debt financing.
 
 The 2025 Corporate Tax Statistics reports that 106 jurisdictions have implemented interest limitation rules, a substantial increase from 67 in 2019. Action 11 monitoring assesses whether this widespread implementation is translating into reduced interest-based profit shifting at the aggregate level.
 
@@ -166,7 +166,7 @@ The aggregate findings from Action 11 are nonetheless valuable for developing co
 
 ### 10. Future Developments
 
-The scope of Action 11 monitoring continues to evolve in response to changes in the international tax landscape. The implementation of Pillar Two's global minimum tax creates new data sources through GloBE information returns that will supplement existing CbCR data. This expansion will enable more comprehensive tracking of effective tax rates and may provide clearer evidence of whether the 15 percent minimum rate is reducing incentives for profit shifting.
+The scope of Action 11 monitoring continues to evolve in response to changes in the international tax landscape. The implementation of Pillar Two's global minimum tax creates new data sources through Global Anti-Base Erosion (GloBE) information returns that will supplement existing CbCR data. This expansion will enable more comprehensive tracking of effective tax rates and may provide clearer evidence of whether the 15 percent minimum rate is reducing incentives for profit shifting.
 
 Parallel developments at the United Nations, including work toward a Framework Convention on International Tax Cooperation, may expand the institutional infrastructure for tax data collection beyond the OECD. These developments could enhance the comprehensiveness and legitimacy of global tax monitoring, particularly for developing countries that seek greater voice in international tax governance.
 
