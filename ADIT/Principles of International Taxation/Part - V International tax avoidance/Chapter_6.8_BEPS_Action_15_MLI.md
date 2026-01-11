@@ -14,7 +14,7 @@ The MLI entered into force on 1 July 2018, following ratification by the require
 
 The international tax system developed over a century through bilateral negotiations between pairs of countries. Each double taxation convention (DTC) represents a negotiated compromise reflecting the specific economic relationships, bargaining positions, and policy priorities of the two contracting states. This bilateral approach produced a network of treaties that, while sharing common elements derived from model conventions, contain significant variations in their specific provisions.
 
-The bilateral model presented increasing challenges as globalisation accelerated. Multinational enterprises operating across dozens of jurisdictions could exploit inconsistencies between treaties, and addressing emerging issues required coordinating modifications across hundreds of separate agreements. The time and resources required for comprehensive bilateral renegotiation made responsive policy implementation impractical.
+The bilateral model presented increasing challenges as globalisation accelerated. Multinational enterprises (MNEs) operating across dozens of jurisdictions could exploit inconsistencies between treaties, and addressing emerging issues required coordinating modifications across hundreds of separate agreements. The time and resources required for comprehensive bilateral renegotiation made responsive policy implementation impractical.
 
 #### 2.2. The Multilateral Solution
 
@@ -72,7 +72,7 @@ The arbitration provisions were controversial during MLI negotiations, with some
 
 #### 3.7. Part VII: Final Provisions
 
-Part VII addresses signature, ratification, entry into force, and administrative matters. Notably, Article 35 specifies that the MLI enters into force on the first day of the month following three months after the deposit of the fifth instrument of ratification. For each subsequent jurisdiction, entry into force occurs on the first day of the month following three months after its ratification.
+Part VII addresses signature, ratification, entry into force, and administrative matters. Notably, Article 34 specifies that the MLI enters into force on the first day of the month following three months after the deposit of the fifth instrument of ratification. For each subsequent jurisdiction, entry into force occurs on the first day of the month following three months after its ratification.
 
 ### 4. Core Mechanisms
 
